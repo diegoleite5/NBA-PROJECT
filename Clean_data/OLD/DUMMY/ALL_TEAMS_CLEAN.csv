@@ -1,0 +1,1604 @@
+,TEAM_3_LETTERS,SEASON,LEAGUE,Team,W,L,W/L%,FINISH,SRS,PACE,REL_PACE,ORtg,REL_ORTG,DRTG,REL_DRTG,PLAYOFFS
+0,ATL,2021-22,NBA,Atlanta Hawks*,43,39,0.524,2nd of 5,1.55,97.7,-0.5,116.5,4.5,114.9,2.9,Lost E. Conf. 1st Rnd.
+1,ATL,2020-21,NBA,Atlanta Hawks*,41,31,0.569,1st of 5,2.14,97.6,-1.6,115.7,3.4,113.3,1.0,Lost E. Conf. Finals
+2,ATL,2019-20,NBA,Atlanta Hawks,20,47,0.299,5th of 5,-7.71,103.0,2.7,107.2,-3.4,114.8,4.2,False
+3,ATL,2018-19,NBA,Atlanta Hawks,29,53,0.354,5th of 5,-6.06,103.9,3.9,108.1,-2.3,113.9,3.5,False
+4,ATL,2017-18,NBA,Atlanta Hawks,24,58,0.293,5th of 5,-5.3,98.3,1.0,105.0,-3.6,110.6,2.0,False
+5,ATL,2016-17,NBA,Atlanta Hawks*,43,39,0.524,2nd of 5,-1.23,97.4,1.0,104.9,-3.9,105.7,-3.1,Lost E. Conf. 1st Rnd.
+6,ATL,2015-16,NBA,Atlanta Hawks*,48,34,0.585,2nd of 5,3.49,97.1,1.3,105.1,-1.3,101.4,-5.0,Lost E. Conf. Semis
+7,ATL,2014-15,NBA,Atlanta Hawks*,60,22,0.732,1st of 5,4.75,93.9,0.0,108.9,3.3,103.1,-2.5,Lost E. Conf. Finals
+8,ATL,2013-14,NBA,Atlanta Hawks*,38,44,0.463,4th of 5,-0.88,94.6,0.7,105.9,-0.8,106.4,-0.3,Lost E. Conf. 1st Rnd.
+9,ATL,2012-13,NBA,Atlanta Hawks*,44,38,0.537,2nd of 5,-0.08,92.6,0.6,104.8,-1.1,104.4,-1.5,Lost E. Conf. 1st Rnd.
+10,ATL,2011-12,NBA,Atlanta Hawks*,40,26,0.606,2nd of 5,2.67,90.2,-1.1,104.9,0.3,101.2,-3.4,Lost E. Conf. 1st Rnd.
+11,ATL,2010-11,NBA,Atlanta Hawks*,44,38,0.537,3rd of 5,-1.1,89.3,-2.8,106.1,-1.2,107.0,-0.3,Lost E. Conf. Semis
+12,ATL,2009-10,NBA,Atlanta Hawks*,53,29,0.646,2nd of 5,4.44,90.1,-2.6,111.9,4.3,106.7,-0.9,Lost E. Conf. Semis
+13,ATL,2008-09,NBA,Atlanta Hawks*,47,35,0.573,2nd of 5,1.7,89.6,-2.1,109.3,1.0,107.6,-0.7,Lost E. Conf. Semis
+14,ATL,2007-08,NBA,Atlanta Hawks*,37,45,0.451,3rd of 5,-2.23,91.1,-1.3,106.9,-0.6,108.9,1.4,Lost E. Conf. 1st Rnd.
+15,ATL,2006-07,NBA,Atlanta Hawks,30,52,0.366,5th of 5,-4.86,90.0,-1.9,103.0,-3.5,108.3,1.8,False
+16,ATL,2005-06,NBA,Atlanta Hawks,26,56,0.317,5th of 5,-4.69,90.4,-0.1,106.4,0.2,111.6,5.4,False
+17,ATL,2004-05,NBA,Atlanta Hawks,13,69,0.159,5th of 5,-9.62,91.4,0.5,100.6,-5.5,111.1,5.0,False
+18,ATL,2003-04,NBA,Atlanta Hawks,28,54,0.341,7th of 8,-5.0,90.8,0.7,101.0,-1.9,106.1,3.2,False
+19,ATL,2002-03,NBA,Atlanta Hawks,35,47,0.427,5th of 8,-3.87,91.0,0.0,102.3,-1.3,106.1,2.5,False
+20,ATL,2001-02,NBA,Atlanta Hawks,33,49,0.402,6th of 8,-4.41,91.9,1.2,101.8,-2.7,106.4,1.9,False
+21,ATL,2000-01,NBA,Atlanta Hawks,25,57,0.305,7th of 8,-5.55,91.9,0.6,98.7,-4.3,104.3,1.3,False
+22,ATL,1999-00,NBA,Atlanta Hawks,28,54,0.341,7th of 8,-5.41,91.7,-1.4,102.0,-2.1,107.9,3.8,False
+23,ATL,1998-99,NBA,Atlanta Hawks*,31,19,0.62,2nd of 8,2.82,85.3,-3.6,100.5,-1.7,97.1,-5.1,Lost E. Conf. Semis
+24,ATL,1997-98,NBA,Atlanta Hawks*,50,32,0.61,4th of 8,3.85,87.7,-2.6,108.2,3.2,104.3,-0.7,Lost E. Conf. 1st Rnd.
+25,ATL,1996-97,NBA,Atlanta Hawks*,56,26,0.683,2nd of 8,5.52,86.8,-3.3,108.5,1.8,102.3,-4.4,Lost E. Conf. Semis
+26,ATL,1995-96,NBA,Atlanta Hawks*,46,36,0.561,4th of 8,1.29,89.6,-2.2,109.4,1.8,108.0,0.4,Lost E. Conf. Semis
+27,ATL,1994-95,NBA,Atlanta Hawks*,42,40,0.512,5th of 7,1.06,89.8,-3.1,106.6,-1.7,105.2,-3.1,Lost E. Conf. 1st Rnd.
+28,ATL,1993-94,NBA,Atlanta Hawks*,57,25,0.695,1st of 7,4.94,94.2,-0.9,107.2,0.9,101.7,-4.6,Lost E. Conf. Semis
+29,ATL,1992-93,NBA,Atlanta Hawks*,43,39,0.524,4th of 7,-0.67,97.6,0.8,109.3,1.3,110.2,2.2,Lost E. Conf. 1st Rnd.
+30,ATL,1991-92,NBA,Atlanta Hawks,38,44,0.463,5th of 7,-1.15,97.8,1.2,107.3,-0.9,108.9,0.7,False
+31,ATL,1990-91,NBA,Atlanta Hawks*,43,39,0.524,4th of 7,0.72,98.6,0.8,110.9,3.0,110.1,2.2,Lost E. Conf. 1st Rnd.
+32,ATL,1989-90,NBA,Atlanta Hawks,41,41,0.5,6th of 7,0.64,95.8,-2.5,113.0,4.9,111.9,3.8,False
+33,ATL,1988-89,NBA,Atlanta Hawks*,52,30,0.634,3rd of 6,5.26,98.3,-2.3,112.2,4.4,107.2,-0.6,Lost E. Conf. 1st Rnd.
+34,ATL,1987-88,NBA,Atlanta Hawks*,50,32,0.61,3rd of 6,4.02,96.4,-3.2,111.3,3.3,107.6,-0.4,Lost E. Conf. Semis
+35,ATL,1986-87,NBA,Atlanta Hawks*,57,25,0.695,1st of 6,7.18,97.4,-3.4,112.6,4.3,105.2,-3.1,Lost E. Conf. Semis
+36,ATL,1985-86,NBA,Atlanta Hawks*,50,32,0.61,2nd of 6,2.59,100.0,-2.1,107.9,0.7,105.6,-1.6,Lost E. Conf. Semis
+37,ATL,1984-85,NBA,Atlanta Hawks,34,48,0.415,5th of 6,-1.14,99.8,-2.3,105.9,-2.0,107.3,-0.6,False
+38,ATL,1983-84,NBA,Atlanta Hawks*,40,42,0.488,3rd of 6,-1.08,95.3,-6.1,105.5,-2.1,106.9,-0.7,Lost E. Conf. 1st Rnd.
+39,ATL,1982-83,NBA,Atlanta Hawks*,43,39,0.524,2nd of 6,-0.72,98.9,-4.2,102.2,-2.5,103.2,-1.5,Lost E. Conf. 1st Rnd.
+40,ATL,1981-82,NBA,Atlanta Hawks*,42,40,0.512,2nd of 6,0.81,95.1,-5.8,105.1,-1.8,104.6,-2.3,Lost E. Conf. 1st Rnd.
+41,ATL,1980-81,NBA,Atlanta Hawks,31,51,0.378,4th of 6,-2.37,99.4,-2.4,104.3,-1.2,107.3,1.8,False
+42,ATL,1979-80,NBA,Atlanta Hawks*,50,32,0.61,1st of 6,2.83,98.9,-4.2,105.2,-0.1,102.3,-3.0,Lost E. Conf. Semis
+43,ATL,1978-79,NBA,Atlanta Hawks*,46,36,0.561,3rd of 6,1.92,102.5,-3.3,105.6,1.8,103.6,-0.2,Lost E. Conf. Semis
+44,ATL,1977-78,NBA,Atlanta Hawks*,41,41,0.5,4th of 6,-0.13,103.3,-3.4,99.7,-1.2,99.8,-1.1,Lost E. Conf. 1st Rnd.
+45,ATL,1976-77,NBA,Atlanta Hawks,31,51,0.378,6th of 6,-3.87,104.6,-1.9,97.8,-1.7,101.6,2.1,False
+46,ATL,1975-76,NBA,Atlanta Hawks,29,53,0.354,5th of 5,-2.66,103.6,-1.9,98.4,0.1,101.2,2.9,False
+47,ATL,1974-75,NBA,Atlanta Hawks,31,51,0.378,4th of 5,-1.32,106.3,1.8,98.3,0.6,99.5,1.8,False
+48,ATL,1973-74,NBA,Atlanta Hawks,35,47,0.427,2nd of 4,-1.47,110.8,3.0,97.7,0.0,99.0,1.3,False
+49,ATL,1972-73,NBA,Atlanta Hawks*,46,36,0.561,2nd of 4,-0.15,113.8,3.1,98.0,1.2,98.0,1.2,Lost E. Conf. Semis
+50,ATL,1971-72,NBA,Atlanta Hawks*,36,46,0.439,2nd of 4,-1.94,110.7,-1.3,98.7,0.8,100.3,2.4,Lost E. Conf. Semis
+51,ATL,1970-71,NBA,Atlanta Hawks*,36,46,0.439,2nd of 4,-1.3,117.2,2.1,96.9,-0.3,98.4,1.2,Lost E. Conf. Semis
+52,ATL,1969-70,NBA,Atlanta Hawks*,48,34,0.585,1st of 7,0.31,114.4,-2.7,102.3,3.3,101.9,2.9,Lost W. Div. Finals
+53,ATL,1968-69,NBA,Atlanta Hawks*,48,34,0.585,2nd of 7,2.06,113.9,-3.0,97.4,1.9,95.5,0.0,Lost W. Div. Finals
+54,ATL,1967-68,NBA,St. Louis Hawks*,56,26,0.683,1st of 6,2.37,113.7,-6.1,98.4,1.6,96.0,-0.8,Lost W. Div. Semis
+55,ATL,1966-67,NBA,St. Louis Hawks*,39,42,0.481,2nd of 5,-1.44,117.7,-3.9,96.1,0.0,97.4,1.3,Lost W. Div. Finals
+56,ATL,1965-66,NBA,St. Louis Hawks*,36,44,0.45,3rd of 5,-0.5,116.6,-4.8,95.6,0.7,96.1,1.2,Lost W. Div. Finals
+57,ATL,1964-65,NBA,St. Louis Hawks*,45,35,0.563,2nd of 5,2.68,115.1,-2.2,94.5,0.9,91.8,-1.8,Lost W. Div. Semis
+58,ATL,1963-64,NBA,St. Louis Hawks*,46,34,0.575,2nd of 5,1.39,114.6,1.4,95.4,0.8,94.0,-0.6,Lost W. Div. Finals
+59,ATL,1962-63,NBA,St. Louis Hawks*,48,32,0.6,2nd of 5,1.38,115.6,0.6,94.8,-1.1,93.3,-2.6,Lost W. Div. Finals
+60,ATL,1961-62,NBA,St. Louis Hawks,29,51,0.363,4th of 5,-2.96,124.6,3.3,95.2,1.6,97.8,4.2,False
+61,ATL,1960-61,NBA,St. Louis Hawks*,51,28,0.646,1st of 4,2.99,129.1,5.6,91.4,-0.7,88.7,-3.4,Lost Finals
+62,ATL,1959-60,NBA,St. Louis Hawks*,46,29,0.613,1st of 4,1.77,120.0,-2.3,94.0,2.9,91.8,0.7,Lost Finals
+63,ATL,1958-59,NBA,St. Louis Hawks*,49,23,0.681,1st of 4,2.89,115.6,3.6,93.3,3.1,90.1,-0.1,Lost W. Div. Finals
+64,ATL,1957-58,NBA,St. Louis Hawks*,41,31,0.569,1st of 4,0.82,119.5,2.5,89.7,0.9,88.6,-0.2,Won Finals
+65,ATL,1956-57,NBA,St. Louis Hawks*,34,38,0.472,1st of 4,-0.27,108.3,3.4,89.0,0.1,89.1,0.2,Lost Finals
+66,ATL,1955-56,NBA,St. Louis Hawks*,33,39,0.458,3rd of 4,-1.42,109.4,6.6,87.6,-2.7,88.9,-1.4,Lost W. Div. Finals
+67,ATL,1954-55,NBA,Milwaukee Hawks,26,46,0.361,4th of 4,-2.66,100.5,2.4,86.4,-3.4,89.4,-0.4,False
+68,ATL,1953-54,NBA,Milwaukee Hawks,21,51,0.292,4th of 4,-4.55,84.2,0.6,82.9,-4.6,89.2,1.7,False
+69,ATL,1952-53,NBA,Milwaukee Hawks,27,44,0.38,5th of 5,-2.49,88.4,8.0,84.0,-4.0,85.7,-2.0,False
+70,ATL,1951-52,NBA,Milwaukee Hawks,17,49,0.258,5th of 5,-7.04,90.7,4.9,80.4,-6.5,89.1,2.2,False
+71,ATL,1950-51,NBA,Tri-Cities Blackhawks,25,43,0.368,5th of 5,-3.22,103.9,18.4,80.8,-4.3,84.4,-0.7,False
+72,ATL,1949-50,NBA,Tri-Cities Blackhawks*,29,35,0.453,3rd of 6,-1.43,,,,,,,Lost W. Div. Semis
+73,BOS,2021-22,NBA,Boston Celtics*,51,31,0.622,1st of 5,7.02,96.6,-1.6,114.4,2.4,106.9,-5.1,Won E. Conf. Semis
+74,BOS,2020-21,NBA,Boston Celtics*,36,36,0.5,4th of 5,1.32,98.3,-0.9,114.0,1.7,112.5,0.2,Lost E. Conf. 1st Rnd.
+75,BOS,2019-20,NBA,Boston Celtics*,48,24,0.667,2nd of 5,5.83,99.5,-0.8,113.3,2.7,107.0,-3.6,Lost E. Conf. Finals
+76,BOS,2018-19,NBA,Boston Celtics*,49,33,0.598,3rd of 5,3.9,99.6,-0.4,112.2,1.8,107.8,-2.6,Lost E. Conf. Semis
+77,BOS,2017-18,NBA,Boston Celtics*,55,27,0.671,2nd of 5,3.23,96.0,-1.3,107.6,-1.0,103.9,-4.7,Lost E. Conf. Finals
+78,BOS,2016-17,NBA,Boston Celtics*,53,29,0.646,1st of 5,2.25,96.8,0.4,111.2,2.4,108.4,-0.4,Lost E. Conf. Finals
+79,BOS,2015-16,NBA,Boston Celtics*,48,34,0.585,2nd of 5,2.84,98.5,2.7,106.8,0.4,103.6,-2.8,Lost E. Conf. 1st Rnd.
+80,BOS,2014-15,NBA,Boston Celtics*,40,42,0.488,2nd of 5,-0.4,95.8,1.9,104.7,-0.9,104.5,-1.1,Lost E. Conf. 1st Rnd.
+81,BOS,2013-14,NBA,Boston Celtics,25,57,0.305,4th of 5,-4.97,93.3,-0.6,102.9,-3.8,107.7,1.0,False
+82,BOS,2012-13,NBA,Boston Celtics*,41,40,0.506,3rd of 5,-0.62,91.7,-0.3,103.1,-2.8,103.3,-2.6,Lost E. Conf. 1st Rnd.
+83,BOS,2011-12,NBA,Boston Celtics*,39,27,0.591,1st of 5,2.26,90.4,-0.9,101.0,-3.6,98.2,-6.4,Lost E. Conf. Finals
+84,BOS,2010-11,NBA,Boston Celtics*,56,26,0.683,1st of 5,4.83,90.4,-1.7,106.2,-1.1,100.3,-7.0,Lost E. Conf. Semis
+85,BOS,2009-10,NBA,Boston Celtics*,50,32,0.61,1st of 5,3.37,91.6,-1.1,107.7,0.1,103.8,-3.8,Lost Finals
+86,BOS,2008-09,NBA,Boston Celtics*,62,20,0.756,1st of 5,7.44,90.4,-1.3,110.5,2.2,102.3,-6.0,Lost E. Conf. Semis
+87,BOS,2007-08,NBA,Boston Celtics*,66,16,0.805,1st of 5,9.3,90.9,-1.5,110.2,2.7,98.9,-8.6,Won Finals
+88,BOS,2006-07,NBA,Boston Celtics,24,58,0.293,5th of 5,-3.7,92.0,0.1,103.2,-3.3,106.9,0.4,False
+89,BOS,2005-06,NBA,Boston Celtics,33,49,0.402,3rd of 5,-1.59,92.2,1.7,105.2,-1.0,106.9,0.7,False
+90,BOS,2004-05,NBA,Boston Celtics*,45,37,0.549,1st of 5,0.35,93.3,2.4,107.5,1.4,106.6,0.5,Lost E. Conf. 1st Rnd.
+91,BOS,2003-04,NBA,Boston Celtics*,36,46,0.439,4th of 7,-1.99,93.2,3.1,102.1,-0.8,103.7,0.8,Lost E. Conf. 1st Rnd.
+92,BOS,2002-03,NBA,Boston Celtics*,44,38,0.537,3rd of 7,-0.75,90.9,-0.1,101.2,-2.4,101.6,-2.0,Lost E. Conf. Semis
+93,BOS,2001-02,NBA,Boston Celtics*,49,33,0.598,2nd of 7,1.75,92.5,1.8,103.4,-1.1,101.0,-3.5,Lost E. Conf. Finals
+94,BOS,2000-01,NBA,Boston Celtics,36,46,0.439,5th of 7,-2.4,92.6,1.3,101.4,-1.6,103.7,0.7,False
+95,BOS,1999-00,NBA,Boston Celtics,35,47,0.427,5th of 7,-1.0,94.6,1.5,104.8,0.7,105.6,1.5,False
+96,BOS,1998-99,NBA,Boston Celtics,19,31,0.38,5th of 7,-1.75,91.5,2.6,100.4,-1.8,102.4,0.2,False
+97,BOS,1997-98,NBA,Boston Celtics,36,46,0.439,6th of 7,-1.96,93.3,3.0,102.6,-2.4,105.4,0.4,False
+98,BOS,1996-97,NBA,Boston Celtics,15,67,0.183,7th of 7,-6.62,95.8,5.7,103.9,-2.8,111.4,4.7,False
+99,BOS,1995-96,NBA,Boston Celtics,33,49,0.402,5th of 7,-3.37,96.2,4.4,106.4,-1.2,109.9,2.3,False
+100,BOS,1994-95,NBA,Boston Celtics*,35,47,0.427,3rd of 7,-1.92,94.0,1.1,108.6,0.3,110.6,2.3,Lost E. Conf. 1st Rnd.
+101,BOS,1993-94,NBA,Boston Celtics,32,50,0.39,5th of 7,-4.28,95.6,0.5,104.2,-2.1,108.7,2.4,False
+102,BOS,1992-93,NBA,Boston Celtics*,48,34,0.585,2nd of 7,0.93,94.9,-1.9,108.7,0.7,107.8,-0.2,Lost E. Conf. 1st Rnd.
+103,BOS,1991-92,NBA,Boston Celtics*,51,31,0.622,1st of 7,3.41,95.8,-0.8,110.8,2.6,107.0,-1.2,Lost E. Conf. Semis
+104,BOS,1990-91,NBA,Boston Celtics*,56,26,0.683,1st of 6,5.22,98.5,0.7,112.6,4.7,106.7,-1.2,Lost E. Conf. Semis
+105,BOS,1989-90,NBA,Boston Celtics*,52,30,0.634,2nd of 6,3.23,98.2,-0.1,112.0,3.9,107.9,-0.2,Lost E. Conf. 1st Rnd.
+106,BOS,1988-89,NBA,Boston Celtics*,42,40,0.512,3rd of 6,1.26,98.1,-2.5,110.8,3.0,109.6,1.8,Lost E. Conf. 1st Rnd.
+107,BOS,1987-88,NBA,Boston Celtics*,57,25,0.695,1st of 5,6.15,97.9,-1.7,115.4,7.4,109.4,1.4,Lost E. Conf. Finals
+108,BOS,1986-87,NBA,Boston Celtics*,59,23,0.72,1st of 5,6.57,98.6,-2.2,113.5,5.2,106.8,-1.5,Lost Finals
+109,BOS,1985-86,NBA,Boston Celtics*,67,15,0.817,1st of 5,9.06,101.2,-0.9,111.8,4.6,102.6,-4.6,Won Finals
+110,BOS,1984-85,NBA,Boston Celtics*,63,19,0.768,1st of 5,6.47,101.6,-0.5,112.8,4.9,106.3,-1.6,Lost Finals
+111,BOS,1983-84,NBA,Boston Celtics*,62,20,0.756,1st of 5,6.42,99.7,-1.7,110.9,3.3,104.4,-3.2,Won Finals
+112,BOS,1982-83,NBA,Boston Celtics*,56,26,0.683,2nd of 5,5.34,104.0,0.9,106.9,2.2,101.8,-2.9,Lost E. Conf. Semis
+113,BOS,1981-82,NBA,Boston Celtics*,63,19,0.768,1st of 5,6.35,101.5,0.6,109.8,2.9,103.5,-3.4,Lost E. Conf. Finals
+114,BOS,1980-81,NBA,Boston Celtics*,62,20,0.756,1st of 5,6.05,100.8,-1.0,108.4,2.9,102.6,-2.9,Won Finals
+115,BOS,1979-80,NBA,Boston Celtics*,61,21,0.744,1st of 5,7.37,102.6,-0.5,109.4,4.1,101.9,-3.4,Lost E. Conf. Finals
+116,BOS,1978-79,NBA,Boston Celtics,29,53,0.354,5th of 5,-4.78,106.5,0.7,101.6,-2.2,106.4,2.6,False
+117,BOS,1977-78,NBA,Boston Celtics,32,50,0.39,3rd of 5,-1.86,105.9,-0.8,99.1,-1.8,100.9,0.0,False
+118,BOS,1976-77,NBA,Boston Celtics*,44,38,0.537,2nd of 5,-1.9,107.5,1.0,96.5,-3.0,98.3,-1.2,Lost E. Conf. Semis
+119,BOS,1975-76,NBA,Boston Celtics*,54,28,0.659,1st of 4,2.25,106.9,1.4,98.9,0.6,96.7,-1.6,Won Finals
+120,BOS,1974-75,NBA,Boston Celtics*,60,22,0.732,1st of 4,5.4,106.1,1.6,100.0,2.3,94.7,-3.0,Lost E. Conf. Finals
+121,BOS,1973-74,NBA,Boston Celtics*,56,26,0.683,1st of 4,3.42,110.0,2.2,98.6,0.9,95.1,-2.6,Won Finals
+122,BOS,1972-73,NBA,Boston Celtics*,68,14,0.829,1st of 4,7.35,114.5,3.8,98.1,1.3,91.0,-5.8,Lost E. Conf. Finals
+123,BOS,1971-72,NBA,Boston Celtics*,56,26,0.683,1st of 4,4.38,116.1,4.1,99.3,1.4,95.2,-2.7,Lost E. Conf. Finals
+124,BOS,1970-71,NBA,Boston Celtics,44,38,0.537,3rd of 4,2.3,120.2,5.1,97.0,-0.2,95.3,-1.9,False
+125,BOS,1969-70,NBA,Boston Celtics,34,48,0.415,6th of 7,-1.6,117.5,0.4,97.3,-1.7,98.9,-0.1,False
+126,BOS,1968-69,NBA,Boston Celtics*,48,34,0.585,4th of 7,5.35,117.5,0.6,93.8,-1.7,89.1,-6.4,Won Finals
+127,BOS,1967-68,NBA,Boston Celtics*,54,28,0.659,2nd of 6,3.87,121.1,1.3,95.7,-1.1,92.4,-4.4,Won Finals
+128,BOS,1966-67,NBA,Boston Celtics*,60,21,0.741,2nd of 5,7.24,121.2,-0.4,97.5,1.4,91.0,-5.1,Lost E. Div. Finals
+129,BOS,1965-66,NBA,Boston Celtics*,54,26,0.675,2nd of 4,4.34,122.0,0.6,92.3,-2.6,88.3,-6.6,Won Finals
+130,BOS,1964-65,NBA,Boston Celtics*,62,18,0.775,1st of 4,7.46,123.6,6.3,90.9,-2.7,84.2,-9.4,Won Finals
+131,BOS,1963-64,NBA,Boston Celtics*,59,21,0.738,1st of 4,6.93,125.0,11.8,90.1,-4.5,83.8,-10.8,Won Finals
+132,BOS,1962-63,NBA,Boston Celtics*,58,22,0.725,1st of 4,6.38,127.3,12.3,93.0,-2.9,87.4,-8.5,Won Finals
+133,BOS,1961-62,NBA,Boston Celtics*,60,20,0.75,1st of 4,8.25,130.8,9.5,92.1,-1.5,85.1,-8.5,Won Finals
+134,BOS,1960-61,NBA,Boston Celtics*,57,22,0.722,1st of 4,4.94,134.4,10.9,88.7,-3.4,84.5,-7.6,Won Finals
+135,BOS,1959-60,NBA,Boston Celtics*,59,16,0.787,1st of 4,7.62,136.3,14.0,91.0,-0.1,84.9,-6.2,Won Finals
+136,BOS,1958-59,NBA,Boston Celtics*,52,20,0.722,1st of 4,5.84,128.7,16.7,89.5,-0.7,84.5,-5.7,Won Finals
+137,BOS,1957-58,NBA,Boston Celtics*,49,23,0.681,1st of 4,5.02,124.8,7.8,88.0,-0.8,83.6,-5.2,Lost Finals
+138,BOS,1956-57,NBA,Boston Celtics*,44,28,0.611,1st of 4,4.78,118.0,13.1,88.5,-0.4,84.0,-4.9,Won Finals
+139,BOS,1955-56,NBA,Boston Celtics*,39,33,0.542,2nd of 4,0.72,114.5,11.7,92.2,1.9,91.7,1.4,Lost E. Div. Semis
+140,BOS,1954-55,NBA,Boston Celtics*,36,36,0.5,3rd of 5,-0.03,108.6,10.5,93.0,3.2,93.0,3.2,Lost E. Div. Finals
+141,BOS,1953-54,NBA,Boston Celtics*,42,30,0.583,3rd of 5,1.97,93.0,9.4,92.5,5.0,90.0,2.5,Lost E. Div. Finals
+142,BOS,1952-53,NBA,Boston Celtics*,46,25,0.648,3rd of 5,1.94,94.7,14.3,91.7,3.7,89.3,1.6,Lost E. Div. Finals
+143,BOS,1951-52,NBA,Boston Celtics*,39,27,0.591,2nd of 5,3.6,100.0,14.2,90.4,3.5,86.4,-0.5,Lost E. Div. Semis
+144,BOS,1950-51,NBA,Boston Celtics*,39,30,0.565,2nd of 6,-0.41,95.9,10.4,87.3,2.2,87.6,2.5,Lost E. Div. Semis
+145,BOS,1949-50,NBA,Boston Celtics,22,46,0.324,6th of 6,-1.73,,,,,,,False
+146,BOS,1948-49,BAA,Boston Celtics,25,35,0.417,5th of 6,-2.76,,,,,,,False
+147,BOS,1947-48,BAA,Boston Celtics*,20,28,0.417,3rd of 4,-3.76,,,,,,,Lost Quarterfinals
+148,BOS,1946-47,BAA,Boston Celtics,22,38,0.367,5th of 6,-4.45,,,,,,,False
+149,NJN,2021-22,NBA,Brooklyn Nets*,44,38,0.537,4th of 5,0.82,99.0,0.8,113.6,1.6,112.8,0.8,Lost E. Conf. 1st Rnd.
+150,NJN,2020-21,NBA,Brooklyn Nets*,48,24,0.667,2nd of 5,4.24,99.5,0.3,118.3,6.0,113.8,1.5,Lost E. Conf. Semis
+151,NJN,2019-20,NBA,Brooklyn Nets*,35,37,0.486,4th of 5,-1.01,101.4,1.1,108.9,-1.7,109.5,-1.1,Lost E. Conf. 1st Rnd.
+152,NJN,2018-19,NBA,Brooklyn Nets*,42,40,0.512,4th of 5,-0.4,100.8,0.8,109.6,-0.8,109.7,-0.7,Lost E. Conf. 1st Rnd.
+153,NJN,2017-18,NBA,Brooklyn Nets,28,54,0.341,5th of 5,-3.67,98.9,1.6,106.9,-1.7,110.6,2.0,False
+154,NJN,2016-17,NBA,Brooklyn Nets,20,62,0.244,5th of 5,-6.74,101.3,4.9,104.1,-4.7,110.7,1.9,False
+155,NJN,2015-16,NBA,Brooklyn Nets,21,61,0.256,4th of 5,-7.12,95.2,-0.6,103.2,-3.2,110.9,4.5,False
+156,NJN,2014-15,NBA,Brooklyn Nets*,38,44,0.463,3rd of 5,-3.13,92.7,-1.2,104.4,-1.2,107.4,1.8,Lost E. Conf. 1st Rnd.
+157,NJN,2013-14,NBA,Brooklyn Nets*,44,38,0.537,2nd of 5,-1.58,91.4,-2.5,106.7,0.0,107.7,1.0,Lost E. Conf. Semis
+158,NJN,2012-13,NBA,Brooklyn Nets*,49,33,0.598,2nd of 5,1.25,88.8,-3.2,108.2,2.3,106.2,0.3,Lost E. Conf. 1st Rnd.
+159,NJN,2011-12,NBA,New Jersey Nets,22,44,0.333,5th of 5,-6.37,90.1,-1.2,102.9,-1.7,109.6,5.0,False
+160,NJN,2010-11,NBA,New Jersey Nets,24,58,0.293,4th of 5,-6.28,89.9,-2.2,103.1,-4.2,109.9,2.6,False
+161,NJN,2009-10,NBA,New Jersey Nets,12,70,0.146,5th of 5,-8.93,91.4,-1.3,100.6,-7.0,110.5,2.9,False
+162,NJN,2008-09,NBA,New Jersey Nets,34,48,0.415,3rd of 5,-2.31,89.9,-1.8,108.3,0.0,111.0,2.7,False
+163,NJN,2007-08,NBA,New Jersey Nets,34,48,0.415,4th of 5,-5.15,91.5,-0.9,104.0,-3.5,109.4,1.9,False
+164,NJN,2006-07,NBA,New Jersey Nets*,41,41,0.5,2nd of 5,-1.0,91.4,-0.5,105.7,-0.8,106.6,0.1,Lost E. Conf. Semis
+165,NJN,2005-06,NBA,New Jersey Nets*,49,33,0.598,1st of 5,1.11,89.8,-0.7,103.9,-2.3,102.4,-3.8,Lost E. Conf. Semis
+166,NJN,2004-05,NBA,New Jersey Nets*,42,40,0.512,3rd of 5,-1.82,89.1,-1.8,101.4,-4.7,103.1,-3.0,Lost E. Conf. 1st Rnd.
+167,NJN,2003-04,NBA,New Jersey Nets*,47,35,0.573,1st of 7,1.88,89.4,-0.7,100.8,-2.1,98.0,-4.9,Lost E. Conf. Semis
+168,NJN,2002-03,NBA,New Jersey Nets*,49,33,0.598,1st of 7,4.42,91.6,0.6,103.8,0.2,98.1,-5.5,Lost Finals
+169,NJN,2001-02,NBA,New Jersey Nets*,52,30,0.634,1st of 7,3.67,91.8,1.1,104.0,-0.5,99.5,-5.0,Lost Finals
+170,NJN,2000-01,NBA,New Jersey Nets,26,56,0.317,6th of 7,-5.3,91.8,0.5,100.0,-3.0,105.5,2.5,False
+171,NJN,1999-00,NBA,New Jersey Nets,31,51,0.378,6th of 7,-1.18,92.5,-0.6,105.1,1.0,106.3,2.2,False
+172,NJN,1998-99,NBA,New Jersey Nets,16,34,0.32,7th of 7,-3.2,91.5,2.6,99.5,-2.7,103.6,1.4,False
+173,NJN,1997-98,NBA,New Jersey Nets*,43,39,0.524,3rd of 7,1.88,91.0,0.7,108.3,3.3,106.6,1.6,Lost E. Conf. 1st Rnd.
+174,NJN,1996-97,NBA,New Jersey Nets,26,56,0.317,5th of 7,-3.89,92.4,2.3,104.7,-2.0,109.7,3.0,False
+175,NJN,1995-96,NBA,New Jersey Nets,30,52,0.366,6th of 7,-4.14,90.9,-0.9,101.9,-5.7,106.5,-1.1,False
+176,NJN,1994-95,NBA,New Jersey Nets,30,52,0.366,5th of 7,-3.28,92.3,-0.6,105.2,-3.1,108.6,0.3,False
+177,NJN,1993-94,NBA,New Jersey Nets*,45,37,0.549,3rd of 7,2.11,95.5,0.4,107.2,0.9,104.9,-1.4,Lost E. Conf. 1st Rnd.
+178,NJN,1992-93,NBA,New Jersey Nets*,43,39,0.524,3rd of 7,1.2,96.0,-0.8,106.5,-1.5,105.2,-2.8,Lost E. Conf. 1st Rnd.
+179,NJN,1991-92,NBA,New Jersey Nets*,40,42,0.488,3rd of 7,-1.54,98.0,1.4,107.0,-1.2,108.7,0.5,Lost E. Conf. 1st Rnd.
+180,NJN,1990-91,NBA,New Jersey Nets,26,56,0.317,5th of 6,-4.53,99.3,1.5,102.9,-5.0,107.4,-0.5,False
+181,NJN,1989-90,NBA,New Jersey Nets,17,65,0.207,6th of 6,-7.82,99.3,1.0,100.7,-7.4,108.6,0.5,False
+182,NJN,1988-89,NBA,New Jersey Nets,26,56,0.317,5th of 6,-5.69,100.1,-0.5,103.0,-4.8,109.3,1.5,False
+183,NJN,1987-88,NBA,New Jersey Nets,19,63,0.232,5th of 5,-6.98,98.6,-1.0,101.4,-6.6,109.6,1.6,False
+184,NJN,1986-87,NBA,New Jersey Nets,24,58,0.293,4th of 5,-4.42,101.8,1.0,105.6,-2.7,110.5,2.2,False
+185,NJN,1985-86,NBA,New Jersey Nets*,39,43,0.476,4th of 5,-1.39,103.3,1.2,105.0,-2.2,106.9,-0.3,Lost E. Conf. 1st Rnd.
+186,NJN,1984-85,NBA,New Jersey Nets*,42,40,0.512,3rd of 5,0.64,101.0,-1.1,107.9,0.0,107.7,-0.2,Lost E. Conf. 1st Rnd.
+187,NJN,1983-84,NBA,New Jersey Nets*,45,37,0.549,4th of 5,1.27,103.0,1.6,106.1,-1.5,105.0,-2.6,Lost E. Conf. Semis
+188,NJN,1982-83,NBA,New Jersey Nets*,49,33,0.598,3rd of 5,2.77,104.0,0.9,101.6,-3.1,98.9,-5.8,Lost E. Conf. 1st Rnd.
+189,NJN,1981-82,NBA,New Jersey Nets*,44,38,0.537,3rd of 5,0.87,103.1,2.2,103.0,-3.9,102.3,-4.6,Lost E. Conf. 1st Rnd.
+190,NJN,1980-81,NBA,New Jersey Nets,24,58,0.293,5th of 5,-5.15,105.2,3.4,101.0,-4.5,106.7,1.2,False
+191,NJN,1979-80,NBA,New Jersey Nets,34,48,0.415,5th of 5,-0.98,106.1,3.0,101.5,-3.8,102.5,-2.8,False
+192,NJN,1978-79,NBA,New Jersey Nets*,37,45,0.451,3rd of 5,-4.0,109.5,3.7,98.0,-5.8,101.8,-2.0,Lost E. Conf. 1st Rnd.
+193,NJN,1977-78,NBA,New Jersey Nets,24,58,0.293,5th of 5,-5.61,110.9,4.2,95.0,-5.9,100.2,-0.7,False
+194,NJN,1976-77,NBA,New York Nets,22,60,0.268,5th of 5,-6.54,103.7,-2.8,92.2,-7.3,98.7,-0.8,False
+195,NJN,1975-76,ABA,New York Nets*,55,29,0.655,2nd of 0,2.56,105.9,-1.0,104.4,0.3,101.7,-2.4,Won Finals
+196,NJN,1974-75,ABA,New York Nets*,58,26,0.69,2nd of 5,6.58,103.4,0.3,106.3,1.6,98.9,-5.8,Lost E. Div. Semis
+197,NJN,1973-74,ABA,New York Nets*,55,29,0.655,1st of 5,4.8,105.0,2.4,103.5,0.5,98.4,-4.6,Won Finals
+198,NJN,1972-73,ABA,New York Nets*,30,54,0.357,4th of 5,-5.8,104.5,-4.8,98.8,-3.0,105.0,3.2,Lost E. Div. Semis
+199,NJN,1971-72,ABA,New York Nets*,44,40,0.524,3rd of 6,0.21,108.8,-3.1,102.3,1.7,101.9,1.3,Lost Finals
+200,NJN,1970-71,ABA,New York Nets*,40,44,0.476,3rd of 6,-0.86,107.3,-3.8,103.0,-2.0,103.5,-1.5,Lost E. Div. Semis
+201,NJN,1969-70,ABA,New York Nets*,39,45,0.464,4th of 6,-1.02,107.2,-2.0,100.7,-2.0,101.5,-1.2,Lost E. Div. Semis
+202,NJN,1968-69,ABA,New York Nets,17,61,0.218,5th of 5,-7.89,109.4,0.0,98.4,-5.6,106.3,2.3,False
+203,NJN,1967-68,ABA,New Jersey Americans,36,42,0.462,5th of 5,-1.13,108.2,1.2,102.2,0.9,103.7,2.4,False
+204,CHA,2021-22,NBA,Charlotte Hornets,43,39,0.524,3rd of 5,0.53,100.0,1.8,114.1,2.1,113.7,1.7,False
+205,CHA,2020-21,NBA,Charlotte Hornets,33,39,0.458,4th of 5,-1.94,98.3,-0.9,110.9,-1.4,112.8,0.5,False
+206,CHA,2019-20,NBA,Charlotte Hornets,23,42,0.354,3rd of 5,-7.03,95.8,-4.5,106.3,-4.3,113.3,2.7,False
+207,CHA,2018-19,NBA,Charlotte Hornets,39,43,0.476,2nd of 5,-1.32,98.7,-1.3,111.4,1.0,112.5,2.1,False
+208,CHA,2017-18,NBA,Charlotte Hornets,36,46,0.439,3rd of 5,0.07,98.4,1.1,109.4,0.8,109.1,0.5,False
+209,CHA,2016-17,NBA,Charlotte Hornets,36,46,0.439,4th of 5,-0.07,95.7,-0.7,108.8,0.0,108.6,-0.2,False
+210,CHA,2015-16,NBA,Charlotte Hornets*,48,34,0.585,3rd of 5,2.36,95.7,-0.1,107.1,0.7,104.3,-2.1,Lost E. Conf. 1st Rnd.
+211,CHA,2014-15,NBA,Charlotte Hornets,33,49,0.402,4th of 5,-3.44,93.0,-0.9,100.1,-5.5,103.5,-2.1,False
+212,CHA,2013-14,NBA,Charlotte Bobcats*,43,39,0.524,3rd of 5,-0.89,92.4,-1.5,103.6,-3.1,103.8,-2.9,Lost E. Conf. 1st Rnd.
+213,CHA,2012-13,NBA,Charlotte Bobcats,21,61,0.256,4th of 5,-9.29,91.5,-0.5,101.5,-4.4,111.5,5.6,False
+214,CHA,2011-12,NBA,Charlotte Bobcats,7,59,0.106,5th of 5,-13.96,91.1,-0.2,95.2,-9.4,110.4,5.8,False
+215,CHA,2010-11,NBA,Charlotte Bobcats,34,48,0.415,4th of 5,-4.08,89.6,-2.5,103.4,-3.9,107.8,0.5,False
+216,CHA,2009-10,NBA,Charlotte Bobcats*,44,38,0.537,4th of 5,1.3,90.4,-2.3,104.4,-3.2,102.8,-4.8,Lost E. Conf. 1st Rnd.
+217,CHA,2008-09,NBA,Charlotte Bobcats,35,47,0.427,4th of 5,-1.2,88.3,-3.4,104.7,-3.6,106.1,-2.2,False
+218,CHA,2007-08,NBA,Charlotte Bobcats,32,50,0.39,4th of 5,-4.49,91.8,-0.6,104.6,-2.9,109.4,1.9,False
+219,CHA,2006-07,NBA,Charlotte Bobcats,33,49,0.402,4th of 5,-3.97,92.0,0.1,103.6,-2.9,107.6,1.1,False
+220,CHA,2005-06,NBA,Charlotte Bobcats,26,56,0.317,4th of 5,-3.9,93.4,2.9,102.5,-3.7,106.7,0.5,False
+221,CHA,2004-05,NBA,Charlotte Bobcats,18,64,0.22,4th of 5,-6.15,92.3,1.4,101.1,-5.0,107.5,1.4,False
+222,CHA,2001-02,NBA,Charlotte Hornets*,44,38,0.537,2nd of 8,0.57,89.7,-1.0,104.3,-0.2,103.3,-1.2,Lost E. Conf. Semis
+223,CHA,2000-01,NBA,Charlotte Hornets*,46,36,0.561,3rd of 8,1.45,89.4,-1.9,101.8,-1.2,99.5,-3.5,Lost E. Conf. Semis
+224,CHA,1999-00,NBA,Charlotte Hornets*,49,33,0.598,2nd of 8,2.33,93.9,0.8,104.3,0.2,101.4,-2.7,Lost E. Conf. 1st Rnd.
+225,CHA,1998-99,NBA,Charlotte Hornets,26,24,0.52,5th of 8,0.63,89.7,0.8,102.3,0.1,102.4,0.2,False
+226,CHA,1997-98,NBA,Charlotte Hornets*,51,31,0.622,3rd of 8,2.45,89.4,-0.9,107.5,2.5,105.3,0.3,Lost E. Conf. Semis
+227,CHA,1996-97,NBA,Charlotte Hornets*,54,28,0.659,4th of 8,2.13,88.6,-1.5,110.9,4.2,108.9,2.2,Lost E. Conf. 1st Rnd.
+228,CHA,1995-96,NBA,Charlotte Hornets,41,41,0.5,6th of 8,-0.48,91.6,-0.2,111.2,3.6,111.8,4.2,False
+229,CHA,1994-95,NBA,Charlotte Hornets*,50,32,0.61,2nd of 7,2.87,91.2,-1.7,109.6,1.3,106.1,-2.2,Lost E. Conf. 1st Rnd.
+230,CHA,1993-94,NBA,Charlotte Hornets,41,41,0.5,5th of 7,-0.23,97.5,2.4,108.4,2.1,108.6,2.3,False
+231,CHA,1992-93,NBA,Charlotte Hornets*,44,38,0.537,3rd of 7,-0.02,100.2,3.4,109.5,1.5,109.7,1.7,Lost E. Conf. Semis
+232,CHA,1991-92,NBA,Charlotte Hornets,31,51,0.378,7th of 7,-3.57,101.7,5.1,107.1,-1.1,110.9,2.7,False
+233,CHA,1990-91,NBA,Charlotte Hornets,26,56,0.317,7th of 7,-4.95,97.3,-0.5,105.0,-2.9,110.4,2.5,False
+234,CHA,1989-90,NBA,Charlotte Hornets,19,63,0.232,7th of 7,-7.0,98.1,-0.2,102.0,-6.1,109.9,1.8,False
+235,CHA,1988-89,NBA,Charlotte Hornets,20,62,0.244,6th of 6,-7.74,100.3,-0.3,103.7,-4.1,112.1,4.3,False
+236,CHI,2021-22,NBA,Chicago Bulls*,46,36,0.561,2nd of 5,-0.38,98.3,0.1,113.2,1.2,113.6,1.6,Lost E. Conf. 1st Rnd.
+237,CHI,2020-21,NBA,Chicago Bulls,31,41,0.431,3rd of 5,-0.94,99.0,-0.2,111.1,-1.2,112.0,-0.3,False
+238,CHI,2019-20,NBA,Chicago Bulls,22,43,0.338,3rd of 5,-4.0,99.7,-0.6,106.7,-3.9,109.8,-0.8,False
+239,CHI,2018-19,NBA,Chicago Bulls,22,60,0.268,4th of 5,-8.32,99.0,-1.0,104.8,-5.6,113.2,2.8,False
+240,CHI,2017-18,NBA,Chicago Bulls,27,55,0.329,5th of 5,-6.84,98.3,1.0,103.8,-4.8,110.9,2.3,False
+241,CHI,2016-17,NBA,Chicago Bulls*,41,41,0.5,4th of 5,0.03,95.3,-1.1,107.4,-1.4,107.0,-1.8,Lost E. Conf. 1st Rnd.
+242,CHI,2015-16,NBA,Chicago Bulls,42,40,0.512,4th of 5,-1.46,95.7,-0.1,105.0,-1.4,106.5,0.1,False
+243,CHI,2014-15,NBA,Chicago Bulls*,50,32,0.61,2nd of 5,2.54,92.8,-1.1,107.5,1.9,104.3,-1.3,Lost E. Conf. Semis
+244,CHI,2013-14,NBA,Chicago Bulls*,48,34,0.585,2nd of 5,1.2,90.2,-3.7,102.5,-4.2,100.5,-6.2,Lost E. Conf. 1st Rnd.
+245,CHI,2012-13,NBA,Chicago Bulls*,45,37,0.549,2nd of 5,-0.02,89.3,-2.7,103.5,-2.4,103.2,-2.7,Lost E. Conf. Semis
+246,CHI,2011-12,NBA,Chicago Bulls*,50,16,0.758,1st of 5,7.43,89.1,-2.2,107.4,2.8,98.3,-6.3,Lost E. Conf. 1st Rnd.
+247,CHI,2010-11,NBA,Chicago Bulls*,62,20,0.756,1st of 5,6.53,90.4,-1.7,108.3,1.0,100.3,-7.0,Lost E. Conf. Finals
+248,CHI,2009-10,NBA,Chicago Bulls*,41,41,0.5,3rd of 5,-1.64,93.1,0.4,103.5,-4.1,105.3,-2.3,Lost E. Conf. 1st Rnd.
+249,CHI,2008-09,NBA,Chicago Bulls*,41,41,0.5,2nd of 5,-0.16,93.1,1.4,108.4,0.1,108.7,0.4,Lost E. Conf. 1st Rnd.
+250,CHI,2007-08,NBA,Chicago Bulls,33,49,0.402,4th of 5,-3.19,93.0,0.6,103.9,-3.6,107.2,-0.3,False
+251,CHI,2006-07,NBA,Chicago Bulls*,49,33,0.598,3rd of 5,4.52,93.6,1.7,104.9,-1.6,99.6,-6.9,Lost E. Conf. Semis
+252,CHI,2005-06,NBA,Chicago Bulls*,41,41,0.5,4th of 5,0.51,92.9,2.4,104.0,-2.2,103.4,-2.8,Lost E. Conf. 1st Rnd.
+253,CHI,2004-05,NBA,Chicago Bulls*,47,35,0.573,2nd of 5,0.65,92.4,1.5,101.4,-4.7,100.3,-5.8,Lost E. Conf. 1st Rnd.
+254,CHI,2003-04,NBA,Chicago Bulls,23,59,0.28,8th of 8,-6.69,92.2,2.1,96.6,-6.3,103.4,0.5,False
+255,CHI,2002-03,NBA,Chicago Bulls,30,52,0.366,6th of 8,-5.31,93.5,2.5,100.2,-3.4,105.6,2.0,False
+256,CHI,2001-02,NBA,Chicago Bulls,21,61,0.256,8th of 8,-8.52,90.5,-0.2,98.2,-6.3,107.6,3.1,False
+257,CHI,2000-01,NBA,Chicago Bulls,15,67,0.183,8th of 8,-9.09,89.3,-2.0,97.2,-5.8,107.3,4.3,False
+258,CHI,1999-00,NBA,Chicago Bulls,17,65,0.207,8th of 8,-9.23,89.4,-3.7,94.2,-9.9,104.6,0.5,False
+259,CHI,1998-99,NBA,Chicago Bulls,13,37,0.26,8th of 8,-8.58,88.1,-0.8,92.4,-9.8,103.0,0.8,False
+260,CHI,1997-98,NBA,Chicago Bulls*,62,20,0.756,1st of 8,7.24,89.0,-1.3,107.7,2.7,99.8,-5.2,Won Finals
+261,CHI,1996-97,NBA,Chicago Bulls*,69,13,0.841,1st of 8,10.7,90.0,-0.1,114.4,7.7,102.4,-4.3,Won Finals
+262,CHI,1995-96,NBA,Chicago Bulls*,72,10,0.878,1st of 8,11.8,91.1,-0.7,115.2,7.6,101.8,-5.8,Won Finals
+263,CHI,1994-95,NBA,Chicago Bulls*,47,35,0.573,3rd of 7,4.32,92.0,-0.9,109.5,1.2,104.3,-4.0,Lost E. Conf. Semis
+264,CHI,1993-94,NBA,Chicago Bulls*,55,27,0.671,2nd of 7,2.87,91.9,-3.2,106.1,-0.2,102.7,-3.6,Lost E. Conf. Semis
+265,CHI,1992-93,NBA,Chicago Bulls*,57,25,0.695,1st of 7,6.19,92.5,-4.3,112.9,4.9,106.1,-1.9,Won Finals
+266,CHI,1991-92,NBA,Chicago Bulls*,67,15,0.817,1st of 7,10.07,94.4,-2.2,115.5,7.3,104.5,-3.7,Won Finals
+267,CHI,1990-91,NBA,Chicago Bulls*,61,21,0.744,1st of 7,8.57,95.6,-2.2,114.6,6.7,105.2,-2.7,Won Finals
+268,CHI,1989-90,NBA,Chicago Bulls*,55,27,0.671,2nd of 7,2.74,96.7,-1.6,112.3,4.2,109.0,0.9,Lost E. Conf. Finals
+269,CHI,1988-89,NBA,Chicago Bulls*,47,35,0.573,5th of 6,2.13,97.0,-3.6,109.1,1.3,107.7,-0.1,Lost E. Conf. Finals
+270,CHI,1987-88,NBA,Chicago Bulls*,50,32,0.61,2nd of 6,3.76,95.5,-4.1,109.0,1.0,105.5,-2.5,Lost E. Conf. Semis
+271,CHI,1986-87,NBA,Chicago Bulls*,40,42,0.488,5th of 6,1.26,95.8,-5.0,108.6,0.3,107.6,-0.7,Lost E. Conf. 1st Rnd.
+272,CHI,1985-86,NBA,Chicago Bulls*,30,52,0.366,4th of 6,-3.12,99.7,-2.4,108.6,1.4,112.4,5.2,Lost E. Conf. 1st Rnd.
+273,CHI,1984-85,NBA,Chicago Bulls*,38,44,0.463,3rd of 6,-0.5,99.4,-2.7,108.7,0.8,109.6,1.7,Lost E. Conf. 1st Rnd.
+274,CHI,1983-84,NBA,Chicago Bulls,27,55,0.329,5th of 6,-4.69,99.8,-1.6,102.4,-5.2,107.5,-0.1,False
+275,CHI,1982-83,NBA,Chicago Bulls,28,54,0.341,4th of 6,-4.41,106.1,3.0,103.4,-1.3,108.0,3.3,False
+276,CHI,1981-82,NBA,Chicago Bulls,34,48,0.415,5th of 6,-1.57,99.0,-1.9,106.6,-0.3,108.6,1.7,False
+277,CHI,1980-81,NBA,Chicago Bulls*,45,37,0.549,2nd of 6,2.34,100.6,-1.2,107.8,2.3,105.8,0.3,Lost E. Conf. Semis
+278,CHI,1979-80,NBA,Chicago Bulls,30,52,0.366,4th of 5,-2.63,101.8,-1.3,104.3,-1.0,107.0,1.7,False
+279,CHI,1978-79,NBA,Chicago Bulls,31,51,0.378,5th of 5,-3.78,102.9,-2.9,101.3,-2.5,105.1,1.3,False
+280,CHI,1977-78,NBA,Chicago Bulls,40,42,0.488,3rd of 6,-0.79,101.5,-5.2,102.0,1.1,102.9,2.0,False
+281,CHI,1976-77,NBA,Chicago Bulls*,44,38,0.537,3rd of 6,0.92,100.0,-6.5,98.3,-1.2,97.4,-2.1,Lost W. Conf. 1st Rnd.
+282,CHI,1975-76,NBA,Chicago Bulls,24,58,0.293,4th of 4,-2.89,100.3,-5.2,95.2,-3.1,98.0,-0.3,False
+283,CHI,1974-75,NBA,Chicago Bulls*,47,35,0.573,1st of 4,2.88,99.7,-4.8,97.4,-0.3,94.4,-3.3,Lost W. Conf. Finals
+284,CHI,1973-74,NBA,Chicago Bulls*,54,28,0.659,2nd of 4,3.2,105.0,-2.8,96.7,-1.0,93.6,-4.1,Lost W. Conf. Finals
+285,CHI,1972-73,NBA,Chicago Bulls*,51,31,0.622,2nd of 4,3.43,104.5,-6.2,98.9,2.1,95.6,-1.2,Lost W. Conf. Semis
+286,CHI,1971-72,NBA,Chicago Bulls*,57,25,0.695,2nd of 4,7.91,108.6,-3.4,101.9,4.0,94.3,-3.6,Lost W. Conf. Semis
+287,CHI,1970-71,NBA,Chicago Bulls*,51,31,0.622,2nd of 4,5.47,109.7,-5.4,100.5,3.3,95.7,-1.5,Lost W. Conf. Semis
+288,CHI,1969-70,NBA,Chicago Bulls*,39,43,0.476,3rd of 7,-1.71,116.5,-0.6,97.6,-1.4,99.1,0.1,Lost W. Div. Semis
+289,CHI,1968-69,NBA,Chicago Bulls,33,49,0.402,5th of 7,-2.11,113.4,-3.5,92.0,-3.5,94.0,-1.5,False
+290,CHI,1967-68,NBA,Chicago Bulls*,29,53,0.354,4th of 6,-3.76,115.7,-4.1,94.1,-2.7,97.5,0.7,Lost W. Div. Semis
+291,CHI,1966-67,NBA,Chicago Bulls*,33,48,0.407,4th of 5,-3.37,122.2,0.6,92.3,-3.8,95.4,-0.7,Lost W. Div. Semis
+292,CLE,2021-22,NBA,Cleveland Cavaliers,44,38,0.537,3rd of 5,2.04,96.1,-2.1,111.9,-0.1,109.7,-2.3,False
+293,CLE,2020-21,NBA,Cleveland Cavaliers,22,50,0.306,4th of 5,-8.19,97.3,-1.9,105.8,-6.5,114.4,2.1,False
+294,CLE,2019-20,NBA,Cleveland Cavaliers,19,46,0.292,5th of 5,-7.77,98.7,-1.6,107.5,-3.1,115.4,4.8,False
+295,CLE,2018-19,NBA,Cleveland Cavaliers,19,63,0.232,5th of 5,-9.39,96.6,-3.4,107.7,-2.7,117.6,7.2,False
+296,CLE,2017-18,NBA,Cleveland Cavaliers*,50,32,0.61,1st of 5,0.59,98.0,0.7,112.9,4.3,111.9,3.3,Lost Finals
+297,CLE,2016-17,NBA,Cleveland Cavaliers*,51,31,0.622,1st of 5,2.87,96.2,-0.2,113.6,4.8,110.3,1.5,Lost Finals
+298,CLE,2015-16,NBA,Cleveland Cavaliers*,57,25,0.695,1st of 5,5.45,93.3,-2.5,110.9,4.5,104.5,-1.9,Won Finals
+299,CLE,2014-15,NBA,Cleveland Cavaliers*,53,29,0.646,1st of 5,4.08,92.3,-1.6,111.1,5.5,106.3,0.7,Lost Finals
+300,CLE,2013-14,NBA,Cleveland Cavaliers,33,49,0.402,3rd of 5,-3.86,93.1,-0.8,104.2,-2.5,107.7,1.0,False
+301,CLE,2012-13,NBA,Cleveland Cavaliers,24,58,0.293,5th of 5,-4.87,92.3,0.3,104.3,-1.6,109.4,3.5,False
+302,CLE,2011-12,NBA,Cleveland Cavaliers,21,45,0.318,5th of 5,-7.34,91.3,0.0,101.1,-3.5,108.9,4.3,False
+303,CLE,2010-11,NBA,Cleveland Cavaliers,19,63,0.232,5th of 5,-8.88,93.0,0.9,102.2,-5.1,111.8,4.5,False
+304,CLE,2009-10,NBA,Cleveland Cavaliers*,61,21,0.744,1st of 5,6.17,91.4,-1.3,111.2,3.6,104.1,-3.5,Lost E. Conf. Semis
+305,CLE,2008-09,NBA,Cleveland Cavaliers*,66,16,0.805,1st of 5,8.68,88.7,-3.0,112.4,4.1,102.4,-5.9,Lost E. Conf. Finals
+306,CLE,2007-08,NBA,Cleveland Cavaliers*,45,37,0.549,2nd of 5,-0.53,90.2,-2.2,106.0,-1.5,106.4,-1.1,Lost E. Conf. Semis
+307,CLE,2006-07,NBA,Cleveland Cavaliers*,50,32,0.61,2nd of 5,3.33,90.8,-1.1,105.5,-1.0,101.3,-5.2,Lost Finals
+308,CLE,2005-06,NBA,Cleveland Cavaliers*,50,32,0.61,2nd of 5,2.17,89.8,-0.7,107.8,1.6,105.4,-0.8,Lost E. Conf. Semis
+309,CLE,2004-05,NBA,Cleveland Cavaliers,42,40,0.512,4th of 5,0.27,89.7,-1.2,106.6,0.5,105.7,-0.4,False
+310,CLE,2003-04,NBA,Cleveland Cavaliers,35,47,0.427,5th of 8,-3.07,90.8,0.7,101.4,-1.5,104.2,1.3,False
+311,CLE,2002-03,NBA,Cleveland Cavaliers,17,65,0.207,8th of 8,-9.59,94.0,3.0,96.5,-7.1,106.7,3.1,False
+312,CLE,2001-02,NBA,Cleveland Cavaliers,29,53,0.354,7th of 8,-3.52,90.3,-0.4,104.6,0.1,108.2,3.7,False
+313,CLE,2000-01,NBA,Cleveland Cavaliers,30,52,0.366,6th of 8,-4.48,91.2,-0.1,100.3,-2.7,104.9,1.9,False
+314,CLE,1999-00,NBA,Cleveland Cavaliers,32,50,0.39,6th of 8,-3.64,95.7,2.6,100.4,-3.7,104.0,-0.1,False
+315,CLE,1998-99,NBA,Cleveland Cavaliers,22,28,0.44,7th of 8,-0.94,86.4,-2.5,99.6,-2.6,101.6,-0.6,False
+316,CLE,1997-98,NBA,Cleveland Cavaliers*,47,35,0.573,5th of 8,3.06,89.9,-0.4,102.2,-2.8,99.1,-5.9,Lost E. Conf. 1st Rnd.
+317,CLE,1996-97,NBA,Cleveland Cavaliers,42,40,0.512,5th of 8,2.32,82.9,-7.2,104.6,-2.1,102.4,-4.3,False
+318,CLE,1995-96,NBA,Cleveland Cavaliers*,47,35,0.573,3rd of 8,2.49,82.3,-9.5,109.9,2.3,106.7,-0.9,Lost E. Conf. 1st Rnd.
+319,CLE,1994-95,NBA,Cleveland Cavaliers*,43,39,0.524,4th of 7,0.55,84.8,-8.1,105.3,-3.0,104.6,-3.7,Lost E. Conf. 1st Rnd.
+320,CLE,1993-94,NBA,Cleveland Cavaliers*,47,35,0.573,4th of 7,3.64,91.7,-3.4,109.4,3.1,105.1,-1.2,Lost E. Conf. 1st Rnd.
+321,CLE,1992-93,NBA,Cleveland Cavaliers*,54,28,0.659,2nd of 7,6.3,94.8,-2.0,112.7,4.7,106.0,-2.0,Lost E. Conf. Semis
+322,CLE,1991-92,NBA,Cleveland Cavaliers*,57,25,0.695,2nd of 7,5.34,95.0,-1.6,113.9,5.7,108.2,0.0,Lost E. Conf. Finals
+323,CLE,1990-91,NBA,Cleveland Cavaliers,33,49,0.402,6th of 7,-2.33,95.1,-2.7,106.1,-1.8,108.7,0.8,False
+324,CLE,1989-90,NBA,Cleveland Cavaliers*,42,40,0.512,4th of 7,-0.62,95.0,-3.3,106.9,-1.2,107.2,-0.9,Lost E. Conf. 1st Rnd.
+325,CLE,1988-89,NBA,Cleveland Cavaliers*,57,25,0.695,2nd of 6,7.95,98.0,-2.6,110.6,2.8,102.9,-4.9,Lost E. Conf. 1st Rnd.
+326,CLE,1987-88,NBA,Cleveland Cavaliers*,42,40,0.512,5th of 6,1.28,97.3,-2.3,106.8,-1.2,106.0,-2.0,Lost E. Conf. 1st Rnd.
+327,CLE,1986-87,NBA,Cleveland Cavaliers,31,51,0.378,6th of 6,-3.19,101.3,0.5,102.6,-5.7,106.4,-1.9,False
+328,CLE,1985-86,NBA,Cleveland Cavaliers,29,53,0.354,5th of 6,-2.19,101.6,-0.5,105.5,-1.7,108.3,1.1,False
+329,CLE,1984-85,NBA,Cleveland Cavaliers*,36,46,0.439,4th of 6,-2.27,101.9,-0.2,106.0,-1.9,108.7,0.8,Lost E. Conf. 1st Rnd.
+330,CLE,1983-84,NBA,Cleveland Cavaliers,28,54,0.341,4th of 6,-3.71,97.4,-4.0,104.1,-3.5,108.5,0.9,False
+331,CLE,1982-83,NBA,Cleveland Cavaliers,23,59,0.28,5th of 6,-6.78,97.6,-5.5,99.2,-5.5,106.8,2.1,False
+332,CLE,1981-82,NBA,Cleveland Cavaliers,15,67,0.183,6th of 6,-7.77,99.3,-1.6,103.3,-3.6,111.8,4.9,False
+333,CLE,1980-81,NBA,Cleveland Cavaliers,28,54,0.341,5th of 6,-4.15,100.8,-1.0,104.3,-1.2,109.1,3.6,False
+334,CLE,1979-80,NBA,Cleveland Cavaliers,37,45,0.451,5th of 6,0.43,105.6,2.5,106.7,1.4,106.4,1.1,False
+335,CLE,1978-79,NBA,Cleveland Cavaliers,30,52,0.366,5th of 6,-3.57,102.7,-3.1,103.7,-0.1,107.3,3.5,False
+336,CLE,1977-78,NBA,Cleveland Cavaliers*,43,39,0.524,3rd of 6,0.44,103.5,-3.2,99.9,-1.0,99.4,-1.5,Lost E. Conf. 1st Rnd.
+337,CLE,1976-77,NBA,Cleveland Cavaliers*,43,39,0.524,4th of 6,1.08,101.5,-5.0,100.0,0.5,98.9,-0.6,Lost E. Conf. 1st Rnd.
+338,CLE,1975-76,NBA,Cleveland Cavaliers*,49,33,0.598,1st of 5,2.34,101.6,-3.9,99.5,1.2,97.0,-1.3,Lost E. Conf. Finals
+339,CLE,1974-75,NBA,Cleveland Cavaliers,40,42,0.488,3rd of 5,-0.31,100.4,-4.1,97.6,-0.1,98.0,0.3,False
+340,CLE,1973-74,NBA,Cleveland Cavaliers,29,53,0.354,4th of 4,-4.16,104.1,-3.7,96.0,-1.7,100.1,2.4,False
+341,CLE,1972-73,NBA,Cleveland Cavaliers,32,50,0.39,4th of 4,-2.64,108.3,-2.4,94.0,-2.8,96.5,-0.3,False
+342,CLE,1971-72,NBA,Cleveland Cavaliers,23,59,0.28,4th of 4,-7.9,111.5,-0.5,94.5,-3.4,101.4,3.5,False
+343,CLE,1970-71,NBA,Cleveland Cavaliers,15,67,0.183,4th of 4,-12.04,110.6,-4.5,92.3,-4.9,102.4,5.2,False
+344,DAL,2021-22,NBA,Dallas Mavericks*,52,30,0.634,2nd of 5,3.12,95.4,-2.8,112.8,0.8,109.4,-2.6,Lost W. Conf. Finals
+345,DAL,2020-21,NBA,Dallas Mavericks*,42,30,0.583,1st of 5,2.26,97.3,-1.9,115.4,3.1,113.0,0.7,Lost W. Conf. 1st Rnd.
+346,DAL,2019-20,NBA,Dallas Mavericks*,43,32,0.573,2nd of 5,4.87,99.3,-1.0,116.7,6.1,111.7,1.1,Lost W. Conf. 1st Rnd.
+347,DAL,2018-19,NBA,Dallas Mavericks,33,49,0.402,5th of 5,-0.87,99.0,-1.0,109.4,-1.0,110.7,0.3,False
+348,DAL,2017-18,NBA,Dallas Mavericks,24,58,0.293,4th of 5,-2.7,95.6,-1.7,106.3,-2.3,109.5,0.9,False
+349,DAL,2016-17,NBA,Dallas Mavericks,33,49,0.402,5th of 5,-2.53,92.2,-4.2,105.6,-3.2,108.8,0.0,False
+350,DAL,2015-16,NBA,Dallas Mavericks*,42,40,0.512,2nd of 5,-0.02,94.3,-1.5,106.7,0.3,107.0,0.6,Lost W. Conf. 1st Rnd.
+351,DAL,2014-15,NBA,Dallas Mavericks*,50,32,0.61,4th of 5,3.36,95.2,1.3,109.5,3.9,106.4,0.8,Lost W. Conf. 1st Rnd.
+352,DAL,2013-14,NBA,Dallas Mavericks*,49,33,0.598,4th of 5,2.91,93.5,-0.4,111.2,4.5,108.7,2.0,Lost W. Conf. 1st Rnd.
+353,DAL,2012-13,NBA,Dallas Mavericks,41,41,0.5,4th of 5,-0.24,94.1,2.1,105.9,0.0,106.5,0.6,False
+354,DAL,2011-12,NBA,Dallas Mavericks*,36,30,0.545,3rd of 5,1.78,91.4,0.1,103.3,-1.3,102.3,-2.3,Lost W. Conf. 1st Rnd.
+355,DAL,2010-11,NBA,Dallas Mavericks*,57,25,0.695,2nd of 5,4.41,91.3,-0.8,109.7,2.4,105.0,-2.3,Won Finals
+356,DAL,2009-10,NBA,Dallas Mavericks*,55,27,0.671,1st of 5,2.66,92.5,-0.2,109.2,1.6,106.3,-1.3,Lost W. Conf. 1st Rnd.
+357,DAL,2008-09,NBA,Dallas Mavericks*,50,32,0.61,3rd of 5,1.68,91.5,-0.2,110.5,2.2,108.4,0.1,Lost W. Conf. Semis
+358,DAL,2007-08,NBA,Dallas Mavericks*,51,31,0.622,4th of 5,4.7,90.2,-2.2,111.1,3.6,106.1,-1.4,Lost W. Conf. 1st Rnd.
+359,DAL,2006-07,NBA,Dallas Mavericks*,67,15,0.817,1st of 5,7.28,89.5,-2.4,111.3,4.8,103.2,-3.3,Lost W. Conf. 1st Rnd.
+360,DAL,2005-06,NBA,Dallas Mavericks*,60,22,0.732,2nd of 5,5.96,87.8,-2.7,111.8,5.6,105.0,-1.2,Lost Finals
+361,DAL,2004-05,NBA,Dallas Mavericks*,58,24,0.707,2nd of 5,5.86,92.7,1.8,110.3,4.2,104.1,-2.0,Lost W. Conf. Semis
+362,DAL,2003-04,NBA,Dallas Mavericks*,52,30,0.634,3rd of 7,4.86,93.2,3.1,112.1,9.2,107.4,4.5,Lost W. Conf. 1st Rnd.
+363,DAL,2002-03,NBA,Dallas Mavericks*,60,22,0.732,2nd of 7,7.9,92.5,1.5,110.7,7.1,102.3,-1.3,Lost W. Conf. Finals
+364,DAL,2001-02,NBA,Dallas Mavericks*,57,25,0.695,2nd of 7,4.41,92.8,2.1,112.2,7.7,107.7,3.2,Lost W. Conf. Semis
+365,DAL,2000-01,NBA,Dallas Mavericks*,53,29,0.646,3rd of 7,4.61,93.2,1.9,107.1,4.1,102.6,-0.4,Lost W. Conf. Semis
+366,DAL,1999-00,NBA,Dallas Mavericks,40,42,0.488,4th of 7,-0.29,94.9,1.8,106.6,2.5,107.2,3.1,False
+367,DAL,1998-99,NBA,Dallas Mavericks,19,31,0.38,5th of 7,-2.5,89.0,0.1,102.3,0.1,104.9,2.7,False
+368,DAL,1997-98,NBA,Dallas Mavericks,20,62,0.244,5th of 7,-6.33,89.9,-0.4,100.5,-4.5,107.2,2.2,False
+369,DAL,1996-97,NBA,Dallas Mavericks,24,58,0.293,4th of 7,-6.47,89.0,-1.1,101.1,-5.6,108.2,1.5,False
+370,DAL,1995-96,NBA,Dallas Mavericks,26,56,0.317,6th of 7,-4.71,95.4,3.6,106.1,-1.5,111.2,3.6,False
+371,DAL,1994-95,NBA,Dallas Mavericks,36,46,0.439,5th of 6,-2.39,94.7,1.8,107.6,-0.7,110.6,2.3,False
+372,DAL,1993-94,NBA,Dallas Mavericks,13,69,0.159,6th of 6,-8.19,94.5,-0.6,100.4,-5.9,109.6,3.3,False
+373,DAL,1992-93,NBA,Dallas Mavericks,11,71,0.134,6th of 6,-14.68,99.5,2.7,99.5,-8.5,114.7,6.7,False
+374,DAL,1991-92,NBA,Dallas Mavericks,22,60,0.268,5th of 6,-7.47,94.4,-2.2,103.0,-5.2,111.1,2.9,False
+375,DAL,1990-91,NBA,Dallas Mavericks,28,54,0.341,6th of 7,-4.27,94.2,-3.6,105.5,-2.4,110.3,2.4,False
+376,DAL,1989-90,NBA,Dallas Mavericks*,47,35,0.573,3rd of 7,0.42,94.5,-3.8,107.2,-0.9,107.2,-0.9,Lost W. Conf. 1st Rnd.
+377,DAL,1988-89,NBA,Dallas Mavericks,38,44,0.463,4th of 6,-1.79,95.9,-4.7,107.4,-0.4,108.6,0.8,False
+378,DAL,1987-88,NBA,Dallas Mavericks*,53,29,0.646,2nd of 6,3.59,97.0,-2.6,112.2,4.2,107.7,-0.3,Lost W. Conf. Finals
+379,DAL,1986-87,NBA,Dallas Mavericks*,55,27,0.671,1st of 6,5.54,100.5,-0.3,114.9,6.6,108.7,0.4,Lost W. Conf. 1st Rnd.
+380,DAL,1985-86,NBA,Dallas Mavericks*,44,38,0.537,3rd of 6,0.7,102.2,0.1,112.1,4.9,111.0,3.8,Lost W. Conf. Semis
+381,DAL,1984-85,NBA,Dallas Mavericks*,44,38,0.537,3rd of 6,1.8,98.8,-3.3,111.5,3.6,109.3,1.4,Lost W. Conf. 1st Rnd.
+382,DAL,1983-84,NBA,Dallas Mavericks*,43,39,0.524,2nd of 6,0.15,99.0,-2.4,110.0,2.4,109.6,2.0,Lost W. Conf. Semis
+383,DAL,1982-83,NBA,Dallas Mavericks,38,44,0.463,4th of 6,-0.7,102.8,-0.3,109.4,4.7,109.8,5.1,False
+384,DAL,1981-82,NBA,Dallas Mavericks,28,54,0.341,5th of 6,-4.48,98.5,-2.4,105.9,-1.0,110.4,3.5,False
+385,DAL,1980-81,NBA,Dallas Mavericks,15,67,0.183,6th of 6,-8.33,98.6,-3.2,102.4,-3.1,110.8,5.3,False
+386,DEN,2021-22,NBA,Denver Nuggets*,48,34,0.585,2nd of 5,2.16,97.8,-0.4,114.5,2.5,112.1,0.1,Lost W. Conf. 1st Rnd.
+387,DEN,2020-21,NBA,Denver Nuggets*,47,25,0.653,2nd of 5,4.82,97.1,-2.1,117.1,4.8,112.1,-0.2,Lost W. Conf. Semis
+388,DEN,2019-20,NBA,Denver Nuggets*,46,27,0.63,1st of 5,2.35,97.1,-3.2,113.1,2.5,111.0,0.4,Lost W. Conf. Finals
+389,DEN,2018-19,NBA,Denver Nuggets*,54,28,0.659,1st of 5,4.19,97.7,-2.3,113.0,2.6,108.9,-1.5,Lost W. Conf. Semis
+390,DEN,2017-18,NBA,Denver Nuggets,46,36,0.561,5th of 5,1.57,96.8,-0.5,112.5,3.9,111.0,2.4,False
+391,DEN,2016-17,NBA,Denver Nuggets,40,42,0.488,4th of 5,0.7,98.3,1.9,113.2,4.4,112.7,3.9,False
+392,DEN,2015-16,NBA,Denver Nuggets,33,49,0.402,4th of 5,-2.81,95.7,-0.1,105.6,-0.8,108.9,2.5,False
+393,DEN,2014-15,NBA,Denver Nuggets,30,52,0.366,4th of 5,-3.07,96.1,2.2,104.5,-1.1,108.2,2.6,False
+394,DEN,2013-14,NBA,Denver Nuggets,36,46,0.439,4th of 5,-1.4,98.1,4.2,106.0,-0.7,108.2,1.5,False
+395,DEN,2012-13,NBA,Denver Nuggets*,57,25,0.695,2nd of 5,5.37,95.1,3.1,110.4,4.5,105.1,-0.8,Lost W. Conf. 1st Rnd.
+396,DEN,2011-12,NBA,Denver Nuggets*,38,28,0.576,2nd of 5,3.16,94.2,2.9,109.2,4.6,106.2,1.6,Lost W. Conf. 1st Rnd.
+397,DEN,2010-11,NBA,Denver Nuggets*,50,32,0.61,2nd of 5,4.81,95.6,3.5,112.3,5.0,107.3,0.0,Lost W. Conf. 1st Rnd.
+398,DEN,2009-10,NBA,Denver Nuggets*,53,29,0.646,1st of 5,4.15,94.8,2.1,111.8,4.2,107.5,-0.1,Lost W. Conf. 1st Rnd.
+399,DEN,2008-09,NBA,Denver Nuggets*,54,28,0.659,1st of 5,3.13,94.3,2.6,110.4,2.1,106.8,-1.5,Lost W. Conf. Finals
+400,DEN,2007-08,NBA,Denver Nuggets*,50,32,0.61,2nd of 5,3.74,99.7,7.3,110.0,2.5,106.3,-1.2,Lost W. Conf. 1st Rnd.
+401,DEN,2006-07,NBA,Denver Nuggets*,45,37,0.549,2nd of 5,1.69,97.4,5.5,107.6,1.1,105.9,-0.6,Lost W. Conf. 1st Rnd.
+402,DEN,2005-06,NBA,Denver Nuggets*,44,38,0.537,1st of 5,0.36,93.9,3.4,105.5,-0.7,105.2,-1.0,Lost W. Conf. 1st Rnd.
+403,DEN,2004-05,NBA,Denver Nuggets*,49,33,0.598,2nd of 5,2.23,93.5,2.6,106.0,-0.1,103.9,-2.2,Lost W. Conf. 1st Rnd.
+404,DEN,2003-04,NBA,Denver Nuggets*,43,39,0.524,6th of 7,1.65,93.3,3.2,103.9,1.0,102.7,-0.2,Lost W. Conf. 1st Rnd.
+405,DEN,2002-03,NBA,Denver Nuggets,17,65,0.207,7th of 7,-7.41,91.0,0.0,92.2,-11.4,101.3,-2.3,False
+406,DEN,2001-02,NBA,Denver Nuggets,27,55,0.329,6th of 7,-5.19,90.4,-0.3,101.4,-3.1,107.8,3.3,False
+407,DEN,2000-01,NBA,Denver Nuggets,40,42,0.488,6th of 7,-1.83,92.6,1.3,103.7,0.7,106.3,3.3,False
+408,DEN,1999-00,NBA,Denver Nuggets,35,47,0.427,5th of 7,-1.76,94.7,1.6,103.5,-0.6,105.8,1.7,False
+409,DEN,1998-99,NBA,Denver Nuggets,14,36,0.28,6th of 7,-6.67,90.5,1.6,103.1,0.9,110.4,8.2,False
+410,DEN,1997-98,NBA,Denver Nuggets,11,71,0.134,7th of 7,-11.74,89.7,-0.6,99.0,-6.0,112.1,7.1,False
+411,DEN,1996-97,NBA,Denver Nuggets,21,61,0.256,5th of 7,-6.4,92.4,2.3,104.5,-2.2,111.2,4.5,False
+412,DEN,1995-96,NBA,Denver Nuggets,35,47,0.427,4th of 7,-2.62,92.2,0.4,105.2,-2.4,108.1,0.5,False
+413,DEN,1994-95,NBA,Denver Nuggets*,41,41,0.5,4th of 6,0.96,91.5,-1.4,109.1,0.8,108.2,-0.1,Lost W. Conf. 1st Rnd.
+414,DEN,1993-94,NBA,Denver Nuggets*,42,40,0.512,4th of 6,1.54,96.1,1.0,103.9,-2.4,102.3,-4.0,Lost W. Conf. Semis
+415,DEN,1992-93,NBA,Denver Nuggets,36,46,0.439,4th of 6,-2.14,99.8,3.0,104.6,-3.4,106.3,-1.7,False
+416,DEN,1991-92,NBA,Denver Nuggets,24,58,0.293,4th of 6,-7.59,98.6,2.0,100.7,-7.5,108.6,0.4,False
+417,DEN,1990-91,NBA,Denver Nuggets,20,62,0.244,7th of 7,-10.31,113.7,15.9,105.2,-2.7,114.7,6.8,False
+418,DEN,1989-90,NBA,Denver Nuggets*,43,39,0.524,4th of 7,1.56,105.4,7.1,108.0,-0.1,106.7,-1.4,Lost W. Conf. 1st Rnd.
+419,DEN,1988-89,NBA,Denver Nuggets*,44,38,0.537,3rd of 6,0.91,107.5,6.9,108.6,0.8,107.1,-0.7,Lost W. Conf. 1st Rnd.
+420,DEN,1987-88,NBA,Denver Nuggets*,54,28,0.659,1st of 6,3.32,105.5,5.9,110.1,2.1,106.3,-1.7,Lost W. Conf. Semis
+421,DEN,1986-87,NBA,Denver Nuggets*,37,45,0.451,4th of 6,-1.14,106.2,5.4,109.3,1.0,110.2,1.9,Lost W. Conf. 1st Rnd.
+422,DEN,1985-86,NBA,Denver Nuggets*,47,35,0.573,2nd of 6,0.89,106.7,4.6,107.1,-0.1,105.9,-1.3,Lost W. Conf. Semis
+423,DEN,1984-85,NBA,Denver Nuggets*,52,30,0.634,1st of 6,2.05,107.6,5.5,110.7,2.8,108.4,0.5,Lost W. Conf. Finals
+424,DEN,1983-84,NBA,Denver Nuggets*,38,44,0.463,3rd of 6,-1.27,110.5,9.1,111.3,3.7,112.3,4.7,Lost W. Conf. 1st Rnd.
+425,DEN,1982-83,NBA,Denver Nuggets*,45,37,0.549,2nd of 6,0.27,112.1,9.0,109.7,5.0,109.1,4.4,Lost W. Conf. Semis
+426,DEN,1981-82,NBA,Denver Nuggets*,46,36,0.561,2nd of 6,0.13,109.8,8.9,114.3,7.4,113.9,7.0,Lost W. Conf. 1st Rnd.
+427,DEN,1980-81,NBA,Denver Nuggets,37,45,0.451,4th of 6,-0.95,109.8,8.0,109.4,3.9,109.8,4.3,False
+428,DEN,1979-80,NBA,Denver Nuggets,30,52,0.366,3rd of 5,-4.22,103.9,0.8,103.4,-1.9,107.6,2.3,False
+429,DEN,1978-79,NBA,Denver Nuggets*,47,35,0.573,2nd of 5,1.24,105.9,0.1,104.4,0.6,103.2,-0.6,Lost W. Conf. 1st Rnd.
+430,DEN,1977-78,NBA,Denver Nuggets*,48,34,0.585,1st of 6,0.8,108.5,1.8,102.3,1.4,101.5,0.6,Lost W. Conf. Finals
+431,DEN,1976-77,NBA,Denver Nuggets*,50,32,0.61,1st of 6,4.95,111.2,4.7,100.7,1.2,96.1,-3.4,Lost W. Conf. Semis
+432,DEN,1975-76,ABA,Denver Nuggets*,60,24,0.714,1st of 0,5.45,111.2,4.3,108.7,4.6,103.4,-0.7,Lost Finals
+433,DEN,1974-75,ABA,Denver Nuggets*,65,19,0.774,1st of 5,6.63,107.6,4.5,109.4,4.7,102.7,-2.0,Lost W. Div. Finals
+434,DEN,1973-74,ABA,Denver Rockets*,37,47,0.44,5th of 5,-0.49,103.2,0.6,103.1,0.1,103.5,0.5,Lost W. Div. Tiebreaker
+435,DEN,1972-73,ABA,Denver Rockets*,47,37,0.56,3rd of 5,2.8,106.8,-2.5,103.1,1.3,100.1,-1.7,Lost W. Div. Semis
+436,DEN,1971-72,ABA,Denver Rockets*,34,50,0.405,4th of 5,-0.93,112.8,0.9,98.4,-2.2,99.5,-1.1,Lost W. Div. Semis
+437,DEN,1970-71,ABA,Denver Rockets*,30,54,0.357,5th of 5,-3.15,113.9,2.8,102.8,-2.2,106.3,1.3,Lost W. Div. Tiebreaker
+438,DEN,1969-70,ABA,Denver Rockets*,51,33,0.607,1st of 5,4.32,107.6,-1.6,106.2,3.5,102.2,-0.5,Lost W. Div. Finals
+439,DEN,1968-69,ABA,Denver Rockets*,44,34,0.564,3rd of 6,1.41,106.9,-2.5,106.4,2.4,105.0,1.0,Lost W. Div. Semis
+440,DEN,1967-68,ABA,Denver Rockets*,45,33,0.577,3rd of 6,3.53,103.0,-4.0,102.0,0.7,97.9,-3.4,Lost W. Div. Semis
+441,DET,2021-22,NBA,Detroit Pistons,23,59,0.28,5th of 5,-7.36,98.4,0.2,106.0,-6.0,113.8,1.8,False
+442,DET,2020-21,NBA,Detroit Pistons,20,52,0.278,5th of 5,-4.38,97.9,-1.3,108.0,-4.3,112.5,0.2,False
+443,DET,2019-20,NBA,Detroit Pistons,20,46,0.303,4th of 5,-4.38,97.6,-2.7,109.0,-1.6,112.7,2.1,False
+444,DET,2018-19,NBA,Detroit Pistons*,41,41,0.5,3rd of 5,-0.56,97.4,-2.6,109.0,-1.4,109.2,-1.2,Lost E. Conf. 1st Rnd.
+445,DET,2017-18,NBA,Detroit Pistons,39,43,0.476,4th of 5,-0.26,96.2,-1.1,107.2,-1.4,107.3,-1.3,False
+446,DET,2016-17,NBA,Detroit Pistons,37,45,0.451,5th of 5,-1.29,95.0,-1.4,106.0,-2.8,107.1,-1.7,False
+447,DET,2015-16,NBA,Detroit Pistons*,44,38,0.537,3rd of 5,0.43,95.1,-0.7,106.1,-0.3,105.5,-0.9,Lost E. Conf. 1st Rnd.
+448,DET,2014-15,NBA,Detroit Pistons,32,50,0.39,5th of 5,-1.39,92.8,-1.1,105.3,-0.3,106.4,0.8,False
+449,DET,2013-14,NBA,Detroit Pistons,29,53,0.354,4th of 5,-4.13,94.9,1.0,105.9,-0.8,109.7,3.0,False
+450,DET,2012-13,NBA,Detroit Pistons,29,53,0.354,4th of 5,-4.33,90.8,-1.2,103.8,-2.1,108.1,2.2,False
+451,DET,2011-12,NBA,Detroit Pistons,25,41,0.379,4th of 5,-5.19,89.2,-2.1,101.0,-3.6,106.3,1.7,False
+452,DET,2010-11,NBA,Detroit Pistons,30,52,0.366,4th of 5,-3.78,89.2,-2.9,107.7,0.4,111.7,4.4,False
+453,DET,2009-10,NBA,Detroit Pistons,27,55,0.329,5th of 5,-5.02,88.5,-4.2,105.6,-2.0,111.4,3.8,False
+454,DET,2008-09,NBA,Detroit Pistons*,39,43,0.476,3rd of 5,-0.36,86.7,-5.0,107.4,-0.9,108.0,-0.3,Lost E. Conf. 1st Rnd.
+455,DET,2007-08,NBA,Detroit Pistons*,59,23,0.72,1st of 5,6.67,87.3,-5.1,111.4,3.9,102.9,-4.6,Lost E. Conf. Finals
+456,DET,2006-07,NBA,Detroit Pistons*,53,29,0.646,1st of 5,3.69,87.3,-4.6,108.9,2.4,104.2,-2.3,Lost E. Conf. Finals
+457,DET,2005-06,NBA,Detroit Pistons*,64,18,0.78,1st of 5,6.24,86.8,-3.7,110.8,4.6,103.1,-3.1,Lost E. Conf. Finals
+458,DET,2004-05,NBA,Detroit Pistons*,54,28,0.659,1st of 5,3.31,87.2,-3.7,105.6,-0.5,101.2,-4.9,Lost Finals
+459,DET,2003-04,NBA,Detroit Pistons*,54,28,0.659,2nd of 8,5.04,87.9,-2.2,102.0,-0.9,95.4,-7.5,Won Finals
+460,DET,2002-03,NBA,Detroit Pistons*,50,32,0.61,1st of 8,2.97,86.8,-4.2,104.1,0.5,99.9,-3.7,Lost E. Conf. Finals
+461,DET,2001-02,NBA,Detroit Pistons*,50,32,0.61,1st of 8,1.69,90.0,-0.7,104.8,0.3,102.4,-2.1,Lost E. Conf. Semis
+462,DET,2000-01,NBA,Detroit Pistons,32,50,0.39,5th of 8,-2.08,94.7,3.4,100.0,-3.0,101.8,-1.2,False
+463,DET,1999-00,NBA,Detroit Pistons*,42,40,0.512,4th of 8,1.13,95.7,2.6,107.3,3.2,105.8,1.7,Lost E. Conf. 1st Rnd.
+464,DET,1998-99,NBA,Detroit Pistons*,29,21,0.58,3rd of 8,3.97,86.3,-2.6,104.2,2.0,100.3,-1.9,Lost E. Conf. 1st Rnd.
+465,DET,1997-98,NBA,Detroit Pistons,37,45,0.451,6th of 8,1.95,88.2,-2.1,105.3,0.3,103.5,-1.5,False
+466,DET,1996-97,NBA,Detroit Pistons*,54,28,0.659,3rd of 8,5.45,84.5,-5.6,110.6,3.9,104.4,-2.3,Lost E. Conf. 1st Rnd.
+467,DET,1995-96,NBA,Detroit Pistons*,46,36,0.561,5th of 8,2.45,87.7,-4.1,107.9,0.3,105.1,-2.5,Lost E. Conf. 1st Rnd.
+468,DET,1994-95,NBA,Detroit Pistons,28,54,0.341,7th of 7,-7.08,93.2,0.3,105.1,-3.2,112.9,4.6,False
+469,DET,1993-94,NBA,Detroit Pistons,20,62,0.244,7th of 7,-7.46,94.2,-0.9,102.7,-3.6,110.9,4.6,False
+470,DET,1992-93,NBA,Detroit Pistons,40,42,0.488,6th of 7,-1.1,93.2,-3.6,107.4,-0.6,108.9,0.9,False
+471,DET,1991-92,NBA,Detroit Pistons*,48,34,0.585,3rd of 7,2.06,91.6,-5.0,107.5,-0.7,105.3,-2.9,Lost E. Conf. 1st Rnd.
+472,DET,1990-91,NBA,Detroit Pistons*,50,32,0.61,2nd of 7,3.08,91.9,-5.9,108.2,0.3,104.6,-3.3,Lost E. Conf. Finals
+473,DET,1989-90,NBA,Detroit Pistons*,59,23,0.72,1st of 7,5.41,94.4,-3.9,109.9,1.8,103.5,-4.6,Won Finals
+474,DET,1988-89,NBA,Detroit Pistons*,63,19,0.768,1st of 6,6.24,95.5,-5.1,110.8,3.0,104.7,-3.1,Won Finals
+475,DET,1987-88,NBA,Detroit Pistons*,54,28,0.659,1st of 6,5.46,98.3,-1.3,110.5,2.5,105.3,-2.7,Lost Finals
+476,DET,1986-87,NBA,Detroit Pistons*,52,30,0.634,2nd of 6,3.51,101.0,0.2,109.2,0.9,105.8,-2.5,Lost E. Conf. Finals
+477,DET,1985-86,NBA,Detroit Pistons*,46,36,0.561,3rd of 6,1.44,104.2,2.1,109.0,1.8,107.9,0.7,Lost E. Conf. 1st Rnd.
+478,DET,1984-85,NBA,Detroit Pistons*,46,36,0.561,2nd of 6,2.73,105.0,2.9,109.6,1.7,107.2,-0.7,Lost E. Conf. Semis
+479,DET,1983-84,NBA,Detroit Pistons*,49,33,0.598,2nd of 6,3.52,103.8,2.4,111.5,3.9,108.1,0.5,Lost E. Conf. 1st Rnd.
+480,DET,1982-83,NBA,Detroit Pistons,37,45,0.451,3rd of 6,-0.17,105.8,2.7,105.4,0.7,105.8,1.1,False
+481,DET,1981-82,NBA,Detroit Pistons,39,43,0.476,3rd of 6,-0.63,104.3,3.4,105.8,-1.1,106.6,-0.3,False
+482,DET,1980-81,NBA,Detroit Pistons,21,61,0.256,6th of 6,-5.58,101.2,-0.6,98.1,-7.4,104.3,-1.2,False
+483,DET,1979-80,NBA,Detroit Pistons,16,66,0.195,6th of 6,-7.57,107.1,4.0,101.2,-4.1,108.8,3.5,False
+484,DET,1978-79,NBA,Detroit Pistons,30,52,0.366,4th of 6,-2.6,107.2,1.4,102.1,-1.7,104.6,0.8,False
+485,DET,1977-78,NBA,Detroit Pistons,38,44,0.463,4th of 6,-1.22,107.7,1.0,100.3,-0.6,101.5,0.6,False
+486,DET,1976-77,NBA,Detroit Pistons*,44,38,0.537,2nd of 6,-1.0,108.8,2.3,100.3,0.8,101.3,1.8,Lost W. Conf. 1st Rnd.
+487,DET,1975-76,NBA,Detroit Pistons*,36,46,0.439,2nd of 4,-1.18,105.2,-0.3,99.2,0.9,100.2,1.9,Lost W. Conf. Semis
+488,DET,1974-75,NBA,Detroit Pistons*,40,42,0.488,3rd of 4,-1.19,100.5,-4.0,98.3,0.6,99.7,2.0,Lost W. Conf. 1st Rnd.
+489,DET,1973-74,NBA,Detroit Pistons*,52,30,0.634,3rd of 4,4.02,106.5,-1.3,97.6,-0.1,93.8,-3.9,Lost W. Conf. Semis
+490,DET,1972-73,NBA,Detroit Pistons,40,42,0.488,3rd of 4,0.54,111.5,0.8,98.4,1.6,98.2,1.4,False
+491,DET,1971-72,NBA,Detroit Pistons,26,56,0.317,4th of 4,-6.11,112.8,0.8,96.1,-1.8,102.2,4.3,False
+492,DET,1970-71,NBA,Detroit Pistons,45,37,0.549,4th of 4,-0.33,111.3,-3.8,98.1,0.9,98.7,1.5,False
+493,DET,1969-70,NBA,Detroit Pistons,31,51,0.378,7th of 7,-2.94,111.6,-5.5,100.1,1.1,103.1,4.1,False
+494,DET,1968-69,NBA,Detroit Pistons,32,50,0.39,6th of 7,-2.79,116.8,-0.1,97.3,1.8,100.0,4.5,False
+495,DET,1967-68,NBA,Detroit Pistons*,40,42,0.488,4th of 6,-1.7,122.0,2.2,96.7,-0.1,98.4,1.6,Lost E. Div. Semis
+496,DET,1966-67,NBA,Detroit Pistons,30,51,0.37,5th of 5,-4.98,121.5,-0.1,90.9,-5.2,95.4,-0.7,False
+497,DET,1965-66,NBA,Detroit Pistons,22,58,0.275,5th of 5,-6.07,123.4,2.0,89.4,-5.5,94.9,0.0,False
+498,DET,1964-65,NBA,Detroit Pistons,31,49,0.388,4th of 5,-3.03,119.2,1.9,90.5,-3.1,93.3,-0.3,False
+499,DET,1963-64,NBA,Detroit Pistons,23,57,0.288,5th of 5,-6.77,115.9,2.7,92.5,-2.1,99.1,4.5,False
+500,DET,1962-63,NBA,Detroit Pistons*,34,46,0.425,3rd of 5,-3.38,120.3,5.3,94.2,-1.7,97.3,1.4,Lost W. Div. Semis
+501,DET,1961-62,NBA,Detroit Pistons*,37,43,0.463,3rd of 5,-1.72,124.1,2.8,92.8,-0.8,94.2,0.6,Lost W. Div. Finals
+502,DET,1960-61,NBA,Detroit Pistons*,34,45,0.43,3rd of 4,-2.11,126.0,2.5,93.8,1.7,95.6,3.5,Lost W. Div. Semis
+503,DET,1959-60,NBA,Detroit Pistons*,30,45,0.4,2nd of 4,-3.45,123.1,0.8,89.8,-1.3,92.6,1.5,Lost W. Div. Semis
+504,DET,1958-59,NBA,Detroit Pistons*,28,44,0.389,3rd of 4,-1.36,117.8,5.8,88.4,-1.8,89.4,-0.8,Lost W. Div. Semis
+505,DET,1957-58,NBA,Detroit Pistons*,33,39,0.458,2nd of 4,-2.32,118.8,1.8,88.2,-0.6,90.1,1.3,Lost W. Div. Finals
+506,DET,1956-57,NBA,Fort Wayne Pistons*,34,38,0.472,3rd of 4,-2.18,107.7,2.8,88.8,-0.1,91.0,2.1,Lost W. Div. Semis
+507,DET,1955-56,NBA,Fort Wayne Pistons*,37,35,0.514,1st of 4,0.45,103.2,0.4,90.7,0.4,90.0,-0.3,Lost Finals
+508,DET,1954-55,NBA,Fort Wayne Pistons*,43,29,0.597,1st of 4,2.01,100.7,2.6,91.2,1.4,88.9,-0.9,Lost Finals
+509,DET,1953-54,NBA,Fort Wayne Pistons*,40,32,0.556,3rd of 4,1.45,86.9,3.3,89.0,1.5,87.2,-0.3,Eliminated in W. Div. Rnd. Robin
+510,DET,1952-53,NBA,Fort Wayne Pistons*,36,33,0.522,3rd of 5,0.17,91.1,10.7,87.6,-0.4,87.7,0.0,Lost W. Div. Finals
+511,DET,1951-52,NBA,Fort Wayne Pistons*,29,37,0.439,4th of 5,-1.83,90.1,4.3,85.6,-1.3,87.9,1.0,Lost W. Div. Semis
+512,DET,1950-51,NBA,Fort Wayne Pistons*,32,36,0.471,3rd of 5,-1.81,102.4,16.9,82.0,-3.1,83.8,-1.3,Lost W. Div. Semis
+513,DET,1949-50,NBA,Fort Wayne Pistons*,40,28,0.588,3rd of 5,1.84,,,,,,,Lost Central Div. Finals
+514,DET,1948-49,BAA,Fort Wayne Pistons,22,38,0.367,5th of 6,-2.85,,,,,,,False
+515,GSW,2021-22,NBA,Golden State Warriors*,53,29,0.646,2nd of 5,5.52,98.4,0.2,112.5,0.5,106.9,-5.1,Won W. Conf. Finals
+516,GSW,2020-21,NBA,Golden State Warriors,39,33,0.542,4th of 5,1.1,102.2,3.0,111.1,-1.2,110.1,-2.2,False
+517,GSW,2019-20,NBA,Golden State Warriors,15,50,0.231,5th of 5,-8.12,100.3,0.0,105.2,-5.4,113.8,3.2,False
+518,GSW,2018-19,NBA,Golden State Warriors*,57,25,0.695,1st of 5,6.42,100.9,0.9,115.9,5.5,109.5,-0.9,Lost Finals
+519,GSW,2017-18,NBA,Golden State Warriors*,58,24,0.707,1st of 5,5.79,99.6,2.3,113.6,5.0,107.6,-1.0,Won Finals
+520,GSW,2016-17,NBA,Golden State Warriors*,67,15,0.817,1st of 5,11.35,99.8,3.4,115.6,6.8,104.0,-4.8,Won Finals
+521,GSW,2015-16,NBA,Golden State Warriors*,73,9,0.89,1st of 5,10.38,99.3,3.5,114.5,8.1,103.8,-2.6,Lost Finals
+522,GSW,2014-15,NBA,Golden State Warriors*,67,15,0.817,1st of 5,10.01,98.3,4.4,111.6,6.0,101.4,-4.2,Won Finals
+523,GSW,2013-14,NBA,Golden State Warriors*,51,31,0.622,2nd of 5,5.15,96.2,2.3,107.5,0.8,102.6,-4.1,Lost W. Conf. 1st Rnd.
+524,GSW,2012-13,NBA,Golden State Warriors*,47,35,0.573,2nd of 5,1.32,94.5,2.5,106.4,0.5,105.5,-0.4,Lost W. Conf. Semis
+525,GSW,2011-12,NBA,Golden State Warriors,23,43,0.348,4th of 5,-2.79,92.3,1.0,105.4,0.8,109.1,4.5,False
+526,GSW,2010-11,NBA,Golden State Warriors,36,46,0.439,3rd of 5,-2.0,94.8,2.7,108.2,0.9,110.7,3.4,False
+527,GSW,2009-10,NBA,Golden State Warriors,26,56,0.317,4th of 5,-3.28,100.4,7.7,108.1,0.5,111.7,4.1,False
+528,GSW,2008-09,NBA,Golden State Warriors,29,53,0.354,3rd of 5,-3.8,98.2,6.5,109.5,1.2,113.3,5.0,False
+529,GSW,2007-08,NBA,Golden State Warriors,48,34,0.585,3rd of 5,2.38,98.8,6.4,111.8,4.3,109.5,2.0,False
+530,GSW,2006-07,NBA,Golden State Warriors*,42,40,0.512,3rd of 5,0.0,99.2,7.3,107.0,0.5,107.4,0.9,Lost W. Conf. Semis
+531,GSW,2005-06,NBA,Golden State Warriors,34,48,0.415,5th of 5,-1.11,93.3,2.8,104.8,-1.4,106.2,0.0,False
+532,GSW,2004-05,NBA,Golden State Warriors,34,48,0.415,5th of 5,-1.74,93.3,2.4,104.7,-1.4,106.9,0.8,False
+533,GSW,2003-04,NBA,Golden State Warriors,37,45,0.451,4th of 7,-0.07,89.8,-0.3,103.0,0.1,103.8,0.9,False
+534,GSW,2002-03,NBA,Golden State Warriors,38,44,0.463,6th of 7,-0.6,94.2,3.2,108.3,4.7,109.5,5.9,False
+535,GSW,2001-02,NBA,Golden State Warriors,21,61,0.256,7th of 7,-4.8,94.5,3.8,102.8,-1.7,108.5,4.0,False
+536,GSW,2000-01,NBA,Golden State Warriors,17,65,0.207,7th of 7,-8.11,94.1,2.8,97.8,-5.2,107.4,4.4,False
+537,GSW,1999-00,NBA,Golden State Warriors,19,63,0.232,6th of 7,-7.63,95.4,2.3,99.8,-4.3,108.4,4.3,False
+538,GSW,1998-99,NBA,Golden State Warriors,21,29,0.42,6th of 7,-2.63,88.9,0.0,98.4,-3.8,101.1,-1.1,False
+539,GSW,1997-98,NBA,Golden State Warriors,19,63,0.232,6th of 7,-9.2,91.4,1.1,95.8,-9.2,105.7,0.7,False
+540,GSW,1996-97,NBA,Golden State Warriors,30,52,0.366,7th of 7,-4.9,91.9,1.8,107.2,0.5,112.2,5.5,False
+541,GSW,1995-96,NBA,Golden State Warriors,36,46,0.439,6th of 7,-1.42,93.4,1.6,108.4,0.8,109.9,2.3,False
+542,GSW,1994-95,NBA,Golden State Warriors,26,56,0.317,6th of 7,-4.9,97.9,5.0,106.7,-1.6,112.2,3.9,False
+543,GSW,1993-94,NBA,Golden State Warriors*,50,32,0.61,3rd of 7,1.76,99.1,4.0,108.3,2.0,106.5,0.2,Lost W. Conf. 1st Rnd.
+544,GSW,1992-93,NBA,Golden State Warriors,34,48,0.415,6th of 7,-0.94,99.5,2.7,109.2,1.2,110.2,2.2,False
+545,GSW,1991-92,NBA,Golden State Warriors*,55,27,0.671,2nd of 7,3.77,103.4,6.8,113.6,5.4,109.9,1.7,Lost W. Conf. 1st Rnd.
+546,GSW,1990-91,NBA,Golden State Warriors*,44,38,0.537,4th of 7,1.72,103.6,5.8,111.9,4.0,110.3,2.4,Lost W. Conf. Semis
+547,GSW,1989-90,NBA,Golden State Warriors,37,45,0.451,5th of 7,-2.55,105.9,7.6,109.6,1.5,112.6,4.5,False
+548,GSW,1988-89,NBA,Golden State Warriors*,43,39,0.524,4th of 7,-0.59,107.3,6.7,107.4,-0.4,107.7,-0.1,Lost W. Conf. Semis
+549,GSW,1987-88,NBA,Golden State Warriors,20,62,0.244,5th of 6,-8.38,101.6,2.0,104.7,-3.3,112.9,4.9,False
+550,GSW,1986-87,NBA,Golden State Warriors*,42,40,0.512,3rd of 6,-2.54,101.7,0.9,108.9,0.6,111.2,2.9,Lost W. Conf. Semis
+551,GSW,1985-86,NBA,Golden State Warriors,30,52,0.366,6th of 6,-3.59,104.2,2.1,108.3,1.1,111.6,4.4,False
+552,GSW,1984-85,NBA,Golden State Warriors,22,60,0.268,6th of 6,-7.21,103.2,1.1,106.0,-1.9,113.0,5.1,False
+553,GSW,1983-84,NBA,Golden State Warriors,37,45,0.451,5th of 6,-3.35,103.3,1.9,105.5,-2.1,108.8,1.2,False
+554,GSW,1982-83,NBA,Golden State Warriors,30,52,0.366,5th of 6,-3.48,104.0,0.9,103.9,-0.8,107.4,2.7,False
+555,GSW,1981-82,NBA,Golden State Warriors,45,37,0.549,4th of 6,0.8,101.4,0.5,108.8,1.9,107.7,0.8,False
+556,GSW,1980-81,NBA,Golden State Warriors,39,43,0.476,4th of 6,-1.41,101.0,-0.8,108.5,3.0,109.7,4.2,False
+557,GSW,1979-80,NBA,Golden State Warriors,24,58,0.293,6th of 6,-4.2,100.5,-2.6,102.0,-3.3,106.3,1.0,False
+558,GSW,1978-79,NBA,Golden State Warriors,38,44,0.463,6th of 6,0.46,102.2,-3.6,102.4,-1.4,102.0,-1.8,False
+559,GSW,1977-78,NBA,Golden State Warriors,43,39,0.524,5th of 5,0.41,106.0,-0.7,99.6,-1.3,99.3,-1.6,False
+560,GSW,1976-77,NBA,Golden State Warriors*,46,36,0.561,3rd of 5,3.1,107.8,1.3,102.4,2.9,99.5,0.0,Lost W. Conf. Semis
+561,GSW,1975-76,NBA,Golden State Warriors*,59,23,0.72,1st of 5,6.23,108.3,2.8,100.6,2.3,94.5,-3.8,Lost W. Conf. Finals
+562,GSW,1974-75,NBA,Golden State Warriors*,48,34,0.585,1st of 5,2.86,107.6,3.1,100.4,2.7,97.3,-0.4,Won Finals
+563,GSW,1973-74,NBA,Golden State Warriors,44,38,0.537,2nd of 5,2.42,108.9,1.1,100.8,3.1,98.4,0.7,False
+564,GSW,1972-73,NBA,Golden State Warriors*,47,35,0.573,2nd of 5,3.12,112.2,1.5,96.8,0.0,94.0,-2.8,Lost W. Conf. Finals
+565,GSW,1971-72,NBA,Golden State Warriors*,51,31,0.622,2nd of 5,0.92,113.0,1.0,95.6,-2.3,94.9,-3.0,Lost W. Conf. Semis
+566,GSW,1970-71,NBA,San Francisco Warriors*,41,41,0.5,2nd of 5,-0.83,113.5,-1.6,94.2,-3.0,95.5,-1.7,Lost W. Conf. Semis
+567,GSW,1969-70,NBA,San Francisco Warriors,30,52,0.366,6th of 7,-4.15,116.3,-0.8,94.8,-4.2,98.6,-0.4,False
+568,GSW,1968-69,NBA,San Francisco Warriors*,41,41,0.5,3rd of 7,-1.53,117.1,0.2,92.2,-3.3,93.5,-2.0,Lost W. Div. Semis
+569,GSW,1967-68,NBA,San Francisco Warriors*,43,39,0.524,3rd of 6,-0.66,123.6,3.8,94.1,-2.7,94.6,-2.2,Lost W. Div. Finals
+570,GSW,1966-67,NBA,San Francisco Warriors*,44,37,0.543,1st of 5,2.58,127.4,5.8,95.3,-0.8,93.1,-3.0,Lost Finals
+571,GSW,1965-66,NBA,San Francisco Warriors,35,45,0.438,4th of 5,-2.36,124.6,3.2,92.6,-2.3,94.8,-0.1,False
+572,GSW,1964-65,NBA,San Francisco Warriors,17,63,0.213,5th of 5,-5.49,119.7,2.4,87.7,-5.9,92.8,-0.8,False
+573,GSW,1963-64,NBA,San Francisco Warriors*,48,32,0.6,1st of 5,4.41,115.1,1.9,93.0,-1.6,88.6,-6.0,Lost Finals
+574,GSW,1962-63,NBA,San Francisco Warriors,31,49,0.388,4th of 5,-1.86,123.2,8.2,95.2,-0.7,96.8,0.9,False
+575,GSW,1961-62,NBA,Philadelphia Warriors*,49,31,0.613,2nd of 4,2.63,131.1,9.8,94.5,0.9,92.4,-1.2,Lost E. Div. Finals
+576,GSW,1960-61,NBA,Philadelphia Warriors*,46,33,0.582,2nd of 4,0.89,132.0,8.5,91.2,-0.9,90.5,-1.6,Lost E. Div. Semis
+577,GSW,1959-60,NBA,Philadelphia Warriors*,49,26,0.653,2nd of 4,2.77,133.3,11.0,88.7,-2.4,86.8,-4.3,Lost E. Div. Finals
+578,GSW,1958-59,NBA,Philadelphia Warriors,32,40,0.444,4th of 4,-2.29,118.4,6.4,86.7,-3.5,89.3,-0.9,False
+579,GSW,1957-58,NBA,Philadelphia Warriors*,37,35,0.514,3rd of 4,0.21,117.8,0.8,88.3,-0.5,88.4,-0.4,Lost E. Div. Finals
+580,GSW,1956-57,NBA,Philadelphia Warriors*,37,35,0.514,3rd of 4,1.54,108.0,3.1,92.4,3.5,90.9,2.0,Lost E. Div. Semis
+581,GSW,1955-56,NBA,Philadelphia Warriors*,45,27,0.625,1st of 4,3.82,108.5,5.7,94.6,4.3,90.7,0.4,Won Finals
+582,GSW,1954-55,NBA,Philadelphia Warriors,33,39,0.458,4th of 5,-0.19,102.9,4.8,89.6,-0.2,89.9,0.1,False
+583,GSW,1953-54,NBA,Philadelphia Warriors,29,43,0.403,4th of 5,-1.89,89.4,5.8,86.7,-0.8,89.0,1.5,False
+584,GSW,1952-53,NBA,Philadelphia Warriors,12,57,0.174,5th of 5,-7.75,94.7,14.3,83.9,-4.1,91.4,3.7,False
+585,GSW,1951-52,NBA,Philadelphia Warriors*,33,33,0.5,4th of 5,-1.08,95.5,9.7,89.5,2.6,90.8,3.9,Lost E. Div. Semis
+586,GSW,1950-51,NBA,Philadelphia Warriors*,40,26,0.606,1st of 6,3.4,99.3,13.8,84.8,-0.3,81.0,-4.1,Lost E. Div. Semis
+587,GSW,1949-50,NBA,Philadelphia Warriors*,26,42,0.382,4th of 6,-2.27,,,,,,,Lost E. Div. Semis
+588,GSW,1948-49,BAA,Philadelphia Warriors*,28,32,0.467,4th of 6,0.21,,,,,,,Lost E. Div. Semis
+589,GSW,1947-48,BAA,Philadelphia Warriors*,27,21,0.563,1st of 4,0.69,,,,,,,Lost Finals
+590,GSW,1946-47,BAA,Philadelphia Warriors*,35,25,0.583,2nd of 6,3.16,,,,,,,Won Finals
+591,HOU,2021-22,NBA,Houston Rockets,20,62,0.244,5th of 5,-8.26,100.9,2.7,108.4,-3.6,116.7,4.7,False
+592,HOU,2020-21,NBA,Houston Rockets,17,55,0.236,5th of 5,-7.5,101.4,2.2,107.1,-5.2,114.9,2.6,False
+593,HOU,2019-20,NBA,Houston Rockets*,44,28,0.611,1st of 5,3.13,103.7,3.4,112.9,2.3,110.1,-0.5,Lost W. Conf. Semis
+594,HOU,2018-19,NBA,Houston Rockets*,53,29,0.646,1st of 5,4.96,97.9,-2.1,115.5,5.1,110.7,0.3,Lost W. Conf. Semis
+595,HOU,2017-18,NBA,Houston Rockets*,65,17,0.793,1st of 5,8.21,97.6,0.3,114.7,6.1,106.1,-2.5,Lost W. Conf. Finals
+596,HOU,2016-17,NBA,Houston Rockets*,55,27,0.671,2nd of 5,5.84,100.0,3.6,114.7,5.9,109.0,0.2,Lost W. Conf. Semis
+597,HOU,2015-16,NBA,Houston Rockets*,41,41,0.5,4th of 5,0.34,97.6,1.8,108.3,1.9,108.1,1.7,Lost W. Conf. 1st Rnd.
+598,HOU,2014-15,NBA,Houston Rockets*,56,26,0.683,1st of 5,3.82,96.5,2.6,107.0,1.4,103.4,-2.2,Lost W. Conf. Finals
+599,HOU,2013-14,NBA,Houston Rockets*,54,28,0.659,2nd of 5,5.06,96.3,2.4,111.0,4.3,106.3,-0.4,Lost W. Conf. 1st Rnd.
+600,HOU,2012-13,NBA,Houston Rockets*,45,37,0.549,3rd of 5,3.69,96.1,4.1,109.7,3.8,106.1,0.2,Lost W. Conf. 1st Rnd.
+601,HOU,2011-12,NBA,Houston Rockets,34,32,0.515,4th of 5,0.57,91.7,0.4,105.5,0.9,105.2,0.6,False
+602,HOU,2010-11,NBA,Houston Rockets,43,39,0.524,5th of 5,2.37,94.2,2.1,111.3,4.0,109.0,1.7,False
+603,HOU,2009-10,NBA,Houston Rockets,42,40,0.512,3rd of 5,-0.02,94.0,1.3,107.6,0.0,108.0,0.4,False
+604,HOU,2008-09,NBA,Houston Rockets*,53,29,0.646,2nd of 5,3.73,90.2,-1.5,108.4,0.1,104.0,-4.3,Lost W. Conf. Semis
+605,HOU,2007-08,NBA,Houston Rockets*,55,27,0.671,3rd of 5,4.83,90.4,-2.0,106.8,-0.7,101.6,-5.9,Lost W. Conf. 1st Rnd.
+606,HOU,2006-07,NBA,Houston Rockets*,52,30,0.634,3rd of 5,5.04,90.7,-1.2,106.0,-0.5,100.7,-5.8,Lost W. Conf. 1st Rnd.
+607,HOU,2005-06,NBA,Houston Rockets,34,48,0.415,5th of 5,-1.3,88.0,-2.5,101.6,-4.6,103.3,-2.9,False
+608,HOU,2004-05,NBA,Houston Rockets*,51,31,0.622,3rd of 5,4.27,88.8,-2.1,106.2,0.1,101.7,-4.4,Lost W. Conf. 1st Rnd.
+609,HOU,2003-04,NBA,Houston Rockets*,45,37,0.549,5th of 7,2.28,87.8,-2.3,100.9,-2.0,99.0,-3.9,Lost W. Conf. 1st Rnd.
+610,HOU,2002-03,NBA,Houston Rockets,43,39,0.524,5th of 7,1.89,88.8,-2.2,104.3,0.7,102.6,-1.0,False
+611,HOU,2001-02,NBA,Houston Rockets,28,54,0.341,5th of 7,-4.31,88.2,-2.5,103.1,-1.4,108.6,4.1,False
+612,HOU,2000-01,NBA,Houston Rockets,45,37,0.549,5th of 7,2.71,90.4,-0.9,106.7,3.7,104.2,1.2,False
+613,HOU,1999-00,NBA,Houston Rockets,34,48,0.415,6th of 7,-0.57,94.2,1.1,104.8,0.7,105.7,1.6,False
+614,HOU,1998-99,NBA,Houston Rockets*,31,19,0.62,3rd of 7,1.39,88.8,-0.1,105.4,3.2,102.9,0.7,Lost W. Conf. 1st Rnd.
+615,HOU,1997-98,NBA,Houston Rockets*,41,41,0.5,4th of 7,-1.23,91.0,0.7,107.7,2.7,108.6,3.6,Lost W. Conf. 1st Rnd.
+616,HOU,1996-97,NBA,Houston Rockets*,57,25,0.695,2nd of 7,3.85,91.6,1.5,108.8,2.1,104.0,-2.7,Lost W. Conf. Finals
+617,HOU,1995-96,NBA,Houston Rockets*,48,34,0.585,3rd of 7,1.63,93.2,1.4,109.3,1.7,107.4,-0.2,Lost W. Conf. Semis
+618,HOU,1994-95,NBA,Houston Rockets*,47,35,0.573,3rd of 6,2.32,94.2,1.3,109.7,1.4,107.4,-0.9,Won Finals
+619,HOU,1993-94,NBA,Houston Rockets*,58,24,0.707,1st of 6,4.19,95.0,-0.1,105.9,-0.4,101.4,-4.9,Won Finals
+620,HOU,1992-93,NBA,Houston Rockets*,55,27,0.671,1st of 6,3.57,94.4,-2.4,109.6,1.6,105.2,-2.8,Lost W. Conf. Semis
+621,HOU,1991-92,NBA,Houston Rockets,42,40,0.512,3rd of 6,-1.94,95.1,-1.5,106.2,-2.0,108.0,-0.2,False
+622,HOU,1990-91,NBA,Houston Rockets*,52,30,0.634,3rd of 7,3.27,98.5,0.7,107.4,-0.5,103.9,-4.0,Lost W. Conf. 1st Rnd.
+623,HOU,1989-90,NBA,Houston Rockets*,41,41,0.5,5th of 7,1.71,101.2,2.9,104.8,-3.3,103.4,-4.7,Lost W. Conf. 1st Rnd.
+624,HOU,1988-89,NBA,Houston Rockets*,45,37,0.549,2nd of 6,0.22,101.8,1.2,105.7,-2.1,104.8,-3.0,Lost W. Conf. 1st Rnd.
+625,HOU,1987-88,NBA,Houston Rockets*,46,36,0.561,4th of 6,0.82,101.8,2.2,107.1,-0.9,105.7,-2.3,Lost W. Conf. 1st Rnd.
+626,HOU,1986-87,NBA,Houston Rockets*,42,40,0.512,3rd of 6,0.6,99.9,-0.9,106.5,-1.8,105.5,-2.8,Lost W. Conf. Semis
+627,HOU,1985-86,NBA,Houston Rockets*,51,31,0.622,1st of 6,2.1,103.5,1.4,110.1,2.9,107.6,0.4,Lost Finals
+628,HOU,1984-85,NBA,Houston Rockets*,48,34,0.585,2nd of 6,1.38,102.2,0.1,107.9,0.0,106.3,-1.6,Lost W. Conf. 1st Rnd.
+629,HOU,1983-84,NBA,Houston Rockets,29,53,0.354,6th of 6,-3.12,104.7,3.3,105.3,-2.3,108.2,0.6,False
+630,HOU,1982-83,NBA,Houston Rockets,14,68,0.171,6th of 6,-11.12,102.2,-0.9,97.0,-7.7,108.3,3.6,False
+631,HOU,1981-82,NBA,Houston Rockets*,46,36,0.561,3rd of 6,-0.39,97.2,-3.7,108.3,1.4,108.3,1.4,Lost W. Conf. 1st Rnd.
+632,HOU,1980-81,NBA,Houston Rockets*,40,42,0.488,3rd of 6,-0.2,100.5,-1.3,107.0,1.5,106.7,1.2,Lost Finals
+633,HOU,1979-80,NBA,Houston Rockets*,41,41,0.5,2nd of 6,0.27,101.2,-1.9,108.1,2.8,108.0,2.7,Lost E. Conf. Semis
+634,HOU,1978-79,NBA,Houston Rockets*,47,35,0.573,2nd of 6,0.92,103.8,-2.0,108.7,4.9,107.7,3.9,Lost E. Conf. 1st Rnd.
+635,HOU,1977-78,NBA,Houston Rockets,28,54,0.341,6th of 6,-3.83,101.3,-5.4,102.2,1.3,106.1,5.2,False
+636,HOU,1976-77,NBA,Houston Rockets*,49,33,0.598,1st of 6,1.44,101.3,-5.2,104.5,5.0,102.9,3.4,Lost E. Conf. Finals
+637,HOU,1975-76,NBA,Houston Rockets,40,42,0.488,3rd of 5,-0.71,104.7,-0.8,101.1,2.8,101.8,3.5,False
+638,HOU,1974-75,NBA,Houston Rockets*,41,41,0.5,2nd of 5,0.84,102.9,-1.6,100.4,2.7,99.4,1.7,Lost E. Conf. Semis
+639,HOU,1973-74,NBA,Houston Rockets,32,50,0.39,3rd of 4,-0.34,106.1,-1.7,100.3,2.6,100.5,2.8,False
+640,HOU,1972-73,NBA,Houston Rockets,33,49,0.402,3rd of 4,-1.81,115.2,4.5,97.9,1.1,99.4,2.6,False
+641,HOU,1971-72,NBA,Houston Rockets,34,48,0.415,4th of 5,-1.22,114.7,2.7,95.4,-2.5,96.8,-1.1,False
+642,HOU,1970-71,NBA,San Diego Rockets,40,42,0.488,3rd of 5,0.21,118.5,3.4,95.2,-2.0,95.5,-1.7,False
+643,HOU,1969-70,NBA,San Diego Rockets,27,55,0.329,7th of 7,-2.95,125.1,8.0,94.4,-4.6,96.8,-2.2,False
+644,HOU,1968-69,NBA,San Diego Rockets*,37,45,0.451,4th of 7,-0.3,123.8,6.9,92.7,-2.8,92.8,-2.7,Lost W. Div. Semis
+645,HOU,1967-68,NBA,San Diego Rockets,15,67,0.183,6th of 6,-7.94,121.9,2.1,91.8,-5.0,98.8,2.0,False
+646,IND,2021-22,NBA,Indiana Pacers,25,57,0.305,4th of 5,-3.26,98.0,-0.2,112.6,0.6,116.1,4.1,False
+647,IND,2020-21,NBA,Indiana Pacers,34,38,0.472,2nd of 5,-0.13,101.6,2.4,112.4,0.1,112.4,0.1,False
+648,IND,2019-20,NBA,Indiana Pacers*,45,28,0.616,2nd of 5,1.63,98.9,-1.4,110.0,-0.6,108.0,-2.6,Lost E. Conf. 1st Rnd.
+649,IND,2018-19,NBA,Indiana Pacers*,48,34,0.585,2nd of 5,2.76,98.1,-1.9,109.9,-0.5,106.5,-3.9,Lost E. Conf. 1st Rnd.
+650,IND,2017-18,NBA,Indiana Pacers*,48,34,0.585,2nd of 5,1.18,96.0,-1.3,109.5,0.9,108.1,-0.5,Lost E. Conf. 1st Rnd.
+651,IND,2016-17,NBA,Indiana Pacers*,42,40,0.512,3rd of 5,-0.64,95.9,-0.5,108.6,-0.2,108.8,0.0,Lost E. Conf. 1st Rnd.
+652,IND,2015-16,NBA,Indiana Pacers*,45,37,0.549,2nd of 5,1.62,96.6,0.8,104.6,-1.8,102.9,-3.5,Lost E. Conf. 1st Rnd.
+653,IND,2014-15,NBA,Indiana Pacers,38,44,0.463,4th of 5,-0.23,93.2,-0.7,103.5,-2.1,103.2,-2.4,False
+654,IND,2013-14,NBA,Indiana Pacers*,56,26,0.683,1st of 5,3.63,92.5,-1.4,104.1,-2.6,99.3,-7.4,Lost E. Conf. Finals
+655,IND,2012-13,NBA,Indiana Pacers*,49,32,0.605,1st of 5,3.34,90.2,-1.8,104.3,-1.6,99.8,-6.1,Lost E. Conf. Finals
+656,IND,2011-12,NBA,Indiana Pacers*,42,24,0.636,2nd of 5,2.6,90.7,-0.6,106.7,2.1,103.1,-1.5,Lost E. Conf. Semis
+657,IND,2010-11,NBA,Indiana Pacers*,37,45,0.451,2nd of 5,-1.38,94.7,2.6,104.8,-2.5,106.0,-1.3,Lost E. Conf. 1st Rnd.
+658,IND,2009-10,NBA,Indiana Pacers,32,50,0.39,4th of 5,-3.11,97.1,4.4,103.7,-3.9,106.8,-0.8,False
+659,IND,2008-09,NBA,Indiana Pacers,36,46,0.439,4th of 5,-0.76,96.5,4.8,108.1,-0.2,109.2,0.9,False
+660,IND,2007-08,NBA,Indiana Pacers,36,46,0.439,3rd of 5,-1.87,97.7,5.3,106.0,-1.5,107.5,0.0,False
+661,IND,2006-07,NBA,Indiana Pacers,35,47,0.427,4th of 5,-2.62,92.4,0.5,102.9,-3.6,105.5,-1.0,False
+662,IND,2005-06,NBA,Indiana Pacers*,41,41,0.5,3rd of 5,1.62,89.7,-0.8,104.5,-1.7,102.4,-3.8,Lost E. Conf. 1st Rnd.
+663,IND,2004-05,NBA,Indiana Pacers*,44,38,0.537,3rd of 5,0.49,87.2,-3.7,105.5,-0.6,104.6,-1.5,Lost E. Conf. Semis
+664,IND,2003-04,NBA,Indiana Pacers*,61,21,0.744,1st of 8,4.93,87.5,-2.6,103.8,0.9,97.2,-5.7,Lost E. Conf. Finals
+665,IND,2002-03,NBA,Indiana Pacers*,48,34,0.585,2nd of 8,2.79,91.6,0.6,104.6,1.0,100.8,-2.8,Lost E. Conf. 1st Rnd.
+666,IND,2001-02,NBA,Indiana Pacers*,42,40,0.512,4th of 8,-0.07,91.9,1.2,104.1,-0.4,103.8,-0.7,Lost E. Conf. 1st Rnd.
+667,IND,2000-01,NBA,Indiana Pacers*,41,41,0.5,4th of 8,-0.77,89.4,-1.9,102.0,-1.0,102.2,-0.8,Lost E. Conf. 1st Rnd.
+668,IND,1999-00,NBA,Indiana Pacers*,56,26,0.683,1st of 8,4.15,93.1,0.0,108.5,4.4,103.6,-0.5,Lost Finals
+669,IND,1998-99,NBA,Indiana Pacers*,33,17,0.66,1st of 8,3.86,86.4,-2.5,108.7,6.5,104.4,2.2,Lost E. Conf. Finals
+670,IND,1997-98,NBA,Indiana Pacers*,58,24,0.707,2nd of 8,6.25,87.9,-2.4,108.4,3.4,101.6,-3.4,Lost E. Conf. Finals
+671,IND,1996-97,NBA,Indiana Pacers,39,43,0.476,6th of 8,1.49,89.0,-1.1,105.8,-0.9,104.7,-2.0,False
+672,IND,1995-96,NBA,Indiana Pacers*,52,30,0.634,2nd of 8,3.11,89.3,-2.5,110.8,3.2,107.2,-0.4,Lost E. Conf. 1st Rnd.
+673,IND,1994-95,NBA,Indiana Pacers*,52,30,0.634,1st of 7,3.35,90.0,-2.9,109.6,1.3,105.6,-2.7,Lost E. Conf. Finals
+674,IND,1993-94,NBA,Indiana Pacers*,47,35,0.573,3rd of 7,3.26,93.3,-1.8,107.8,1.5,104.2,-2.1,Lost E. Conf. Finals
+675,IND,1992-93,NBA,Indiana Pacers*,41,41,0.5,5th of 7,1.77,96.0,-0.8,111.9,3.9,110.1,2.1,Lost E. Conf. 1st Rnd.
+676,IND,1991-92,NBA,Indiana Pacers*,40,42,0.488,4th of 7,1.85,99.0,2.4,111.7,3.5,109.9,1.7,Lost E. Conf. 1st Rnd.
+677,IND,1990-91,NBA,Indiana Pacers*,41,41,0.5,5th of 7,-0.37,99.4,1.6,111.7,3.8,112.1,4.2,Lost E. Conf. 1st Rnd.
+678,IND,1989-90,NBA,Indiana Pacers*,42,40,0.512,5th of 7,-0.18,97.0,-1.3,111.5,3.4,111.4,3.3,Lost E. Conf. 1st Rnd.
+679,IND,1988-89,NBA,Indiana Pacers,28,54,0.341,6th of 6,-3.0,99.2,-1.4,106.8,-1.0,111.0,3.2,False
+680,IND,1987-88,NBA,Indiana Pacers,38,44,0.463,6th of 6,-0.18,98.0,-1.6,106.6,-1.4,107.4,-0.6,False
+681,IND,1986-87,NBA,Indiana Pacers*,41,41,0.5,4th of 6,-0.17,98.8,-2.0,106.0,-2.3,106.6,-1.7,Lost E. Conf. 1st Rnd.
+682,IND,1985-86,NBA,Indiana Pacers,26,56,0.317,6th of 6,-2.66,100.9,-1.2,102.6,-4.6,105.9,-1.3,False
+683,IND,1984-85,NBA,Indiana Pacers,22,60,0.268,6th of 6,-5.46,105.1,3.0,102.5,-5.4,108.4,0.5,False
+684,IND,1983-84,NBA,Indiana Pacers,26,56,0.317,6th of 6,-4.25,102.1,0.7,101.8,-5.8,106.5,-1.1,False
+685,IND,1982-83,NBA,Indiana Pacers,20,62,0.244,6th of 6,-5.36,103.9,0.8,103.8,-0.9,109.4,4.7,False
+686,IND,1981-82,NBA,Indiana Pacers,35,47,0.427,4th of 6,-1.49,98.7,-2.2,102.7,-4.2,104.6,-2.3,False
+687,IND,1980-81,NBA,Indiana Pacers*,44,38,0.537,3rd of 6,1.72,100.9,-0.9,106.4,0.9,105.0,-0.5,Lost E. Conf. 1st Rnd.
+688,IND,1979-80,NBA,Indiana Pacers,37,45,0.451,4th of 6,-0.54,104.4,1.3,105.5,0.2,106.2,0.9,False
+689,IND,1978-79,NBA,Indiana Pacers,38,44,0.463,4th of 5,-1.41,105.3,-0.5,103.0,-0.8,104.5,0.7,False
+690,IND,1977-78,NBA,Indiana Pacers,31,51,0.378,6th of 6,-2.37,108.2,1.5,99.6,-1.3,101.9,1.0,False
+691,IND,1976-77,NBA,Indiana Pacers,36,46,0.439,5th of 6,-1.68,107.1,0.6,99.3,-0.2,101.0,1.5,False
+692,IND,1975-76,ABA,Indiana Pacers*,39,45,0.464,5th of 0,0.29,107.7,0.8,103.7,-0.4,103.9,-0.2,Lost 1st Rnd.
+693,IND,1974-75,ABA,Indiana Pacers*,45,39,0.536,3rd of 5,1.14,105.1,2.0,106.7,2.0,105.7,1.0,Lost Finals
+694,IND,1973-74,ABA,Indiana Pacers*,46,38,0.548,2nd of 5,0.68,103.0,0.4,101.7,-1.3,100.9,-2.1,Lost W. Div. Finals
+695,IND,1972-73,ABA,Indiana Pacers*,51,33,0.607,2nd of 5,1.97,112.7,3.4,100.7,-1.1,98.8,-3.0,Won Finals
+696,IND,1971-72,ABA,Indiana Pacers*,47,37,0.56,2nd of 5,2.72,110.7,-1.2,101.1,0.5,98.7,-1.9,Won Finals
+697,IND,1970-71,ABA,Indiana Pacers*,58,26,0.69,1st of 5,5.63,108.1,-3.0,109.1,4.1,103.6,-1.4,Lost W. Div. Finals
+698,IND,1969-70,ABA,Indiana Pacers*,59,25,0.702,1st of 6,2.67,106.7,-2.5,105.4,2.7,102.2,-0.5,Won Finals
+699,IND,1968-69,ABA,Indiana Pacers*,44,34,0.564,1st of 5,3.35,111.4,2.0,106.3,2.3,102.6,-1.4,Lost Finals
+700,IND,1967-68,ABA,Indiana Pacers*,38,40,0.487,3rd of 5,0.5,107.2,0.2,101.5,0.2,101.3,0.0,Lost E. Div. Semis
+701,LAC,2021-22,NBA,Los Angeles Clippers,42,40,0.512,3rd of 5,0.09,98.0,-0.2,110.1,-1.9,110.1,-1.9,False
+702,LAC,2020-21,NBA,Los Angeles Clippers*,47,25,0.653,2nd of 5,6.02,96.9,-2.3,117.6,5.3,111.2,-1.1,Lost W. Conf. Finals
+703,LAC,2019-20,NBA,Los Angeles Clippers*,49,23,0.681,2nd of 5,6.66,101.5,1.2,113.9,3.3,107.6,-3.0,Lost W. Conf. Semis
+704,LAC,2018-19,NBA,Los Angeles Clippers*,48,34,0.585,2nd of 5,1.09,101.7,1.7,112.4,2.0,111.5,1.1,Lost W. Conf. 1st Rnd.
+705,LAC,2017-18,NBA,Los Angeles Clippers,42,40,0.512,2nd of 5,0.15,98.7,1.4,110.3,1.7,110.2,1.6,False
+706,LAC,2016-17,NBA,Los Angeles Clippers*,51,31,0.622,2nd of 5,4.42,96.1,-0.3,112.7,3.9,108.2,-0.6,Lost W. Conf. 1st Rnd.
+707,LAC,2015-16,NBA,Los Angeles Clippers*,53,29,0.646,2nd of 5,4.13,95.8,0.0,108.3,1.9,103.8,-2.6,Lost W. Conf. 1st Rnd.
+708,LAC,2014-15,NBA,Los Angeles Clippers*,56,26,0.683,2nd of 5,6.8,94.7,0.8,112.4,6.8,105.5,-0.1,Lost W. Conf. Semis
+709,LAC,2013-14,NBA,Los Angeles Clippers*,57,25,0.695,1st of 5,7.27,95.9,2.0,112.1,5.4,104.8,-1.9,Lost W. Conf. Semis
+710,LAC,2012-13,NBA,Los Angeles Clippers*,56,26,0.683,1st of 5,6.43,91.1,-0.9,110.6,4.7,103.6,-2.3,Lost W. Conf. 1st Rnd.
+711,LAC,2011-12,NBA,Los Angeles Clippers*,40,26,0.606,2nd of 5,2.82,89.2,-2.1,108.5,3.9,105.7,1.1,Lost W. Conf. Semis
+712,LAC,2010-11,NBA,Los Angeles Clippers,32,50,0.39,4th of 5,-2.71,92.8,0.7,105.3,-2.0,108.7,1.4,False
+713,LAC,2009-10,NBA,Los Angeles Clippers,29,53,0.354,3rd of 5,-6.01,92.6,-0.1,103.3,-4.3,110.1,2.5,False
+714,LAC,2008-09,NBA,Los Angeles Clippers,19,63,0.232,4th of 5,-8.47,92.1,0.4,102.3,-6.0,111.7,3.4,False
+715,LAC,2007-08,NBA,Los Angeles Clippers,23,59,0.28,5th of 5,-6.56,92.1,-0.3,101.2,-6.3,109.1,1.6,False
+716,LAC,2006-07,NBA,Los Angeles Clippers,40,42,0.488,4th of 5,-0.07,90.8,-1.1,105.1,-1.4,105.6,-0.9,False
+717,LAC,2005-06,NBA,Los Angeles Clippers*,47,35,0.573,2nd of 5,1.75,91.7,1.2,105.3,-0.9,103.6,-2.6,Lost W. Conf. Semis
+718,LAC,2004-05,NBA,Los Angeles Clippers,37,45,0.451,3rd of 5,-0.47,89.1,-1.8,105.5,-0.6,106.4,0.3,False
+719,LAC,2003-04,NBA,Los Angeles Clippers,28,54,0.341,7th of 7,-3.74,91.0,0.9,103.5,0.6,108.5,5.6,False
+720,LAC,2002-03,NBA,Los Angeles Clippers,27,55,0.329,7th of 7,-3.45,91.3,0.3,102.3,-1.3,106.8,3.2,False
+721,LAC,2001-02,NBA,Los Angeles Clippers,39,43,0.476,5th of 7,-0.09,90.1,-0.6,105.5,1.0,106.0,1.5,False
+722,LAC,2000-01,NBA,Los Angeles Clippers,31,51,0.378,6th of 7,-2.23,89.6,-1.7,101.3,-1.7,104.5,1.5,False
+723,LAC,1999-00,NBA,Los Angeles Clippers,15,67,0.183,7th of 7,-10.73,93.9,0.8,97.8,-6.3,110.1,6.0,False
+724,LAC,1998-99,NBA,Los Angeles Clippers,9,41,0.18,7th of 7,-8.94,89.5,0.6,100.0,-2.2,109.7,7.5,False
+725,LAC,1997-98,NBA,Los Angeles Clippers,17,65,0.207,7th of 7,-7.53,92.4,2.1,103.3,-1.7,111.2,6.2,False
+726,LAC,1996-97,NBA,Los Angeles Clippers*,36,46,0.439,5th of 7,-2.66,91.3,1.2,105.1,-1.6,107.6,0.9,Lost W. Conf. 1st Rnd.
+727,LAC,1995-96,NBA,Los Angeles Clippers,29,53,0.354,7th of 7,-3.46,93.2,1.4,106.5,-1.1,110.3,2.7,False
+728,LAC,1994-95,NBA,Los Angeles Clippers,17,65,0.207,7th of 7,-8.43,94.3,1.4,101.5,-6.8,111.1,2.8,False
+729,LAC,1993-94,NBA,Los Angeles Clippers,27,55,0.329,7th of 7,-5.28,99.6,4.5,102.9,-3.4,108.6,2.3,False
+730,LAC,1992-93,NBA,Los Angeles Clippers*,41,41,0.5,4th of 7,0.33,99.1,2.3,107.4,-0.6,107.1,-0.9,Lost W. Conf. 1st Rnd.
+731,LAC,1991-92,NBA,Los Angeles Clippers*,45,37,0.549,5th of 7,1.1,96.5,-0.1,105.8,-2.4,104.7,-3.5,Lost W. Conf. 1st Rnd.
+732,LAC,1990-91,NBA,Los Angeles Clippers,31,51,0.378,6th of 7,-3.16,99.9,2.1,103.0,-4.9,106.5,-1.4,False
+733,LAC,1989-90,NBA,Los Angeles Clippers,30,52,0.366,6th of 7,-2.8,99.2,0.9,104.0,-4.1,107.4,-0.7,False
+734,LAC,1988-89,NBA,Los Angeles Clippers,21,61,0.256,7th of 7,-9.5,104.4,3.8,100.8,-7.0,110.2,2.4,False
+735,LAC,1987-88,NBA,Los Angeles Clippers,17,65,0.207,6th of 6,-10.24,100.8,1.2,97.4,-10.6,107.6,-0.4,False
+736,LAC,1986-87,NBA,Los Angeles Clippers,12,70,0.146,6th of 6,-11.0,102.7,1.9,101.2,-7.1,112.3,4.0,False
+737,LAC,1985-86,NBA,Los Angeles Clippers,32,50,0.39,4th of 6,-6.83,102.7,0.6,105.4,-1.8,112.1,4.9,False
+738,LAC,1984-85,NBA,Los Angeles Clippers,31,51,0.378,5th of 6,-4.55,100.9,-1.2,105.8,-2.1,110.3,2.4,False
+739,LAC,1983-84,NBA,San Diego Clippers,30,52,0.366,6th of 6,-3.21,101.1,-0.3,109.2,1.6,112.4,4.8,False
+740,LAC,1982-83,NBA,San Diego Clippers,25,57,0.305,6th of 6,-4.61,103.0,-0.1,104.7,0.0,109.3,4.6,False
+741,LAC,1981-82,NBA,San Diego Clippers,17,65,0.207,6th of 6,-7.05,101.4,0.5,106.6,-0.3,113.8,6.9,False
+742,LAC,1980-81,NBA,San Diego Clippers,36,46,0.439,5th of 6,-1.78,100.2,-1.6,106.0,0.5,107.6,2.1,False
+743,LAC,1979-80,NBA,San Diego Clippers,35,47,0.427,5th of 6,-3.97,101.4,-1.7,105.7,0.4,109.8,4.5,False
+744,LAC,1978-79,NBA,San Diego Clippers,43,39,0.524,5th of 6,-1.76,106.3,0.5,106.2,2.4,107.9,4.1,False
+745,LAC,1977-78,NBA,Buffalo Braves,27,55,0.329,4th of 5,-3.55,104.3,-2.4,100.3,-0.6,103.8,2.9,False
+746,LAC,1976-77,NBA,Buffalo Braves,30,52,0.366,4th of 5,-4.28,107.3,0.8,97.6,-1.9,101.8,2.3,False
+747,LAC,1975-76,NBA,Buffalo Braves*,46,36,0.561,3rd of 4,0.85,108.2,2.7,99.0,0.7,98.2,-0.1,Lost E. Conf. Semis
+748,LAC,1974-75,NBA,Buffalo Braves*,49,33,0.598,2nd of 4,2.16,107.7,3.2,99.8,2.1,97.8,0.1,Lost E. Conf. Semis
+749,LAC,1973-74,NBA,Buffalo Braves*,42,40,0.512,3rd of 4,-0.19,111.6,3.8,99.3,1.6,99.4,1.7,Lost E. Conf. Semis
+750,LAC,1972-73,NBA,Buffalo Braves,21,61,0.256,3rd of 4,-8.85,110.9,0.2,92.9,-3.9,101.2,4.4,False
+751,LAC,1971-72,NBA,Buffalo Braves,22,60,0.268,4th of 4,-9.44,108.3,-3.7,93.6,-4.3,102.1,4.2,False
+752,LAC,1970-71,NBA,Buffalo Braves,22,60,0.268,4th of 4,-8.02,111.9,-3.2,93.7,-3.5,99.6,2.4,False
+753,LAL,2021-22,NBA,Los Angeles Lakers,33,49,0.402,4th of 5,-3.08,100.1,1.9,110.3,-1.7,113.3,1.3,False
+754,LAL,2020-21,NBA,Los Angeles Lakers*,42,30,0.583,3rd of 5,2.77,98.7,-0.5,109.9,-2.4,107.1,-5.2,Lost W. Conf. 1st Rnd.
+755,LAL,2019-20,NBA,Los Angeles Lakers*,52,19,0.732,1st of 5,6.28,100.9,0.6,112.0,1.4,106.3,-4.3,Won Finals
+756,LAL,2018-19,NBA,Los Angeles Lakers,37,45,0.451,4th of 5,-1.33,103.2,3.2,107.8,-2.6,109.5,-0.9,False
+757,LAL,2017-18,NBA,Los Angeles Lakers,35,47,0.427,3rd of 5,-1.44,100.3,3.0,106.5,-2.1,108.0,-0.6,False
+758,LAL,2016-17,NBA,Los Angeles Lakers,26,56,0.317,4th of 5,-6.29,98.5,2.1,106.0,-2.8,113.0,4.2,False
+759,LAL,2015-16,NBA,Los Angeles Lakers,17,65,0.207,5th of 5,-8.92,95.6,-0.2,101.6,-4.8,111.6,5.2,False
+760,LAL,2014-15,NBA,Los Angeles Lakers,21,61,0.256,5th of 5,-6.17,94.0,0.1,103.4,-2.2,110.6,5.0,False
+761,LAL,2013-14,NBA,Los Angeles Lakers,27,55,0.329,5th of 5,-5.33,98.7,4.8,104.2,-2.5,110.6,3.9,False
+762,LAL,2012-13,NBA,Los Angeles Lakers*,45,37,0.549,3rd of 5,1.48,94.4,2.4,107.8,1.9,106.6,0.7,Lost W. Conf. 1st Rnd.
+763,LAL,2011-12,NBA,Los Angeles Lakers*,41,25,0.621,1st of 5,1.96,90.5,-0.8,106.0,1.4,104.4,-0.2,Lost W. Conf. Semis
+764,LAL,2010-11,NBA,Los Angeles Lakers*,57,25,0.695,1st of 5,6.01,90.7,-1.4,111.0,3.7,104.3,-3.0,Lost W. Conf. Semis
+765,LAL,2009-10,NBA,Los Angeles Lakers*,57,25,0.695,1st of 5,4.78,92.8,0.1,108.8,1.2,103.7,-3.9,Won Finals
+766,LAL,2008-09,NBA,Los Angeles Lakers*,65,17,0.793,1st of 5,7.11,94.3,2.6,112.8,4.5,104.7,-3.6,Won Finals
+767,LAL,2007-08,NBA,Los Angeles Lakers*,57,25,0.695,1st of 5,7.34,95.6,3.2,113.0,5.5,105.5,-2.0,Lost Finals
+768,LAL,2006-07,NBA,Los Angeles Lakers*,42,40,0.512,2nd of 5,0.24,93.5,1.6,108.6,2.1,108.6,2.1,Lost W. Conf. 1st Rnd.
+769,LAL,2005-06,NBA,Los Angeles Lakers*,45,37,0.549,3rd of 5,2.53,90.9,0.4,108.4,2.2,105.7,-0.5,Lost W. Conf. 1st Rnd.
+770,LAL,2004-05,NBA,Los Angeles Lakers,34,48,0.415,4th of 5,-2.32,90.8,-0.1,108.1,2.0,111.4,5.3,False
+771,LAL,2003-04,NBA,Los Angeles Lakers*,56,26,0.683,1st of 7,4.35,92.3,2.2,105.5,2.6,101.3,-1.6,Lost Finals
+772,LAL,2002-03,NBA,Los Angeles Lakers*,50,32,0.61,2nd of 7,2.71,92.5,1.5,107.2,3.6,104.7,1.1,Lost W. Conf. Semis
+773,LAL,2001-02,NBA,Los Angeles Lakers*,58,24,0.707,2nd of 7,7.15,92.1,1.4,109.4,4.9,101.7,-2.8,Won Finals
+774,LAL,2000-01,NBA,Los Angeles Lakers*,56,26,0.683,1st of 7,3.74,91.7,0.4,108.4,5.4,104.8,1.8,Won Finals
+775,LAL,1999-00,NBA,Los Angeles Lakers*,67,15,0.817,1st of 7,8.41,93.3,0.2,107.3,3.2,98.2,-5.9,Won Finals
+776,LAL,1998-99,NBA,Los Angeles Lakers*,31,19,0.62,2nd of 7,2.68,91.6,2.7,107.6,5.4,104.3,2.1,Lost W. Conf. Semis
+777,LAL,1997-98,NBA,Los Angeles Lakers*,61,21,0.744,2nd of 7,6.88,93.6,3.3,111.9,6.9,103.7,-1.3,Lost W. Conf. Finals
+778,LAL,1996-97,NBA,Los Angeles Lakers*,56,26,0.683,2nd of 7,3.66,91.1,1.0,108.3,1.6,103.7,-3.0,Lost W. Conf. Semis
+779,LAL,1995-96,NBA,Los Angeles Lakers*,53,29,0.646,2nd of 7,4.21,92.4,0.6,111.4,3.8,106.6,-1.0,Lost W. Conf. 1st Rnd.
+780,LAL,1994-95,NBA,Los Angeles Lakers*,48,34,0.585,3rd of 7,-0.01,95.2,2.3,109.1,0.8,109.4,1.1,Lost W. Conf. Semis
+781,LAL,1993-94,NBA,Los Angeles Lakers,33,49,0.402,5th of 7,-3.93,95.5,0.4,104.8,-1.5,109.3,3.0,False
+782,LAL,1992-93,NBA,Los Angeles Lakers*,39,43,0.476,5th of 7,-1.2,96.2,-0.6,107.6,-0.4,108.9,0.9,Lost W. Conf. 1st Rnd.
+783,LAL,1991-92,NBA,Los Angeles Lakers*,43,39,0.524,6th of 7,-0.95,92.5,-4.1,107.7,-0.5,108.9,0.7,Lost W. Conf. 1st Rnd.
+784,LAL,1990-91,NBA,Los Angeles Lakers*,58,24,0.707,2nd of 7,6.73,94.1,-3.7,112.1,4.2,105.0,-2.9,Lost Finals
+785,LAL,1989-90,NBA,Los Angeles Lakers*,63,19,0.768,1st of 7,6.74,96.3,-2.0,114.0,5.9,107.0,-1.1,Lost W. Conf. Semis
+786,LAL,1988-89,NBA,Los Angeles Lakers*,57,25,0.695,1st of 7,6.38,100.1,-0.5,113.8,6.0,106.7,-1.1,Lost Finals
+787,LAL,1987-88,NBA,Los Angeles Lakers*,62,20,0.756,1st of 6,4.81,99.1,-0.5,113.1,5.1,107.3,-0.7,Won Finals
+788,LAL,1986-87,NBA,Los Angeles Lakers*,65,17,0.793,1st of 6,8.32,101.6,0.8,115.6,7.3,106.5,-1.8,Won Finals
+789,LAL,1985-86,NBA,Los Angeles Lakers*,62,20,0.756,1st of 6,6.84,102.7,0.6,113.3,6.1,105.8,-1.4,Lost W. Conf. Finals
+790,LAL,1984-85,NBA,Los Angeles Lakers*,62,20,0.756,1st of 6,6.48,103.2,1.1,114.1,6.2,107.0,-0.9,Won Finals
+791,LAL,1983-84,NBA,Los Angeles Lakers*,54,28,0.659,1st of 6,3.32,103.7,2.3,110.9,3.3,107.3,-0.3,Lost Finals
+792,LAL,1982-83,NBA,Los Angeles Lakers*,58,24,0.707,1st of 6,5.06,103.8,0.7,110.5,5.8,105.2,0.5,Lost Finals
+793,LAL,1981-82,NBA,Los Angeles Lakers*,57,25,0.695,1st of 6,4.37,103.1,2.2,110.2,3.3,105.5,-1.4,Won Finals
+794,LAL,1980-81,NBA,Los Angeles Lakers*,54,28,0.659,2nd of 6,3.27,102.7,0.9,107.6,2.1,103.9,-1.6,Lost W. Conf. 1st Rnd.
+795,LAL,1979-80,NBA,Los Angeles Lakers*,60,22,0.732,1st of 6,5.4,104.1,1.0,109.5,4.2,103.9,-1.4,Won Finals
+796,LAL,1978-79,NBA,Los Angeles Lakers*,47,35,0.573,3rd of 6,2.95,105.9,0.1,106.1,2.3,103.2,-0.6,Lost W. Conf. Semis
+797,LAL,1977-78,NBA,Los Angeles Lakers*,45,37,0.549,4th of 5,2.59,106.1,-0.6,103.3,2.4,100.8,-0.1,Lost W. Conf. 1st Rnd.
+798,LAL,1976-77,NBA,Los Angeles Lakers*,53,29,0.646,1st of 5,2.64,104.7,-1.8,101.4,1.9,98.9,-0.6,Lost W. Conf. Finals
+799,LAL,1975-76,NBA,Los Angeles Lakers,40,42,0.488,4th of 5,0.18,108.0,2.5,98.9,0.6,98.8,0.5,False
+800,LAL,1974-75,NBA,Los Angeles Lakers,30,52,0.366,5th of 5,-3.94,106.4,1.9,96.1,-1.6,99.9,2.2,False
+801,LAL,1973-74,NBA,Los Angeles Lakers*,47,35,0.573,1st of 5,0.85,111.7,3.9,97.4,-0.3,96.6,-1.1,Lost W. Conf. Semis
+802,LAL,1972-73,NBA,Los Angeles Lakers*,60,22,0.732,1st of 5,8.16,112.0,1.3,99.4,2.6,91.8,-5.0,Lost Finals
+803,LAL,1971-72,NBA,Los Angeles Lakers*,69,13,0.841,1st of 5,11.65,116.9,4.9,103.1,5.2,92.6,-5.3,Won Finals
+804,LAL,1970-71,NBA,Los Angeles Lakers*,48,34,0.585,1st of 5,3.27,115.7,0.6,98.8,1.6,96.1,-1.1,Lost W. Conf. Finals
+805,LAL,1969-70,NBA,Los Angeles Lakers*,46,36,0.561,2nd of 7,1.76,113.9,-3.2,99.1,0.1,97.4,-1.6,Lost Finals
+806,LAL,1968-69,NBA,Los Angeles Lakers*,55,27,0.671,1st of 7,3.84,112.6,-4.3,98.5,3.0,94.9,-0.6,Lost Finals
+807,LAL,1967-68,NBA,Los Angeles Lakers*,52,30,0.634,2nd of 6,4.99,118.1,-1.7,101.7,4.9,97.0,0.2,Lost Finals
+808,LAL,1966-67,NBA,Los Angeles Lakers*,36,45,0.444,3rd of 5,0.31,123.0,1.4,97.4,1.3,97.1,1.0,Lost W. Div. Semis
+809,LAL,1965-66,NBA,Los Angeles Lakers*,45,35,0.563,1st of 5,2.76,121.2,-0.2,98.3,3.4,95.7,0.8,Lost Finals
+810,LAL,1964-65,NBA,Los Angeles Lakers*,49,31,0.613,1st of 5,1.7,113.9,-3.4,97.4,3.8,95.8,2.2,Lost Finals
+811,LAL,1963-64,NBA,Los Angeles Lakers*,42,38,0.525,3rd of 5,0.87,111.6,-1.6,97.9,3.3,97.0,2.4,Lost W. Div. Semis
+812,LAL,1962-63,NBA,Los Angeles Lakers*,53,27,0.663,1st of 5,2.67,117.8,2.8,97.4,1.5,94.7,-1.2,Lost Finals
+813,LAL,1961-62,NBA,Los Angeles Lakers*,54,26,0.675,1st of 5,1.8,123.3,2.0,95.0,1.4,93.3,-0.3,Lost Finals
+814,LAL,1960-61,NBA,Los Angeles Lakers*,36,43,0.456,2nd of 4,-0.11,124.9,1.4,90.8,-1.3,90.9,-1.2,Lost W. Div. Finals
+815,LAL,1959-60,NBA,Minneapolis Lakers*,25,50,0.333,3rd of 4,-4.14,121.2,-1.1,87.7,-3.4,91.2,0.1,Lost W. Div. Finals
+816,LAL,1958-59,NBA,Minneapolis Lakers*,33,39,0.458,2nd of 4,-1.42,115.5,3.5,90.8,0.6,91.9,1.7,Lost Finals
+817,LAL,1957-58,NBA,Minneapolis Lakers,19,53,0.264,4th of 4,-5.78,118.8,1.8,88.0,-0.8,93.3,4.5,False
+818,LAL,1956-57,NBA,Minneapolis Lakers*,34,38,0.472,2nd of 4,-0.89,114.8,9.9,88.5,-0.4,89.2,0.3,Lost W. Div. Finals
+819,LAL,1955-56,NBA,Minneapolis Lakers*,33,39,0.458,2nd of 4,-0.92,108.0,5.2,91.5,1.2,92.4,2.1,Lost W. Div. Semis
+820,LAL,1954-55,NBA,Minneapolis Lakers*,40,32,0.556,2nd of 4,0.96,105.5,7.4,89.7,-0.1,88.6,-1.2,Lost W. Div. Finals
+821,LAL,1953-54,NBA,Minneapolis Lakers*,46,26,0.639,1st of 4,2.71,93.5,9.9,86.8,-0.7,83.5,-4.0,Won Finals
+822,LAL,1952-53,NBA,Minneapolis Lakers*,48,22,0.686,1st of 5,5.54,93.7,13.3,90.1,2.1,83.6,-4.1,Won Finals
+823,LAL,1951-52,NBA,Minneapolis Lakers*,40,26,0.606,2nd of 5,5.28,97.2,11.4,85.3,-1.6,79.3,-7.6,Won Finals
+824,LAL,1950-51,NBA,Minneapolis Lakers*,44,24,0.647,1st of 5,4.79,94.8,9.3,86.4,1.3,80.7,-4.4,Lost W. Div. Finals
+825,LAL,1949-50,NBA,Minneapolis Lakers*,51,17,0.75,1st of 5,8.25,,,,,,,Won Finals
+826,LAL,1948-49,BAA,Minneapolis Lakers*,44,16,0.733,2nd of 6,6.8,,,,,,,Won Finals
+827,MEM,2021-22,NBA,Memphis Grizzlies*,56,26,0.683,1st of 5,5.37,100.3,2.1,114.6,2.6,109.0,-3.0,Lost W. Conf. Semis
+828,MEM,2020-21,NBA,Memphis Grizzlies*,38,34,0.528,2nd of 5,1.07,100.4,1.2,112.0,-0.3,111.0,-1.3,Lost W. Conf. 1st Rnd.
+829,MEM,2019-20,NBA,Memphis Grizzlies,34,39,0.466,3rd of 5,-0.91,102.8,2.5,109.2,-1.4,110.3,-0.3,False
+830,MEM,2018-19,NBA,Memphis Grizzlies,33,49,0.402,3rd of 5,-2.08,96.6,-3.4,106.1,-4.3,108.8,-1.6,False
+831,MEM,2017-18,NBA,Memphis Grizzlies,22,60,0.268,5th of 5,-5.81,94.9,-2.4,104.5,-4.1,111.0,2.4,False
+832,MEM,2016-17,NBA,Memphis Grizzlies*,43,39,0.524,3rd of 5,0.96,92.3,-4.1,107.7,-1.1,107.1,-1.7,Lost W. Conf. 1st Rnd.
+833,MEM,2015-16,NBA,Memphis Grizzlies*,42,40,0.512,3rd of 5,-2.14,93.3,-2.5,105.4,-1.0,107.8,1.4,Lost W. Conf. 1st Rnd.
+834,MEM,2014-15,NBA,Memphis Grizzlies*,55,27,0.671,2nd of 5,3.62,92.0,-1.9,105.7,0.1,102.2,-3.4,Lost W. Conf. Semis
+835,MEM,2013-14,NBA,Memphis Grizzlies*,50,32,0.61,3rd of 5,2.18,89.9,-4.0,106.3,-0.4,104.6,-2.1,Lost W. Conf. 1st Rnd.
+836,MEM,2012-13,NBA,Memphis Grizzlies*,56,26,0.683,2nd of 5,4.32,88.4,-3.6,104.9,-1.0,100.3,-5.6,Lost W. Conf. Finals
+837,MEM,2011-12,NBA,Memphis Grizzlies*,41,25,0.621,2nd of 5,2.43,90.8,-0.5,104.0,-0.6,101.8,-2.8,Lost W. Conf. 1st Rnd.
+838,MEM,2010-11,NBA,Memphis Grizzlies*,46,36,0.561,4th of 5,2.55,91.9,-0.2,107.6,0.3,105.1,-2.2,Lost W. Conf. Semis
+839,MEM,2009-10,NBA,Memphis Grizzlies,40,42,0.488,4th of 5,-1.39,93.6,0.9,108.3,0.7,109.9,2.3,False
+840,MEM,2008-09,NBA,Memphis Grizzlies,24,58,0.293,5th of 5,-5.23,90.1,-1.6,103.5,-4.8,109.5,1.2,False
+841,MEM,2007-08,NBA,Memphis Grizzlies,22,60,0.268,5th of 5,-5.76,95.3,2.9,105.0,-2.5,111.4,3.9,False
+842,MEM,2006-07,NBA,Memphis Grizzlies,22,60,0.268,5th of 5,-4.44,93.6,1.7,106.9,0.4,112.3,5.8,False
+843,MEM,2005-06,NBA,Memphis Grizzlies*,49,33,0.598,3rd of 5,3.74,86.3,-4.2,105.9,-0.3,101.6,-4.6,Lost W. Conf. 1st Rnd.
+844,MEM,2004-05,NBA,Memphis Grizzlies*,45,37,0.549,4th of 5,2.64,88.5,-2.4,105.5,-0.6,102.9,-3.2,Lost W. Conf. 1st Rnd.
+845,MEM,2003-04,NBA,Memphis Grizzlies*,50,32,0.61,4th of 7,2.95,91.4,1.3,104.8,1.9,102.2,-0.7,Lost W. Conf. 1st Rnd.
+846,MEM,2002-03,NBA,Memphis Grizzlies,28,54,0.341,6th of 7,-2.6,92.7,1.7,103.9,0.3,107.3,3.7,False
+847,MEM,2001-02,NBA,Memphis Grizzlies,23,59,0.28,7th of 7,-6.74,91.1,0.4,98.2,-6.3,106.3,1.8,False
+848,MEM,2000-01,NBA,Vancouver Grizzlies,23,59,0.28,7th of 7,-4.94,91.7,0.4,99.6,-3.4,105.8,2.8,False
+849,MEM,1999-00,NBA,Vancouver Grizzlies,22,60,0.268,7th of 7,-5.1,91.0,-2.1,102.3,-1.8,108.5,4.4,False
+850,MEM,1998-99,NBA,Vancouver Grizzlies,8,42,0.16,7th of 7,-8.94,89.0,0.1,98.4,-3.8,107.9,5.7,False
+851,MEM,1997-98,NBA,Vancouver Grizzlies,19,63,0.232,6th of 7,-7.47,92.1,1.8,104.1,-0.9,112.0,7.0,False
+852,MEM,1996-97,NBA,Vancouver Grizzlies,14,68,0.171,7th of 7,-10.17,88.4,-1.7,100.3,-6.4,111.8,5.1,False
+853,MEM,1995-96,NBA,Vancouver Grizzlies,15,67,0.183,7th of 7,-9.55,91.0,-0.8,97.6,-10.0,108.5,0.9,False
+854,MIA,2021-22,NBA,Miami Heat*,53,29,0.646,1st of 5,4.23,95.9,-2.3,113.7,1.7,109.1,-2.9,Won E. Conf. Semis
+855,MIA,2020-21,NBA,Miami Heat*,40,32,0.556,2nd of 5,-0.06,96.6,-2.6,111.2,-1.1,111.2,-1.1,Lost E. Conf. 1st Rnd.
+856,MIA,2019-20,NBA,Miami Heat*,44,29,0.603,1st of 5,2.59,98.3,-2.0,112.5,1.9,109.5,-1.1,Lost Finals
+857,MIA,2018-19,NBA,Miami Heat,39,43,0.476,3rd of 5,-0.45,98.2,-1.8,107.3,-3.1,107.6,-2.8,False
+858,MIA,2017-18,NBA,Miami Heat*,44,38,0.537,1st of 5,0.15,95.6,-1.7,106.8,-1.8,106.3,-2.3,Lost E. Conf. 1st Rnd.
+859,MIA,2016-17,NBA,Miami Heat,41,41,0.5,3rd of 5,0.77,95.2,-1.2,107.8,-1.0,106.7,-2.1,False
+860,MIA,2015-16,NBA,Miami Heat*,48,34,0.585,1st of 5,1.5,93.6,-2.2,106.1,-0.3,104.4,-2.0,Lost E. Conf. Semis
+861,MIA,2014-15,NBA,Miami Heat,37,45,0.451,3rd of 5,-2.92,90.9,-3.0,103.9,-1.7,106.7,1.1,False
+862,MIA,2013-14,NBA,Miami Heat*,54,28,0.659,1st of 5,4.15,91.2,-2.7,110.9,4.2,105.8,-0.9,Lost Finals
+863,MIA,2012-13,NBA,Miami Heat*,66,16,0.805,1st of 5,7.03,90.7,-1.3,112.3,6.4,103.7,-2.2,Won Finals
+864,MIA,2011-12,NBA,Miami Heat*,46,20,0.697,1st of 5,5.72,91.2,-0.1,106.6,2.0,100.2,-4.4,Won Finals
+865,MIA,2010-11,NBA,Miami Heat*,58,24,0.707,1st of 5,6.76,90.9,-1.2,111.7,4.4,103.5,-3.8,Lost Finals
+866,MIA,2009-10,NBA,Miami Heat*,47,35,0.573,3rd of 5,1.99,89.6,-3.1,106.6,-1.0,104.1,-3.5,Lost E. Conf. 1st Rnd.
+867,MIA,2008-09,NBA,Miami Heat*,43,39,0.524,3rd of 5,0.49,89.9,-1.8,107.8,-0.5,107.6,-0.7,Lost E. Conf. 1st Rnd.
+868,MIA,2007-08,NBA,Miami Heat,15,67,0.183,5th of 5,-8.53,90.2,-2.2,100.5,-7.0,110.0,2.5,False
+869,MIA,2006-07,NBA,Miami Heat*,44,38,0.537,1st of 5,-1.21,89.9,-2.0,104.3,-2.2,105.3,-1.2,Lost E. Conf. 1st Rnd.
+870,MIA,2005-06,NBA,Miami Heat*,52,30,0.634,1st of 5,3.59,91.6,1.1,108.7,2.5,104.5,-1.7,Won Finals
+871,MIA,2004-05,NBA,Miami Heat*,59,23,0.72,1st of 5,5.77,90.8,-0.1,110.2,4.1,103.1,-3.0,Lost E. Conf. Finals
+872,MIA,2003-04,NBA,Miami Heat*,42,40,0.512,2nd of 7,-0.13,88.0,-2.1,102.2,-0.7,101.7,-1.2,Lost E. Conf. Semis
+873,MIA,2002-03,NBA,Miami Heat,25,57,0.305,7th of 7,-5.13,87.8,-3.2,96.7,-6.9,102.4,-1.2,False
+874,MIA,2001-02,NBA,Miami Heat,36,46,0.439,6th of 7,-1.84,87.4,-3.3,98.5,-6.0,100.2,-4.3,False
+875,MIA,2000-01,NBA,Miami Heat*,50,32,0.61,2nd of 7,1.73,87.1,-4.2,101.1,-1.9,98.5,-4.5,Lost E. Conf. 1st Rnd.
+876,MIA,1999-00,NBA,Miami Heat*,52,30,0.634,1st of 7,2.75,89.7,-3.4,104.5,0.4,101.0,-3.1,Lost E. Conf. Semis
+877,MIA,1998-99,NBA,Miami Heat*,33,17,0.66,1st of 7,5.11,84.8,-4.1,104.7,2.5,98.9,-3.3,Lost E. Conf. 1st Rnd.
+878,MIA,1997-98,NBA,Miami Heat*,55,27,0.671,1st of 7,5.09,87.9,-2.4,107.6,2.6,102.0,-3.0,Lost E. Conf. 1st Rnd.
+879,MIA,1996-97,NBA,Miami Heat*,61,21,0.744,1st of 7,5.56,88.2,-1.9,106.8,0.1,100.6,-6.1,Lost E. Conf. Finals
+880,MIA,1995-96,NBA,Miami Heat*,42,40,0.512,3rd of 7,1.46,91.1,-0.7,105.3,-2.3,103.8,-3.8,Lost E. Conf. 1st Rnd.
+881,MIA,1994-95,NBA,Miami Heat,32,50,0.39,4th of 7,-1.85,92.9,0.0,108.2,-0.1,109.9,1.6,False
+882,MIA,1993-94,NBA,Miami Heat*,42,40,0.512,4th of 7,2.4,93.8,-1.3,109.5,3.2,106.7,0.4,Lost E. Conf. 1st Rnd.
+883,MIA,1992-93,NBA,Miami Heat,36,46,0.439,5th of 7,-0.93,94.6,-2.2,107.7,-0.3,108.9,0.9,False
+884,MIA,1991-92,NBA,Miami Heat*,38,44,0.463,4th of 7,-3.94,97.7,1.1,106.7,-1.5,110.9,2.7,Lost E. Conf. 1st Rnd.
+885,MIA,1990-91,NBA,Miami Heat,24,58,0.293,6th of 6,-5.91,99.3,1.5,102.0,-5.9,108.1,0.2,False
+886,MIA,1989-90,NBA,Miami Heat,18,64,0.22,5th of 6,-9.59,101.0,2.7,99.3,-8.8,108.9,0.8,False
+887,MIA,1988-89,NBA,Miami Heat,15,67,0.183,6th of 6,-11.13,99.1,-1.5,97.8,-10.0,109.0,1.2,False
+888,MIL,2021-22,NBA,Milwaukee Bucks*,51,31,0.622,1st of 5,3.22,99.9,1.7,115.1,3.1,111.8,-0.2,Lost E. Conf. Semis
+889,MIL,2020-21,NBA,Milwaukee Bucks*,46,26,0.639,1st of 5,5.57,102.2,3.0,117.2,4.9,111.4,-0.9,Won Finals
+890,MIL,2019-20,NBA,Milwaukee Bucks*,56,17,0.767,1st of 5,9.41,105.1,4.8,112.4,1.8,102.9,-7.7,Lost E. Conf. Semis
+891,MIL,2018-19,NBA,Milwaukee Bucks*,60,22,0.732,1st of 5,8.04,103.3,3.3,113.8,3.4,105.2,-5.2,Lost E. Conf. Finals
+892,MIL,2017-18,NBA,Milwaukee Bucks*,44,38,0.537,3rd of 5,-0.45,96.2,-1.1,109.8,1.2,110.1,1.5,Lost E. Conf. 1st Rnd.
+893,MIL,2016-17,NBA,Milwaukee Bucks*,42,40,0.512,2nd of 5,-0.45,94.5,-1.9,109.1,0.3,109.3,0.5,Lost E. Conf. 1st Rnd.
+894,MIL,2015-16,NBA,Milwaukee Bucks,33,49,0.402,5th of 5,-3.98,94.2,-1.6,104.3,-2.1,108.7,2.3,False
+895,MIL,2014-15,NBA,Milwaukee Bucks*,41,41,0.5,3rd of 5,-0.09,94.1,0.2,102.7,-2.9,102.2,-3.4,Lost E. Conf. 1st Rnd.
+896,MIL,2013-14,NBA,Milwaukee Bucks,15,67,0.183,5th of 5,-8.41,91.8,-2.1,103.0,-3.7,111.8,5.1,False
+897,MIL,2012-13,NBA,Milwaukee Bucks*,38,44,0.463,3rd of 5,-1.83,94.7,2.7,103.6,-2.3,105.2,-0.7,Lost E. Conf. 1st Rnd.
+898,MIL,2011-12,NBA,Milwaukee Bucks,31,35,0.47,3rd of 5,-0.23,93.7,2.4,105.5,0.9,105.2,0.6,False
+899,MIL,2010-11,NBA,Milwaukee Bucks,35,47,0.427,3rd of 5,-1.02,89.8,-2.3,101.6,-5.7,102.5,-4.8,False
+900,MIL,2009-10,NBA,Milwaukee Bucks*,46,36,0.561,2nd of 5,1.37,91.7,-1.0,104.9,-2.7,103.1,-4.5,Lost E. Conf. 1st Rnd.
+901,MIL,2008-09,NBA,Milwaukee Bucks,34,48,0.415,5th of 5,-0.88,92.6,0.9,106.7,-1.6,107.9,-0.4,False
+902,MIL,2007-08,NBA,Milwaukee Bucks,26,56,0.317,5th of 5,-6.92,91.3,-1.1,105.3,-2.2,112.8,5.3,False
+903,MIL,2006-07,NBA,Milwaukee Bucks,28,54,0.341,5th of 5,-4.43,92.3,0.4,107.0,0.5,111.7,5.2,False
+904,MIL,2005-06,NBA,Milwaukee Bucks*,40,42,0.488,5th of 5,-1.07,91.2,0.7,106.3,0.1,107.4,1.2,Lost E. Conf. 1st Rnd.
+905,MIL,2004-05,NBA,Milwaukee Bucks,30,52,0.366,5th of 5,-3.09,90.8,-0.1,106.6,0.5,109.8,3.7,False
+906,MIL,2003-04,NBA,Milwaukee Bucks*,41,41,0.5,4th of 8,0.42,91.6,1.5,106.5,3.6,105.4,2.5,Lost E. Conf. 1st Rnd.
+907,MIL,2002-03,NBA,Milwaukee Bucks*,42,40,0.512,4th of 8,-0.24,90.4,-0.6,108.8,5.2,108.6,5.0,Lost E. Conf. 1st Rnd.
+908,MIL,2001-02,NBA,Milwaukee Bucks,41,41,0.5,5th of 8,-0.62,90.2,-0.5,106.9,2.4,107.1,2.6,False
+909,MIL,2000-01,NBA,Milwaukee Bucks*,52,30,0.634,1st of 8,3.14,92.1,0.8,108.8,5.8,104.6,1.6,Lost E. Conf. Finals
+910,MIL,1999-00,NBA,Milwaukee Bucks*,42,40,0.512,5th of 8,-0.06,92.7,-0.4,108.2,4.1,107.9,3.8,Lost E. Conf. 1st Rnd.
+911,MIL,1998-99,NBA,Milwaukee Bucks*,28,22,0.56,4th of 8,1.66,87.0,-1.9,104.9,2.7,103.0,0.8,Lost E. Conf. 1st Rnd.
+912,MIL,1997-98,NBA,Milwaukee Bucks,36,46,0.439,7th of 8,-1.33,90.2,-0.1,103.5,-1.5,105.6,0.6,False
+913,MIL,1996-97,NBA,Milwaukee Bucks,33,49,0.402,7th of 8,-1.38,89.5,-0.6,106.2,-0.5,108.3,1.6,False
+914,MIL,1995-96,NBA,Milwaukee Bucks,25,57,0.305,7th of 8,-4.92,90.2,-1.6,105.6,-2.0,111.5,3.9,False
+915,MIL,1994-95,NBA,Milwaukee Bucks,34,48,0.415,6th of 7,-4.3,92.7,-0.2,106.2,-2.1,110.9,2.6,False
+916,MIL,1993-94,NBA,Milwaukee Bucks,20,62,0.244,6th of 7,-6.24,94.5,-0.6,102.5,-3.8,109.3,3.0,False
+917,MIL,1992-93,NBA,Milwaukee Bucks,28,54,0.341,7th of 7,-3.26,96.1,-0.7,106.2,-1.8,110.1,2.1,False
+918,MIL,1991-92,NBA,Milwaukee Bucks,31,51,0.378,6th of 7,-1.46,95.5,-1.1,108.8,0.6,110.6,2.4,False
+919,MIL,1990-91,NBA,Milwaukee Bucks*,48,34,0.585,3rd of 7,2.33,96.1,-1.7,109.7,1.8,107.2,-0.7,Lost E. Conf. 1st Rnd.
+920,MIL,1989-90,NBA,Milwaukee Bucks*,44,38,0.537,3rd of 7,-1.06,98.0,-0.3,107.3,-0.8,108.1,0.0,Lost E. Conf. 1st Rnd.
+921,MIL,1988-89,NBA,Milwaukee Bucks*,49,33,0.598,4th of 6,4.11,98.6,-2.0,110.1,2.3,106.4,-1.4,Lost E. Conf. Semis
+922,MIL,1987-88,NBA,Milwaukee Bucks*,42,40,0.512,4th of 6,1.21,97.6,-2.0,108.2,0.2,107.6,-0.4,Lost E. Conf. 1st Rnd.
+923,MIL,1986-87,NBA,Milwaukee Bucks*,50,32,0.61,3rd of 6,4.04,100.3,-0.5,109.5,1.2,105.6,-2.7,Lost E. Conf. Semis
+924,MIL,1985-86,NBA,Milwaukee Bucks*,57,25,0.695,1st of 6,8.69,102.1,0.0,111.4,4.2,102.7,-4.5,Lost E. Conf. Finals
+925,MIL,1984-85,NBA,Milwaukee Bucks*,59,23,0.72,1st of 6,6.69,99.7,-2.4,110.5,2.6,103.6,-4.3,Lost E. Conf. Semis
+926,MIL,1983-84,NBA,Milwaukee Bucks*,50,32,0.61,1st of 6,4.04,96.9,-4.5,107.8,0.2,103.6,-4.0,Lost E. Conf. Finals
+927,MIL,1982-83,NBA,Milwaukee Bucks*,51,31,0.622,1st of 6,4.32,100.0,-3.1,105.8,1.1,101.4,-3.3,Lost E. Conf. Finals
+928,MIL,1981-82,NBA,Milwaukee Bucks*,55,27,0.671,1st of 6,5.38,100.0,-0.9,107.7,0.8,102.3,-4.6,Lost E. Conf. Semis
+929,MIL,1980-81,NBA,Milwaukee Bucks*,60,22,0.732,1st of 6,7.14,103.6,1.8,108.7,3.2,101.8,-3.7,Lost E. Conf. Semis
+930,MIL,1979-80,NBA,Milwaukee Bucks*,49,33,0.598,1st of 5,3.57,102.4,-0.7,106.8,1.5,102.9,-2.4,Lost W. Conf. Semis
+931,MIL,1978-79,NBA,Milwaukee Bucks,38,44,0.463,3rd of 5,2.12,106.5,0.7,106.0,2.2,104.0,0.2,False
+932,MIL,1977-78,NBA,Milwaukee Bucks*,44,38,0.537,2nd of 6,-0.59,108.7,2.0,101.8,0.9,102.4,1.5,Lost W. Conf. Semis
+933,MIL,1976-77,NBA,Milwaukee Bucks,30,52,0.366,6th of 6,-2.99,108.3,1.8,100.0,0.5,102.9,3.4,False
+934,MIL,1975-76,NBA,Milwaukee Bucks*,38,44,0.463,1st of 4,-1.55,103.9,-1.6,97.3,-1.0,98.7,0.4,Lost W. Conf. 1st Rnd.
+935,MIL,1974-75,NBA,Milwaukee Bucks,38,44,0.463,4th of 4,0.25,102.1,-2.4,98.0,0.3,97.8,0.1,False
+936,MIL,1973-74,NBA,Milwaukee Bucks*,59,23,0.72,1st of 4,7.61,105.4,-2.4,101.2,3.5,93.6,-4.1,Lost Finals
+937,MIL,1972-73,NBA,Milwaukee Bucks*,60,22,0.732,1st of 4,7.84,108.3,-2.4,98.6,1.8,91.1,-5.7,Lost W. Conf. Semis
+938,MIL,1971-72,NBA,Milwaukee Bucks*,63,19,0.768,1st of 4,10.7,111.2,-0.8,102.6,4.7,92.6,-5.3,Lost W. Conf. Finals
+939,MIL,1970-71,NBA,Milwaukee Bucks*,66,16,0.805,1st of 4,11.92,113.4,-1.7,103.9,6.7,93.1,-4.1,Won Finals
+940,MIL,1969-70,NBA,Milwaukee Bucks*,56,26,0.683,2nd of 7,4.25,115.8,-1.3,102.1,3.1,98.1,-0.9,Lost E. Div. Finals
+941,MIL,1968-69,NBA,Milwaukee Bucks,27,55,0.329,7th of 7,-5.07,117.5,0.6,93.9,-1.6,98.2,2.7,False
+942,MIN,2021-22,NBA,Minnesota Timberwolves*,46,36,0.561,3rd of 5,2.53,100.9,2.7,114.3,2.3,111.7,-0.3,Lost W. Conf. 1st Rnd.
+943,MIN,2020-21,NBA,Minnesota Timberwolves,23,49,0.319,4th of 5,-5.25,101.6,2.4,109.5,-2.8,115.0,2.7,False
+944,MIN,2019-20,NBA,Minnesota Timberwolves,19,45,0.297,5th of 5,-4.02,103.4,3.1,108.1,-2.5,112.2,1.6,False
+945,MIN,2018-19,NBA,Minnesota Timberwolves,36,46,0.439,5th of 5,-1.02,100.2,0.2,111.4,1.0,112.9,2.5,False
+946,MIN,2017-18,NBA,Minnesota Timberwolves*,47,35,0.573,4th of 5,2.35,96.0,-1.3,113.4,4.8,111.1,2.5,Lost W. Conf. 1st Rnd.
+947,MIN,2016-17,NBA,Minnesota Timberwolves,31,51,0.378,5th of 5,-0.64,94.6,-1.8,110.8,2.0,112.0,3.2,False
+948,MIN,2015-16,NBA,Minnesota Timberwolves,29,53,0.354,5th of 5,-3.38,95.2,-0.6,106.5,0.1,110.1,3.7,False
+949,MIN,2014-15,NBA,Minnesota Timberwolves,16,66,0.195,5th of 5,-8.0,94.4,0.5,102.9,-2.7,112.2,6.6,False
+950,MIN,2013-14,NBA,Minnesota Timberwolves,40,42,0.488,3rd of 5,3.1,97.3,3.4,108.9,2.2,106.2,-0.5,False
+951,MIN,2012-13,NBA,Minnesota Timberwolves,31,51,0.378,5th of 5,-1.83,92.8,0.8,102.9,-3.0,105.4,-0.5,False
+952,MIN,2011-12,NBA,Minnesota Timberwolves,26,40,0.394,5th of 5,-1.83,93.3,2.0,104.3,-0.3,106.6,2.0,False
+953,MIN,2010-11,NBA,Minnesota Timberwolves,17,65,0.207,5th of 5,-5.97,96.5,4.4,104.2,-3.1,111.1,3.8,False
+954,MIN,2009-10,NBA,Minnesota Timberwolves,15,67,0.183,5th of 5,-9.06,96.1,3.4,101.7,-5.9,111.6,4.0,False
+955,MIN,2008-09,NBA,Minnesota Timberwolves,24,58,0.293,4th of 5,-4.74,91.6,-0.1,106.1,-2.2,111.4,3.1,False
+956,MIN,2007-08,NBA,Minnesota Timberwolves,22,60,0.268,4th of 5,-6.26,91.9,-0.5,103.8,-3.7,111.2,3.7,False
+957,MIN,2006-07,NBA,Minnesota Timberwolves,32,50,0.39,4th of 5,-3.16,91.0,-0.9,103.9,-2.6,107.9,1.4,False
+958,MIN,2005-06,NBA,Minnesota Timberwolves,33,49,0.402,4th of 5,-1.75,88.8,-1.7,102.4,-3.8,104.5,-1.7,False
+959,MIN,2004-05,NBA,Minnesota Timberwolves,44,38,0.537,3rd of 5,1.73,89.1,-1.8,108.2,2.1,106.6,0.5,False
+960,MIN,2003-04,NBA,Minnesota Timberwolves*,58,24,0.707,1st of 7,5.86,89.0,-1.1,105.9,3.0,99.7,-3.2,Lost W. Conf. Finals
+961,MIN,2002-03,NBA,Minnesota Timberwolves*,51,31,0.622,3rd of 7,2.46,91.9,0.9,106.1,2.5,103.8,0.2,Lost W. Conf. 1st Rnd.
+962,MIN,2001-02,NBA,Minnesota Timberwolves*,50,32,0.61,3rd of 7,3.58,90.5,-0.2,109.0,4.5,105.3,0.8,Lost W. Conf. 1st Rnd.
+963,MIN,2000-01,NBA,Minnesota Timberwolves*,47,35,0.573,4th of 7,1.81,91.8,0.5,105.2,2.2,103.7,0.7,Lost W. Conf. 1st Rnd.
+964,MIN,1999-00,NBA,Minnesota Timberwolves*,50,32,0.61,3rd of 7,2.67,91.8,-1.3,106.1,2.0,103.4,-0.7,Lost W. Conf. 1st Rnd.
+965,MIN,1998-99,NBA,Minnesota Timberwolves*,25,25,0.5,4th of 7,-0.17,91.0,2.1,101.9,-0.3,101.5,-0.7,Lost W. Conf. 1st Rnd.
+966,MIN,1997-98,NBA,Minnesota Timberwolves*,45,37,0.549,3rd of 7,0.17,92.6,2.3,107.8,2.8,107.1,2.1,Lost W. Conf. 1st Rnd.
+967,MIN,1996-97,NBA,Minnesota Timberwolves*,40,42,0.488,3rd of 7,-1.82,90.7,0.6,105.5,-1.2,107.1,0.4,Lost W. Conf. 1st Rnd.
+968,MIN,1995-96,NBA,Minnesota Timberwolves,26,56,0.317,5th of 7,-5.14,93.5,1.7,104.1,-3.5,109.8,2.2,False
+969,MIN,1994-95,NBA,Minnesota Timberwolves,21,61,0.256,6th of 6,-8.22,91.4,-1.5,102.6,-5.7,112.4,4.1,False
+970,MIN,1993-94,NBA,Minnesota Timberwolves,20,62,0.244,5th of 6,-6.55,94.7,-0.4,101.9,-4.4,109.2,2.9,False
+971,MIN,1992-93,NBA,Minnesota Timberwolves,19,63,0.232,5th of 6,-7.62,93.8,-3.0,103.6,-4.4,111.8,3.8,False
+972,MIN,1991-92,NBA,Minnesota Timberwolves,15,67,0.183,6th of 6,-6.85,95.1,-1.5,105.0,-3.2,112.4,4.2,False
+973,MIN,1990-91,NBA,Minnesota Timberwolves,29,53,0.354,5th of 7,-3.75,92.3,-5.5,106.7,-1.2,110.9,3.0,False
+974,MIN,1989-90,NBA,Minnesota Timberwolves,22,60,0.268,6th of 7,-3.6,91.1,-7.2,103.6,-4.5,108.2,0.1,False
+975,NOH,2021-22,NBA,New Orleans Pelicans*,36,46,0.439,3rd of 5,-0.84,97.2,-1.0,112.0,0.0,113.0,1.0,Lost W. Conf. 1st Rnd.
+976,NOH,2020-21,NBA,New Orleans Pelicans,31,41,0.431,4th of 5,-0.2,100.1,0.9,113.5,1.2,113.8,1.5,False
+977,NOH,2019-20,NBA,New Orleans Pelicans,30,42,0.417,5th of 5,-0.55,103.7,3.4,110.7,0.1,111.9,1.3,False
+978,NOH,2018-19,NBA,New Orleans Pelicans,33,49,0.402,4th of 5,-1.1,103.3,3.3,111.4,1.0,112.6,2.2,False
+979,NOH,2017-18,NBA,New Orleans Pelicans*,48,34,0.585,2nd of 5,1.48,100.5,3.2,109.6,1.0,108.3,-0.3,Lost W. Conf. Semis
+980,NOH,2016-17,NBA,New Orleans Pelicans,34,48,0.415,4th of 5,-1.69,98.0,1.6,105.2,-3.6,107.4,-1.4,False
+981,NOH,2015-16,NBA,New Orleans Pelicans,30,52,0.366,5th of 5,-3.56,96.8,1.0,105.6,-0.8,109.5,3.1,False
+982,NOH,2014-15,NBA,New Orleans Pelicans*,45,37,0.549,5th of 5,1.13,91.4,-2.5,108.2,2.6,107.3,1.7,Lost W. Conf. 1st Rnd.
+983,NOH,2013-14,NBA,New Orleans Pelicans,34,48,0.415,5th of 5,-1.98,92.2,-1.7,107.2,0.5,110.1,3.4,False
+984,NOH,2012-13,NBA,New Orleans Hornets,27,55,0.329,5th of 5,-3.12,88.5,-3.5,105.7,-0.2,110.1,4.2,False
+985,NOH,2011-12,NBA,New Orleans Hornets,21,45,0.318,5th of 5,-3.11,88.3,-3.0,100.9,-3.7,105.1,0.5,False
+986,NOH,2010-11,NBA,New Orleans Hornets*,46,36,0.561,3rd of 5,1.28,88.7,-3.4,106.2,-1.1,105.2,-2.1,Lost W. Conf. 1st Rnd.
+987,NOH,2009-10,NBA,New Orleans Hornets,37,45,0.451,5th of 5,-2.27,92.6,-0.1,107.4,-0.2,110.1,2.5,False
+988,NOH,2008-09,NBA,New Orleans Hornets*,49,33,0.598,4th of 5,1.41,87.8,-3.9,108.7,0.4,107.0,-1.3,Lost W. Conf. 1st Rnd.
+989,NOH,2007-08,NBA,New Orleans Hornets*,56,26,0.683,1st of 5,5.46,89.9,-2.5,111.5,4.0,105.7,-1.8,Lost W. Conf. Semis
+990,NOH,2006-07,NBA,New Orleans/Oklahoma City Hornets,39,43,0.476,4th of 5,-1.19,90.2,-1.7,104.8,-1.7,106.5,0.0,False
+991,NOH,2005-06,NBA,New Orleans/Oklahoma City Hornets,38,44,0.463,4th of 5,-2.51,89.0,-1.5,103.7,-2.5,106.8,0.6,False
+992,NOH,2004-05,NBA,New Orleans Hornets,18,64,0.22,5th of 5,-6.3,87.6,-3.3,99.7,-6.4,107.7,1.6,False
+993,NOH,2003-04,NBA,New Orleans Hornets*,41,41,0.5,3rd of 8,-0.72,89.1,-1.0,102.3,-0.6,102.4,-0.5,Lost E. Conf. 1st Rnd.
+994,NOH,2002-03,NBA,New Orleans Hornets*,47,35,0.573,3rd of 8,1.52,89.4,-1.6,103.9,0.3,101.6,-2.0,Lost E. Conf. 1st Rnd.
+995,NYK,2021-22,NBA,New York Knicks,37,45,0.451,5th of 5,-0.01,95.9,-2.3,110.4,-1.6,110.5,-1.5,False
+996,NYK,2020-21,NBA,New York Knicks*,41,31,0.569,3rd of 5,2.13,95.9,-3.3,110.6,-1.7,108.2,-4.1,Lost E. Conf. 1st Rnd.
+997,NYK,2019-20,NBA,New York Knicks,21,45,0.318,5th of 5,-6.72,98.6,-1.7,106.5,-4.1,113.0,2.4,False
+998,NYK,2018-19,NBA,New York Knicks,17,65,0.207,5th of 5,-8.93,99.6,-0.4,104.5,-5.9,113.7,3.3,False
+999,NYK,2017-18,NBA,New York Knicks,29,53,0.354,4th of 5,-3.53,96.8,-0.5,107.1,-1.5,110.7,2.1,False
+1000,NYK,2016-17,NBA,New York Knicks,31,51,0.378,3rd of 5,-3.87,96.0,-0.4,107.7,-1.1,111.5,2.7,False
+1001,NYK,2015-16,NBA,New York Knicks,32,50,0.39,3rd of 5,-2.74,93.4,-2.4,104.6,-1.8,107.6,1.2,False
+1002,NYK,2014-15,NBA,New York Knicks,17,65,0.207,5th of 5,-9.5,91.2,-2.7,99.9,-5.7,110.0,4.4,False
+1003,NYK,2013-14,NBA,New York Knicks,37,45,0.451,3rd of 5,-1.4,90.3,-3.6,108.3,1.6,109.1,2.4,False
+1004,NYK,2012-13,NBA,New York Knicks*,54,28,0.659,1st of 5,3.73,89.8,-2.2,111.1,5.2,106.3,0.4,Lost E. Conf. Semis
+1005,NYK,2011-12,NBA,New York Knicks*,36,30,0.545,2nd of 5,2.39,93.2,1.9,104.4,-0.2,101.0,-3.6,Lost E. Conf. 1st Rnd.
+1006,NYK,2010-11,NBA,New York Knicks*,42,40,0.512,2nd of 5,0.48,95.6,3.5,110.9,3.6,110.1,2.8,Lost E. Conf. 1st Rnd.
+1007,NYK,2009-10,NBA,New York Knicks,29,53,0.354,3rd of 5,-4.01,94.0,1.3,107.6,0.0,111.6,4.0,False
+1008,NYK,2008-09,NBA,New York Knicks,32,50,0.39,5th of 5,-2.33,96.7,5.0,108.1,-0.2,110.8,2.5,False
+1009,NYK,2007-08,NBA,New York Knicks,23,59,0.28,5th of 5,-6.55,91.6,-0.8,104.7,-2.8,111.9,4.4,False
+1010,NYK,2006-07,NBA,New York Knicks,33,49,0.402,4th of 5,-3.06,90.8,-1.1,105.7,-0.8,108.8,2.3,False
+1011,NYK,2005-06,NBA,New York Knicks,23,59,0.28,5th of 5,-6.3,90.8,0.3,104.0,-2.2,111.0,4.8,False
+1012,NYK,2004-05,NBA,New York Knicks,33,49,0.402,5th of 5,-2.72,90.7,-0.2,106.2,0.1,108.9,2.8,False
+1013,NYK,2003-04,NBA,New York Knicks*,39,43,0.476,3rd of 7,-1.97,89.5,-0.6,101.7,-1.2,103.3,0.4,Lost E. Conf. 1st Rnd.
+1014,NYK,2002-03,NBA,New York Knicks,37,45,0.451,6th of 7,-1.61,90.7,-0.3,104.7,1.1,106.2,2.6,False
+1015,NYK,2001-02,NBA,New York Knicks,30,52,0.366,7th of 7,-4.15,89.7,-1.0,101.5,-3.0,105.9,1.4,False
+1016,NYK,2000-01,NBA,New York Knicks*,48,34,0.585,3rd of 7,1.98,86.7,-4.6,101.2,-1.8,98.2,-4.8,Lost E. Conf. 1st Rnd.
+1017,NYK,1999-00,NBA,New York Knicks*,50,32,0.61,2nd of 7,1.3,89.2,-3.9,102.5,-1.6,100.9,-3.2,Lost E. Conf. Finals
+1018,NYK,1998-99,NBA,New York Knicks*,27,23,0.54,4th of 7,1.45,86.9,-2.0,98.6,-3.6,97.5,-4.7,Lost Finals
+1019,NYK,1997-98,NBA,New York Knicks*,43,39,0.524,2nd of 7,2.74,88.2,-2.1,103.0,-2.0,100.3,-4.7,Lost E. Conf. Semis
+1020,NYK,1996-97,NBA,New York Knicks*,57,25,0.695,2nd of 7,3.31,90.5,0.4,104.4,-2.3,101.0,-5.7,Lost E. Conf. Semis
+1021,NYK,1995-96,NBA,New York Knicks*,47,35,0.573,2nd of 7,2.24,91.0,-0.8,106.0,-1.6,103.5,-4.1,Lost E. Conf. Semis
+1022,NYK,1994-95,NBA,New York Knicks*,55,27,0.671,2nd of 7,2.78,91.2,-1.7,107.2,-1.1,103.8,-4.5,Lost E. Conf. Semis
+1023,NYK,1993-94,NBA,New York Knicks*,57,25,0.695,1st of 7,6.48,92.8,-2.3,105.7,-0.6,98.2,-8.1,Lost Finals
+1024,NYK,1992-93,NBA,New York Knicks*,60,22,0.732,1st of 7,5.87,94.5,-2.3,106.1,-1.9,99.7,-8.3,Lost E. Conf. Finals
+1025,NYK,1991-92,NBA,New York Knicks*,51,31,0.622,2nd of 7,3.67,92.9,-3.7,108.3,0.1,104.2,-4.0,Lost E. Conf. Semis
+1026,NYK,1990-91,NBA,New York Knicks*,39,43,0.476,3rd of 6,-0.43,95.0,-2.8,107.1,-0.8,107.3,-0.6,Lost E. Conf. 1st Rnd.
+1027,NYK,1989-90,NBA,New York Knicks*,45,37,0.549,3rd of 6,0.78,98.2,-0.1,109.4,1.3,108.0,-0.1,Lost E. Conf. Semis
+1028,NYK,1988-89,NBA,New York Knicks*,52,30,0.634,1st of 6,3.62,104.4,3.8,111.1,3.3,107.5,-0.3,Lost E. Conf. Semis
+1029,NYK,1987-88,NBA,New York Knicks*,38,44,0.463,3rd of 5,0.14,99.1,-0.5,105.9,-2.1,106.4,-1.6,Lost E. Conf. 1st Rnd.
+1030,NYK,1986-87,NBA,New York Knicks,24,58,0.293,5th of 5,-5.42,98.5,-2.3,104.8,-3.5,111.1,2.8,False
+1031,NYK,1985-86,NBA,New York Knicks,23,59,0.28,5th of 5,-4.82,98.6,-3.5,99.5,-7.7,105.2,-2.0,False
+1032,NYK,1984-85,NBA,New York Knicks,24,58,0.293,5th of 5,-4.09,99.5,-2.6,104.9,-3.0,109.6,1.7,False
+1033,NYK,1983-84,NBA,New York Knicks*,47,35,0.573,3rd of 5,3.79,99.0,-2.4,107.0,-0.6,103.1,-4.5,Lost E. Conf. Semis
+1034,NYK,1982-83,NBA,New York Knicks*,44,38,0.537,4th of 5,2.58,97.0,-6.1,102.4,-2.3,99.9,-4.8,Lost E. Conf. Semis
+1035,NYK,1981-82,NBA,New York Knicks,33,49,0.402,5th of 5,-2.15,99.5,-1.4,106.0,-0.9,108.6,1.7,False
+1036,NYK,1980-81,NBA,New York Knicks*,50,32,0.61,3rd of 5,2.0,101.0,-0.8,106.0,0.5,104.4,-1.1,Lost E. Conf. 1st Rnd.
+1037,NYK,1979-80,NBA,New York Knicks,39,43,0.476,4th of 5,-0.96,106.5,3.4,106.5,1.2,107.5,2.2,False
+1038,NYK,1978-79,NBA,New York Knicks,31,51,0.378,4th of 5,-3.29,104.9,-0.9,102.2,-1.6,105.4,1.6,False
+1039,NYK,1977-78,NBA,New York Knicks*,43,39,0.524,2nd of 5,-0.53,109.7,3.0,101.7,0.8,102.2,1.3,Lost E. Conf. Semis
+1040,NYK,1976-77,NBA,New York Knicks,40,42,0.488,3rd of 5,0.01,108.1,1.6,100.1,0.6,100.1,0.6,False
+1041,NYK,1975-76,NBA,New York Knicks,38,44,0.463,4th of 4,-1.05,104.1,-1.4,98.0,-0.3,99.2,0.9,False
+1042,NYK,1974-75,NBA,New York Knicks*,40,42,0.488,3rd of 4,-0.92,103.1,-1.4,97.1,-0.6,98.3,0.6,Lost E. Conf. 1st Rnd.
+1043,NYK,1973-74,NBA,New York Knicks*,49,33,0.598,2nd of 4,2.42,103.5,-4.3,97.4,-0.3,94.7,-3.0,Lost E. Conf. Finals
+1044,NYK,1972-73,NBA,New York Knicks*,57,25,0.695,2nd of 4,6.07,105.9,-4.8,98.9,2.1,92.5,-4.3,Won Finals
+1045,NYK,1971-72,NBA,New York Knicks*,48,34,0.585,2nd of 4,2.28,108.0,-4.0,98.5,0.6,96.3,-1.6,Lost Finals
+1046,NYK,1970-71,NBA,New York Knicks*,52,30,0.634,1st of 4,5.05,112.2,-2.9,97.8,0.6,93.3,-3.9,Lost E. Conf. Finals
+1047,NYK,1969-70,NBA,New York Knicks*,60,22,0.732,1st of 7,8.42,114.3,-2.8,100.3,1.3,92.4,-6.6,Won Finals
+1048,NYK,1968-69,NBA,New York Knicks*,54,28,0.659,3rd of 7,5.48,112.4,-4.5,98.4,2.9,93.3,-2.2,Lost E. Div. Finals
+1049,NYK,1967-68,NBA,New York Knicks*,43,39,0.524,3rd of 6,1.78,117.2,-2.6,98.1,1.3,96.5,-0.3,Lost E. Div. Semis
+1050,NYK,1966-67,NBA,New York Knicks*,36,45,0.444,4th of 5,-2.74,118.5,-3.1,97.9,1.8,100.5,4.4,Lost E. Div. Semis
+1051,NYK,1965-66,NBA,New York Knicks,30,50,0.375,4th of 4,-2.31,118.9,-2.5,97.8,2.9,99.9,5.0,False
+1052,NYK,1964-65,NBA,New York Knicks,31,49,0.388,4th of 4,-3.26,113.5,-3.8,93.2,-0.4,96.4,2.8,False
+1053,NYK,1963-64,NBA,New York Knicks,22,58,0.275,4th of 4,-5.91,117.1,3.9,95.4,0.8,101.2,6.6,False
+1054,NYK,1962-63,NBA,New York Knicks,21,59,0.263,4th of 4,-6.2,117.5,2.5,93.5,-2.4,99.7,3.8,False
+1055,NYK,1961-62,NBA,New York Knicks,29,51,0.363,4th of 4,-3.98,125.6,4.3,91.2,-2.4,95.0,1.4,False
+1056,NYK,1960-61,NBA,New York Knicks,21,58,0.266,4th of 4,-5.43,122.9,-0.6,91.9,-0.2,97.1,5.0,False
+1057,NYK,1959-60,NBA,New York Knicks,27,48,0.36,4th of 4,-1.43,125.9,3.6,93.0,1.9,94.9,3.8,False
+1058,NYK,1958-59,NBA,New York Knicks*,40,32,0.556,2nd of 4,0.49,118.0,6.0,93.0,2.8,92.7,2.5,Lost E. Div. Semis
+1059,NYK,1957-58,NBA,New York Knicks,35,37,0.486,4th of 4,1.35,121.5,4.5,91.7,2.9,90.8,2.0,False
+1060,NYK,1956-57,NBA,New York Knicks,36,36,0.5,4th of 4,0.07,110.5,5.6,90.6,1.7,90.7,1.8,False
+1061,NYK,1955-56,NBA,New York Knicks*,35,37,0.486,4th of 4,-0.2,106.5,3.7,92.4,2.1,92.8,2.5,Lost E. Div. Third Place Tiebreaker
+1062,NYK,1954-55,NBA,New York Knicks*,38,34,0.528,2nd of 5,0.11,101.8,3.7,90.2,0.4,90.1,0.3,Lost E. Div. Semis
+1063,NYK,1953-54,NBA,New York Knicks*,44,28,0.611,1st of 5,-0.16,87.4,3.8,89.3,1.8,89.4,1.9,Eliminated in E. Div. Rnd. Robin
+1064,NYK,1952-53,NBA,New York Knicks*,47,23,0.671,1st of 5,4.39,93.1,12.7,90.5,2.5,85.0,-2.7,Lost Finals
+1065,NYK,1951-52,NBA,New York Knicks*,37,29,0.561,3rd of 5,0.67,94.9,9.1,88.7,1.8,87.9,1.0,Lost Finals
+1066,NYK,1950-51,NBA,New York Knicks*,36,30,0.545,3rd of 6,0.49,94.8,9.3,88.0,2.9,87.6,2.5,Lost Finals
+1067,NYK,1949-50,NBA,New York Knicks*,40,28,0.588,2nd of 6,2.53,,,,,,,Lost E. Div. Finals
+1068,NYK,1948-49,BAA,New York Knicks*,32,28,0.533,2nd of 6,1.24,,,,,,,Lost E. Div. Finals
+1069,NYK,1947-48,BAA,New York Knicks*,26,22,0.542,2nd of 4,2.3,,,,,,,Lost Quarterfinals
+1070,NYK,1946-47,BAA,New York Knicks*,33,27,0.55,3rd of 6,0.58,,,,,,,Lost Semis
+1071,OKC,2021-22,NBA,Oklahoma City Thunder,24,58,0.293,5th of 5,-7.9,98.5,0.3,104.6,-7.4,112.8,0.8,False
+1072,OKC,2020-21,NBA,Oklahoma City Thunder,22,50,0.306,5th of 5,-10.13,101.0,1.8,103.5,-8.8,114.0,1.7,False
+1073,OKC,2019-20,NBA,Oklahoma City Thunder*,44,28,0.611,2nd of 5,2.33,98.8,-1.5,110.8,0.2,108.8,-1.8,Lost W. Conf. 1st Rnd.
+1074,OKC,2018-19,NBA,Oklahoma City Thunder*,49,33,0.598,4th of 5,3.56,102.8,2.8,110.3,-0.1,107.0,-3.4,Lost W. Conf. 1st Rnd.
+1075,OKC,2017-18,NBA,Oklahoma City Thunder*,48,34,0.585,2nd of 5,3.42,96.7,-0.6,110.7,2.1,107.2,-1.4,Lost W. Conf. 1st Rnd.
+1076,OKC,2016-17,NBA,Oklahoma City Thunder*,47,35,0.573,2nd of 5,1.14,97.8,1.4,108.3,-0.5,107.5,-1.3,Lost W. Conf. 1st Rnd.
+1077,OKC,2015-16,NBA,Oklahoma City Thunder*,55,27,0.671,1st of 5,7.09,96.7,0.9,113.1,6.7,105.6,-0.8,Lost W. Conf. Finals
+1078,OKC,2014-15,NBA,Oklahoma City Thunder,45,37,0.549,2nd of 5,2.47,95.7,1.8,107.8,2.2,105.5,-0.1,False
+1079,OKC,2013-14,NBA,Oklahoma City Thunder*,59,23,0.72,1st of 5,6.66,95.4,1.5,110.5,3.8,103.9,-2.8,Lost W. Conf. Finals
+1080,OKC,2012-13,NBA,Oklahoma City Thunder*,60,22,0.732,1st of 5,9.15,93.3,1.3,112.4,6.5,102.6,-3.3,Lost W. Conf. Semis
+1081,OKC,2011-12,NBA,Oklahoma City Thunder*,47,19,0.712,1st of 5,6.44,93.0,1.7,109.8,5.2,103.2,-1.4,Lost Finals
+1082,OKC,2010-11,NBA,Oklahoma City Thunder*,55,27,0.671,1st of 5,3.81,92.7,0.6,111.2,3.9,107.2,-0.1,Lost W. Conf. Finals
+1083,OKC,2009-10,NBA,Oklahoma City Thunder*,50,32,0.61,4th of 5,3.55,93.1,0.4,108.3,0.7,104.6,-3.0,Lost W. Conf. 1st Rnd.
+1084,OKC,2008-09,NBA,Oklahoma City Thunder,23,59,0.28,5th of 5,-6.04,93.6,1.9,102.9,-5.4,109.4,1.1,False
+1085,OKC,2007-08,NBA,Seattle SuperSonics,20,62,0.244,5th of 5,-8.04,96.3,3.9,100.5,-7.0,109.5,2.0,False
+1086,OKC,2006-07,NBA,Seattle SuperSonics,31,51,0.378,5th of 5,-2.45,91.8,-0.1,107.2,0.7,110.3,3.8,False
+1087,OKC,2005-06,NBA,Seattle SuperSonics,35,47,0.427,3rd of 5,-2.88,91.6,1.1,111.1,4.9,114.4,8.2,False
+1088,OKC,2004-05,NBA,Seattle SuperSonics*,52,30,0.634,1st of 5,2.59,87.9,-3.0,112.2,6.1,109.6,3.5,Lost W. Conf. Semis
+1089,OKC,2003-04,NBA,Seattle SuperSonics,37,45,0.451,5th of 7,0.02,89.9,-0.2,107.3,4.4,108.0,5.1,False
+1090,OKC,2002-03,NBA,Seattle SuperSonics,40,42,0.488,5th of 7,0.37,88.0,-3.0,103.7,0.1,103.9,0.3,False
+1091,OKC,2001-02,NBA,Seattle SuperSonics*,45,37,0.549,4th of 7,3.24,89.0,-1.7,108.9,4.4,105.6,1.1,Lost W. Conf. 1st Rnd.
+1092,OKC,2000-01,NBA,Seattle SuperSonics,44,38,0.537,5th of 7,0.55,91.6,0.3,105.6,2.6,105.6,2.6,False
+1093,OKC,1999-00,NBA,Seattle SuperSonics*,45,37,0.549,4th of 7,1.17,93.4,0.3,105.6,1.5,104.6,0.5,Lost W. Conf. 1st Rnd.
+1094,OKC,1998-99,NBA,Seattle SuperSonics,25,25,0.5,5th of 7,-1.43,89.6,0.7,105.0,2.8,106.2,4.0,False
+1095,OKC,1997-98,NBA,Seattle SuperSonics*,61,21,0.744,1st of 7,6.33,89.8,-0.5,111.6,6.6,103.6,-1.4,Lost W. Conf. Semis
+1096,OKC,1996-97,NBA,Seattle SuperSonics*,57,25,0.695,1st of 7,6.91,90.3,0.2,111.2,4.5,102.7,-4.0,Lost W. Conf. Semis
+1097,OKC,1995-96,NBA,Seattle SuperSonics*,64,18,0.78,1st of 7,7.4,93.8,2.0,110.3,2.7,102.1,-5.5,Lost Finals
+1098,OKC,1994-95,NBA,Seattle SuperSonics*,57,25,0.695,2nd of 7,7.91,95.5,2.6,114.8,6.5,106.3,-2.0,Lost W. Conf. 1st Rnd.
+1099,OKC,1993-94,NBA,Seattle SuperSonics*,63,19,0.768,1st of 7,8.68,95.1,0.0,111.1,4.8,101.5,-4.8,Lost W. Conf. 1st Rnd.
+1100,OKC,1992-93,NBA,Seattle SuperSonics*,55,27,0.671,2nd of 7,6.66,96.0,-0.8,112.3,4.3,104.9,-3.1,Lost W. Conf. Finals
+1101,OKC,1991-92,NBA,Seattle SuperSonics*,47,35,0.573,4th of 7,1.86,95.4,-1.2,110.7,2.5,108.8,0.6,Lost W. Conf. Semis
+1102,OKC,1990-91,NBA,Seattle SuperSonics*,41,41,0.5,5th of 7,1.31,96.2,-1.6,109.7,1.8,108.5,0.6,Lost W. Conf. 1st Rnd.
+1103,OKC,1989-90,NBA,Seattle SuperSonics,41,41,0.5,4th of 7,1.4,95.3,-3.0,110.9,2.8,109.8,1.7,False
+1104,OKC,1988-89,NBA,Seattle SuperSonics*,47,35,0.573,3rd of 7,2.44,100.1,-0.5,111.5,3.7,108.6,0.8,Lost W. Conf. Semis
+1105,OKC,1987-88,NBA,Seattle SuperSonics*,44,38,0.537,3rd of 6,1.29,100.2,0.6,110.2,2.2,108.1,0.1,Lost W. Conf. 1st Rnd.
+1106,OKC,1986-87,NBA,Seattle SuperSonics*,39,43,0.476,4th of 6,0.08,101.8,1.0,110.7,2.4,110.3,2.0,Lost W. Conf. Finals
+1107,OKC,1985-86,NBA,Seattle SuperSonics,31,51,0.378,5th of 6,-0.47,97.4,-4.7,105.9,-1.3,106.0,-1.2,False
+1108,OKC,1984-85,NBA,Seattle SuperSonics,31,51,0.378,4th of 6,-5.44,99.3,-2.8,102.8,-5.1,108.2,0.3,False
+1109,OKC,1983-84,NBA,Seattle SuperSonics*,42,40,0.512,3rd of 6,-0.34,99.7,-1.7,107.9,0.3,108.1,0.5,Lost W. Conf. 1st Rnd.
+1110,OKC,1982-83,NBA,Seattle SuperSonics*,48,34,0.585,3rd of 6,2.88,103.2,0.1,105.9,1.2,102.8,-1.9,Lost W. Conf. 1st Rnd.
+1111,OKC,1981-82,NBA,Seattle SuperSonics*,52,30,0.634,2nd of 6,3.69,100.0,-0.9,106.4,-0.5,102.3,-4.6,Lost W. Conf. Semis
+1112,OKC,1980-81,NBA,Seattle SuperSonics,34,48,0.415,6th of 6,-1.84,100.3,-1.5,103.2,-2.3,104.8,-0.7,False
+1113,OKC,1979-80,NBA,Seattle SuperSonics*,56,26,0.683,2nd of 6,4.24,101.8,-1.3,105.8,0.5,101.2,-4.1,Lost W. Conf. Finals
+1114,OKC,1978-79,NBA,Seattle SuperSonics*,52,30,0.634,1st of 6,2.69,103.4,-2.4,102.7,-1.1,100.1,-3.7,Won Finals
+1115,OKC,1977-78,NBA,Seattle SuperSonics*,47,35,0.573,3rd of 5,1.48,104.8,-1.9,99.2,-1.7,97.7,-3.2,Lost Finals
+1116,OKC,1976-77,NBA,Seattle SuperSonics,40,42,0.488,4th of 5,-1.43,106.8,0.3,96.7,-2.8,98.2,-1.3,False
+1117,OKC,1975-76,NBA,Seattle SuperSonics*,43,39,0.524,2nd of 5,-0.15,107.7,2.2,98.3,0.0,98.6,0.3,Lost W. Conf. Semis
+1118,OKC,1974-75,NBA,Seattle SuperSonics*,43,39,0.524,2nd of 5,-1.19,105.5,1.0,96.7,-1.0,97.7,0.0,Lost W. Conf. Semis
+1119,OKC,1973-74,NBA,Seattle SuperSonics,36,46,0.439,3rd of 5,-2.29,110.2,2.4,96.8,-0.9,99.1,1.4,False
+1120,OKC,1972-73,NBA,Seattle SuperSonics,26,56,0.317,4th of 5,-5.33,110.0,-0.7,93.8,-3.0,99.1,2.3,False
+1121,OKC,1971-72,NBA,Seattle SuperSonics,47,35,0.573,3rd of 5,0.86,110.5,-1.5,98.5,0.6,98.1,0.2,False
+1122,OKC,1970-71,NBA,Seattle SuperSonics,38,44,0.463,4th of 5,-1.53,116.5,1.4,98.4,1.2,100.1,2.9,False
+1123,OKC,1969-70,NBA,Seattle SuperSonics,36,46,0.439,5th of 7,-2.43,116.4,-0.7,100.0,1.0,102.1,3.1,False
+1124,OKC,1968-69,NBA,Seattle SuperSonics,30,52,0.366,6th of 7,-4.68,117.4,0.5,94.7,-0.8,98.8,3.3,False
+1125,OKC,1967-68,NBA,Seattle SuperSonics,23,59,0.28,5th of 6,-6.0,123.9,4.1,95.4,-1.4,100.6,3.8,False
+1126,ORL,2021-22,NBA,Orlando Magic,22,60,0.268,5th of 5,-7.67,99.2,1.0,104.5,-7.5,112.5,0.5,False
+1127,ORL,2020-21,NBA,Orlando Magic,21,51,0.292,5th of 5,-9.02,98.7,-0.5,105.1,-7.2,114.5,2.2,False
+1128,ORL,2019-20,NBA,Orlando Magic*,33,40,0.452,2nd of 5,-0.93,98.6,-1.7,108.5,-2.1,109.5,-1.1,Lost E. Conf. 1st Rnd.
+1129,ORL,2018-19,NBA,Orlando Magic*,42,40,0.512,1st of 5,0.28,98.1,-1.9,108.9,-1.5,108.1,-2.3,Lost E. Conf. 1st Rnd.
+1130,ORL,2017-18,NBA,Orlando Magic,25,57,0.305,4th of 5,-4.92,98.1,0.8,105.2,-3.4,110.1,1.5,False
+1131,ORL,2016-17,NBA,Orlando Magic,29,53,0.354,5th of 5,-6.61,96.8,0.4,103.7,-5.1,110.5,1.7,False
+1132,ORL,2015-16,NBA,Orlando Magic,35,47,0.427,5th of 5,-1.68,96.0,0.2,105.1,-1.3,106.8,0.4,False
+1133,ORL,2014-15,NBA,Orlando Magic,25,57,0.305,5th of 5,-5.87,93.8,-0.1,101.6,-4.0,107.7,2.1,False
+1134,ORL,2013-14,NBA,Orlando Magic,23,59,0.28,5th of 5,-5.88,93.6,-0.3,101.7,-5.0,107.4,0.7,False
+1135,ORL,2012-13,NBA,Orlando Magic,20,62,0.244,5th of 5,-7.12,92.2,0.2,101.6,-4.3,109.1,3.2,False
+1136,ORL,2011-12,NBA,Orlando Magic*,37,29,0.561,3rd of 5,0.46,89.0,-2.3,105.0,0.4,104.1,-0.5,Lost E. Conf. 1st Rnd.
+1137,ORL,2010-11,NBA,Orlando Magic*,52,30,0.634,2nd of 5,4.92,91.2,-0.9,107.9,0.6,102.0,-5.3,Lost E. Conf. 1st Rnd.
+1138,ORL,2009-10,NBA,Orlando Magic*,59,23,0.72,1st of 5,7.12,92.0,-0.7,111.4,3.8,103.3,-4.3,Lost E. Conf. Finals
+1139,ORL,2008-09,NBA,Orlando Magic*,59,23,0.72,1st of 5,6.48,92.3,0.6,109.2,0.9,101.9,-6.4,Lost Finals
+1140,ORL,2007-08,NBA,Orlando Magic*,52,30,0.634,1st of 5,4.79,93.4,1.0,111.3,3.8,105.5,-2.0,Lost E. Conf. Semis
+1141,ORL,2006-07,NBA,Orlando Magic*,40,42,0.488,3rd of 5,0.35,89.9,-2.0,104.9,-1.6,104.1,-2.4,Lost E. Conf. 1st Rnd.
+1142,ORL,2005-06,NBA,Orlando Magic,36,46,0.439,3rd of 5,-1.26,88.3,-2.2,106.3,0.1,107.5,1.3,False
+1143,ORL,2004-05,NBA,Orlando Magic,36,46,0.439,3rd of 5,-2.52,94.7,3.8,104.9,-1.2,107.3,1.2,False
+1144,ORL,2003-04,NBA,Orlando Magic,21,61,0.256,7th of 7,-7.25,90.8,0.7,102.7,-0.2,110.4,7.5,False
+1145,ORL,2002-03,NBA,Orlando Magic*,42,40,0.512,4th of 7,-0.39,93.1,2.1,105.2,1.6,105.0,1.4,Lost E. Conf. 1st Rnd.
+1146,ORL,2001-02,NBA,Orlando Magic*,44,38,0.537,3rd of 7,1.25,93.2,2.5,107.0,2.5,105.3,0.8,Lost E. Conf. 1st Rnd.
+1147,ORL,2000-01,NBA,Orlando Magic*,43,39,0.524,4th of 7,0.39,93.2,1.9,103.2,0.2,102.1,-0.9,Lost E. Conf. 1st Rnd.
+1148,ORL,1999-00,NBA,Orlando Magic,41,41,0.5,4th of 7,0.43,97.3,4.2,102.4,-1.7,101.7,-2.4,False
+1149,ORL,1998-99,NBA,Orlando Magic*,33,17,0.66,2nd of 7,3.11,88.8,-0.1,100.3,-1.9,97.4,-4.8,Lost E. Conf. 1st Rnd.
+1150,ORL,1997-98,NBA,Orlando Magic,41,41,0.5,5th of 7,-0.53,87.1,-3.2,102.6,-2.4,103.8,-1.2,False
+1151,ORL,1996-97,NBA,Orlando Magic*,45,37,0.549,3rd of 7,-0.07,88.3,-1.8,105.6,-1.1,106.0,-0.7,Lost E. Conf. 1st Rnd.
+1152,ORL,1995-96,NBA,Orlando Magic*,60,22,0.732,1st of 7,5.4,91.8,0.0,112.9,5.3,106.9,-0.7,Lost E. Conf. Finals
+1153,ORL,1994-95,NBA,Orlando Magic*,57,25,0.695,1st of 7,6.44,95.1,2.2,115.1,6.8,107.8,-0.5,Lost Finals
+1154,ORL,1993-94,NBA,Orlando Magic*,50,32,0.61,2nd of 7,3.68,95.2,0.1,110.8,4.5,106.7,0.4,Lost E. Conf. 1st Rnd.
+1155,ORL,1992-93,NBA,Orlando Magic,41,41,0.5,4th of 7,1.35,96.3,-0.5,108.5,0.5,107.1,-0.9,False
+1156,ORL,1991-92,NBA,Orlando Magic,21,61,0.256,7th of 7,-6.52,98.0,1.4,103.5,-4.7,110.5,2.3,False
+1157,ORL,1990-91,NBA,Orlando Magic,31,51,0.378,4th of 7,-3.79,99.5,1.7,105.9,-2.0,109.9,2.0,False
+1158,ORL,1989-90,NBA,Orlando Magic,18,64,0.22,7th of 7,-8.73,104.1,5.8,105.8,-2.3,114.3,6.2,False
+1159,PHI,2021-22,NBA,Philadelphia 76ers*,51,31,0.622,2nd of 5,2.57,96.2,-2.0,113.5,1.5,110.8,-1.2,Lost E. Conf. Semis
+1160,PHI,2020-21,NBA,Philadelphia 76ers*,49,23,0.681,1st of 5,5.28,99.5,0.3,113.2,0.9,107.6,-4.7,Lost E. Conf. Semis
+1161,PHI,2019-20,NBA,Philadelphia 76ers*,43,30,0.589,3rd of 5,2.25,99.0,-1.3,111.3,0.7,109.0,-1.6,Lost E. Conf. 1st Rnd.
+1162,PHI,2018-19,NBA,Philadelphia 76ers*,51,31,0.622,2nd of 5,2.25,101.6,1.6,112.6,2.2,110.0,-0.4,Lost E. Conf. Semis
+1163,PHI,2017-18,NBA,Philadelphia 76ers*,52,30,0.634,3rd of 5,4.3,99.8,2.5,109.5,0.9,105.0,-3.6,Lost E. Conf. Semis
+1164,PHI,2016-17,NBA,Philadelphia 76ers,28,54,0.341,4th of 5,-5.83,98.5,2.1,103.2,-5.6,108.9,0.1,False
+1165,PHI,2015-16,NBA,Philadelphia 76ers,10,72,0.122,5th of 5,-9.92,97.9,2.1,98.8,-7.6,109.2,2.8,False
+1166,PHI,2014-15,NBA,Philadelphia 76ers,18,64,0.22,4th of 5,-9.04,95.7,1.8,95.5,-10.1,104.8,-0.8,False
+1167,PHI,2013-14,NBA,Philadelphia 76ers,19,63,0.232,5th of 5,-10.66,99.2,5.3,99.4,-7.3,109.9,3.2,False
+1168,PHI,2012-13,NBA,Philadelphia 76ers,34,48,0.415,4th of 5,-3.51,91.0,-1.0,102.0,-3.9,105.7,-0.2,False
+1169,PHI,2011-12,NBA,Philadelphia 76ers*,35,31,0.53,3rd of 5,3.59,89.7,-1.6,103.9,-0.7,99.2,-5.4,Lost E. Conf. Semis
+1170,PHI,2010-11,NBA,Philadelphia 76ers*,41,41,0.5,3rd of 5,1.01,91.7,-0.4,106.6,-0.7,105.0,-2.3,Lost E. Conf. 1st Rnd.
+1171,PHI,2009-10,NBA,Philadelphia 76ers,27,55,0.329,4th of 5,-3.93,91.6,-1.1,106.1,-1.5,110.3,2.7,False
+1172,PHI,2008-09,NBA,Philadelphia 76ers*,41,41,0.5,2nd of 5,0.16,90.0,-1.7,107.9,-0.4,107.8,-0.5,Lost E. Conf. 1st Rnd.
+1173,PHI,2007-08,NBA,Philadelphia 76ers*,40,42,0.488,3rd of 5,0.19,90.4,-2.0,106.4,-1.1,106.0,-1.5,Lost E. Conf. 1st Rnd.
+1174,PHI,2006-07,NBA,Philadelphia 76ers,35,47,0.427,3rd of 5,-3.26,90.7,-1.2,103.6,-2.9,106.9,0.4,False
+1175,PHI,2005-06,NBA,Philadelphia 76ers,38,44,0.463,2nd of 5,-2.1,92.7,2.2,106.0,-0.2,108.1,1.9,False
+1176,PHI,2004-05,NBA,Philadelphia 76ers*,43,39,0.524,2nd of 5,-1.07,94.9,4.0,103.5,-2.6,104.3,-1.8,Lost E. Conf. 1st Rnd.
+1177,PHI,2003-04,NBA,Philadelphia 76ers,33,49,0.402,5th of 7,-2.95,88.0,-2.1,99.1,-3.8,101.9,-1.0,False
+1178,PHI,2002-03,NBA,Philadelphia 76ers*,48,34,0.585,2nd of 7,1.76,91.4,0.4,105.0,1.4,102.5,-1.1,Lost E. Conf. Semis
+1179,PHI,2001-02,NBA,Philadelphia 76ers*,43,39,0.524,4th of 7,1.27,88.9,-1.8,102.1,-2.4,100.3,-4.2,Lost E. Conf. 1st Rnd.
+1180,PHI,2000-01,NBA,Philadelphia 76ers*,56,26,0.683,1st of 7,3.64,90.6,-0.7,103.6,0.6,98.9,-4.1,Lost Finals
+1181,PHI,1999-00,NBA,Philadelphia 76ers*,49,33,0.598,3rd of 7,1.02,92.7,-0.4,101.5,-2.6,100.0,-4.1,Lost E. Conf. Semis
+1182,PHI,1998-99,NBA,Philadelphia 76ers*,28,22,0.56,3rd of 7,2.56,88.6,-0.3,99.9,-2.3,97.6,-4.6,Lost E. Conf. Semis
+1183,PHI,1997-98,NBA,Philadelphia 76ers,31,51,0.378,7th of 7,-1.89,90.4,0.1,102.8,-2.2,105.4,0.4,False
+1184,PHI,1996-97,NBA,Philadelphia 76ers,22,60,0.268,6th of 7,-5.89,95.3,5.2,104.6,-2.1,111.4,4.7,False
+1185,PHI,1995-96,NBA,Philadelphia 76ers,18,64,0.22,7th of 7,-9.45,92.2,0.4,102.2,-5.4,113.0,5.4,False
+1186,PHI,1994-95,NBA,Philadelphia 76ers,24,58,0.293,6th of 7,-5.06,91.0,-1.9,104.1,-4.2,109.7,1.4,False
+1187,PHI,1993-94,NBA,Philadelphia 76ers,25,57,0.305,6th of 7,-7.37,95.7,0.6,101.7,-4.6,109.7,3.4,False
+1188,PHI,1992-93,NBA,Philadelphia 76ers,26,56,0.317,6th of 7,-5.25,98.5,1.7,104.6,-3.4,110.4,2.4,False
+1189,PHI,1991-92,NBA,Philadelphia 76ers,35,47,0.427,5th of 7,-1.34,93.7,-2.9,108.3,0.1,109.7,1.5,False
+1190,PHI,1990-91,NBA,Philadelphia 76ers*,44,38,0.537,2nd of 6,-0.39,95.7,-2.1,107.9,0.0,108.1,0.2,Lost E. Conf. Semis
+1191,PHI,1989-90,NBA,Philadelphia 76ers*,53,29,0.646,1st of 6,4.23,96.5,-1.8,113.5,5.4,108.4,0.3,Lost E. Conf. Semis
+1192,PHI,1988-89,NBA,Philadelphia 76ers*,46,36,0.561,2nd of 6,1.68,98.5,-2.1,113.0,5.2,111.5,3.7,Lost E. Conf. 1st Rnd.
+1193,PHI,1987-88,NBA,Philadelphia 76ers,36,46,0.439,4th of 5,-0.79,96.0,-3.6,108.8,0.8,110.3,2.3,False
+1194,PHI,1986-87,NBA,Philadelphia 76ers*,45,37,0.549,2nd of 5,0.11,97.3,-3.5,108.3,0.0,108.5,0.2,Lost E. Conf. 1st Rnd.
+1195,PHI,1985-86,NBA,Philadelphia 76ers*,54,28,0.659,2nd of 5,2.46,100.5,-1.6,108.6,1.4,106.3,-0.9,Lost E. Conf. Semis
+1196,PHI,1984-85,NBA,Philadelphia 76ers*,58,24,0.707,2nd of 5,4.17,100.8,-1.3,111.3,3.4,107.3,-0.6,Lost E. Conf. Finals
+1197,PHI,1983-84,NBA,Philadelphia 76ers*,52,30,0.634,2nd of 5,2.39,99.6,-1.8,106.8,-0.8,104.6,-3.0,Lost E. Conf. 1st Rnd.
+1198,PHI,1982-83,NBA,Philadelphia 76ers*,65,17,0.793,1st of 5,7.53,102.7,-0.4,108.3,3.6,100.9,-3.8,Won Finals
+1199,PHI,1981-82,NBA,Philadelphia 76ers*,58,24,0.707,2nd of 5,5.74,100.6,-0.3,109.6,2.7,103.9,-3.0,Lost Finals
+1200,PHI,1980-81,NBA,Philadelphia 76ers*,62,20,0.756,2nd of 5,7.76,103.4,1.6,107.0,1.5,99.5,-6.0,Lost E. Conf. Finals
+1201,PHI,1979-80,NBA,Philadelphia 76ers*,59,23,0.72,2nd of 5,4.04,103.0,-0.1,105.0,-0.3,101.0,-4.3,Lost Finals
+1202,PHI,1978-79,NBA,Philadelphia 76ers*,47,35,0.573,2nd of 5,1.74,106.7,0.9,102.0,-1.8,100.3,-3.5,Lost E. Conf. Semis
+1203,PHI,1977-78,NBA,Philadelphia 76ers*,55,27,0.671,1st of 5,4.87,108.4,1.7,105.0,4.1,100.3,-0.6,Lost E. Conf. Finals
+1204,PHI,1976-77,NBA,Philadelphia 76ers*,50,32,0.61,1st of 5,3.78,108.3,1.8,101.2,1.7,97.6,-1.9,Lost Finals
+1205,PHI,1975-76,NBA,Philadelphia 76ers*,46,36,0.561,2nd of 4,0.33,107.5,2.0,98.2,-0.1,98.0,-0.3,Lost E. Conf. 1st Rnd.
+1206,PHI,1974-75,NBA,Philadelphia 76ers,34,48,0.415,4th of 4,-2.6,103.4,-1.1,95.8,-1.9,98.8,1.1,False
+1207,PHI,1973-74,NBA,Philadelphia 76ers,25,57,0.305,4th of 4,-5.94,108.3,0.5,93.1,-4.6,99.0,1.3,False
+1208,PHI,1972-73,NBA,Philadelphia 76ers,9,73,0.11,4th of 4,-11.5,115.2,4.5,90.2,-6.6,100.6,3.8,False
+1209,PHI,1971-72,NBA,Philadelphia 76ers,30,52,0.366,3rd of 4,-3.44,115.8,3.8,96.4,-1.5,99.5,1.6,False
+1210,PHI,1970-71,NBA,Philadelphia 76ers*,47,35,0.573,2nd of 4,1.81,115.7,0.6,98.8,1.6,97.5,0.3,Lost E. Conf. Semis
+1211,PHI,1969-70,NBA,Philadelphia 76ers*,42,40,0.512,4th of 7,3.32,120.9,3.8,100.5,1.5,97.7,-1.3,Lost E. Div. Semis
+1212,PHI,1968-69,NBA,Philadelphia 76ers*,55,27,0.671,2nd of 7,4.79,120.4,3.5,98.1,2.6,93.9,-1.6,Lost E. Div. Semis
+1213,PHI,1967-68,NBA,Philadelphia 76ers*,62,20,0.756,1st of 6,7.96,124.3,4.5,98.1,1.3,91.2,-5.6,Lost E. Div. Finals
+1214,PHI,1966-67,NBA,Philadelphia 76ers*,68,13,0.84,1st of 5,8.5,122.9,1.3,101.5,5.4,93.9,-2.2,Won Finals
+1215,PHI,1965-66,NBA,Philadelphia 76ers*,55,25,0.688,1st of 4,4.16,122.8,1.4,95.3,0.4,91.5,-3.4,Lost E. Div. Finals
+1216,PHI,1964-65,NBA,Philadelphia 76ers*,40,40,0.5,3rd of 4,-0.13,119.1,1.8,94.1,0.5,94.2,0.6,Lost E. Div. Finals
+1217,PHI,1963-64,NBA,Philadelphia 76ers*,34,46,0.425,3rd of 4,-3.75,119.4,6.2,93.8,-0.8,97.5,2.9,Lost E. Div. Semis
+1218,PHI,1962-63,NBA,Syracuse Nationals*,48,32,0.6,2nd of 4,3.4,123.3,8.3,98.4,2.5,95.3,-0.6,Lost E. Div. Semis
+1219,PHI,1961-62,NBA,Syracuse Nationals*,41,39,0.513,3rd of 4,2.24,128.8,7.5,93.4,-0.2,91.6,-2.0,Lost E. Div. Semis
+1220,PHI,1960-61,NBA,Syracuse Nationals*,38,41,0.481,3rd of 4,1.93,129.1,5.6,93.6,1.5,91.9,-0.2,Lost E. Div. Finals
+1221,PHI,1959-60,NBA,Syracuse Nationals*,45,30,0.6,3rd of 4,2.77,127.2,4.9,93.1,2.0,91.0,-0.1,Lost E. Div. Semis
+1222,PHI,1958-59,NBA,Syracuse Nationals*,35,37,0.486,3rd of 4,3.74,121.0,9.0,92.5,2.3,89.2,-1.0,Lost E. Div. Finals
+1223,PHI,1957-58,NBA,Syracuse Nationals*,41,31,0.569,2nd of 4,2.18,119.1,2.1,89.9,1.1,88.1,-0.7,Lost E. Div. Semis
+1224,PHI,1956-57,NBA,Syracuse Nationals*,38,34,0.528,2nd of 4,-1.03,112.3,7.4,88.3,-0.6,89.5,0.6,Lost E. Div. Finals
+1225,PHI,1955-56,NBA,Syracuse Nationals*,35,37,0.486,3rd of 4,0.17,108.5,5.7,88.0,-2.3,88.0,-2.3,Lost E. Div. Finals
+1226,PHI,1954-55,NBA,Syracuse Nationals*,43,29,0.597,1st of 5,1.23,103.6,5.5,87.5,-2.3,86.2,-3.6,Won Finals
+1227,PHI,1953-54,NBA,Syracuse Nationals*,42,30,0.583,2nd of 5,4.27,93.5,9.9,88.2,0.7,83.0,-4.5,Lost Finals
+1228,PHI,1952-53,NBA,Syracuse Nationals*,47,24,0.662,2nd of 5,3.62,92.8,12.4,90.6,2.6,86.0,-1.7,Lost E. Div. Semis
+1229,PHI,1951-52,NBA,Syracuse Nationals*,40,26,0.606,1st of 5,3.94,96.1,10.3,89.2,2.3,84.6,-2.3,Lost E. Div. Finals
+1230,PHI,1950-51,NBA,Syracuse Nationals*,32,34,0.485,4th of 6,0.62,98.1,12.6,86.4,1.3,85.9,0.8,Lost E. Div. Finals
+1231,PHI,1949-50,NBA,Syracuse Nationals*,51,13,0.797,1st of 6,6.48,,,,,,,Lost Finals
+1232,PHO,2021-22,NBA,Phoenix Suns*,64,18,0.78,1st of 5,6.94,99.8,1.6,114.8,2.8,107.3,-4.7,Lost W. Conf. Semis
+1233,PHO,2020-21,NBA,Phoenix Suns*,51,21,0.708,1st of 5,5.67,97.2,-2.0,117.2,4.9,111.3,-1.0,Lost Finals
+1234,PHO,2019-20,NBA,Phoenix Suns,34,39,0.466,3rd of 5,0.56,101.3,1.0,111.7,1.1,111.4,0.8,False
+1235,PHO,2018-19,NBA,Phoenix Suns,19,63,0.232,5th of 5,-8.61,100.5,0.5,105.9,-4.5,115.1,4.7,False
+1236,PHO,2017-18,NBA,Phoenix Suns,21,61,0.256,5th of 5,-8.8,100.3,3.0,103.5,-5.1,112.8,4.2,False
+1237,PHO,2016-17,NBA,Phoenix Suns,24,58,0.293,5th of 5,-5.14,100.3,3.9,106.6,-2.2,112.2,3.4,False
+1238,PHO,2015-16,NBA,Phoenix Suns,23,59,0.28,4th of 5,-6.32,98.5,2.7,102.2,-4.2,109.0,2.6,False
+1239,PHO,2014-15,NBA,Phoenix Suns,39,43,0.476,3rd of 5,-0.38,96.3,2.4,105.3,-0.3,106.2,0.6,False
+1240,PHO,2013-14,NBA,Phoenix Suns,48,34,0.585,3rd of 5,3.02,95.8,1.9,109.5,2.8,106.7,0.0,False
+1241,PHO,2012-13,NBA,Phoenix Suns,25,57,0.305,5th of 5,-5.75,93.4,1.4,101.2,-4.7,108.1,2.2,False
+1242,PHO,2011-12,NBA,Phoenix Suns,33,33,0.5,3rd of 5,0.29,92.6,1.3,106.2,1.6,106.5,1.9,False
+1243,PHO,2010-11,NBA,Phoenix Suns,40,42,0.488,2nd of 5,-0.46,94.4,2.3,109.5,2.2,110.4,3.1,False
+1244,PHO,2009-10,NBA,Phoenix Suns*,54,28,0.659,2nd of 5,4.67,95.3,2.6,115.3,7.7,110.2,2.6,Lost W. Conf. Finals
+1245,PHO,2008-09,NBA,Phoenix Suns,46,36,0.561,2nd of 5,1.62,96.0,4.3,113.6,5.3,111.6,3.3,False
+1246,PHO,2007-08,NBA,Phoenix Suns*,55,27,0.671,2nd of 5,5.14,96.7,4.3,113.3,5.8,108.1,0.6,Lost W. Conf. 1st Rnd.
+1247,PHO,2006-07,NBA,Phoenix Suns*,61,21,0.744,1st of 5,7.28,95.6,3.7,113.9,7.4,106.4,-0.1,Lost W. Conf. Semis
+1248,PHO,2005-06,NBA,Phoenix Suns*,54,28,0.659,1st of 5,5.48,95.8,5.3,111.5,5.3,105.8,-0.4,Lost W. Conf. Finals
+1249,PHO,2004-05,NBA,Phoenix Suns*,62,20,0.756,1st of 5,7.08,95.9,5.0,114.5,8.4,107.1,1.0,Lost W. Conf. Finals
+1250,PHO,2003-04,NBA,Phoenix Suns,29,53,0.354,6th of 7,-2.94,92.6,2.5,101.4,-1.5,105.5,2.6,False
+1251,PHO,2002-03,NBA,Phoenix Suns*,44,38,0.537,4th of 7,1.57,91.5,0.5,103.7,0.1,102.5,-1.1,Lost W. Conf. 1st Rnd.
+1252,PHO,2001-02,NBA,Phoenix Suns,36,46,0.439,6th of 7,-0.3,91.4,0.7,103.3,-1.2,104.0,-0.5,False
+1253,PHO,2000-01,NBA,Phoenix Suns*,51,31,0.622,3rd of 7,2.63,93.1,1.8,100.3,-2.7,98.0,-5.0,Lost W. Conf. 1st Rnd.
+1254,PHO,1999-00,NBA,Phoenix Suns*,53,29,0.646,3rd of 7,5.24,94.0,0.9,104.6,0.5,99.0,-5.1,Lost W. Conf. Semis
+1255,PHO,1998-99,NBA,Phoenix Suns*,27,23,0.54,3rd of 7,2.15,90.0,1.1,105.8,3.6,103.3,1.1,Lost W. Conf. 1st Rnd.
+1256,PHO,1997-98,NBA,Phoenix Suns*,56,26,0.683,3rd of 7,4.44,91.4,1.1,107.4,2.4,101.8,-3.2,Lost W. Conf. 1st Rnd.
+1257,PHO,1996-97,NBA,Phoenix Suns*,40,42,0.488,4th of 7,0.21,93.2,3.1,109.3,2.6,108.6,1.9,Lost W. Conf. 1st Rnd.
+1258,PHO,1995-96,NBA,Phoenix Suns*,41,41,0.5,4th of 7,0.28,93.2,1.4,110.3,2.7,110.0,2.4,Lost W. Conf. 1st Rnd.
+1259,PHO,1994-95,NBA,Phoenix Suns*,59,23,0.72,1st of 7,3.86,95.9,3.0,114.5,6.2,110.4,2.1,Lost W. Conf. Semis
+1260,PHO,1993-94,NBA,Phoenix Suns*,56,26,0.683,2nd of 7,4.68,96.7,1.6,111.7,5.4,106.8,0.5,Lost W. Conf. Semis
+1261,PHO,1992-93,NBA,Phoenix Suns*,62,20,0.756,1st of 7,6.27,99.8,3.0,113.3,5.3,106.7,-1.3,Lost Finals
+1262,PHO,1991-92,NBA,Phoenix Suns*,53,29,0.646,3rd of 7,5.68,99.4,2.8,112.1,3.9,106.2,-2.0,Lost W. Conf. Semis
+1263,PHO,1990-91,NBA,Phoenix Suns*,55,27,0.671,3rd of 7,6.49,101.0,3.2,112.6,4.7,106.1,-1.8,Lost W. Conf. 1st Rnd.
+1264,PHO,1989-90,NBA,Phoenix Suns*,54,28,0.659,3rd of 7,7.09,100.7,2.4,113.1,5.0,106.2,-1.9,Lost W. Conf. Finals
+1265,PHO,1988-89,NBA,Phoenix Suns*,55,27,0.671,2nd of 7,6.84,104.5,3.9,113.1,5.3,105.7,-2.1,Lost W. Conf. Finals
+1266,PHO,1987-88,NBA,Phoenix Suns,28,54,0.341,4th of 6,-4.8,101.2,1.6,107.0,-1.0,111.4,3.4,False
+1267,PHO,1986-87,NBA,Phoenix Suns,36,46,0.439,5th of 6,-2.63,102.0,1.2,108.0,-0.3,110.3,2.0,False
+1268,PHO,1985-86,NBA,Phoenix Suns,32,50,0.39,3rd of 6,-3.16,104.8,2.7,104.3,-2.9,107.2,0.0,False
+1269,PHO,1984-85,NBA,Phoenix Suns*,36,46,0.439,3rd of 6,-2.34,102.5,0.4,104.7,-3.2,106.8,-1.1,Lost W. Conf. 1st Rnd.
+1270,PHO,1983-84,NBA,Phoenix Suns*,41,41,0.5,4th of 6,0.65,101.4,0.0,108.9,1.3,108.0,0.4,Lost W. Conf. Finals
+1271,PHO,1982-83,NBA,Phoenix Suns*,53,29,0.646,2nd of 6,4.61,101.6,-1.5,105.1,0.4,100.1,-4.6,Lost W. Conf. 1st Rnd.
+1272,PHO,1981-82,NBA,Phoenix Suns*,46,36,0.561,3rd of 6,3.05,99.5,-1.4,105.8,-1.1,102.4,-4.5,Lost W. Conf. Semis
+1273,PHO,1980-81,NBA,Phoenix Suns*,57,25,0.695,1st of 6,4.83,104.7,2.9,104.6,-0.9,99.4,-6.1,Lost W. Conf. Semis
+1274,PHO,1979-80,NBA,Phoenix Suns*,55,27,0.671,3rd of 6,3.25,104.8,1.7,105.6,0.3,102.2,-3.1,Lost W. Conf. Semis
+1275,PHO,1978-79,NBA,Phoenix Suns*,50,32,0.61,2nd of 6,3.55,108.5,2.7,105.7,1.9,102.4,-1.4,Lost W. Conf. Finals
+1276,PHO,1977-78,NBA,Phoenix Suns*,49,33,0.598,2nd of 5,3.5,111.4,4.7,100.3,-0.6,97.0,-3.9,Lost W. Conf. 1st Rnd.
+1277,PHO,1976-77,NBA,Phoenix Suns,34,48,0.415,5th of 5,0.64,106.6,0.1,98.1,-1.4,97.5,-2.0,False
+1278,PHO,1975-76,NBA,Phoenix Suns*,42,40,0.512,3rd of 5,0.59,105.6,0.1,98.5,0.2,97.9,-0.4,Lost Finals
+1279,PHO,1974-75,NBA,Phoenix Suns,32,50,0.39,4th of 5,-2.36,104.3,-0.2,96.4,-1.3,98.6,0.9,False
+1280,PHO,1973-74,NBA,Phoenix Suns,30,52,0.366,4th of 5,-3.2,109.6,1.8,98.1,0.4,101.3,3.6,False
+1281,PHO,1972-73,NBA,Phoenix Suns,38,44,0.463,3rd of 5,-0.96,113.0,2.3,98.4,1.6,99.5,2.7,False
+1282,PHO,1971-72,NBA,Phoenix Suns,49,33,0.598,3rd of 4,5.57,113.7,1.7,101.3,3.4,96.5,-1.4,False
+1283,PHO,1970-71,NBA,Phoenix Suns,48,34,0.585,3rd of 4,2.33,115.3,0.2,98.2,1.0,96.6,-0.6,False
+1284,PHO,1969-70,NBA,Phoenix Suns*,39,43,0.476,4th of 7,-1.66,116.7,-0.4,101.6,2.6,103.1,4.1,Lost W. Div. Semis
+1285,PHO,1968-69,NBA,Phoenix Suns,16,66,0.195,7th of 7,-8.26,118.4,1.5,93.8,-1.7,101.1,5.6,False
+1286,POR,2021-22,NBA,Portland Trail Blazers,27,55,0.329,4th of 5,-8.55,98.3,0.1,107.8,-4.2,116.9,4.9,False
+1287,POR,2020-21,NBA,Portland Trail Blazers*,42,30,0.583,3rd of 5,1.81,98.4,-0.8,117.8,5.5,116.0,3.7,Lost W. Conf. 1st Rnd.
+1288,POR,2019-20,NBA,Portland Trail Blazers*,35,39,0.473,4th of 5,-0.61,100.7,0.4,113.7,3.1,114.8,4.2,Lost W. Conf. 1st Rnd.
+1289,POR,2018-19,NBA,Portland Trail Blazers*,53,29,0.646,2nd of 5,4.43,99.1,-0.9,114.7,4.3,110.5,0.1,Lost W. Conf. Finals
+1290,POR,2017-18,NBA,Portland Trail Blazers*,49,33,0.598,1st of 5,2.6,96.5,-0.8,109.1,0.5,106.4,-2.2,Lost W. Conf. 1st Rnd.
+1291,POR,2016-17,NBA,Portland Trail Blazers*,41,41,0.5,3rd of 5,-0.23,96.7,0.3,110.3,1.5,110.8,2.0,Lost W. Conf. 1st Rnd.
+1292,POR,2015-16,NBA,Portland Trail Blazers*,44,38,0.537,2nd of 5,0.98,96.0,0.2,108.8,2.4,108.0,1.6,Lost W. Conf. Semis
+1293,POR,2014-15,NBA,Portland Trail Blazers*,51,31,0.622,1st of 5,4.41,94.2,0.3,108.2,2.6,103.7,-1.9,Lost W. Conf. 1st Rnd.
+1294,POR,2013-14,NBA,Portland Trail Blazers*,54,28,0.659,2nd of 5,4.44,94.9,1.0,111.5,4.8,107.4,0.7,Lost W. Conf. Semis
+1295,POR,2012-13,NBA,Portland Trail Blazers,33,49,0.402,4th of 5,-2.53,91.4,-0.6,105.8,-0.1,109.2,3.3,False
+1296,POR,2011-12,NBA,Portland Trail Blazers,28,38,0.424,4th of 5,-0.22,91.2,-0.1,105.7,1.1,106.4,1.8,False
+1297,POR,2010-11,NBA,Portland Trail Blazers*,48,34,0.585,3rd of 5,1.85,87.9,-4.2,108.8,1.5,107.1,-0.2,Lost W. Conf. 1st Rnd.
+1298,POR,2009-10,NBA,Portland Trail Blazers*,50,32,0.61,3rd of 5,3.18,87.7,-5.0,110.8,3.2,107.1,-0.5,Lost W. Conf. 1st Rnd.
+1299,POR,2008-09,NBA,Portland Trail Blazers*,54,28,0.659,2nd of 5,5.0,86.6,-5.1,113.9,5.6,107.8,-0.5,Lost W. Conf. 1st Rnd.
+1300,POR,2007-08,NBA,Portland Trail Blazers,41,41,0.5,3rd of 5,-0.52,87.9,-4.5,107.3,-0.2,108.4,0.9,False
+1301,POR,2006-07,NBA,Portland Trail Blazers,32,50,0.39,3rd of 5,-3.78,88.3,-3.6,105.1,-1.4,109.9,3.4,False
+1302,POR,2005-06,NBA,Portland Trail Blazers,21,61,0.256,5th of 5,-8.91,87.6,-2.9,101.1,-5.1,111.9,5.7,False
+1303,POR,2004-05,NBA,Portland Trail Blazers,27,55,0.329,4th of 5,-3.45,89.8,-1.1,103.2,-2.9,107.7,1.6,False
+1304,POR,2003-04,NBA,Portland Trail Blazers,41,41,0.5,3rd of 7,-0.58,86.2,-3.9,103.7,0.8,105.1,2.2,False
+1305,POR,2002-03,NBA,Portland Trail Blazers*,50,32,0.61,3rd of 7,2.97,89.4,-1.6,105.5,1.9,102.6,-1.0,Lost W. Conf. 1st Rnd.
+1306,POR,2001-02,NBA,Portland Trail Blazers*,49,33,0.598,3rd of 7,3.21,89.3,-1.4,107.4,2.9,104.0,-0.5,Lost W. Conf. 1st Rnd.
+1307,POR,2000-01,NBA,Portland Trail Blazers*,50,32,0.61,4th of 7,4.52,89.1,-2.2,106.5,3.5,101.8,-1.2,Lost W. Conf. 1st Rnd.
+1308,POR,1999-00,NBA,Portland Trail Blazers*,59,23,0.72,2nd of 7,6.36,89.9,-3.2,107.9,3.8,100.8,-3.3,Lost W. Conf. Finals
+1309,POR,1998-99,NBA,Portland Trail Blazers*,35,15,0.7,1st of 7,5.67,89.2,0.3,104.8,2.6,97.7,-4.5,Lost W. Conf. Finals
+1310,POR,1997-98,NBA,Portland Trail Blazers*,46,36,0.561,4th of 7,0.83,90.0,-0.3,104.0,-1.0,102.4,-2.6,Lost W. Conf. 1st Rnd.
+1311,POR,1996-97,NBA,Portland Trail Blazers*,49,33,0.598,3rd of 7,3.56,90.9,0.8,107.9,1.2,103.3,-3.4,Lost W. Conf. 1st Rnd.
+1312,POR,1995-96,NBA,Portland Trail Blazers*,44,38,0.537,3rd of 7,2.21,92.6,0.8,106.0,-1.6,103.5,-4.1,Lost W. Conf. 1st Rnd.
+1313,POR,1994-95,NBA,Portland Trail Blazers*,44,38,0.537,4th of 7,3.8,93.8,0.9,109.7,1.4,105.7,-2.6,Lost W. Conf. 1st Rnd.
+1314,POR,1993-94,NBA,Portland Trail Blazers*,47,35,0.573,4th of 7,2.6,98.8,3.7,108.1,1.8,105.5,-0.8,Lost W. Conf. 1st Rnd.
+1315,POR,1992-93,NBA,Portland Trail Blazers*,51,31,0.622,3rd of 7,2.92,99.1,2.3,108.3,0.3,105.2,-2.8,Lost W. Conf. 1st Rnd.
+1316,POR,1991-92,NBA,Portland Trail Blazers*,57,25,0.695,1st of 7,6.94,99.0,2.4,111.4,3.2,104.2,-4.0,Lost Finals
+1317,POR,1990-91,NBA,Portland Trail Blazers*,63,19,0.768,1st of 7,8.47,100.5,2.7,112.8,4.9,104.3,-3.6,Lost W. Conf. Finals
+1318,POR,1989-90,NBA,Portland Trail Blazers*,59,23,0.72,2nd of 7,6.48,102.3,4.0,110.5,2.4,104.4,-3.7,Lost Finals
+1319,POR,1988-89,NBA,Portland Trail Blazers*,39,43,0.476,5th of 7,0.92,103.9,3.3,109.4,1.6,108.0,0.2,Lost W. Conf. 1st Rnd.
+1320,POR,1987-88,NBA,Portland Trail Blazers*,53,29,0.646,2nd of 6,3.59,103.6,4.0,111.8,3.8,107.4,-0.6,Lost W. Conf. 1st Rnd.
+1321,POR,1986-87,NBA,Portland Trail Blazers*,49,33,0.598,2nd of 6,2.57,105.0,4.2,111.5,3.2,108.6,0.3,Lost W. Conf. 1st Rnd.
+1322,POR,1985-86,NBA,Portland Trail Blazers*,40,42,0.488,2nd of 6,0.61,104.5,2.4,109.2,2.0,108.2,1.0,Lost W. Conf. 1st Rnd.
+1323,POR,1984-85,NBA,Portland Trail Blazers*,42,40,0.512,2nd of 6,2.8,103.5,1.4,110.4,2.5,107.2,-0.7,Lost W. Conf. Semis
+1324,POR,1983-84,NBA,Portland Trail Blazers*,48,34,0.585,2nd of 6,3.13,101.1,-0.3,111.2,3.6,107.7,0.1,Lost W. Conf. 1st Rnd.
+1325,POR,1982-83,NBA,Portland Trail Blazers*,46,36,0.561,4th of 6,1.88,101.0,-2.1,106.0,1.3,103.9,-0.8,Lost W. Conf. Semis
+1326,POR,1981-82,NBA,Portland Trail Blazers,42,40,0.512,5th of 6,0.39,100.5,-0.4,108.8,1.9,108.2,1.3,False
+1327,POR,1980-81,NBA,Portland Trail Blazers*,45,37,0.549,3rd of 6,0.52,103.0,1.2,106.5,1.0,105.7,0.2,Lost W. Conf. 1st Rnd.
+1328,POR,1979-80,NBA,Portland Trail Blazers*,38,44,0.463,4th of 6,-0.87,98.6,-4.5,103.4,-1.9,104.3,-1.0,Lost W. Conf. 1st Rnd.
+1329,POR,1978-79,NBA,Portland Trail Blazers*,45,37,0.549,4th of 6,1.12,103.4,-2.4,104.3,0.5,103.1,-0.7,Lost W. Conf. 1st Rnd.
+1330,POR,1977-78,NBA,Portland Trail Blazers*,58,24,0.707,1st of 5,5.92,104.2,-2.5,103.1,2.2,97.2,-3.7,Lost W. Conf. Semis
+1331,POR,1976-77,NBA,Portland Trail Blazers*,49,33,0.598,2nd of 5,5.39,108.0,1.5,103.2,3.7,98.0,-1.5,Won Finals
+1332,POR,1975-76,NBA,Portland Trail Blazers,37,45,0.451,5th of 5,-1.11,107.7,2.2,96.4,-1.9,97.6,-0.7,False
+1333,POR,1974-75,NBA,Portland Trail Blazers,38,44,0.463,3rd of 5,0.27,104.7,0.2,98.1,0.4,97.7,0.0,False
+1334,POR,1973-74,NBA,Portland Trail Blazers,27,55,0.329,5th of 5,-4.3,108.5,0.7,98.2,0.5,102.6,4.9,False
+1335,POR,1972-73,NBA,Portland Trail Blazers,21,61,0.256,5th of 5,-5.67,110.4,-0.3,95.9,-0.9,101.5,4.7,False
+1336,POR,1971-72,NBA,Portland Trail Blazers,18,64,0.22,5th of 5,-8.84,112.3,0.3,94.5,-3.4,103.1,5.2,False
+1337,POR,1970-71,NBA,Portland Trail Blazers,29,53,0.354,5th of 5,-6.2,120.6,5.5,95.4,-1.8,99.1,1.9,False
+1338,SAC,2021-22,NBA,Sacramento Kings,30,52,0.366,5th of 5,-5.26,99.8,1.6,109.9,-2.1,115.3,3.3,False
+1339,SAC,2020-21,NBA,Sacramento Kings,31,41,0.431,5th of 5,-3.45,100.0,0.8,113.6,1.3,117.2,4.9,False
+1340,SAC,2019-20,NBA,Sacramento Kings,31,41,0.431,4th of 5,-1.59,98.9,-1.4,110.2,-0.4,112.2,1.6,False
+1341,SAC,2018-19,NBA,Sacramento Kings,39,43,0.476,3rd of 5,-0.81,103.1,3.1,110.4,0.0,111.5,1.1,False
+1342,SAC,2017-18,NBA,Sacramento Kings,27,55,0.329,4th of 5,-6.6,94.9,-2.4,103.7,-4.9,111.1,2.5,False
+1343,SAC,2016-17,NBA,Sacramento Kings,32,50,0.39,3rd of 5,-3.29,94.9,-1.5,107.3,-1.5,111.3,2.5,False
+1344,SAC,2015-16,NBA,Sacramento Kings,33,49,0.402,3rd of 5,-2.32,100.0,4.2,106.0,-0.4,108.4,2.0,False
+1345,SAC,2014-15,NBA,Sacramento Kings,29,53,0.354,4th of 5,-3.07,95.4,1.5,105.3,-0.3,109.2,3.6,False
+1346,SAC,2013-14,NBA,Sacramento Kings,28,54,0.341,4th of 5,-2.08,94.4,0.5,105.7,-1.0,108.8,2.1,False
+1347,SAC,2012-13,NBA,Sacramento Kings,28,54,0.341,4th of 5,-4.26,93.6,1.6,106.2,0.3,111.4,5.5,False
+1348,SAC,2011-12,NBA,Sacramento Kings,22,44,0.333,5th of 5,-4.95,94.7,3.4,103.8,-0.8,109.8,5.2,False
+1349,SAC,2010-11,NBA,Sacramento Kings,24,58,0.293,5th of 5,-4.8,95.2,3.1,103.5,-3.8,109.0,1.7,False
+1350,SAC,2009-10,NBA,Sacramento Kings,25,57,0.305,5th of 5,-4.06,94.0,1.3,105.3,-2.3,109.9,2.3,False
+1351,SAC,2008-09,NBA,Sacramento Kings,17,65,0.207,5th of 5,-8.6,94.2,2.5,105.5,-2.8,114.7,6.4,False
+1352,SAC,2007-08,NBA,Sacramento Kings,38,44,0.463,4th of 5,-1.86,94.7,2.3,107.5,0.0,109.9,2.4,False
+1353,SAC,2006-07,NBA,Sacramento Kings,33,49,0.402,5th of 5,-1.35,94.8,2.9,106.2,-0.3,108.0,1.5,False
+1354,SAC,2005-06,NBA,Sacramento Kings*,44,38,0.537,4th of 5,1.61,91.9,1.4,106.7,0.5,105.0,-1.2,Lost W. Conf. 1st Rnd.
+1355,SAC,2004-05,NBA,Sacramento Kings*,50,32,0.61,2nd of 5,2.56,93.0,2.1,110.5,4.4,108.2,2.1,Lost W. Conf. 1st Rnd.
+1356,SAC,2003-04,NBA,Sacramento Kings*,55,27,0.671,2nd of 7,5.41,92.8,2.7,110.3,7.4,104.9,2.0,Lost W. Conf. Semis
+1357,SAC,2002-03,NBA,Sacramento Kings*,59,23,0.72,1st of 7,6.68,95.4,4.4,105.9,2.3,99.1,-4.5,Lost W. Conf. Semis
+1358,SAC,2001-02,NBA,Sacramento Kings*,61,21,0.744,1st of 7,7.61,95.6,4.9,109.0,4.5,101.1,-3.4,Lost W. Conf. Finals
+1359,SAC,2000-01,NBA,Sacramento Kings*,55,27,0.671,2nd of 7,6.07,94.4,3.1,105.6,2.6,99.6,-3.4,Lost W. Conf. Semis
+1360,SAC,1999-00,NBA,Sacramento Kings*,44,38,0.537,5th of 7,3.04,99.3,6.2,105.0,0.9,102.1,-2.0,Lost W. Conf. 1st Rnd.
+1361,SAC,1998-99,NBA,Sacramento Kings*,27,23,0.54,4th of 7,-0.89,96.0,7.1,102.7,0.5,103.1,0.9,Lost W. Conf. 1st Rnd.
+1362,SAC,1997-98,NBA,Sacramento Kings,27,55,0.329,5th of 7,-5.83,92.1,1.8,100.8,-4.2,106.9,1.9,False
+1363,SAC,1996-97,NBA,Sacramento Kings,34,48,0.415,6th of 7,-3.64,91.0,0.9,105.0,-1.7,108.7,2.0,False
+1364,SAC,1995-96,NBA,Sacramento Kings*,39,43,0.476,5th of 7,-2.62,93.4,1.6,106.2,-1.4,109.1,1.5,Lost W. Conf. 1st Rnd.
+1365,SAC,1994-95,NBA,Sacramento Kings,39,43,0.476,5th of 7,-0.74,92.3,-0.6,105.5,-2.8,106.5,-1.8,False
+1366,SAC,1993-94,NBA,Sacramento Kings,28,54,0.341,6th of 7,-5.32,97.5,2.4,103.3,-3.0,109.2,2.9,False
+1367,SAC,1992-93,NBA,Sacramento Kings,25,57,0.305,7th of 7,-3.0,100.8,4.0,106.5,-1.5,109.6,1.6,False
+1368,SAC,1991-92,NBA,Sacramento Kings,29,53,0.354,7th of 7,-5.63,99.6,3.0,103.9,-4.3,109.9,1.7,False
+1369,SAC,1990-91,NBA,Sacramento Kings,25,57,0.305,7th of 7,-6.27,94.7,-3.1,102.0,-5.9,109.1,1.2,False
+1370,SAC,1989-90,NBA,Sacramento Kings,23,59,0.28,7th of 7,-4.41,96.7,-1.6,104.8,-3.3,110.0,1.9,False
+1371,SAC,1988-89,NBA,Sacramento Kings,27,55,0.329,6th of 7,-5.35,100.5,-0.1,104.5,-3.3,110.0,2.2,False
+1372,SAC,1987-88,NBA,Sacramento Kings,24,58,0.293,6th of 6,-5.84,100.9,1.3,106.5,-1.5,112.1,4.1,False
+1373,SAC,1986-87,NBA,Sacramento Kings,29,53,0.354,5th of 6,-3.34,101.3,0.5,108.9,0.6,112.1,3.8,False
+1374,SAC,1985-86,NBA,Sacramento Kings*,37,45,0.451,5th of 6,-3.19,102.0,-0.1,106.2,-1.0,109.2,2.0,Lost W. Conf. 1st Rnd.
+1375,SAC,1984-85,NBA,Kansas City Kings,31,51,0.378,6th of 6,-2.71,104.4,2.3,109.5,1.6,112.1,4.2,False
+1376,SAC,1983-84,NBA,Kansas City Kings*,38,44,0.463,4th of 6,-1.62,102.9,1.5,106.5,-1.1,108.0,0.4,Lost W. Conf. 1st Rnd.
+1377,SAC,1982-83,NBA,Kansas City Kings,45,37,0.549,3rd of 6,1.04,106.6,3.5,106.2,1.5,104.9,0.2,False
+1378,SAC,1981-82,NBA,Kansas City Kings,30,52,0.366,4th of 6,-3.25,101.8,0.9,104.2,-2.7,107.2,0.3,False
+1379,SAC,1980-81,NBA,Kansas City Kings*,40,42,0.488,2nd of 6,-0.49,101.3,-0.5,104.7,-0.8,104.7,-0.8,Lost W. Conf. Finals
+1380,SAC,1979-80,NBA,Kansas City Kings*,47,35,0.573,2nd of 5,2.82,103.2,0.1,104.0,-1.3,101.0,-4.3,Lost W. Conf. 1st Rnd.
+1381,SAC,1978-79,NBA,Kansas City Kings*,48,34,0.585,1st of 5,2.73,107.3,1.5,104.5,0.7,101.9,-1.9,Lost W. Conf. Semis
+1382,SAC,1977-78,NBA,Kansas City Kings,31,51,0.378,5th of 6,-1.76,108.2,1.5,100.5,-0.4,102.2,1.3,False
+1383,SAC,1976-77,NBA,Kansas City Kings,40,42,0.488,4th of 6,0.93,106.4,-0.1,100.5,1.0,99.6,0.1,False
+1384,SAC,1975-76,NBA,Kansas City Kings,31,51,0.378,3rd of 4,-2.83,105.7,0.2,97.4,-0.9,100.1,1.8,False
+1385,SAC,1974-75,NBA,Kansas City-Omaha Kings*,44,38,0.537,2nd of 4,-0.16,104.4,-0.1,96.8,-0.9,97.1,-0.6,Lost W. Conf. Semis
+1386,SAC,1973-74,NBA,Kansas City-Omaha Kings,33,49,0.402,4th of 4,-3.24,106.1,-1.7,96.0,-1.7,99.5,1.8,False
+1387,SAC,1972-73,NBA,Kansas City-Omaha Kings,36,46,0.439,4th of 4,-2.36,107.3,-3.4,99.7,2.9,102.4,5.6,False
+1388,SAC,1971-72,NBA,Cincinnati Royals,30,52,0.366,3rd of 4,-4.13,109.5,-2.5,98.0,0.1,101.6,3.7,False
+1389,SAC,1970-71,NBA,Cincinnati Royals,33,49,0.402,3rd of 4,-2.96,118.5,3.4,97.1,-0.1,99.8,2.6,False
+1390,SAC,1969-70,NBA,Cincinnati Royals,36,46,0.439,5th of 7,-2.55,118.5,1.4,98.0,-1.0,100.4,1.4,False
+1391,SAC,1968-69,NBA,Cincinnati Royals,41,41,0.5,5th of 7,-0.83,113.6,-3.3,100.2,4.7,101.1,5.6,False
+1392,SAC,1967-68,NBA,Cincinnati Royals,39,43,0.476,5th of 6,-0.64,114.6,-5.2,101.1,4.3,101.8,5.0,False
+1393,SAC,1966-67,NBA,Cincinnati Royals*,39,42,0.481,3rd of 5,-0.23,118.6,-3.0,98.4,2.3,98.6,2.5,Lost E. Div. Semis
+1394,SAC,1965-66,NBA,Cincinnati Royals*,45,35,0.563,3rd of 4,1.03,120.4,-1.0,97.5,2.6,96.5,1.6,Lost E. Div. Semis
+1395,SAC,1964-65,NBA,Cincinnati Royals*,48,32,0.6,2nd of 4,2.04,115.8,-1.5,98.0,4.4,96.0,2.4,Lost E. Div. Semis
+1396,SAC,1963-64,NBA,Cincinnati Royals*,55,25,0.688,2nd of 4,4.43,115.9,2.7,98.9,4.3,94.5,-0.1,Lost E. Div. Finals
+1397,SAC,1962-63,NBA,Cincinnati Royals*,42,38,0.525,3rd of 4,1.24,119.0,4.0,99.4,3.5,98.3,2.4,Lost E. Div. Finals
+1398,SAC,1961-62,NBA,Cincinnati Royals*,43,37,0.538,2nd of 5,1.28,124.9,3.6,98.3,4.7,96.9,3.3,Lost W. Div. Semis
+1399,SAC,1960-61,NBA,Cincinnati Royals,33,46,0.418,4th of 4,-3.04,122.8,-0.7,95.6,3.5,98.4,6.3,False
+1400,SAC,1959-60,NBA,Cincinnati Royals,19,56,0.253,4th of 4,-5.92,121.6,-0.7,91.3,0.2,96.5,5.4,False
+1401,SAC,1958-59,NBA,Cincinnati Royals,19,53,0.264,4th of 4,-7.89,116.4,4.4,87.5,-2.7,95.0,4.8,False
+1402,SAC,1957-58,NBA,Cincinnati Royals*,33,39,0.458,3rd of 4,-1.47,117.3,0.3,86.5,-2.3,87.6,-1.2,Lost W. Div. Semis
+1403,SAC,1956-57,NBA,Rochester Royals,31,41,0.431,4th of 4,-2.08,109.4,4.5,84.9,-4.0,86.9,-2.0,False
+1404,SAC,1955-56,NBA,Rochester Royals,31,41,0.431,4th of 4,-2.61,111.7,8.9,85.3,-5.0,87.9,-2.4,False
+1405,SAC,1954-55,NBA,Rochester Royals*,29,43,0.403,3rd of 4,-1.43,99.5,1.4,90.7,0.9,92.3,2.5,Lost W. Div. Semis
+1406,SAC,1953-54,NBA,Rochester Royals*,44,28,0.611,2nd of 4,2.24,90.9,7.3,86.6,-0.9,84.0,-3.5,Lost W. Div. Finals
+1407,SAC,1952-53,NBA,Rochester Royals*,44,26,0.629,2nd of 5,2.62,94.1,13.7,89.8,1.8,86.9,-0.8,Lost W. Div. Semis
+1408,SAC,1951-52,NBA,Rochester Royals*,41,25,0.621,1st of 5,2.92,92.7,6.9,91.6,4.7,88.1,1.2,Lost W. Div. Finals
+1409,SAC,1950-51,NBA,Rochester Royals*,41,27,0.603,2nd of 5,2.54,92.3,6.8,89.3,4.2,86.2,1.1,Won Finals
+1410,SAC,1949-50,NBA,Rochester Royals*,51,17,0.75,2nd of 5,7.72,,,,,,,Lost Central Div. Semis
+1411,SAC,1948-49,BAA,Rochester Royals*,45,15,0.75,1st of 6,6.12,,,,,,,Lost W. Div. Finals
+1412,SAS,2021-22,NBA,San Antonio Spurs,34,48,0.415,4th of 5,0.02,100.0,1.8,112.4,0.4,112.3,0.3,False
+1413,SAS,2020-21,NBA,San Antonio Spurs,33,39,0.458,3rd of 5,-1.58,98.9,-0.3,111.0,-1.3,112.8,0.5,False
+1414,SAS,2019-20,NBA,San Antonio Spurs,32,39,0.451,4th of 5,-0.65,100.5,0.2,112.4,1.8,113.5,2.9,False
+1415,SAS,2018-19,NBA,San Antonio Spurs*,48,34,0.585,2nd of 5,1.8,98.3,-1.7,112.9,2.5,111.2,0.8,Lost W. Conf. 1st Rnd.
+1416,SAS,2017-18,NBA,San Antonio Spurs*,47,35,0.573,3rd of 5,2.89,95.0,-2.3,107.9,-0.7,104.8,-3.8,Lost W. Conf. 1st Rnd.
+1417,SAS,2016-17,NBA,San Antonio Spurs*,61,21,0.744,1st of 5,7.13,94.2,-2.2,111.1,2.3,103.5,-5.3,Lost W. Conf. Finals
+1418,SAS,2015-16,NBA,San Antonio Spurs*,67,15,0.817,1st of 5,10.28,93.8,-2.0,110.3,3.9,99.0,-7.4,Lost W. Conf. Semis
+1419,SAS,2014-15,NBA,San Antonio Spurs*,55,27,0.671,3rd of 5,6.34,93.8,-0.1,108.5,2.9,102.0,-3.6,Lost W. Conf. 1st Rnd.
+1420,SAS,2013-14,NBA,San Antonio Spurs*,62,20,0.756,1st of 5,8.0,95.0,1.1,110.5,3.8,102.4,-4.3,Won Finals
+1421,SAS,2012-13,NBA,San Antonio Spurs*,58,24,0.707,1st of 5,6.67,94.2,2.2,108.3,2.4,101.6,-4.3,Lost Finals
+1422,SAS,2011-12,NBA,San Antonio Spurs*,50,16,0.758,1st of 5,7.28,92.9,1.6,110.9,6.3,103.2,-1.4,Lost W. Conf. Finals
+1423,SAS,2010-11,NBA,San Antonio Spurs*,61,21,0.744,1st of 5,5.86,92.3,0.2,111.8,4.5,105.6,-1.7,Lost W. Conf. 1st Rnd.
+1424,SAS,2009-10,NBA,San Antonio Spurs*,50,32,0.61,2nd of 5,5.07,91.7,-1.0,110.0,2.4,104.5,-3.1,Lost W. Conf. Semis
+1425,SAS,2008-09,NBA,San Antonio Spurs*,54,28,0.659,1st of 5,3.36,88.4,-3.3,108.5,0.2,104.3,-4.0,Lost W. Conf. 1st Rnd.
+1426,SAS,2007-08,NBA,San Antonio Spurs*,56,26,0.683,2nd of 5,5.1,88.8,-3.6,107.2,-0.3,101.8,-5.7,Lost W. Conf. Finals
+1427,SAS,2006-07,NBA,San Antonio Spurs*,58,24,0.707,2nd of 5,8.35,89.8,-2.1,109.2,2.7,99.9,-6.6,Won Finals
+1428,SAS,2005-06,NBA,San Antonio Spurs*,63,19,0.768,1st of 5,6.69,88.5,-2.0,107.3,1.1,99.6,-6.6,Lost W. Conf. Semis
+1429,SAS,2004-05,NBA,San Antonio Spurs*,59,23,0.72,1st of 5,7.84,88.9,-2.0,107.5,1.4,98.8,-7.3,Won Finals
+1430,SAS,2003-04,NBA,San Antonio Spurs*,57,25,0.695,2nd of 7,7.51,89.2,-0.9,102.2,-0.7,94.1,-8.8,Lost W. Conf. Semis
+1431,SAS,2002-03,NBA,San Antonio Spurs*,60,22,0.732,1st of 7,5.65,90.0,-1.0,105.6,2.0,99.7,-3.9,Won Finals
+1432,SAS,2001-02,NBA,San Antonio Spurs*,58,24,0.707,1st of 7,6.28,90.0,-0.7,106.5,2.0,99.7,-4.8,Lost W. Conf. Semis
+1433,SAS,2000-01,NBA,San Antonio Spurs*,58,24,0.707,1st of 7,7.92,89.6,-1.7,106.6,3.6,98.0,-5.0,Lost W. Conf. Finals
+1434,SAS,1999-00,NBA,San Antonio Spurs*,53,29,0.646,2nd of 7,5.92,90.8,-2.3,105.0,0.9,98.6,-5.5,Lost W. Conf. 1st Rnd.
+1435,SAS,1998-99,NBA,San Antonio Spurs*,37,13,0.74,1st of 7,7.12,88.6,-0.3,104.0,1.8,95.0,-7.2,Won Finals
+1436,SAS,1997-98,NBA,San Antonio Spurs*,56,26,0.683,2nd of 7,3.3,88.4,-1.9,103.8,-1.2,99.4,-5.6,Lost W. Conf. Semis
+1437,SAS,1996-97,NBA,San Antonio Spurs,20,62,0.244,6th of 7,-7.93,87.3,-2.8,103.3,-3.4,112.3,5.6,False
+1438,SAS,1995-96,NBA,San Antonio Spurs*,59,23,0.72,1st of 7,5.98,93.3,1.5,110.2,2.6,103.5,-4.1,Lost W. Conf. Semis
+1439,SAS,1994-95,NBA,San Antonio Spurs*,62,20,0.756,1st of 6,5.9,94.6,1.7,111.7,3.4,105.4,-2.9,Lost W. Conf. Finals
+1440,SAS,1993-94,NBA,San Antonio Spurs*,55,27,0.671,2nd of 6,5.05,90.1,-5.0,110.4,4.1,104.6,-1.7,Lost W. Conf. 1st Rnd.
+1441,SAS,1992-93,NBA,San Antonio Spurs*,49,33,0.598,2nd of 6,2.21,95.4,-1.4,109.6,1.6,106.8,-1.2,Lost W. Conf. Semis
+1442,SAS,1991-92,NBA,San Antonio Spurs*,47,35,0.573,2nd of 6,2.81,96.2,-0.4,107.5,-0.7,104.1,-4.1,Lost W. Conf. 1st Rnd.
+1443,SAS,1990-91,NBA,San Antonio Spurs*,55,27,0.671,1st of 7,4.3,98.6,0.8,107.8,-0.1,103.3,-4.6,Lost W. Conf. 1st Rnd.
+1444,SAS,1989-90,NBA,San Antonio Spurs*,56,26,0.683,1st of 7,3.58,98.5,0.2,107.7,-0.4,104.2,-3.9,Lost W. Conf. Semis
+1445,SAS,1988-89,NBA,San Antonio Spurs,21,61,0.256,5th of 6,-7.45,104.1,3.5,100.9,-6.9,107.9,0.1,False
+1446,SAS,1987-88,NBA,San Antonio Spurs*,31,51,0.378,5th of 6,-5.02,104.4,4.8,108.2,0.2,112.8,4.8,Lost W. Conf. 1st Rnd.
+1447,SAS,1986-87,NBA,San Antonio Spurs,28,54,0.341,6th of 6,-5.09,101.7,0.9,105.9,-2.4,110.8,2.5,False
+1448,SAS,1985-86,NBA,San Antonio Spurs*,35,47,0.427,6th of 6,-2.06,103.8,1.7,106.5,-0.7,108.2,1.0,Lost W. Conf. 1st Rnd.
+1449,SAS,1984-85,NBA,San Antonio Spurs*,41,41,0.5,5th of 6,0.63,103.9,1.8,109.9,2.0,109.0,1.1,Lost W. Conf. 1st Rnd.
+1450,SAS,1983-84,NBA,San Antonio Spurs,37,45,0.451,5th of 6,-0.5,106.5,5.1,111.2,3.6,111.4,3.8,False
+1451,SAS,1982-83,NBA,San Antonio Spurs*,53,29,0.646,1st of 6,3.1,103.3,0.2,110.1,5.4,106.6,1.9,Lost W. Conf. Finals
+1452,SAS,1981-82,NBA,San Antonio Spurs*,48,34,0.585,1st of 6,1.79,102.5,1.6,109.9,3.0,107.6,0.7,Lost W. Conf. Finals
+1453,SAS,1980-81,NBA,San Antonio Spurs*,52,30,0.634,1st of 6,2.18,102.9,1.1,108.5,3.0,105.7,0.2,Lost W. Conf. Semis
+1454,SAS,1979-80,NBA,San Antonio Spurs*,41,41,0.5,3rd of 6,-0.24,109.5,6.4,108.6,3.3,109.0,3.7,Lost E. Conf. 1st Rnd.
+1455,SAS,1978-79,NBA,San Antonio Spurs*,48,34,0.585,1st of 6,4.97,110.6,4.8,107.1,3.3,102.4,-1.4,Lost E. Conf. Finals
+1456,SAS,1977-78,NBA,San Antonio Spurs*,52,30,0.634,1st of 6,3.2,109.0,2.3,104.5,3.6,101.4,0.5,Lost E. Conf. Semis
+1457,SAS,1976-77,NBA,San Antonio Spurs*,44,38,0.537,3rd of 6,0.53,111.8,5.3,102.5,3.0,102.0,2.5,Lost E. Conf. 1st Rnd.
+1458,SAS,1975-76,ABA,San Antonio Spurs*,50,34,0.595,3rd of 0,3.82,106.8,-0.1,107.5,3.4,103.6,-0.5,Lost Semis
+1459,SAS,1974-75,ABA,San Antonio Spurs*,51,33,0.607,2nd of 5,3.89,102.9,-0.2,109.5,4.8,105.4,0.7,Lost W. Div. Semis
+1460,SAS,1973-74,ABA,San Antonio Spurs*,45,39,0.536,3rd of 5,0.74,95.0,-7.6,101.7,-1.3,100.8,-2.2,Lost W. Div. Semis
+1461,SAS,1972-73,ABA,Dallas Chaparrals,28,56,0.333,5th of 5,-3.79,108.6,-0.7,101.1,-0.7,105.1,3.3,False
+1462,SAS,1971-72,ABA,Dallas Chaparrals*,42,42,0.5,3rd of 5,0.26,103.4,-8.5,99.7,-0.9,99.6,-1.0,Lost W. Div. Semis
+1463,SAS,1970-71,ABA,Texas Chaparrals*,30,54,0.357,4th of 5,-2.21,114.3,3.2,105.1,0.1,107.7,2.7,Lost W. Div. Semis
+1464,SAS,1969-70,ABA,Dallas Chaparrals*,45,39,0.536,2nd of 5,2.13,113.1,3.9,105.3,2.6,103.6,0.9,Lost W. Div. Semis
+1465,SAS,1968-69,ABA,Dallas Chaparrals*,41,37,0.526,4th of 6,-0.31,105.8,-3.6,104.2,0.2,104.8,0.8,Lost W. Div. Semis
+1466,SAS,1967-68,ABA,Dallas Chaparrals*,46,32,0.59,2nd of 6,0.98,105.0,-2.0,103.7,2.4,102.5,1.2,Lost W. Div. Finals
+1467,TOR,2021-22,NBA,Toronto Raptors*,48,34,0.585,3rd of 5,2.38,96.0,-2.2,112.9,0.9,110.5,-1.5,Lost E. Conf. 1st Rnd.
+1468,TOR,2020-21,NBA,Toronto Raptors,27,45,0.375,5th of 5,-0.54,99.2,0.0,112.0,-0.3,112.5,0.2,False
+1469,TOR,2019-20,NBA,Toronto Raptors*,53,19,0.736,1st of 5,5.97,100.9,0.6,111.1,0.5,105.0,-5.6,Lost E. Conf. Semis
+1470,TOR,2018-19,NBA,Toronto Raptors*,58,24,0.707,1st of 5,5.49,100.2,0.2,113.1,2.7,107.1,-3.3,Won Finals
+1471,TOR,2017-18,NBA,Toronto Raptors*,59,23,0.72,1st of 5,7.29,97.4,0.1,113.8,5.2,105.9,-2.7,Lost E. Conf. Semis
+1472,TOR,2016-17,NBA,Toronto Raptors*,51,31,0.622,2nd of 5,3.65,94.7,-1.7,112.3,3.5,107.8,-1.0,Lost E. Conf. Semis
+1473,TOR,2015-16,NBA,Toronto Raptors*,56,26,0.683,1st of 5,4.08,92.9,-2.9,110.0,3.6,105.2,-1.2,Lost E. Conf. Finals
+1474,TOR,2014-15,NBA,Toronto Raptors*,49,33,0.598,1st of 5,2.45,92.8,-1.1,111.0,5.4,107.7,2.1,Lost E. Conf. 1st Rnd.
+1475,TOR,2013-14,NBA,Toronto Raptors*,48,34,0.585,1st of 5,2.55,91.8,-2.1,108.8,2.1,105.3,-1.4,Lost E. Conf. 1st Rnd.
+1476,TOR,2012-13,NBA,Toronto Raptors,34,48,0.415,5th of 5,-1.96,90.4,-1.6,105.9,0.0,107.5,1.6,False
+1477,TOR,2011-12,NBA,Toronto Raptors,23,43,0.348,4th of 5,-3.67,89.3,-2.0,100.8,-3.8,104.5,-0.1,False
+1478,TOR,2010-11,NBA,Toronto Raptors,22,60,0.268,5th of 5,-6.28,92.9,0.8,106.1,-1.2,112.9,5.6,False
+1479,TOR,2009-10,NBA,Toronto Raptors,40,42,0.488,2nd of 5,-1.83,93.1,0.4,111.3,3.7,113.2,5.6,False
+1480,TOR,2008-09,NBA,Toronto Raptors,33,49,0.402,4th of 5,-2.54,92.0,0.3,107.0,-1.3,110.0,1.7,False
+1481,TOR,2007-08,NBA,Toronto Raptors*,41,41,0.5,2nd of 5,2.47,90.2,-2.2,110.2,2.7,107.0,-0.5,Lost E. Conf. 1st Rnd.
+1482,TOR,2006-07,NBA,Toronto Raptors*,47,35,0.573,1st of 5,0.61,92.6,0.7,107.0,0.5,106.0,-0.5,Lost E. Conf. 1st Rnd.
+1483,TOR,2005-06,NBA,Toronto Raptors,27,55,0.329,4th of 5,-3.03,91.1,0.6,109.5,3.3,112.7,6.5,False
+1484,TOR,2004-05,NBA,Toronto Raptors,33,49,0.402,4th of 5,-1.81,92.7,1.8,106.9,0.8,108.7,2.6,False
+1485,TOR,2003-04,NBA,Toronto Raptors,33,49,0.402,6th of 8,-3.42,86.8,-3.3,97.0,-5.9,100.4,-2.5,False
+1486,TOR,2002-03,NBA,Toronto Raptors,24,58,0.293,7th of 8,-6.1,89.9,-1.1,100.5,-3.1,107.0,3.4,False
+1487,TOR,2001-02,NBA,Toronto Raptors*,42,40,0.512,3rd of 8,-0.71,88.8,-1.9,102.6,-1.9,103.1,-1.4,Lost E. Conf. 1st Rnd.
+1488,TOR,2000-01,NBA,Toronto Raptors*,47,35,0.573,2nd of 8,1.69,90.9,-0.4,105.9,2.9,103.4,0.4,Lost E. Conf. Semis
+1489,TOR,1999-00,NBA,Toronto Raptors*,45,37,0.549,3rd of 8,-0.46,92.5,-0.6,104.7,0.6,104.9,0.8,Lost E. Conf. 1st Rnd.
+1490,TOR,1998-99,NBA,Toronto Raptors,23,27,0.46,6th of 8,-1.32,88.8,-0.1,102.0,-0.2,103.9,1.7,False
+1491,TOR,1997-98,NBA,Toronto Raptors,16,66,0.195,8th of 8,-8.33,92.6,2.3,101.2,-3.8,111.0,6.0,False
+1492,TOR,1996-97,NBA,Toronto Raptors,30,52,0.366,8th of 8,-2.56,90.6,0.5,104.6,-2.1,108.0,1.3,False
+1493,TOR,1995-96,NBA,Toronto Raptors,21,61,0.256,8th of 8,-7.2,93.2,1.4,103.8,-3.8,111.8,4.2,False
+1494,UTA,2021-22,NBA,Utah Jazz*,49,33,0.598,1st of 5,5.67,97.1,-1.1,116.7,4.7,110.5,-1.5,Lost W. Conf. 1st Rnd.
+1495,UTA,2020-21,NBA,Utah Jazz*,52,20,0.722,1st of 5,8.97,98.5,-0.7,117.6,5.3,108.3,-4.0,Lost W. Conf. Semis
+1496,UTA,2019-20,NBA,Utah Jazz*,44,28,0.611,3rd of 5,2.52,98.6,-1.7,112.3,1.7,109.9,-0.7,Lost W. Conf. 1st Rnd.
+1497,UTA,2018-19,NBA,Utah Jazz*,50,32,0.61,3rd of 5,5.28,100.3,0.3,110.9,0.5,105.7,-4.7,Lost W. Conf. 1st Rnd.
+1498,UTA,2017-18,NBA,Utah Jazz*,48,34,0.585,3rd of 5,4.47,95.7,-1.6,108.4,-0.2,103.9,-4.7,Lost W. Conf. Semis
+1499,UTA,2016-17,NBA,Utah Jazz*,51,31,0.622,1st of 5,4.0,91.6,-4.8,109.6,0.8,105.3,-3.5,Lost W. Conf. Semis
+1500,UTA,2015-16,NBA,Utah Jazz,40,42,0.488,3rd of 5,1.84,91.0,-4.8,105.9,-0.5,103.9,-2.5,False
+1501,UTA,2014-15,NBA,Utah Jazz,38,44,0.463,3rd of 5,0.71,90.4,-3.5,105.1,-0.5,104.9,-0.7,False
+1502,UTA,2013-14,NBA,Utah Jazz,25,57,0.305,5th of 5,-6.27,91.4,-2.5,103.5,-3.2,111.3,4.6,False
+1503,UTA,2012-13,NBA,Utah Jazz,43,39,0.524,3rd of 5,0.3,90.9,-1.1,106.7,0.8,106.8,0.9,False
+1504,UTA,2011-12,NBA,Utah Jazz*,36,30,0.545,3rd of 5,0.92,91.4,0.1,106.8,2.2,106.1,1.5,Lost W. Conf. 1st Rnd.
+1505,UTA,2010-11,NBA,Utah Jazz,39,43,0.476,4th of 5,-1.44,91.0,-1.1,108.1,0.8,110.1,2.8,False
+1506,UTA,2009-10,NBA,Utah Jazz*,53,29,0.646,2nd of 5,5.33,93.8,1.1,110.7,3.1,105.0,-2.6,Lost W. Conf. Semis
+1507,UTA,2008-09,NBA,Utah Jazz*,48,34,0.585,3rd of 5,2.31,93.1,1.4,110.1,1.8,107.3,-1.0,Lost W. Conf. 1st Rnd.
+1508,UTA,2007-08,NBA,Utah Jazz*,54,28,0.659,1st of 5,6.86,93.2,0.8,113.8,6.3,106.5,-1.0,Lost W. Conf. Semis
+1509,UTA,2006-07,NBA,Utah Jazz*,51,31,0.622,1st of 5,3.06,91.6,-0.3,110.1,3.6,107.0,0.5,Lost W. Conf. Finals
+1510,UTA,2005-06,NBA,Utah Jazz,41,41,0.5,2nd of 5,-2.49,87.8,-2.7,104.1,-2.1,107.0,0.8,False
+1511,UTA,2004-05,NBA,Utah Jazz,26,56,0.317,5th of 5,-3.74,88.4,-2.5,104.7,-1.4,109.5,3.4,False
+1512,UTA,2003-04,NBA,Utah Jazz,42,40,0.512,7th of 7,-0.53,86.6,-3.5,101.9,-1.0,103.3,0.4,False
+1513,UTA,2002-03,NBA,Utah Jazz*,47,35,0.573,4th of 7,2.76,89.3,-1.7,105.5,1.9,102.8,-0.8,Lost W. Conf. 1st Rnd.
+1514,UTA,2001-02,NBA,Utah Jazz*,44,38,0.537,4th of 7,1.21,90.3,-0.4,105.6,1.1,104.6,0.1,Lost W. Conf. 1st Rnd.
+1515,UTA,2000-01,NBA,Utah Jazz*,53,29,0.646,2nd of 7,5.0,89.8,-1.5,107.6,4.6,102.4,-0.6,Lost W. Conf. 1st Rnd.
+1516,UTA,1999-00,NBA,Utah Jazz*,55,27,0.671,1st of 7,4.52,89.6,-3.5,107.3,3.2,102.3,-1.8,Lost W. Conf. Semis
+1517,UTA,1998-99,NBA,Utah Jazz*,37,13,0.74,2nd of 7,5.54,87.0,-1.9,105.8,3.6,98.4,-3.8,Lost W. Conf. Semis
+1518,UTA,1997-98,NBA,Utah Jazz*,62,20,0.756,1st of 7,5.73,89.2,-1.1,112.7,7.7,105.4,0.4,Lost Finals
+1519,UTA,1996-97,NBA,Utah Jazz*,64,18,0.78,1st of 7,7.97,90.0,-0.1,113.6,6.9,104.0,-2.7,Lost Finals
+1520,UTA,1995-96,NBA,Utah Jazz*,55,27,0.671,2nd of 7,6.25,90.0,-1.8,113.3,5.7,106.1,-1.5,Lost W. Conf. Finals
+1521,UTA,1994-95,NBA,Utah Jazz*,60,22,0.732,2nd of 6,7.76,92.6,-0.3,114.3,6.0,105.7,-2.6,Lost W. Conf. 1st Rnd.
+1522,UTA,1993-94,NBA,Utah Jazz*,53,29,0.646,3rd of 6,4.1,93.1,-2.0,108.6,2.3,104.1,-2.2,Lost W. Conf. Finals
+1523,UTA,1992-93,NBA,Utah Jazz*,47,35,0.573,3rd of 6,1.74,96.5,-0.3,109.6,1.6,107.4,-0.6,Lost W. Conf. 1st Rnd.
+1524,UTA,1991-92,NBA,Utah Jazz*,55,27,0.671,1st of 6,5.7,95.5,-1.1,112.2,4.0,105.6,-2.6,Lost W. Conf. Finals
+1525,UTA,1990-91,NBA,Utah Jazz*,54,28,0.659,2nd of 7,3.18,95.3,-2.5,108.6,0.7,105.1,-2.8,Lost W. Conf. Semis
+1526,UTA,1989-90,NBA,Utah Jazz*,55,27,0.671,2nd of 7,4.82,96.1,-2.2,110.3,2.2,105.4,-2.7,Lost W. Conf. 1st Rnd.
+1527,UTA,1988-89,NBA,Utah Jazz*,51,31,0.622,1st of 6,4.01,98.0,-2.6,106.6,-1.2,101.5,-6.3,Lost W. Conf. 1st Rnd.
+1528,UTA,1987-88,NBA,Utah Jazz*,47,35,0.573,3rd of 6,2.96,101.5,1.9,106.8,-1.2,103.1,-4.9,Lost W. Conf. Semis
+1529,UTA,1986-87,NBA,Utah Jazz*,44,38,0.537,2nd of 6,0.04,103.2,2.4,104.1,-4.2,103.7,-4.6,Lost W. Conf. 1st Rnd.
+1530,UTA,1985-86,NBA,Utah Jazz*,42,40,0.512,4th of 6,-0.67,103.3,1.2,104.2,-3.0,104.6,-2.6,Lost W. Conf. 1st Rnd.
+1531,UTA,1984-85,NBA,Utah Jazz*,41,41,0.5,4th of 6,-0.33,105.1,3.0,103.3,-4.6,103.4,-4.5,Lost W. Conf. Semis
+1532,UTA,1983-84,NBA,Utah Jazz*,45,37,0.549,1st of 6,0.81,104.9,3.5,109.0,1.4,108.0,0.4,Lost W. Conf. Semis
+1533,UTA,1982-83,NBA,Utah Jazz,30,52,0.366,5th of 6,-4.22,107.3,4.2,101.2,-3.5,105.1,0.4,False
+1534,UTA,1981-82,NBA,Utah Jazz,25,57,0.305,6th of 6,-5.63,103.9,3.0,106.2,-0.7,111.7,4.8,False
+1535,UTA,1980-81,NBA,Utah Jazz,28,54,0.341,5th of 6,-5.99,97.7,-4.1,103.4,-2.1,109.4,3.9,False
+1536,UTA,1979-80,NBA,Utah Jazz,24,58,0.293,5th of 5,-5.71,97.6,-5.5,104.2,-1.1,110.4,5.1,False
+1537,UTA,1978-79,NBA,New Orleans Jazz,26,56,0.317,6th of 6,-5.97,108.6,2.8,99.6,-4.2,105.4,1.6,False
+1538,UTA,1977-78,NBA,New Orleans Jazz,39,43,0.476,5th of 6,-1.8,108.3,1.6,98.9,-2.0,100.6,-0.3,False
+1539,UTA,1976-77,NBA,New Orleans Jazz,35,47,0.427,5th of 6,-2.68,107.2,0.7,97.0,-2.5,99.7,0.2,False
+1540,UTA,1975-76,NBA,New Orleans Jazz,38,44,0.463,4th of 5,-0.74,106.7,1.2,96.6,-1.7,97.4,-0.9,False
+1541,UTA,1974-75,NBA,New Orleans Jazz,23,59,0.28,5th of 5,-7.3,109.4,4.9,92.5,-5.2,99.7,2.0,False
+1542,WAS,2021-22,NBA,Washington Wizards,35,47,0.427,4th of 5,-3.23,97.0,-1.2,111.1,-0.9,114.5,2.5,False
+1543,WAS,2020-21,NBA,Washington Wizards*,34,38,0.472,3rd of 5,-1.85,104.1,4.9,111.2,-1.1,113.0,0.7,Lost E. Conf. 1st Rnd.
+1544,WAS,2019-20,NBA,Washington Wizards,25,47,0.347,4th of 5,-5.24,102.7,2.4,110.9,0.3,115.5,4.9,False
+1545,WAS,2018-19,NBA,Washington Wizards,32,50,0.39,4th of 5,-3.3,101.4,1.4,111.1,0.7,113.9,3.5,False
+1546,WAS,2017-18,NBA,Washington Wizards*,43,39,0.524,2nd of 5,0.53,96.6,-0.7,109.3,0.7,108.7,0.1,Lost E. Conf. 1st Rnd.
+1547,WAS,2016-17,NBA,Washington Wizards*,49,33,0.598,1st of 5,1.36,97.4,1.0,111.2,2.4,109.3,0.5,Lost E. Conf. Semis
+1548,WAS,2015-16,NBA,Washington Wizards,41,41,0.5,4th of 5,-0.5,98.5,2.7,105.3,-1.1,105.8,-0.6,False
+1549,WAS,2014-15,NBA,Washington Wizards*,46,36,0.561,2nd of 5,0.17,93.7,-0.2,103.7,-1.9,103.0,-2.6,Lost E. Conf. Semis
+1550,WAS,2013-14,NBA,Washington Wizards*,44,38,0.537,2nd of 5,0.48,93.2,-0.7,106.0,-0.7,104.6,-2.1,Lost E. Conf. Semis
+1551,WAS,2012-13,NBA,Washington Wizards,29,53,0.354,3rd of 5,-2.78,92.2,0.2,100.2,-5.7,103.0,-2.9,False
+1552,WAS,2011-12,NBA,Washington Wizards,20,46,0.303,4th of 5,-5.14,92.5,1.2,101.0,-3.6,106.2,1.6,False
+1553,WAS,2010-11,NBA,Washington Wizards,23,59,0.28,5th of 5,-7.3,93.8,1.7,102.4,-4.9,110.2,2.9,False
+1554,WAS,2009-10,NBA,Washington Wizards,26,56,0.317,5th of 5,-4.72,91.6,-1.1,104.2,-3.4,109.4,1.8,False
+1555,WAS,2008-09,NBA,Washington Wizards,19,63,0.232,5th of 5,-6.98,91.0,-0.7,105.4,-2.9,113.6,5.3,False
+1556,WAS,2007-08,NBA,Washington Wizards*,43,39,0.524,2nd of 5,-0.61,89.5,-2.9,109.2,1.7,109.6,2.1,Lost E. Conf. 1st Rnd.
+1557,WAS,2006-07,NBA,Washington Wizards*,41,41,0.5,2nd of 5,-0.8,94.1,2.2,110.1,3.6,110.6,4.1,Lost E. Conf. 1st Rnd.
+1558,WAS,2005-06,NBA,Washington Wizards*,42,40,0.512,2nd of 5,1.57,92.3,1.8,109.3,3.1,107.3,1.1,Lost E. Conf. 1st Rnd.
+1559,WAS,2004-05,NBA,Washington Wizards*,45,37,0.549,2nd of 5,-0.71,93.3,2.4,107.2,1.1,107.5,1.4,Lost E. Conf. Semis
+1560,WAS,2003-04,NBA,Washington Wizards,25,57,0.305,6th of 7,-6.12,92.2,2.1,98.8,-4.1,104.8,1.9,False
+1561,WAS,2002-03,NBA,Washington Wizards,37,45,0.451,5th of 7,-1.47,88.2,-2.8,103.0,-0.6,104.1,0.5,False
+1562,WAS,2001-02,NBA,Washington Wizards,37,45,0.451,5th of 7,-1.58,88.3,-2.4,104.8,0.3,106.4,1.9,False
+1563,WAS,2000-01,NBA,Washington Wizards,19,63,0.232,7th of 7,-6.75,92.7,1.4,100.6,-2.4,107.8,4.8,False
+1564,WAS,1999-00,NBA,Washington Wizards,29,53,0.354,7th of 7,-3.47,92.7,-0.4,103.5,-0.6,107.0,2.9,False
+1565,WAS,1998-99,NBA,Washington Wizards,18,32,0.36,6th of 7,-1.75,89.8,0.9,101.2,-1.0,103.7,1.5,False
+1566,WAS,1997-98,NBA,Washington Wizards,42,40,0.512,4th of 7,1.11,91.8,1.5,105.2,0.2,104.5,-0.5,False
+1567,WAS,1996-97,NBA,Washington Bullets*,44,38,0.537,4th of 7,1.77,92.4,2.3,106.6,-0.1,104.9,-1.8,Lost E. Conf. 1st Rnd.
+1568,WAS,1995-96,NBA,Washington Bullets,39,43,0.476,4th of 7,0.99,93.7,1.9,108.7,1.1,107.6,0.0,False
+1569,WAS,1994-95,NBA,Washington Bullets,21,61,0.256,7th of 7,-5.56,94.5,1.6,105.4,-2.9,111.3,3.0,False
+1570,WAS,1993-94,NBA,Washington Bullets,24,58,0.293,7th of 7,-7.13,95.9,0.8,104.5,-1.8,112.2,5.9,False
+1571,WAS,1992-93,NBA,Washington Bullets,22,60,0.268,7th of 7,-6.49,97.7,0.9,103.6,-4.4,110.8,2.8,False
+1572,WAS,1991-92,NBA,Washington Bullets,25,57,0.305,6th of 7,-4.35,97.7,1.1,103.9,-4.3,108.4,0.2,False
+1573,WAS,1990-91,NBA,Washington Bullets,30,52,0.366,4th of 6,-4.84,97.5,-0.3,103.0,-4.9,108.1,0.2,False
+1574,WAS,1989-90,NBA,Washington Bullets,31,51,0.378,4th of 6,-2.43,99.4,1.1,107.5,-0.6,109.7,1.6,False
+1575,WAS,1988-89,NBA,Washington Bullets,40,42,0.488,4th of 6,-1.77,100.8,0.2,106.4,-1.4,108.5,0.7,False
+1576,WAS,1987-88,NBA,Washington Bullets*,38,44,0.463,2nd of 5,-0.16,98.1,-1.5,106.5,-1.5,107.2,-0.8,Lost E. Conf. 1st Rnd.
+1577,WAS,1986-87,NBA,Washington Bullets*,42,40,0.512,3rd of 5,-1.02,100.2,-0.6,105.7,-2.6,107.0,-1.3,Lost E. Conf. 1st Rnd.
+1578,WAS,1985-86,NBA,Washington Bullets*,39,43,0.476,3rd of 5,-1.28,99.1,-3.0,103.0,-4.2,104.8,-2.4,Lost E. Conf. 1st Rnd.
+1579,WAS,1984-85,NBA,Washington Bullets*,40,42,0.488,4th of 5,0.15,100.3,-1.8,104.3,-3.6,104.6,-3.3,Lost E. Conf. 1st Rnd.
+1580,WAS,1983-84,NBA,Washington Bullets*,35,47,0.427,5th of 5,-2.36,97.4,-4.0,104.2,-3.4,107.2,-0.4,Lost E. Conf. 1st Rnd.
+1581,WAS,1982-83,NBA,Washington Bullets,42,40,0.512,5th of 5,0.2,99.4,-3.7,99.1,-5.6,99.3,-5.4,False
+1582,WAS,1981-82,NBA,Washington Bullets*,43,39,0.524,4th of 5,1.06,99.4,-1.5,103.3,-3.6,102.5,-4.4,Lost E. Conf. Semis
+1583,WAS,1980-81,NBA,Washington Bullets,39,43,0.476,4th of 5,0.42,102.4,0.6,102.7,-2.8,102.7,-2.8,False
+1584,WAS,1979-80,NBA,Washington Bullets*,39,43,0.476,3rd of 5,-2.27,102.6,-0.5,103.2,-2.1,105.7,0.4,Lost E. Conf. 1st Rnd.
+1585,WAS,1978-79,NBA,Washington Bullets*,54,28,0.659,1st of 5,4.75,106.5,0.7,107.4,3.6,102.7,-1.1,Lost Finals
+1586,WAS,1977-78,NBA,Washington Bullets*,44,38,0.537,2nd of 6,0.82,108.1,1.4,101.3,0.4,100.5,-0.4,Won Finals
+1587,WAS,1976-77,NBA,Washington Bullets*,48,34,0.585,2nd of 6,0.9,105.9,-0.6,99.3,-0.2,98.4,-1.1,Lost E. Conf. Semis
+1588,WAS,1975-76,NBA,Washington Bullets*,48,34,0.585,2nd of 5,2.2,104.3,-1.2,97.5,-0.8,95.3,-3.0,Lost E. Conf. Semis
+1589,WAS,1974-75,NBA,Washington Bullets*,60,22,0.732,1st of 5,6.53,106.1,1.6,98.0,0.3,91.3,-6.4,Lost Finals
+1590,WAS,1973-74,NBA,Capital Bullets*,47,35,0.573,1st of 4,1.19,106.3,-1.5,95.6,-2.1,94.2,-3.5,Lost E. Conf. Semis
+1591,WAS,1972-73,NBA,Baltimore Bullets*,52,30,0.634,1st of 4,2.85,108.7,-2.0,96.3,-0.5,93.3,-3.5,Lost E. Conf. Semis
+1592,WAS,1971-72,NBA,Baltimore Bullets*,38,44,0.463,1st of 4,-1.26,110.5,-1.5,96.5,-1.4,97.6,-0.3,Lost E. Conf. Semis
+1593,WAS,1970-71,NBA,Baltimore Bullets*,42,40,0.512,1st of 4,0.91,116.5,1.4,96.2,-1.0,95.7,-1.5,Lost Finals
+1594,WAS,1969-70,NBA,Baltimore Bullets*,50,32,0.61,3rd of 7,1.94,121.0,3.9,98.7,-0.3,96.9,-2.1,Lost E. Div. Semis
+1595,WAS,1968-69,NBA,Baltimore Bullets*,57,25,0.695,1st of 7,4.05,121.8,4.9,95.2,-0.3,91.7,-3.8,Lost E. Div. Semis
+1596,WAS,1967-68,NBA,Baltimore Bullets,36,46,0.439,6th of 6,-0.23,121.5,1.7,96.2,-0.6,96.6,-0.2,False
+1597,WAS,1966-67,NBA,Baltimore Bullets,20,61,0.247,5th of 5,-5.87,123.0,1.4,93.4,-2.7,98.6,2.5,False
+1598,WAS,1965-66,NBA,Baltimore Bullets*,38,42,0.475,2nd of 5,-1.06,123.1,1.7,95.8,0.9,96.8,1.9,Lost W. Div. Semis
+1599,WAS,1964-65,NBA,Baltimore Bullets*,37,43,0.463,3rd of 5,-1.97,116.2,-1.1,96.8,3.2,98.7,5.1,Lost W. Div. Finals
+1600,WAS,1963-64,NBA,Baltimore Bullets,31,49,0.388,4th of 5,-1.59,117.0,3.8,95.0,0.4,96.6,2.0,False
+1601,WAS,1962-63,NBA,Chicago Zephyrs,25,55,0.313,5th of 5,-3.63,112.2,-2.8,97.5,1.6,101.1,5.2,False
+1602,WAS,1961-62,NBA,Chicago Packers,18,62,0.225,5th of 5,-7.54,122.9,1.6,90.0,-3.6,96.9,3.3,False
