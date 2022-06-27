@@ -1,0 +1,1031 @@
+,COLLEGE_URL,CONF,FTr,G,SCHOOL,SEASON,TS%,3PAr,MP,TOV%,eFG%,DWS,GS,OWS,WS,WS/40,AST%,BLK%,BPM,DBPM,DRB%,OBPM,ORB%,PER,PProd,STL%,TRB%,USG%
+0,/players/kareem-abdul-jabbar-1.html,,0.474,88.0,UCLA,Career,0.643,,,,,,,,,,,,,,,,,,,,,
+1,/players/mahmoud-abdul-rauf-1.html,,0.293,64.0,LSU,Career,0.581,0.33,2382.0,12.6,0.535,,,,,,,,,,,,,,,,,
+2,/players/shareef-abdur-rahim-1.html,,0.626,28.0,California,Career,0.571,0.053,972.0,14.4,0.528,2.3,28.0,3.1,5.4,0.221,,,,,,,,,,,,
+3,/players/alvan-adams-1.html,,0.311,73.0,Oklahoma,Career,0.565,,,,,,,,,,,,,,,,,,,,,
+4,/players/michael-adams-1.html,,0.377,119.0,Boston College,Career,0.518,,3524.0,17.4,,,0.0,,,,,,,,,,,,,,,
+5,/players/steven-adams-1.html,,0.4,32.0,Pitt,Career,0.555,0.0,749.0,14.4,0.571,1.9,32.0,1.6,3.5,0.185,5.4,11.2,8.1,4.2,21.0,4.0,15.3,23.2,228.0,1.9,18.0,17.7
+6,/players/edrice-adebayo-1.html,,0.831,38.0,Kentucky,Career,0.624,0.0,1145.0,13.9,0.599,2.3,38.0,3.3,5.6,0.196,4.7,4.9,8.2,3.6,17.3,4.5,11.1,22.0,488.0,1.2,14.2,18.5
+7,/players/rick-adelman-1.html,,0.508,76.0,Loyola Marymount,Career,0.498,,,,,,,,,,,,,,,,,,,,,
+8,/players/mark-aguirre-1.html,,0.375,89.0,DePaul,Career,0.585,,3324.0,14.0,,,,,,,,,,,,,,,,,,
+9,/players/danny-ainge-1.html,,0.322,118.0,BYU,Career,0.571,,4258.0,14.9,,,,,,,,,,,,,,,,,,
+10,/players/lamarcus-aldridge-1.html,,0.527,53.0,Texas,Career,0.605,0.0,1602.0,12.9,0.586,6.5,53.0,4.7,11.2,0.28,4.3,4.2,,,,,,,,,15.3,20.9
+11,/players/courtney-alexander-1.html,,0.252,53.0,Virginia,,0.53,0.195,1459.0,9.7,0.497,1.9,20.0,3.0,4.8,0.132,,,,,,,,,,,,
+12,/players/courtney-alexander-1.html,,0.246,59.0,Fresno State,,0.538,0.295,1997.0,10.2,0.506,1.7,27.0,5.0,6.7,0.135,,,,,,,,,,,,
+13,/players/jarrett-allen-1.html,,0.472,33.0,Texas,Career,0.571,0.022,1061.0,17.8,0.566,1.7,33.0,1.5,3.3,0.124,5.7,5.0,5.2,2.6,18.9,2.6,10.9,20.3,428.0,1.0,14.9,22.6
+14,/players/lucius-allen-1.html,,0.311,60.0,UCLA,Career,0.504,,,,,,,,,,,,,,,,,,,,,
+15,/players/ray-allen-1.html,,0.247,101.0,UConn,Career,0.594,0.359,3001.0,10.7,0.567,3.3,66.0,5.0,8.3,,,,,,,,,,,,,
+16,/players/tony-allen-1.html,,0.449,67.0,Oklahoma State,Career,0.547,0.195,2105.0,16.8,0.51,6.3,62.0,4.6,10.8,0.206,19.0,1.7,,,,,,,,,9.6,26.1
+17,/players/derek-anderson-1.html,,0.518,44.0,Ohio State,,0.57,0.249,1282.0,19.0,0.5,,30.0,,,,,,,,,,,,,,,
+18,/players/derek-anderson-1.html,,0.432,55.0,Kentucky,,0.613,0.336,1181.0,13.1,0.567,3.5,40.0,4.5,7.9,,,,,,,,,,,,,
+19,/players/greg-anderson-1.html,,0.437,123.0,Houston,Career,0.559,0.0,3457.0,14.5,,,60.0,,,,,,,,,,,,,,,
+20,/players/jerome-anderson-2.html,,0.291,77.0,West Virginia,Career,0.491,,1830.0,,,,,,,,16.2,,,,,,,,,,6.9,
+21,/players/kenny-anderson-1.html,,0.281,65.0,Georgia Tech,Career,0.557,0.255,2488.0,15.8,0.521,,64.0,,,,,,,,,,,,,,,
+22,/players/ryan-anderson-1.html,,0.379,66.0,California,Career,0.605,0.356,2178.0,10.6,0.554,2.7,66.0,7.5,10.2,0.188,9.7,1.1,,,,,,,,,17.9,29.4
+23,/players/shandon-anderson-1.html,,0.415,118.0,Georgia,Career,0.543,0.141,3152.0,19.5,0.518,2.3,90.0,2.7,5.0,,,,,,,,,,,,,
+24,/players/willie-anderson-1.html,,0.258,107.0,Georgia,Career,0.55,0.099,2781.0,19.8,,,29.0,,,,,,,,,,,,,,,
+25,/players/kostas-antetokounmpo-1.html,,0.634,29.0,Dayton,Career,0.575,0.149,438.0,22.9,0.584,0.5,6.0,0.2,0.7,0.062,5.9,8.3,-2.1,1.2,16.9,-3.3,7.3,13.7,142.0,1.0,12.3,20.9
+26,/players/carmelo-anthony-1.html,,0.389,35.0,Syracuse,Career,0.537,0.271,1274.0,9.6,0.498,3.1,35.0,2.7,5.8,0.183,11.9,1.5,,,,,,,,,14.0,29.3
+27,/players/joel-anthony-1.html,,0.461,68.0,UNLV,Career,0.576,0.0,1092.0,15.9,0.573,4.7,9.0,1.3,6.0,0.22,,,,,,,,,,,,
+28,/players/og-anunoby-1.html,,0.378,50.0,Indiana,Career,0.609,0.311,868.0,16.1,0.62,1.6,10.0,2.0,3.6,0.165,8.6,5.5,8.4,3.9,13.8,4.5,10.0,21.8,329.0,3.2,12.0,19.0
+29,/players/tiny-archibald-1.html,,0.556,73.0,UTEP,Career,0.574,,,,,,,,,,,,,,,,,,,,,
+30,/players/jim-ard-1.html,,0.443,76.0,Cincinnati,Career,0.512,,2580.0,,,,,,,,,,,,,,,,,,,
+31,/players/gilbert-arenas-1.html,,0.333,70.0,Arizona,Career,0.563,0.349,2137.0,16.1,0.53,4.3,64.0,5.4,9.8,0.183,,,,,,,,,,,,
+32,/players/trevor-ariza-1.html,,0.45,25.0,UCLA,Career,0.474,0.303,789.0,21.0,0.462,0.8,23.0,0.2,1.0,0.052,,,,,,,,,,,,
+33,/players/paul-arizin-1.html,,1.156,80.0,Villanova,Career,1.211,,,,,,,,,,,,,,,,,,,,,
+34,/players/bj-armstrong-1.html,,0.409,130.0,Iowa,Career,0.602,0.259,3265.0,15.3,,,103.0,,,,,,,,,,,,,,,
+35,/players/bob-arnzen-1.html,,0.301,82.0,Notre Dame,Career,0.53,,,,,,,,,,,,,,,,,,,,,
+36,/players/chucky-atkins-1.html,,0.341,111.0,South Florida,Career,0.543,0.525,3785.0,18.6,0.505,1.3,52.0,3.3,4.6,,,,,,,,,,,,,
+37,/players/stacey-augmon-1.html,,0.433,145.0,UNLV,Career,0.611,0.169,4283.0,15.9,0.591,,36.0,,,,,,,,,,,,,,,
+38,/players/dj-augustin-1.html,,0.447,73.0,Texas,Career,0.569,0.331,2662.0,16.9,0.51,4.5,73.0,6.2,10.7,0.161,34.3,0.2,,,,,,,,,4.2,20.9
+39,/players/isaac-austin-1.html,,0.52,61.0,Arizona State,Career,0.581,0.003,1754.0,16.2,0.559,,,,,,,,,,,,,,,,,
+40,/players/williambird-averitt-1.html,,0.313,49.0,Pepperdine,Career,0.482,,,13.1,,,,,,,,,,,,,,,,,,
+41,/players/dennis-awtrey-1.html,,0.479,84.0,Santa Clara,Career,0.61,,,,,,,,,,,,,,,,,,,,,
+42,/players/jeff-pendergraph-1.html,,0.454,126.0,Arizona State,Career,0.62,0.009,3801.0,15.3,0.58,7.2,120.0,12.0,19.1,0.201,6.7,2.8,,,,,,,,,16.1,22.3
+43,/players/deandre-ayton-1.html,,0.424,35.0,Arizona,Career,0.65,0.078,1172.0,11.3,0.625,2.1,35.0,5.5,7.6,0.259,10.2,6.1,11.0,2.4,28.2,8.6,13.5,32.6,666.0,1.0,21.4,26.6
+44,/players/marvin-bagleyiii-1.html,,0.475,33.0,Duke,Career,0.643,0.132,1118.0,12.2,0.64,2.1,32.0,4.8,6.9,0.248,8.8,2.6,10.8,2.0,21.5,8.8,13.8,30.6,630.0,1.4,17.9,26.3
+45,/players/thurl-bailey-1.html,,0.297,123.0,NC State,Career,0.547,0.013,2978.0,10.9,,,,,,,,,,,,,,,,,,
+46,/players/vin-baker-1.html,,0.386,112.0,Hartford,Career,0.522,0.134,3289.0,11.4,0.495,,84.0,,,,,,,,,,,,,,,
+47,/players/lonzo-ball-1.html,,0.286,36.0,UCLA,Career,0.673,0.566,1263.0,18.6,0.668,2.0,36.0,4.8,6.8,0.214,31.4,2.1,12.0,3.9,14.3,8.1,3.2,24.7,608.0,2.8,9.3,18.1
+48,/players/greg-ballard-1.html,,0.465,115.0,Oregon,Career,0.566,,3617.0,12.2,,,,,,,,,,,,,,,,,,
+49,/players/desmond-bane-1.html,,0.203,141.0,TCU,Career,0.611,0.432,4279.0,13.1,0.589,5.6,114.0,11.2,16.8,0.157,16.1,1.4,7.1,2.3,14.3,4.8,3.8,19.2,1634.0,1.8,9.1,19.9
+50,/players/mike-bantom-1.html,,0.382,84.0,St. Joseph's,Career,0.516,,972.0,,,,,,,,,,,,,,,,,,,
+51,/players/jose-barea-1.html,,0.322,113.0,Northeastern,Career,0.514,0.411,3761.0,16.0,0.469,5.8,112.0,6.5,12.2,0.13,48.5,0.0,,,,,,,,,6.5,35.3
+52,/players/charles-barkley-1.html,,0.512,84.0,Auburn,Career,0.638,,2322.0,18.0,,,69.0,,,,,,,,,,,,,,,
+53,/players/harrison-barnes-1.html,,0.313,75.0,UNC,Career,0.524,0.326,2198.0,11.1,0.487,3.8,73.0,5.6,9.3,0.17,8.4,1.3,7.1,2.3,12.3,4.8,7.1,20.3,1095.0,1.7,9.7,27.3
+54,/players/jim-barnes-1.html,,0.586,54.0,UTEP,Career,0.594,,,,,,,,,,,,,,,,,,,,,
+55,/players/marvin-barnes-1.html,,0.299,89.0,Providence,Career,0.539,,3134.0,,,,,,,,,,,,,,,,,,,
+56,/players/matt-barnes-1.html,,0.414,121.0,UCLA,Career,0.52,0.226,2731.0,19.0,0.505,4.6,66.0,3.2,7.9,0.115,21.8,0.7,,,,,,,,,11.5,23.9
+57,/players/scottie-barnes-1.html,,0.338,24.0,Florida State,Career,0.548,0.205,595.0,20.7,0.531,1.0,7.0,1.5,2.4,0.164,31.6,2.1,7.9,3.6,11.1,4.3,7.4,21.4,283.0,3.4,9.3,23.7
+58,/players/leo-barnhorst-1.html,,0.294,48.0,Notre Dame,Career,0.413,,,,,,,,,,,,,,,,,,,,,
+59,/players/dana-barros-1.html,,0.275,119.0,Boston College,Career,0.595,0.387,4360.0,11.9,,,57.0,,,,,,,,,,,,,,,
+60,/players/brent-barry-1.html,,0.415,108.0,Oregon State,Career,0.598,0.414,3123.0,22.1,0.551,,57.0,,,,,,,,,,,,,,,
+61,/players/rick-barry-1.html,,0.503,77.0,Miami (FL),Career,0.593,,,,,,,,,,,,,,,,,,,,,
+62,/players/tim-bassett-1.html,,0.251,52.0,Georgia,Career,0.505,,,,,,,,,,,,,,,,,,,,,
+63,/players/shane-battier-1.html,,0.431,146.0,Duke,Career,0.632,0.454,4336.0,9.3,0.594,16.3,120.0,13.5,29.8,0.275,,,,,,,,,,,,
+64,/players/elgin-baylor-1.html,,0.446,54.0,Seattle,Career,0.556,,,,,,,,,,,,,,,,,,,,,
+65,/players/aron-baynes-1.html,,0.546,122.0,Washington State,Career,0.585,0.004,2679.0,14.3,0.546,7.2,86.0,7.1,14.3,0.213,1.6,2.2,,,,,,,,,15.6,23.2
+66,/players/bradley-beal-1.html,,0.44,37.0,Florida,Career,0.575,0.473,1267.0,14.3,0.525,2.1,37.0,3.6,5.7,0.18,12.7,2.6,8.4,2.9,20.3,5.4,4.8,22.0,522.0,2.5,12.3,23.0
+67,/players/butch-beard-1.html,,0.381,83.0,Louisville,Career,0.534,,,,,,,,,,,,,,,,,,,,,
+68,/players/ralph-beard-1.html,,0.528,72.0,Kentucky,Career,0.79,,,,,,,,,,,,,,,,,,,,,
+69,/players/john-beasley-1.html,,0.337,73.0,Texas A&M,Career,0.509,,,,,,,,,,,,,,,,,,,,,
+70,/players/michael-beasley-1.html,,0.484,33.0,Kansas State,Career,0.61,0.165,1041.0,11.8,0.563,5.4,33.0,5.4,10.7,0.413,9.3,3.7,,,,,,,,,21.3,35.0
+71,/players/byron-beck-1.html,,0.336,49.0,Denver,Career,0.577,,,,,,,,,,,,,,,,,,,,,
+72,/players/art-becker-1.html,,0.274,82.0,Arizona State,Career,0.561,,1787.0,,,,,,,,,,,,,,,,,,,
+73,/players/william-bedford-1.html,,0.345,93.0,Memphis,Career,0.58,,2821.0,12.3,,,,,,,,,,,,,,,,,,
+74,/players/ron-behagen-1.html,,0.314,40.0,Minnesota,Career,0.508,,,,,,,,,,,,,,,,,,,,,
+75,/players/jordan-bell-1.html,,0.339,105.0,Oregon,Career,0.619,0.028,2591.0,19.8,0.612,6.1,62.0,5.3,11.4,0.176,10.8,9.5,8.7,5.5,21.0,3.2,10.5,22.5,864.0,2.5,16.0,15.9
+76,/players/raja-bell-1.html,,0.232,58.0,Boston University,,0.518,0.29,1798.0,15.5,0.473,1.2,50.0,0.8,2.1,,,,,,,,,,,,,
+77,/players/raja-bell-1.html,,0.383,58.0,Florida International,,0.552,0.35,1867.0,13.8,0.508,1.6,,4.4,5.9,,,,,,,,,,,,,
+78,/players/walt-bellamy-1.html,,0.471,70.0,Indiana,Career,0.548,,,,,,,,,,,,,,,,,,,,,
+79,/players/patrick-beverley-1.html,,0.396,70.0,Arkansas,Career,0.56,0.53,2386.0,14.7,0.521,3.9,67.0,4.3,8.2,0.138,15.6,0.9,,,,,,,,,9.5,19.7
+80,/players/saddiq-bey-1.html,,0.225,67.0,Villanova,Career,0.594,0.506,2115.0,10.0,0.575,2.6,60.0,5.9,8.5,0.161,11.7,1.2,6.8,1.9,11.8,4.9,6.4,18.6,767.0,1.6,9.1,18.5
+81,/players/henry-bibby-1.html,,0.291,90.0,UCLA,Career,0.495,,,,,,,,,,,,,,,,,,,,,
+82,/players/mike-bibby-1.html,,0.342,69.0,Arizona,Career,0.578,0.468,2229.0,16.3,0.548,4.4,69.0,5.7,10.1,0.181,,,,,,,,,,,,
+83,/players/chauncey-billups-1.html,,0.497,55.0,Colorado,Career,0.574,0.437,1866.0,18.5,0.497,2.5,54.0,5.7,8.2,0.177,,,,,,,,,,,,
+84,/players/dave-bing-1.html,,0.377,76.0,Syracuse,Career,0.542,,,,,,28.0,,,,,,,,,,,,,,,
+85,/players/larry-bird-1.html,,0.304,94.0,Indiana State,Career,0.575,,1033.0,,,,34.0,,,,,,,,,,,,,,,
+86,/players/otis-birdsong-1.html,,0.314,116.0,Houston,Career,0.574,,4062.0,13.0,,,,,,,,,,,,,,,,,,
+87,/players/rolando-blackman-1.html,,0.319,121.0,Kansas State,Career,0.548,,3398.0,,,,92.0,,,,,,,,,,,,,,,
+88,/players/dejuan-blair-1.html,,0.448,72.0,Pitt,Career,0.582,0.0,1918.0,12.0,0.568,9.6,71.0,5.4,15.0,0.314,8.2,2.9,,,,,,,,,22.7,24.6
+89,/players/mookie-blaylock-1.html,,0.191,74.0,Oklahoma,Career,0.547,0.398,2706.0,14.1,0.533,,,,,,,,,,,,,,,,,
+90,/players/eric-bledsoe-1.html,,0.394,37.0,Kentucky,Career,0.566,0.41,1122.0,23.2,0.54,2.1,35.0,1.5,3.5,0.126,16.8,1.1,,,8.5,,1.9,,405.0,2.6,5.5,20.4
+91,/players/john-block-1.html,,0.496,78.0,USC,Career,0.506,,,,,,,,,,,,,,,,,,,,,
+92,/players/andrew-bogut-1.html,,0.429,68.0,Utah,Career,0.629,0.048,2226.0,17.0,0.612,7.7,68.0,9.4,17.1,0.307,18.2,4.2,,,,,,,,,24.2,29.7
+93,/players/matt-bonner-1.html,,0.287,131.0,Florida,Career,0.599,0.362,3281.0,11.8,0.574,7.2,81.0,9.6,16.9,0.206,9.7,1.4,,,,,,,,,11.4,22.9
+94,/players/devin-booker-2.html,,0.223,38.0,Kentucky,Career,0.6,0.491,816.0,10.4,0.571,1.8,0.0,2.7,4.5,0.219,10.9,0.3,9.4,3.3,7.8,6.1,2.6,19.4,324.0,1.3,5.4,22.8
+95,/players/ron-boone-1.html,,0.38,61.0,Idaho State,Career,0.491,,,,,,,,,,,,,,,,,,,,,
+96,/players/keith-booth-1.html,,0.638,126.0,Maryland,Career,0.528,0.081,3872.0,19.3,0.465,4.9,126.0,4.3,9.2,,,,,,,,,,,,,
+97,/players/bob-boozer-1.html,,0.531,77.0,Kansas State,Career,0.507,,,,,,,,,,,,,,,,,,,,,
+98,/players/carlos-boozer-1.html,,0.612,101.0,Duke,Career,0.665,0.001,2620.0,12.2,0.631,7.6,93.0,11.4,19.0,0.29,,,,,,,,,,,,
+99,/players/vince-boryla-1.html,,,33.0,Denver,Career,,,,,,,,,,,,,,,,,,,,,,
+100,/players/chris-bosh-1.html,,0.58,31.0,Georgia Tech,Career,0.634,0.153,960.0,15.8,0.597,2.9,31.0,3.5,6.4,0.267,,,,,,,,,,,,
+101,/players/tom-boswell-1.html,,0.241,53.0,South Carolina State,,0.51,,,,,,,,,,,,,,,,,,,,,
+102,/players/tom-boswell-1.html,,0.395,27.0,South Carolina,,0.58,,864.0,,,,,,,,,,,,,,,,,,,
+103,/players/chris-boucher-1.html,,0.415,69.0,Oregon,Career,0.611,0.387,1712.0,10.0,0.598,4.0,47.0,5.4,9.4,0.22,3.2,11.8,9.4,4.0,20.3,5.3,11.0,26.8,749.0,1.4,15.8,21.9
+104,/players/bruce-bowen-1.html,,0.558,101.0,Cal State Fullerton,Career,0.515,0.171,2903.0,15.7,0.457,,77.0,,,,,,,,,,,,,,,
+105,/players/sam-bowie-1.html,,0.469,96.0,Kentucky,Career,0.568,,2761.0,16.9,,,95.0,,,,11.0,5.7,,,,,,,,,18.5,
+106,/players/gary-bradds-1.html,,0.493,74.0,Ohio State,Career,0.589,,,,,,,,,,,,,,,,,,,,,
+107,/players/avery-bradley-1.html,,0.179,34.0,Texas,Career,0.496,0.304,1003.0,11.5,0.489,1.6,32.0,1.6,3.2,0.127,12.4,1.6,,,6.6,,3.5,,374.0,2.4,5.1,20.4
+108,/players/bill-bradley-1.html,,0.542,83.0,Princeton,Career,0.597,,,,,,,,,,,,,,,,,,,,,
+109,/players/dudley-bradley-1.html,,0.299,120.0,UNC,Career,0.471,,,,,,,,,,,,,,,,,,,,,
+110,/players/jim-bradley-1.html,,0.371,49.0,Northern Illinois,Career,0.52,,,,,,,,,,,,,,,,,,,,,
+111,/players/shawn-bradley-1.html,,0.512,34.0,BYU,Career,0.56,0.003,984.0,14.6,0.519,,34.0,,,,,,,,,,,,,,,
+112,/players/adrian-branch-1.html,,0.384,123.0,Maryland,Career,0.532,,4179.0,15.7,,,120.0,,,,,,,,,,,,,,,
+113,/players/elton-brand-1.html,,0.672,60.0,Duke,Career,0.635,0.0,1635.0,11.7,0.612,7.7,55.0,6.8,14.5,0.354,,,,,,,,,,,,
+114,/players/terrell-brandon-1.html,,0.33,57.0,Oregon,Career,0.57,0.223,2175.0,15.5,0.526,,28.0,,,,,,,,,,,,,,,
+115,/players/tim-breaux-1.html,,0.435,121.0,Wyoming,Career,0.545,0.255,3677.0,,0.51,,,,,,,,,,,,,,,,,
+116,/players/jr-bremer-1.html,,0.396,112.0,St. Bonaventure,Career,0.534,0.49,3564.0,14.2,0.485,4.3,67.0,6.4,10.7,0.12,17.8,0.1,,,,,,,,,7.1,32.1
+117,/players/corey-brewer-1.html,,0.431,108.0,Florida,Career,0.571,0.312,2939.0,19.1,0.535,6.6,106.0,6.4,13.0,0.177,19.1,1.1,,,,,,,,,9.2,21.6
+118,/players/jim-brewer-1.html,,0.322,75.0,Minnesota,Career,0.442,,,,,,,,,,,,,,,,,,,,,
+119,/players/ron-brewer-1.html,,0.34,91.0,Arkansas,Career,0.597,,2221.0,14.9,,,,,,,,,,,,,,,,,,
+120,/players/frankie-brian-1.html,,,36.0,LSU,Career,,,,,,,,,,,,,,,,,,,,,,
+121,/players/bill-bridges-1.html,,0.456,78.0,Kansas,Career,0.452,,,,,,,,,,,,,,,,,,,,,
+122,/players/mikal-bridges-1.html,,0.304,116.0,Villanova,Career,0.656,0.49,3171.0,11.0,0.623,6.7,73.0,10.5,17.2,0.216,10.3,3.6,11.5,5.1,13.4,6.4,5.3,22.7,1240.0,3.0,9.6,18.3
+123,/players/john-brisker-1.html,,0.276,55.0,Toledo,Career,0.506,,,,,,,,,,,,,,,,,,,,,
+124,/players/malcolm-brogdon-1.html,,0.345,136.0,Virginia,Career,0.556,0.362,4157.0,11.3,0.496,9.0,109.0,11.4,20.3,0.196,17.7,0.9,8.6,3.8,14.3,4.8,2.6,20.6,1713.0,1.9,8.7,25.3
+125,/players/aaron-brooks-1.html,,0.315,115.0,Oregon,Career,0.565,0.471,3759.0,18.5,0.518,4.5,110.0,7.7,12.2,0.129,26.2,0.3,,,,,,,,,6.6,23.2
+126,/players/marshon-brooks-1.html,,0.318,113.0,Providence,Career,0.559,0.375,2855.0,12.4,0.526,2.6,56.0,8.4,11.0,0.154,13.5,2.5,10.3,1.5,12.3,8.8,6.4,25.8,1118.0,2.5,9.3,27.9
+127,/players/scott-brooks-1.html,,0.161,27.0,TCU,,0.545,,420.0,23.6,,,0.0,,,,,,,,,,,,,,,
+128,/players/scott-brooks-1.html,,0.391,58.0,UC-Irvine,,0.627,0.515,1972.0,13.8,,,28.0,,,,,,,,,,,,,,,
+129,/players/chucky-brown-1.html,,0.361,128.0,NC State,Career,0.581,0.028,3014.0,11.1,,,73.0,,,,,,,,,,,,,,,
+130,/players/dee-brown-1.html,,0.263,108.0,Jacksonville,Career,0.549,0.196,3135.0,15.3,0.517,,29.0,,,,,,,,,,,,,,,
+131,/players/devin-brown-1.html,,0.421,105.0,UTSA,Career,0.517,0.356,3364.0,13.7,0.466,6.6,99.0,5.5,12.1,0.144,19.2,0.5,,,,,,,,,13.2,28.5
+132,/players/fred-brown-1.html,,0.266,48.0,Iowa,Career,0.541,,,,,,,,,,,,,,,,,,,,,
+133,/players/jaylen-brown-1.html,,0.574,34.0,California,Career,0.518,0.27,939.0,17.9,0.471,1.8,34.0,1.0,2.7,0.117,15.3,2.2,3.6,2.5,16.6,1.1,4.4,17.6,476.0,1.7,10.8,31.4
+134,/players/john-brown-1.html,,0.498,72.0,Missouri,Career,0.579,,,,,,,,,,,,,,,,,,,,,
+135,/players/larry-brown-1.html,,0.579,56.0,UNC,Career,0.53,,,,,,,,,,,,,,,,,,,,,
+136,/players/pj-brown-1.html,,0.4,121.0,Louisiana Tech,Career,0.529,0.054,3108.0,16.0,0.498,,,,,,,,,,,,,,,,,
+137,/players/randy-brown-1.html,,0.604,57.0,Houston,,0.532,0.027,1576.0,35.7,0.471,,12.0,,,,,,,,,,,,,,,
+138,/players/randy-brown-1.html,,0.63,60.0,New Mexico State,,0.513,0.137,1824.0,21.5,0.446,,,,,,,,,,,,,,,,,
+139,/players/roger-brown-1.html,,0.386,79.0,Kansas,Career,0.469,,,,,,,,,,,,,,,,,,,,,
+140,/players/shannon-brown-1.html,,0.319,97.0,Michigan State,Career,0.565,0.332,2712.0,15.8,0.518,2.8,89.0,5.9,8.7,0.128,14.0,0.3,,,,,,,,,7.7,23.8
+141,/players/elijah-bryant-1.html,,0.449,33.0,Elon,,0.501,0.327,840.0,19.8,0.439,1.3,13.0,0.7,2.0,0.095,24.7,1.7,1.1,-0.3,12.9,1.4,5.8,18.5,471.0,2.9,9.2,34.6
+142,/players/elijah-bryant-1.html,,0.449,58.0,BYU,,0.618,0.488,1782.0,13.7,0.563,3.1,43.0,4.7,7.9,0.177,14.7,1.7,6.2,1.9,17.7,4.2,2.1,21.4,828.0,2.1,10.2,24.3
+143,/players/quinn-buckner-1.html,,0.229,120.0,Indiana,Career,0.447,,3207.0,22.9,,,,,,,,,,,,,,,,,,
+144,/players/jud-buechler-1.html,,0.379,131.0,Arizona,Career,0.604,0.131,2930.0,17.2,0.572,,74.0,,,,8.8,1.0,,,,,,,,,13.2,16.1
+145,/players/matt-bullard-1.html,,0.37,56.0,Colorado,,0.597,0.045,1807.0,15.5,,,56.0,,,,,,,,,,,,,,,
+146,/players/matt-bullard-1.html,,0.318,38.0,Iowa,,0.592,0.403,864.0,18.5,,,13.0,,,,,,,,,,,,,,,
+147,/players/trey-burke-1.html,,0.3,73.0,Michigan,Career,0.556,0.374,2605.0,14.0,0.519,3.2,71.0,9.7,12.9,0.197,33.2,1.4,10.1,2.6,10.1,7.5,2.1,24.3,1307.0,2.3,6.1,27.4
+148,/players/tom-burleson-1.html,,0.37,84.0,NC State,Career,0.547,,957.0,,,,,,,,,,,,,,,,,,,
+149,/players/scott-burrell-1.html,,0.375,119.0,UConn,Career,0.52,0.369,3821.0,15.8,0.492,,50.0,,,,,,,,,,,,,,,
+150,/players/willie-burton-1.html,,0.45,118.0,Minnesota,Career,0.586,0.172,3348.0,15.4,0.543,,99.0,,,,,,,,,,,,,,,
+151,/players/don-buse-1.html,,,,Evansville,Career,,,,,,,,,,,,,,,,,,,,,,
+152,/players/caron-butler-1.html,,0.426,63.0,UConn,Career,0.544,0.139,2173.0,13.9,0.491,4.7,62.0,4.6,9.4,0.172,,,,,,,,,,,,
+153,/players/jimmy-butler-1.html,,0.776,106.0,Marquette,Career,0.607,0.122,3134.0,9.5,0.531,4.7,69.0,11.2,15.9,0.203,11.2,1.6,9.4,2.2,13.2,7.2,8.5,24.7,1067.0,2.4,11.1,19.0
+154,/players/marty-byrnes-1.html,,0.458,100.0,Syracuse,Career,0.532,,702.0,14.4,,,29.0,,,,,,,,,,,,,,,
+155,/players/devontae-cacok-1.html,,0.481,129.0,UNC Wilmington,Career,0.637,0.001,3064.0,13.7,0.64,4.1,97.0,10.3,14.4,0.189,4.5,3.2,2.7,-0.5,31.0,3.3,15.6,27.9,1502.0,2.0,22.9,22.4
+156,/players/jason-caffey-1.html,,0.467,119.0,Alabama,Career,0.529,0.019,2895.0,19.5,0.511,,79.0,,,,,,,,,,,,,,,
+157,/players/michael-cage-1.html,,0.539,112.0,San Diego State,Career,0.594,,4262.0,13.0,,,112.0,,,,,,,,,,,,,,,
+158,/players/joe-caldwell-1.html,,0.345,83.0,Arizona State,Career,0.489,,1984.0,,,,,,,,,,,,,,,,,,,
+159,/players/kentavious-caldwell-pope-1.html,,0.307,64.0,Georgia,Career,0.543,0.539,2114.0,9.7,0.507,3.8,60.0,5.8,9.6,0.182,13.3,1.6,9.9,3.3,18.8,6.6,4.6,24.0,902.0,3.8,11.5,27.0
+160,/players/corky-calhoun-1.html,,0.458,84.0,Penn,Career,0.532,,,,,,,,,,,,,,,,,,,,,
+161,/players/mack-calvin-1.html,,0.47,52.0,USC,Career,0.522,,,,,,,,,,,,,,,,,,,,,
+162,/players/marcus-camby-1.html,,0.433,92.0,UMass,Career,0.535,0.012,2324.0,12.6,0.501,5.9,63.0,2.2,8.1,,,,,,,,,,,,,
+163,/players/elden-campbell-1.html,,0.429,123.0,Clemson,Career,0.582,0.007,3194.0,14.3,0.563,,85.0,,,,,,,,,,,,,,,
+164,/players/tony-campbell-1.html,,0.36,104.0,Ohio State,Career,0.534,0.002,3258.0,16.7,,,89.0,,,,,,,,,,,,,,,
+165,/players/larry-cannon-1.html,,0.341,75.0,La Salle,Career,0.491,,,,,,,,,,,,,,,,,,,,,
+166,/players/brian-cardinal-1.html,,0.568,132.0,Purdue,Career,0.581,0.331,3693.0,15.6,0.521,7.6,125.0,9.4,17.0,0.184,,,,,,,,,,,,
+167,/players/rick-carlisle-1.html,,0.4,56.0,Maine,,0.602,,,,,,28.0,,,,,,,,,,,,,,,
+168,/players/rick-carlisle-1.html,,0.353,67.0,Virginia,,0.557,,1924.0,12.8,,,66.0,,,,,,,,,,,,,,,
+169,/players/austin-carr-1.html,,0.336,74.0,Notre Dame,Career,0.574,,,,,,,,,,,,,,,,,,,,,
+170,/players/darel-carrier-1.html,,0.331,69.0,Western Kentucky,Career,0.485,,,,,,,,,,,,,,,,,,,,,
+171,/players/joe-barry-carroll-1.html,,0.408,123.0,Purdue,Career,0.569,,3831.0,,,,95.0,,,,2.9,7.0,,,,,,,,,15.6,
+172,/players/george-carter-2.html,,0.377,68.0,St. Bonaventure,Career,0.489,,,,,,,,,,,,,,,,,,,,,
+173,/players/vince-carter-1.html,,0.332,103.0,UNC,Career,0.622,0.306,2677.0,10.8,0.603,5.8,80.0,9.0,14.8,0.222,,,,,,,,,,,,
+174,/players/michael-carter-williams-1.html,,0.462,66.0,Syracuse,Career,0.493,0.303,1678.0,21.8,0.445,4.0,40.0,3.3,7.4,0.176,39.1,2.0,9.2,5.4,12.7,3.8,4.0,20.9,672.0,4.7,8.2,21.3
+175,/players/bill-cartwright-1.html,,0.446,111.0,San Francisco,Career,0.621,,3546.0,,,,,,,,,,,,,,,,,,,
+176,/players/alex-caruso-1.html,,0.408,137.0,Texas A&M,Career,0.543,0.319,3933.0,25.7,0.509,8.6,120.0,4.6,13.2,0.134,32.9,1.8,6.6,5.2,12.3,1.4,3.1,17.2,1295.0,4.3,7.7,18.1
+177,/players/sam-cassell-1.html,,0.33,66.0,Florida State,Career,0.569,0.321,2344.0,15.1,0.537,,66.0,,,,,,,,,,,,,,,
+178,/players/willie-cauley-stein-1.html,,0.509,105.0,Kentucky,Career,0.582,0.0,2575.0,14.9,0.593,7.1,70.0,5.7,12.8,0.198,7.0,9.2,10.7,6.4,17.3,4.3,11.9,23.3,842.0,2.7,14.7,16.9
+179,/players/cedric-ceballos-1.html,,0.369,58.0,Cal State Fullerton,Career,0.518,0.146,2057.0,13.2,0.485,,57.0,,,,,,,,,,,,,,,
+180,/players/john-celestand-1.html,,0.323,124.0,Villanova,Career,0.519,0.428,3308.0,22.0,0.48,4.0,45.0,4.3,8.2,0.099,,,,,,,,,,,,
+181,/players/mario-chalmers-1.html,,0.389,110.0,Kansas,Career,0.619,0.47,3137.0,19.3,0.584,9.0,96.0,9.5,18.5,0.236,22.7,0.8,,,,,,,,,5.3,21.8
+182,/players/wilt-chamberlain-1.html,,0.645,48.0,Kansas,Career,0.513,,,,,,,,,,,,,,,,,,,,,
+183,/players/tom-chambers-1.html,,0.38,116.0,Utah,Career,0.576,,2959.0,13.3,,,87.0,,,,,,,,,,,,,,,
+184,/players/don-chaney-1.html,,0.212,90.0,Houston,Career,0.459,,2675.0,,,,,,,,,,,,,,,,,,,
+185,/players/rex-chapman-1.html,,0.2,61.0,Kentucky,Career,0.576,0.394,2070.0,14.3,0.553,,59.0,,,,,,,,,,,,,,,
+186,/players/maurice-cheeks-1.html,,0.559,106.0,West Texas A&M,Career,0.598,,2803.0,,,,,,,,,,,,,,,,,,,
+187,/players/phil-chenier-1.html,,0.239,51.0,California,Career,0.443,,,,,,,,,,,,,,,,,,,,,
+188,/players/pete-chilcutt-1.html,,0.256,140.0,UNC,Career,0.567,0.064,3177.0,18.2,0.545,,77.0,,,,,,,,,,,,,,,
+189,/players/josh-childress-1.html,,0.278,86.0,Stanford,Career,0.532,0.352,2458.0,13.1,0.497,7.2,57.0,3.9,11.2,0.182,12.8,2.7,,,,,,,,,13.4,22.7
+190,/players/jim-chones-1.html,,0.291,50.0,Marquette,Career,0.558,,,,,,,,,,,,,,,,,,,,,
+191,/players/marquese-chriss-1.html,,0.382,34.0,Washington,Career,0.585,0.178,848.0,14.7,0.561,1.2,34.0,1.9,3.1,0.148,6.3,5.8,4.9,2.2,11.6,2.8,9.8,21.6,427.0,1.9,10.7,24.1
+192,/players/doug-christie-1.html,,0.468,87.0,Pepperdine,Career,0.558,0.227,2658.0,21.0,0.507,,31.0,,,,,,,,,,,,,,,
+193,/players/archie-clark-1.html,,0.427,72.0,Minnesota,Career,0.516,,,,,,,,,,,,,,,,,,,,,
+194,/players/carlos-clark-1.html,,0.392,118.0,Ole Miss,Career,0.592,,4028.0,13.5,,,31.0,,,,6.4,,,,,,,,,,7.4,
+195,/players/ian-clark-1.html,,0.191,133.0,Belmont,Career,0.626,0.569,3818.0,15.3,0.605,6.0,131.0,11.2,17.2,0.18,15.6,0.8,6.5,1.2,9.8,5.3,2.0,20.6,1670.0,2.5,6.0,23.6
+196,/players/brandon-clarke-1.html,,0.435,61.0,San Jose State,,0.605,0.017,1685.0,11.7,0.607,2.7,33.0,4.9,7.7,0.182,15.9,7.2,6.7,2.3,19.6,4.4,10.3,26.1,774.0,1.9,14.8,21.7
+197,/players/brandon-clarke-1.html,,0.42,37.0,Gonzaga,,0.699,0.04,1040.0,11.3,0.693,3.2,36.0,5.5,8.8,0.337,12.3,11.3,16.3,6.5,19.6,9.8,13.9,37.2,603.0,2.3,17.1,23.9
+198,/players/jordan-clarkson-1.html,,0.48,58.0,Tulsa,,0.55,0.298,1724.0,17.7,0.486,2.0,40.0,3.7,5.7,0.132,18.4,1.2,3.0,0.5,9.5,2.4,3.3,18.3,785.0,1.7,6.4,27.8
+199,/players/jordan-clarkson-1.html,,0.418,35.0,Missouri,,0.547,0.244,1228.0,14.3,0.482,1.2,35.0,3.2,4.4,0.142,23.3,0.6,4.3,0.5,9.3,3.8,2.9,20.2,605.0,1.9,6.4,27.9
+200,/players/speedy-claxton-1.html,,0.48,119.0,Hofstra,Career,0.545,0.134,4056.0,16.6,0.49,9.5,59.0,9.9,19.4,0.191,,,,,,,,,,,,
+201,/players/jim-cleamons-1.html,,0.459,72.0,Ohio State,Career,0.589,,2724.0,,,,22.0,,,,,,,,,,,,,,,
+202,/players/norris-cole-1.html,,0.377,140.0,Cleveland State,Career,0.539,0.278,4114.0,13.4,0.48,6.4,106.0,10.5,16.9,0.165,26.0,0.3,10.2,3.5,13.0,6.7,2.0,25.6,1332.0,3.5,6.4,26.8
+203,/players/derrick-coleman-1.html,,0.633,143.0,Syracuse,Career,0.608,0.041,4688.0,15.4,0.574,,139.0,,,,,,,,,,,,,,,
+204,/players/ec-coleman-1.html,,0.557,26.0,Houston Baptist,Career,0.602,,,,,,,,,,,,,,,,,,,,,
+205,/players/jack-coleman-1.html,,0.292,67.0,Louisville,Career,0.949,,,,,,,,,,,,,,,,,,,,,
+206,/players/doug-collins-1.html,,0.433,77.0,Illinois State,Career,0.79,,,,,,,,,,,,,,,,,,,,,
+207,/players/john-collins-1.html,,0.599,64.0,Wake Forest,Career,0.638,0.002,1324.0,11.9,0.601,1.4,34.0,5.7,7.1,0.215,4.1,6.0,7.4,0.7,22.6,6.7,15.2,31.2,789.0,1.3,18.9,27.8
+208,/players/darren-collison-1.html,,0.346,142.0,UCLA,Career,0.594,0.318,4151.0,19.8,0.544,8.2,104.0,10.9,19.1,0.184,24.4,0.3,,,,,,,,,5.1,21.8
+209,/players/glen-combs-1.html,,0.235,76.0,Virginia Tech,Career,0.502,,,,,,,,,,,,,,,,,,,,,
+210,/players/gene-conley-1.html,,,32.0,Washington State,Career,,,,,,,,,,,,,,,,,,,,,,
+211,/players/mike-conley-1.html,,0.466,39.0,Ohio State,Career,0.584,0.223,1231.0,18.6,0.552,3.4,39.0,2.7,6.1,0.199,,,,,,,,,,,,
+212,/players/pat-connaughton-1.html,,0.188,139.0,Notre Dame,Career,0.587,0.607,4484.0,9.8,0.567,5.3,123.0,10.6,15.9,0.142,11.1,1.6,6.7,1.7,18.6,5.0,3.9,17.8,1363.0,1.3,11.4,16.9
+213,/players/quinn-cook-1.html,,0.253,143.0,Duke,Career,0.568,0.509,4033.0,12.7,0.528,5.3,99.0,11.9,17.2,0.17,23.5,0.2,7.5,2.3,9.5,5.2,1.6,18.8,1611.0,2.2,5.6,20.2
+214,/players/chuck-cooper-1.html,,0.453,51.0,Duquesne,Career,0.55,,,,,,,,,,,,,,,,,,,,,
+215,/players/michael-cooper-1.html,,0.349,58.0,New Mexico,Career,0.539,,1787.0,16.2,,,28.0,,,,,,,,,,,,,,,
+216,/players/larry-costello-1.html,,0.385,84.0,Niagara,Career,0.482,,,,,,,,,,,,,,,,,,,,,
+217,/players/mel-counts-1.html,,0.419,89.0,Oregon State,Career,0.498,,,,,,,,,,,,,,,,,,,,,
+218,/players/demarcus-cousins-1.html,,0.726,38.0,Kentucky,Career,0.579,0.016,893.0,13.6,0.56,2.7,37.0,3.8,6.5,0.29,9.2,7.5,,,24.8,,19.8,,555.0,2.4,22.5,30.5
+219,/players/bob-cousy-1.html,,0.669,117.0,Holy Cross,Career,1.178,,,,,,,,,,,,,,,,,,,,,
+220,/players/robert-covington-1.html,,0.305,118.0,Tennessee State,Career,0.583,0.329,3536.0,15.5,0.545,5.9,111.0,9.8,15.7,0.177,10.3,4.8,5.5,1.0,20.6,4.5,10.3,24.8,1611.0,3.0,15.2,25.5
+221,/players/dave-cowens-1.html,,0.414,78.0,Florida State,Career,0.551,,,,,,,,,,,,,,,,,,,,,
+222,/players/jamal-crawford-1.html,,0.2,17.0,Michigan,Career,0.507,0.396,577.0,16.0,0.476,0.2,16.0,0.7,0.9,0.065,,,,,,,,,,,,
+223,/players/terry-cummings-1.html,,0.374,85.0,DePaul,Career,0.573,,2886.0,13.6,,,28.0,,,,,,,,,,,,,,,
+224,/players/billy-cunningham-1.html,,0.456,69.0,UNC,Career,0.506,,,,,,,,,,,,,,,,,,,,,
+225,/players/cade-cunningham-1.html,,0.39,27.0,Oklahoma State,Career,0.574,0.388,956.0,18.7,0.515,1.7,26.0,2.3,4.0,0.166,20.4,2.3,8.3,3.2,16.3,5.1,2.3,21.6,518.0,2.5,9.6,29.1
+226,/players/earl-cureton-1.html,,0.242,26.0,Robert Morris,,0.479,,,,,,,,,,,,,,,,,,,,,
+227,/players/earl-cureton-1.html,,0.256,55.0,Detroit,,0.537,,1637.0,,,,28.0,,,,,,,,,,,,,,,
+228,/players/dell-curry-1.html,,0.216,126.0,Virginia Tech,Career,0.535,0.003,4275.0,14.8,,,32.0,,,,,,,,,,,,,,,
+229,/players/stephen-curry-1.html,,0.293,104.0,Davidson,Career,0.62,0.538,3387.0,12.9,0.578,9.3,103.0,18.0,27.3,0.322,40.2,0.6,,,,,,,,,6.9,38.3
+230,/players/quintin-dailey-1.html,,0.446,90.0,San Francisco,Career,0.592,,3168.0,12.0,,,,,,,,,,,,,,,,,,
+231,/players/louie-dampier-1.html,,0.262,80.0,Kentucky,Career,0.515,,2087.0,,,,,,,,,,,,,,,,,,,
+232,/players/antonio-daniels-1.html,,0.423,111.0,Bowling Green State,Career,0.591,0.168,3700.0,17.2,0.549,3.0,79.0,7.5,10.5,,,,,,,,,,,,,
+233,/players/marquis-daniels-1.html,,0.347,111.0,Auburn,Career,0.546,0.185,3184.0,17.7,0.524,7.0,90.0,6.6,13.5,0.17,,,,,,,,,,,,
+234,/players/mel-daniels-1.html,,0.422,77.0,New Mexico,Career,0.521,,,,,,,,,,,,,,,,,,,,,
+235,/players/adrian-dantley-1.html,,0.538,86.0,Notre Dame,Career,0.619,,2942.0,,,,,,,,,,,,,,,,,,,
+236,/players/brad-daugherty-1.html,,0.457,135.0,UNC,Career,0.641,0.001,3973.0,16.3,,,34.0,,,,,,,,,,,,,,,
+237,/players/bob-davies-1.html,,,59.0,Seton Hall,Career,,,,,,,,,,,,,,,,,,,,,,
+238,/players/anthony-davis-5.html,,0.602,40.0,Kentucky,Career,0.654,0.059,1281.0,8.6,0.628,4.1,40.0,5.9,9.9,0.31,7.5,13.7,17.2,8.1,25.6,9.1,11.6,35.1,550.0,2.5,19.0,18.8
+239,/players/antonio-davis-1.html,,0.711,122.0,UTEP,Career,0.562,0.003,3152.0,14.9,0.538,,93.0,,,,,,,,,,,,,,,
+240,/players/baron-davis-1.html,,0.469,59.0,UCLA,Career,0.574,0.315,1831.0,21.2,0.554,3.0,57.0,4.3,7.3,0.161,,,,,,,,,,,,
+241,/players/dale-davis-1.html,,0.605,121.0,Clemson,Career,0.596,0.003,3498.0,12.0,0.588,,97.0,,,,,,,,,,,,,,,
+242,/players/dwight-davis-1.html,,0.37,84.0,Houston,Career,0.55,,3036.0,,,,,,,,,,,,,,,,,,,
+243,/players/glen-davis-1.html,,0.541,95.0,LSU,Career,0.553,0.074,3036.0,13.7,0.507,8.2,92.0,7.1,15.3,0.202,10.7,2.5,,,,,,,,,17.3,27.3
+244,/players/johnny-davis-1.html,,0.341,81.0,Dayton,Career,0.503,,2009.0,,,,,,,,,,,,,,,,,,,
+245,/players/terence-davis-1.html,,0.269,121.0,Ole Miss,Career,0.543,0.421,2941.0,14.8,0.516,4.1,82.0,5.6,9.7,0.132,18.4,2.6,6.0,2.2,17.2,3.7,5.3,20.3,1435.0,2.7,11.2,27.0
+246,/players/walter-davis-2.html,,0.323,119.0,UNC,Career,0.569,,,,,,,,,,,,,,,,,,,,,
+247,/players/austin-daye-1.html,,0.364,67.0,Gonzaga,Career,0.575,0.255,1506.0,16.0,0.53,6.2,34.0,4.1,10.3,0.274,9.1,6.2,,,,,,,,,14.6,27.1
+248,/players/dave-debusschere-1.html,,0.309,80.0,Detroit,Career,0.452,,,,,,,,,,,,,,,,,,,,,
+249,/players/demar-derozan-1.html,,0.401,35.0,USC,Career,0.555,0.098,1168.0,14.3,0.531,1.7,35.0,2.4,4.1,0.14,,,,,,,,,,,,
+250,/players/bison-dele-1.html,,0.292,29.0,Maryland,,0.613,0.0,813.0,18.7,0.6,,29.0,,,,,,,,,,,,,,,
+251,/players/bison-dele-1.html,,0.467,67.0,Arizona,,0.617,0.002,1571.0,15.3,0.591,,27.0,,,,,,,,,,,,,,,
+252,/players/matthew-dellavedova-1.html,,0.38,136.0,Saint Mary's,Career,0.575,0.535,4944.0,16.9,0.516,5.6,132.0,16.6,22.2,0.179,28.6,0.1,5.6,0.3,8.7,5.4,2.9,19.5,2125.0,1.8,5.8,21.2
+253,/players/fennis-dembo-1.html,,0.416,129.0,Wyoming,Career,0.593,0.222,4545.0,16.0,,,,,,,,,,,,,,,,,,
+254,/players/luol-deng-1.html,,0.313,37.0,Duke,Career,0.551,0.252,1149.0,14.1,0.522,3.2,32.0,2.4,5.6,0.195,11.8,2.3,,,,,,,,,12.6,24.7
+255,/players/ernie-digregorio-1.html,,0.187,86.0,Providence,Career,0.499,,3154.0,,,,,,,,,,,,,,,,,,,
+256,/players/donte-divincenzo-1.html,,0.294,85.0,Villanova,Career,0.591,0.533,2163.0,15.7,0.57,3.7,12.0,5.5,9.2,0.17,16.2,0.9,7.8,3.1,13.2,4.7,5.6,18.7,901.0,2.1,9.6,20.9
+257,/players/mamadi-diakite-1.html,,0.325,134.0,Virginia,Career,0.571,0.11,2795.0,13.6,0.542,7.6,52.0,4.9,12.5,0.179,3.5,7.6,5.9,4.8,16.9,1.2,7.7,19.3,910.0,1.5,12.5,21.0
+258,/players/michael-dickerson-1.html,,0.284,130.0,Arizona,Career,0.54,0.286,3133.0,13.0,0.51,4.1,80.0,5.7,9.8,,,,,,,,,,,,,
+259,/players/derrek-dickey-1.html,,0.305,78.0,Cincinnati,Career,0.5,,1781.0,,,,,,,,,,,,,,,,,,,
+260,/players/gorgui-dieng-1.html,,0.439,102.0,Louisville,Career,0.568,0.005,2789.0,18.1,0.546,7.8,81.0,5.4,13.2,0.19,9.0,10.6,9.2,6.3,20.9,2.9,12.4,22.0,887.0,2.2,16.6,16.4
+261,/players/terry-dischinger-1.html,,0.761,70.0,Purdue,Career,0.635,,,,,,,,,,,,,,,,,,,,,
+262,/players/michael-doleac-1.html,,0.577,133.0,Utah,Career,0.571,0.05,3120.0,13.0,0.501,7.5,66.0,7.9,15.4,,,,,,,,,,,,,
+263,/players/james-donaldson-1.html,,0.452,84.0,Washington State,Career,0.554,,2278.0,20.4,,,,,,,,,,,,,,,,,,
+264,/players/ayo-dosunmu-1.html,,0.281,90.0,Illinois,Career,0.548,0.266,2990.0,15.2,0.516,4.2,90.0,7.3,11.5,0.154,24.2,0.7,6.9,2.0,13.7,4.8,2.8,20.2,1472.0,1.9,8.3,26.7
+265,/players/sherman-douglas-1.html,,0.385,138.0,Syracuse,Career,0.587,0.14,4090.0,19.0,,,110.0,,,,,,,,,,,,,,,
+266,/players/steve-downing-1.html,,0.279,76.0,Indiana,Career,0.489,,2569.0,14.4,,,,,,,,,,,,,,,,,,
+267,/players/clyde-drexler-1.html,,0.271,96.0,Houston,Career,0.554,,3255.0,16.2,,,61.0,,,,,,,,,,,,,,,
+268,/players/andre-drummond-1.html,,0.301,34.0,UConn,Career,0.509,0.007,967.0,13.5,0.538,1.5,30.0,1.4,2.9,0.121,3.4,9.9,4.9,2.9,17.0,2.0,14.2,21.9,328.0,1.8,15.6,20.9
+269,/players/chris-duarte-1.html,,0.26,54.0,Oregon,Career,0.593,0.469,1730.0,13.1,0.562,2.8,54.0,5.4,8.2,0.19,13.2,2.5,9.9,3.1,15.1,6.8,4.4,23.9,751.0,3.4,9.9,23.8
+270,/players/kevin-duckworth-1.html,,0.411,118.0,Eastern Illinois,Career,0.604,,3067.0,15.4,,,115.0,,,,,,,,,,,,,,,
+271,/players/charles-dudley-1.html,,0.543,51.0,Washington,Career,0.51,,,,,,,,,,,,,,,,,,,,,
+272,/players/jared-dudley-1.html,,0.573,130.0,Boston College,Career,0.595,0.24,4727.0,13.3,0.548,8.1,130.0,12.9,21.0,0.178,17.4,0.5,,,,,,,,,12.1,21.5
+273,/players/terry-duerod-1.html,,0.108,111.0,Detroit,Career,0.521,,2873.0,,,,57.0,,,,,,,,,,,,,,,
+274,/players/walter-dukes-1.html,,0.695,87.0,Seton Hall,Career,0.501,,,,,,,,,,,,,,,,,,,,,
+275,/players/joe-dumars-1.html,,0.45,116.0,McNeese State,Career,0.528,0.004,,11.9,,,,,,,,,,,,,,,,,,
+276,/players/richard-dumas-1.html,,0.34,70.0,Oklahoma State,Career,0.534,0.029,2063.0,17.9,0.504,,61.0,,,,,,,,,,,,,,,
+277,/players/tim-duncan-1.html,,0.552,128.0,Wake Forest,Career,0.613,0.039,4492.0,16.2,0.584,8.4,127.0,9.8,18.2,,,,,,,,,,,,,
+278,/players/tr-dunn-1.html,,0.23,111.0,Alabama,Career,0.474,,3842.0,14.6,,,,,,,,,,,,,,,,,,
+279,/players/kevin-durant-1.html,,0.396,35.0,Texas,Career,0.587,0.314,1255.0,11.4,0.536,4.1,35.0,4.7,8.8,0.28,8.6,3.5,,,,,,,,,16.5,33.2
+280,/players/jim-eakins-1.html,,0.536,71.0,BYU,Career,0.565,,,,,,,,,,,,,,,,,,,,,
+281,/players/mark-eaton-1.html,,0.449,30.0,UCLA,Career,0.446,,196.0,22.2,,,0.0,,,,,,,,,,,,,,,
+282,/players/tyus-edney-1.html,,0.555,125.0,UCLA,Career,0.595,0.251,3660.0,21.0,0.529,,97.0,,,,,,,,,,,,,,,
+283,/players/anthony-edwards-2.html,,0.339,32.0,Georgia,Career,0.52,0.485,1057.0,12.9,0.473,1.1,32.0,2.5,3.6,0.136,17.9,1.7,5.5,0.7,14.8,4.8,2.5,20.8,573.0,2.3,8.7,30.4
+284,/players/blue-edwards-1.html,,0.348,57.0,East Carolina,Career,0.601,0.065,1863.0,14.7,0.57,,55.0,,,,,,,,,,,,,,,
+285,/players/franklin-edwards-1.html,,0.288,102.0,Cleveland State,Career,0.544,,931.0,17.7,,,,,,,,,,,,,,,,,,
+286,/players/james-edwards-1.html,,0.42,106.0,Washington,Career,0.529,,2405.0,11.4,,,,,,,,,,,,,,,,,,
+287,/players/kevin-edwards-1.html,,0.243,61.0,DePaul,Career,0.59,0.122,2059.0,12.0,0.562,,30.0,,,,16.5,0.6,,,,,,,,,8.4,19.6
+288,/players/sean-elliott-1.html,,0.449,133.0,Arizona,Career,0.602,0.187,4499.0,14.9,,,95.0,,,,22.1,0.6,,,,,,,,,12.2,30.0
+289,/players/dale-ellis-1.html,,0.375,118.0,Tennessee,Career,0.627,,3943.0,13.3,,,96.0,,,,,,,,,,,,,,,
+290,/players/laphonso-ellis-1.html,,0.46,97.0,Notre Dame,Career,0.607,0.032,3220.0,16.6,0.585,,25.0,,,,,,,,,,,,,,,
+291,/players/leroy-ellis-2.html,,0.396,76.0,St. John's (NY),Career,0.529,,,,,,,,,,,,,,,,,,,,,
+292,/players/pervis-ellison-1.html,,0.419,136.0,Louisville,Career,0.601,0.002,4335.0,15.0,,,100.0,,,,,,,,,,,,,,,
+293,/players/francisco-elson-1.html,,0.358,58.0,California,Career,0.485,0.0,1110.0,17.2,0.477,4.1,42.0,0.5,4.6,0.164,,,,,,,,,,,,
+294,/players/melvin-ely-1.html,,0.42,124.0,Fresno State,Career,0.595,0.002,4031.0,15.6,0.578,9.8,92.0,11.3,21.1,0.209,,,,,,,,,,,,
+295,/players/joel-embiid-1.html,,0.836,28.0,Kansas,Career,0.655,0.029,647.0,21.6,0.629,1.7,20.0,1.8,3.4,0.213,11.5,11.7,11.9,6.9,27.3,5.0,12.7,28.2,307.0,2.3,20.5,23.4
+296,/players/wayne-embry-2.html,,0.49,72.0,Miami (OH),Career,0.495,,,,,,,,,,,,,,,,,,,,,
+297,/players/alex-english-1.html,,0.247,111.0,South Carolina,Career,0.555,,4113.0,,,,,,,,4.7,2.7,,,,,,,,,14.1,
+298,/players/keith-erickson-1.html,,0.314,87.0,UCLA,Career,0.448,,,,,,,,,,,,,,,,,,,,,
+299,/players/julius-erving-1.html,,0.405,52.0,UMass,Career,0.533,,1998.0,,,,,,,,,,,,,,,,,,,
+300,/players/tyreke-evans-1.html,,0.384,37.0,Memphis,Career,0.529,0.246,1072.0,18.2,0.489,4.8,35.0,2.4,7.2,0.268,30.0,2.2,,,,,,,,,10.2,33.1
+301,/players/patrick-ewing-1.html,,0.535,143.0,Georgetown,Career,0.63,,4399.0,15.8,,,101.0,,,,,,,,,,,,,,,
+302,/players/festus-ezeli-1.html,,0.799,121.0,Vanderbilt,Career,0.577,0.0,2168.0,19.4,0.562,4.1,67.0,4.4,8.5,0.157,1.8,9.2,5.6,3.2,17.4,2.4,12.8,22.9,779.0,1.2,14.6,23.7
+303,/players/kenneth-faried-1.html,,0.549,136.0,Morehead State,Career,0.579,0.009,3964.0,14.9,0.57,12.4,122.0,11.8,24.3,0.245,6.0,8.5,8.5,2.3,33.9,6.2,18.2,33.5,1125.0,3.3,25.8,26.1
+304,/players/jordan-farmar-1.html,,0.369,66.0,UCLA,Career,0.526,0.409,2122.0,22.9,0.478,3.2,66.0,3.3,6.5,0.122,33.9,0.4,,,,,,,,,5.7,26.3
+305,/players/derrick-favors-1.html,,0.488,36.0,Georgia Tech,Career,0.621,0.003,989.0,20.0,0.611,2.5,35.0,2.3,4.8,0.195,7.9,7.9,,,19.9,,12.6,,420.0,1.8,16.5,21.8
+306,/players/raymond-felton-1.html,,0.361,101.0,UNC,Career,0.55,0.474,3421.0,24.0,0.512,5.7,100.0,5.6,11.3,0.132,35.1,0.5,,,,,,,,,6.7,20.3
+307,/players/eric-fernsten-1.html,,0.322,82.0,San Francisco,Career,0.499,,,,,,,,,,,,,,,,,,,,,
+308,/players/kevin-ferrell-1.html,,0.359,137.0,Indiana,Career,0.575,0.462,4496.0,15.3,0.524,4.8,137.0,14.7,19.5,0.174,26.7,0.2,6.4,0.9,9.1,5.5,2.1,19.4,2075.0,1.5,5.8,22.7
+309,/players/danny-ferry-1.html,,0.329,143.0,Duke,Career,0.556,0.166,4307.0,17.0,,,124.0,,,,21.0,1.4,,,,,,,,,13.8,24.5
+310,/players/landry-fields-1.html,,0.401,129.0,Stanford,Career,0.543,0.279,3041.0,13.3,0.511,5.4,65.0,6.4,11.8,0.155,15.4,1.6,,,20.6,,7.9,,673.0,2.6,12.6,24.9
+311,/players/henry-finkel-1.html,,0.465,83.0,Dayton,Career,0.646,,,,,,,,,,,,,,,,,,,,,
+312,/players/michael-finley-1.html,,0.353,115.0,Wisconsin,Career,0.547,0.375,3945.0,13.9,0.503,,112.0,,,,,,,,,,,,,,,
+313,/players/derek-fisher-1.html,,0.511,112.0,Little Rock,Career,0.536,0.315,3655.0,17.4,0.474,2.1,104.0,2.1,4.2,,,,,,,,,,,,,
+314,/players/marcus-fizer-1.html,,0.453,97.0,Iowa State,Career,0.558,0.053,3020.0,12.1,0.519,7.1,91.0,9.2,16.4,0.217,,,,,,,,,,,,
+315,/players/sleepy-floyd-1.html,,0.342,130.0,Georgetown,Career,0.54,,4342.0,15.1,,,101.0,,,,,,,,,,,,,,,
+316,/players/jonny-flynn-1.html,,0.416,73.0,Syracuse,Career,0.567,0.34,2661.0,17.3,0.516,2.7,73.0,5.9,8.6,0.129,26.8,0.3,,,,,,,,,4.1,21.5
+317,/players/bryn-forbes-1.html,,0.335,64.0,Cleveland State,,0.584,0.52,2006.0,11.7,0.54,1.5,50.0,5.2,6.7,0.134,10.1,0.1,1.9,-1.2,10.9,3.1,2.9,18.0,801.0,1.5,6.7,23.2
+318,/players/bryn-forbes-1.html,,0.216,74.0,Michigan State,,0.645,0.674,2004.0,8.6,0.621,2.4,58.0,5.7,8.1,0.161,8.4,0.3,7.0,1.7,5.9,5.3,1.2,16.8,668.0,1.1,3.7,18.5
+319,/players/chris-ford-1.html,,0.374,91.0,Villanova,Career,0.511,,,,,,,,,,,,,,,,,,,,,
+320,/players/phil-ford-1.html,,0.423,123.0,UNC,Career,0.581,,,,,,,,,,,,,,,,,,,,,
+321,/players/tj-ford-1.html,,0.478,66.0,Texas,Career,0.5,0.145,2178.0,21.8,0.422,5.3,66.0,2.0,7.4,0.135,44.6,0.3,,,,,,,,,6.4,21.7
+322,/players/greg-foster-1.html,,0.389,42.0,UCLA,,0.508,0.0,733.0,20.3,0.512,,11.0,,,,,,,,,,,,,,,
+323,/players/greg-foster-1.html,,0.326,58.0,UTEP,,0.511,0.006,1565.0,15.7,0.471,,54.0,,,,,,,,,,,,,,,
+324,/players/larry-foust-1.html,,,103.0,La Salle,Career,,,,,,,,,,,,,,,,,,,,,,
+325,/players/tremaine-fowlkes-1.html,,0.54,40.0,California,,0.518,0.241,1050.0,14.8,0.474,0.5,16.0,0.4,0.9,,,,,,,,,,,,,
+326,/players/tremaine-fowlkes-1.html,,0.561,32.0,Fresno State,,0.536,0.113,906.0,10.9,0.5,2.3,,1.5,3.8,,,,,,,,,,,,,
+327,/players/rick-fox-1.html,,0.307,140.0,UNC,Career,0.609,0.323,3180.0,19.5,0.581,,82.0,,,,,,,,,,,,,,,
+328,/players/randy-foye-1.html,,0.291,131.0,Villanova,Career,0.505,0.378,4096.0,16.3,0.461,8.5,128.0,4.7,13.2,0.129,23.2,0.9,,,,,,,,,8.6,28.6
+329,/players/steve-francis-1.html,,0.401,34.0,Maryland,Career,0.62,0.296,1044.0,17.9,0.58,2.5,33.0,4.1,6.5,0.251,,,,,,,,,,,,
+330,/players/walt-frazier-1.html,,0.316,50.0,Southern Illinois,Career,0.513,,,,,,,,,,,,,,,,,,,,,
+331,/players/don-freeman-2.html,,0.346,72.0,Illinois,Career,0.488,,,,,,,,,,,,,,,,,,,,,
+332,/players/channing-frye-1.html,,0.387,133.0,Arizona,Career,0.601,0.018,3686.0,11.4,0.565,10.9,119.0,10.3,21.2,0.23,9.7,4.7,,,,,,,,,14.4,21.9
+333,/players/bill-gabor-1.html,,,23.0,Syracuse,Career,,,,,,,,,,,,,,,,,,,,,,
+334,/players/langston-galloway-1.html,,0.271,133.0,St. Joseph's,Career,0.588,0.537,4720.0,8.4,0.552,4.7,132.0,14.2,18.9,0.16,13.7,1.4,6.0,1.3,11.4,4.7,3.4,20.5,1816.0,2.2,7.5,21.0
+335,/players/dave-gambee-1.html,,0.387,78.0,Oregon State,Career,0.409,,,,,,,,,,,,,,,,,,,,,
+336,/players/darius-garland-1.html,,0.296,5.0,Vanderbilt,Career,0.657,0.426,139.0,19.6,0.639,0.1,5.0,0.4,0.5,0.148,25.7,1.5,4.9,1.1,13.7,3.8,1.6,23.6,71.0,1.7,7.7,27.9
+337,/players/dick-garmaker-1.html,,0.552,44.0,Minnesota,Career,0.479,,,,,,,,,,,,,,,,,,,,,
+338,/players/chris-gatling-1.html,,0.526,85.0,Old Dominion,Career,0.63,0.001,2663.0,14.5,0.606,,30.0,,,,,,,,,,,,,,,
+339,/players/rudy-gay-1.html,,0.353,64.0,UConn,Career,0.538,0.214,1908.0,15.0,0.501,5.9,59.0,3.2,9.1,0.191,12.6,3.2,,,,,,,,,10.8,25.2
+340,/players/andrew-gaze-1.html,,0.338,38.0,Seton Hall,Career,0.666,0.662,1240.0,17.3,0.65,,37.0,,,,,,,,,,,,,,,
+341,/players/jack-george-2.html,,0.26,29.0,La Salle,Career,0.387,,,,,,,,,,,,,,,,,,,,,
+342,/players/paul-george-1.html,,0.369,63.0,Fresno State,Career,0.579,0.43,2138.0,17.1,0.532,3.0,63.0,5.3,8.3,0.155,16.8,2.5,,,18.8,,6.7,,469.0,4.0,11.5,24.6
+343,/players/gus-gerard-1.html,,0.267,52.0,Virginia,Career,0.504,,1557.0,13.1,,,,,,,,,,,,,,,,,,
+344,/players/george-gervin-1.html,,,,Eastern Michigan,Career,,,,,,,,,,,,,,,,,,,,,,
+345,/players/john-gianelli-1.html,,0.465,81.0,Pacific,Career,0.568,,,,,,,,,,,,,,,,,,,,,
+346,/players/taj-gibson-1.html,,0.557,105.0,USC,Career,0.597,0.0,3435.0,19.2,0.58,10.1,104.0,8.4,18.5,0.215,8.4,5.5,,,,,,,,,14.8,19.2
+347,/players/shai-gilgeous-alexander-1.html,,0.464,37.0,Kentucky,Career,0.578,0.151,1248.0,17.9,0.516,1.9,24.0,3.3,5.2,0.167,28.8,1.7,9.0,3.7,10.0,5.3,3.2,21.2,571.0,2.8,6.8,21.9
+348,/players/kendall-gill-1.html,,0.36,117.0,Illinois,Career,0.578,0.21,2972.0,14.8,0.541,,70.0,,,,,,,,,,,,,,,
+349,/players/armen-gilliam-1.html,,0.481,107.0,UNLV,Career,0.611,0.0,3302.0,11.4,,,103.0,,,,,,,,,,,,,,,
+350,/players/herman-gilliam-1.html,,0.327,70.0,Purdue,Career,0.516,,,,,,,,,,,,,,,,,,,,,
+351,/players/artis-gilmore-1.html,,0.418,54.0,Jacksonville,Career,0.586,,,,,,,,,,,,,,,,,,,,,
+352,/players/tom-gola-1.html,,0.395,118.0,La Salle,Career,0.466,,,,,,,,,,,,,,,,,,,,,
+353,/players/ryan-gomes-1.html,,0.411,116.0,Providence,Career,0.592,0.152,4077.0,12.9,0.546,7.5,115.0,13.1,20.5,0.202,13.8,0.8,,,,,,,,,15.3,23.8
+354,/players/drew-gooden-1.html,,0.379,98.0,Kansas,Career,0.537,0.051,2566.0,15.0,0.501,7.9,64.0,5.2,13.1,0.204,9.4,3.5,,,,,,,,1.8,18.1,27.1
+355,/players/gail-goodrich-1.html,,0.443,89.0,UCLA,Career,0.522,,,,,,,,,,,,,,,,,,,,,
+356,/players/ben-gordon-1.html,,0.346,106.0,UConn,Career,0.574,0.433,3291.0,16.2,0.531,6.1,74.0,9.6,15.7,0.191,24.7,0.3,,,,,,,,,6.6,26.7
+357,/players/eric-gordon-1.html,,0.652,32.0,Indiana,Career,0.601,0.489,1110.0,17.1,0.515,1.8,32.0,4.2,6.0,0.217,15.2,1.3,,,,,,,,,5.5,30.8
+358,/players/danny-granger-1.html,,0.498,43.0,Bradley,,0.544,0.084,1092.0,13.7,0.488,4.0,30.0,2.5,6.5,0.238,,,,,,,,,,,,
+359,/players/danny-granger-1.html,,0.605,52.0,New Mexico,,0.617,0.281,1603.0,14.0,0.565,4.7,52.0,7.1,11.8,0.295,17.6,4.1,,,,,,,,,17.7,30.8
+360,/players/brian-grant-1.html,,0.544,117.0,Xavier,Career,0.619,0.003,3499.0,16.3,0.595,,27.0,,,,,,,,,,,,,,,
+361,/players/harrybud-grant-1.html,,,34.0,Minnesota,Career,,,,,,,,,,,,,,,,,,,,,,
+362,/players/horace-grant-1.html,,0.483,122.0,Clemson,Career,0.576,0.002,3363.0,13.9,,,94.0,,,,,,,,,,,,,,,
+363,/players/ac-green-1.html,,0.664,115.0,Oregon State,Career,0.633,,4052.0,17.7,,,54.0,,,,,,,,,,,,,,,
+364,/players/danny-green-1.html,,0.222,145.0,UNC,Career,0.574,0.455,2889.0,14.9,0.54,10.4,39.0,6.5,16.8,0.233,15.1,3.6,,,,,,,,,10.9,22.3
+365,/players/draymond-green-1.html,,0.426,145.0,Michigan State,Career,0.543,0.217,3619.0,16.5,0.506,9.6,66.0,9.6,19.2,0.212,24.6,3.6,12.0,5.6,26.6,6.4,9.3,25.4,1470.0,3.0,18.0,23.7
+366,/players/jeff-green-1.html,,0.402,102.0,Georgetown,Career,0.565,0.249,3388.0,17.8,0.533,7.2,102.0,7.5,14.7,0.174,20.8,2.9,,,,,,,,,12.7,24.1
+367,/players/john-green-7.html,,0.386,63.0,Michigan State,Career,0.467,,,,,,,,,,,,,,,,,,,,,
+368,/players/mike-green-1.html,,0.327,80.0,Louisiana Tech,Career,0.605,,,,,,,,,,,,,,,,,,,,,
+369,/players/rickey-green-1.html,,0.261,60.0,Michigan,Career,0.523,,,11.2,,,59.0,,,,,,,,,,,,,,,
+370,/players/david-greenwood-1.html,,0.312,118.0,UCLA,Career,0.576,,3428.0,13.8,,,,,,,,,,,,,,,,,,
+371,/players/hal-greer-1.html,,0.426,71.0,Marshall,Career,0.588,,,,,,,,,,,,,,,,,,,,,
+372,/players/kevin-grevey-1.html,,0.223,84.0,Kentucky,Career,0.546,,2785.0,13.0,,,,,,,,,,,,,,,,,,
+373,/players/blake-griffin-1.html,,0.665,68.0,Oklahoma,Career,0.62,0.013,2102.0,15.7,0.62,6.3,63.0,8.9,15.2,0.29,16.4,2.4,,,,,,,,,21.8,29.5
+374,/players/eddie-griffin-1.html,,0.227,30.0,Seton Hall,Career,0.501,0.267,979.0,11.2,0.472,3.6,30.0,1.0,4.6,0.189,,,,,,,,,,,,
+375,/players/darrell-griffith-1.html,,0.283,126.0,Louisville,Career,0.548,,3895.0,18.3,,,,,,,,,,,,,,,,,,
+376,/players/bob-gross-1.html,,0.154,16.0,Seattle,,0.515,,,,,,,,,,,,,,,,,,,,,
+377,/players/bob-gross-1.html,,0.437,50.0,Long Beach State,,0.561,,,,,,,,,,,,,,,,,,,,,
+378,/players/alex-groza-1.html,,0.616,73.0,Kentucky,Career,0.813,,,,,,,,,,,,,,,,,,,,,
+379,/players/richie-guerin-1.html,,0.615,21.0,Iona,Career,0.496,,,,,,,,,,,,,,,,,,,,,
+380,/players/tom-gugliotta-1.html,,0.287,112.0,NC State,Career,0.571,0.378,3287.0,15.1,0.553,,90.0,,,,11.9,2.3,,,,,,,,,13.8,18.1
+381,/players/matt-guokas-2.html,,0.291,58.0,St. Joseph's,Career,0.519,,,,,,,,,,,,,,,,,,,,,
+382,/players/rui-hachimura-1.html,,0.474,102.0,Gonzaga,Career,0.629,0.095,2012.0,10.9,0.594,4.6,39.0,7.8,12.4,0.246,7.4,2.6,8.0,2.7,17.4,5.3,6.8,27.0,1095.0,1.7,12.6,26.9
+383,/players/cliff-hagan-1.html,,0.365,77.0,Kentucky,Career,0.471,,,,,,,,,,,,,,,,,,,,,
+384,/players/haroldhappy-hairston-1.html,,0.392,64.0,NYU,Career,0.549,,,,,,,,,,,,,,,,,,,,,
+385,/players/jack-haley-1.html,,0.643,86.0,UCLA,Career,0.482,0.0,1574.0,23.5,,,53.0,,,,,,,,,,,,,,,
+386,/players/tyrese-haliburton-1.html,,0.173,57.0,Iowa State,Career,0.645,0.577,1970.0,16.7,0.631,2.7,56.0,5.4,8.1,0.164,24.7,2.5,9.9,4.1,10.8,5.8,3.5,20.3,641.0,3.2,7.2,13.6
+387,/players/darvin-ham-1.html,,0.607,90.0,Texas Tech,Career,0.581,0.002,2058.0,17.7,0.597,1.7,60.0,1.3,2.9,,,,,,,,,,,,,
+388,/players/joe-hamilton-3.html,,0.274,51.0,North Texas,Career,0.487,,,,,,,,,,,,,,,,,,,,,
+389,/players/richard-hamilton-1.html,,0.311,103.0,UConn,Career,0.547,0.387,3274.0,12.3,0.499,7.2,103.0,9.5,16.8,0.205,,,,,,,,,,,,
+390,/players/alex-hannum-1.html,,,63.0,USC,Career,,,,,,,,,,,,,,,,,,,,,,
+391,/players/bob-hansen-1.html,,0.371,111.0,Iowa,Career,0.519,0.021,1085.0,,,,,,,,,,,,,,,,,,,
+392,/players/bill-hanzlik-1.html,,0.491,109.0,Notre Dame,Career,0.558,,1838.0,24.2,,,51.0,,,,21.5,1.1,,,,,,,,,8.1,
+393,/players/anfernee-hardaway-1.html,,0.362,66.0,Memphis,Career,0.56,0.408,2420.0,16.6,0.526,,,,,,,,,,,,,,,,,
+394,/players/tim-hardaway-1.html,,0.447,124.0,UTEP,Career,0.56,0.168,3575.0,15.0,,,92.0,,,,,,,,,,,,,,,
+395,/players/tim-hardaway-jr-1.html,,0.308,107.0,Michigan,Career,0.539,0.475,3560.0,11.4,0.507,4.3,107.0,8.0,12.3,0.138,13.1,1.0,5.6,1.6,13.7,4.0,2.2,18.3,1416.0,1.4,7.9,25.2
+396,/players/james-harden-1.html,,0.6,69.0,Arizona State,Career,0.618,0.329,2412.0,16.4,0.568,3.8,68.0,10.0,13.8,0.23,27.0,1.0,,,,,,,,,10.3,30.5
+397,/players/ira-harge-2.html,,0.558,54.0,New Mexico,Career,0.524,,,,,,,,,,,,,,,,,,,,,
+398,/players/derek-harper-1.html,,0.251,90.0,Illinois,Career,0.513,0.032,3175.0,17.9,,,86.0,,,,,,,,,,,,,,,
+399,/players/ron-harper-1.html,,0.377,120.0,Miami (OH),Career,0.556,,4164.0,13.5,,,,,,,,,,,,,,,,,,
+400,/players/matt-harpring-1.html,,0.416,124.0,Georgia Tech,Career,0.573,0.361,4472.0,15.5,0.53,4.6,119.0,10.0,14.6,,,,,,,,,,,,,
+401,/players/montrezl-harrell-1.html,,0.447,112.0,Louisville,Career,0.586,0.044,2961.0,11.6,0.592,7.7,75.0,8.4,16.0,0.217,7.4,4.4,8.7,3.4,18.5,5.3,11.1,24.1,1218.0,1.8,14.8,21.0
+402,/players/devin-harris-1.html,,0.474,96.0,Wisconsin,Career,0.593,0.509,3356.0,12.4,0.542,7.8,96.0,9.8,17.6,0.21,28.8,0.3,,,,,,,,,7.7,27.6
+403,/players/terrel-harris-1.html,,0.351,134.0,Oklahoma State,Career,0.566,0.418,3537.0,19.6,0.517,4.3,89.0,6.3,10.6,0.12,11.5,0.7,,,,,,,,,8.6,20.5
+404,/players/bob-harrison-1.html,,,41.0,Michigan,Career,,,,,,,,,,,,,,,,,,,,,,
+405,/players/udonis-haslem-1.html,,0.713,130.0,Florida,Career,0.614,0.003,3236.0,17.3,0.584,8.7,125.0,11.7,20.4,0.252,,,,,,,,,,,,
+406,/players/joe-hassett-1.html,,0.1,124.0,Providence,Career,0.512,,3809.0,,,,,,,,,,,,,,,,,,,
+407,/players/scott-hastings-1.html,,0.491,120.0,Arkansas,Career,0.59,,3880.0,16.1,,,,,,,,,,,,,,,,,,
+408,/players/john-havlicek-1.html,,0.267,84.0,Ohio State,Career,0.537,,,,,,,,,,,,,,,,,,,,,
+409,/players/hersey-hawkins-1.html,,0.419,125.0,Bradley,Career,0.614,0.16,4716.0,10.6,,,125.0,,,,,,,,,,,,,,,
+410,/players/elvin-hayes-1.html,,0.34,93.0,Houston,Career,0.548,,3335.0,,,,,,,,,,,,,,,,,,,
+411,/players/jarvis-hayes-1.html,,0.214,28.0,Western Carolina,,0.518,0.355,784.0,9.4,0.488,0.6,26.0,1.3,2.0,0.102,,,,,,,,,,,,
+412,/players/jarvis-hayes-1.html,,0.206,56.0,Georgia,,0.56,0.331,1852.0,9.6,0.535,2.6,56.0,4.6,7.2,0.156,11.2,0.9,,,,,,,,,8.0,26.3
+413,/players/gordon-hayward-1.html,,0.536,69.0,Butler,Career,0.624,0.495,2284.0,14.8,0.562,6.3,69.0,7.9,14.2,0.249,12.9,2.7,,,23.4,,7.6,,549.0,2.0,14.1,22.3
+414,/players/brendan-haywood-1.html,,0.656,141.0,UNC,Career,0.634,0.0,3315.0,16.7,0.637,8.8,100.0,10.6,19.3,0.233,,,,,,,,,,,,
+415,/players/spencer-haywood-1.html,,0.5,24.0,Detroit,Career,0.613,,,,,,,,,,,,,,,,,,,,,
+416,/players/walt-hazzard-1.html,,0.463,87.0,UCLA,Career,0.488,,,,,,,,,,,,,,,,,,,,,
+417,/players/luther-head-1.html,,0.253,128.0,Illinois,Career,0.605,0.572,3250.0,15.5,0.582,6.3,84.0,8.8,15.1,0.186,18.7,0.5,,,,,,,,,7.6,21.2
+418,/players/tom-heinsohn-1.html,,0.443,81.0,Holy Cross,Career,0.495,,,,,,,,,,,,,,,,,,,,,
+419,/players/alan-henderson-1.html,,0.49,124.0,Indiana,Career,0.568,0.018,3596.0,11.5,0.542,,110.0,,,,4.1,5.8,,,,,,,,,17.3,23.6
+420,/players/cedric-henderson-2.html,,0.294,123.0,Memphis,Career,0.504,0.214,3909.0,16.3,0.482,4.6,122.0,2.7,7.3,,,,,,,,,,,,,
+421,/players/gerald-henderson-1.html,,0.2,103.0,VCU,Career,0.496,,2569.0,19.1,,,,,,,,,,,,,,,,,,
+422,/players/tom-henderson-1.html,,0.333,54.0,Hawaii,Career,0.525,,2013.0,14.4,,,,,,,,,,,,,,,,,,
+423,/players/carl-herrera-1.html,,0.643,33.0,Houston,Career,0.634,0.024,1023.0,13.2,0.569,,,,,,,,,,,,,,,,,
+424,/players/tyler-herro-1.html,,0.231,37.0,Kentucky,Career,0.58,0.419,1207.0,11.8,0.536,2.1,37.0,3.3,5.4,0.181,15.0,1.1,8.9,3.8,13.9,5.1,1.6,19.4,479.0,2.0,8.2,21.4
+425,/players/fred-hetzel-1.html,,0.399,79.0,Davidson,Career,0.598,,,,,,,,,,,,,,,,,,,,,
+426,/players/art-heyman-1.html,,0.54,79.0,Duke,Career,0.5,,,,,,,,,,,,,,,,,,,,,
+427,/players/roy-hibbert-1.html,,0.506,136.0,Georgetown,Career,0.626,0.003,3169.0,14.9,0.605,10.3,121.0,11.7,22.0,0.278,13.1,6.3,,,,,,,,,16.2,24.6
+428,/players/buddy-hield-1.html,,0.257,132.0,Oklahoma,Career,0.584,0.511,4182.0,12.7,0.548,6.2,118.0,12.2,18.5,0.177,12.9,0.9,9.4,2.4,11.6,7.0,5.6,22.4,2091.0,2.3,8.7,26.6
+429,/players/wayne-hightower-1.html,,0.487,53.0,Kansas,Career,0.461,,,,,,,,,,,,,,,,,,,,,
+430,/players/grant-hill-1.html,,0.399,129.0,Duke,Career,0.578,0.084,3922.0,16.1,0.548,,115.0,,,,23.1,2.8,,,,,,,,,11.2,23.9
+431,/players/tyrone-hill-1.html,,0.555,126.0,Xavier,Career,0.61,0.002,3896.0,17.2,0.579,,92.0,,,,,,,,,,,,,,,
+432,/players/darnell-hillman-1.html,,0.486,23.0,San Jose State,Career,0.516,,,,,,,,,,,,,,,,,,,,,
+433,/players/kirk-hinrich-1.html,,0.298,141.0,Kansas,Career,0.616,0.438,4188.0,21.1,0.587,8.5,118.0,11.5,20.0,0.191,25.3,2.3,,,,,,,,2.5,5.6,15.7
+434,/players/lew-hitch-1.html,,0.382,49.0,Kansas State,Career,1.08,,,,,,,,,,,,,,,,,,,,,
+435,/players/craig-hodges-1.html,,0.201,115.0,Long Beach State,Career,0.513,,3709.0,17.2,,,,,,,,,,,,,,,,,,
+436,/players/jrue-holiday-1.html,,0.249,35.0,UCLA,Career,0.532,0.353,950.0,21.2,0.504,2.1,35.0,1.2,3.3,0.138,23.8,1.7,,,,,,,,,8.9,19.3
+437,/players/justin-holiday-1.html,,0.22,123.0,Washington,Career,0.52,0.297,2414.0,16.9,0.494,4.7,56.0,3.6,8.2,0.137,13.0,2.7,8.2,3.4,13.3,4.8,7.7,17.5,593.0,2.4,10.5,16.4
+438,/players/brad-holland-1.html,,0.248,104.0,UCLA,Career,0.565,,1741.0,15.1,,,,,,,,,,,,,,,,,,
+439,/players/lionel-hollins-1.html,,0.311,56.0,Arizona State,Career,0.511,,1751.0,,,,56.0,,,,,,,,,,,,,,,
+440,/players/red-holzman-1.html,,,39.0,CCNY,Career,,,,,,,,,,,,,,,,,,,,,,
+441,/players/dennis-hopson-1.html,,0.359,125.0,Ohio State,Career,0.584,0.104,3611.0,13.3,,,96.0,,,,9.5,0.8,,,,,,,,,11.2,
+442,/players/al-horford-1.html,,0.613,109.0,Florida,Career,0.601,0.006,2798.0,15.6,0.586,10.0,100.0,7.0,17.1,0.244,11.6,4.9,,,,,,,,,17.0,18.6
+443,/players/jeff-hornacek-1.html,,0.356,123.0,Iowa State,Career,0.538,,4101.0,18.7,,,109.0,,,,,,,,,,,,,,,
+444,/players/robert-horry-1.html,,0.344,134.0,Alabama,Career,0.548,0.279,3756.0,16.6,0.51,,108.0,,,,13.1,4.9,,,,,,,,,12.1,23.2
+445,/players/talen-horton-tucker-1.html,,0.23,35.0,Iowa State,Career,0.488,0.416,952.0,12.4,0.47,1.7,34.0,1.0,2.7,0.114,16.2,2.7,4.2,2.5,16.7,1.7,2.9,17.2,403.0,2.8,10.2,26.2
+446,/players/bob-houbregs-1.html,,0.412,91.0,Washington,Career,0.518,,,,,,,,,,,,,,,,,,,,,
+447,/players/eddie-house-1.html,,0.187,124.0,Arizona State,Career,0.523,0.381,4136.0,10.9,0.495,5.0,114.0,6.7,11.7,0.113,,,,,,,,,,,,
+448,/players/allan-houston-1.html,,0.391,128.0,Tennessee,Career,0.602,0.417,4606.0,14.9,0.548,,128.0,,,,,,,,,,,,,,,
+449,/players/josh-howard-1.html,,0.383,127.0,Wake Forest,Career,0.558,0.231,3536.0,14.8,0.524,10.9,119.0,8.1,19.0,0.215,13.4,3.2,,,,,,,,,14.0,28.0
+450,/players/juwan-howard-1.html,,0.35,100.0,Michigan,Career,0.541,0.009,3099.0,16.0,0.511,,95.0,,,,,,,,,,,,,,,
+451,/players/bailey-howell-1.html,,0.694,75.0,Mississippi State,Career,0.594,,,,,,,,,,,,,,,,,,,,,
+452,/players/lou-hudson-1.html,,0.237,65.0,Minnesota,Career,0.497,,,,,,,,,,,,,,,,,,,,,
+453,/players/kevin-huerter-1.html,,0.217,65.0,Maryland,Career,0.603,0.597,2072.0,16.3,0.584,3.2,65.0,4.6,7.8,0.15,19.1,2.2,7.7,2.7,14.3,5.0,3.2,17.7,761.0,1.5,9.1,19.3
+454,/players/kim-hughes-1.html,,0.308,72.0,Wisconsin,Career,0.491,,,,,,,,,,,,,,,,,,,,,
+455,/players/larry-hughes-1.html,,0.481,32.0,Saint Louis,Career,0.505,0.269,1037.0,15.5,0.454,2.5,32.0,1.8,4.3,0.167,,,,,,,,,,,,
+456,/players/les-hunter-1.html,,0.437,86.0,Loyola (IL),Career,0.541,,,,,,,,,,,,,,,,,,,,,
+457,/players/lindsey-hunter-1.html,,0.18,27.0,Alcorn State,,0.432,0.118,624.0,29.0,0.404,,,,,,,,,,,,,,,,,
+458,/players/lindsey-hunter-1.html,,0.245,92.0,Jackson State,,0.513,0.422,3154.0,12.0,0.486,,34.0,,,,,,,,,,,,,,,
+459,/players/mel-hutchins-1.html,,0.425,71.0,BYU,Career,0.516,,,,,,,,,,,,,,,,,,,,,
+460,/players/nahshon-hyland-1.html,,0.233,55.0,VCU,Career,0.588,0.58,1404.0,14.8,0.557,2.9,33.0,3.5,6.3,0.181,17.4,1.1,7.1,2.4,13.8,4.8,1.2,21.1,663.0,3.0,7.7,27.4
+461,/players/marc-iavaroni-1.html,,0.515,110.0,Virginia,Career,0.535,,3267.0,20.3,,,,,,,5.4,1.1,,,,,,,,,12.9,
+462,/players/andre-iguodala-1.html,,0.427,62.0,Arizona,Career,0.511,0.242,1576.0,18.5,0.458,4.0,34.0,1.4,5.4,0.137,21.1,1.1,,,,,,,,,13.7,20.1
+463,/players/darrall-imhoff-1.html,,0.414,75.0,California,Career,0.463,,,,,,,,,,,,,,,,,,,,,
+464,/players/brandon-ingram-1.html,,0.351,36.0,Duke,Career,0.552,0.403,1246.0,11.3,0.525,1.5,34.0,3.4,4.9,0.157,11.4,3.6,8.0,2.0,15.5,6.0,6.0,22.5,591.0,1.9,10.8,25.5
+465,/players/kyrie-irving-1.html,,0.683,11.0,Duke,Career,0.697,0.375,303.0,16.4,0.615,0.6,8.0,1.8,2.4,0.32,29.8,1.8,14.8,5.0,10.6,9.8,2.3,32.5,189.0,3.0,6.7,26.4
+466,/players/dan-issel-1.html,,0.415,83.0,Kentucky,Career,0.561,,2943.0,,,,,,,,,,,,,,,,,,,
+467,/players/allen-iverson-1.html,,0.485,67.0,Georgetown,Career,0.535,0.332,2179.0,15.9,0.492,3.5,66.0,5.1,8.6,,,,,,,,,,,,,
+468,/players/warren-armstrong-1.html,,0.396,78.0,Wichita State,Career,0.501,,,,,,,,,,,,,,,,,,,,,
+469,/players/bobby-jackson-1.html,,0.346,60.0,Minnesota,Career,0.519,0.268,1784.0,14.1,0.469,4.8,67.0,3.0,7.8,0.176,,,,,,,,,,,,
+470,/players/jaren-jackson-1.html,,0.263,130.0,Georgetown,Career,0.518,0.249,2151.0,14.9,,,40.0,,,,,,,,,,,,,,,
+471,/players/jaren-jacksonjr-1.html,,0.573,35.0,Michigan State,Career,0.647,0.414,764.0,17.4,0.595,2.2,34.0,2.3,4.6,0.239,9.3,14.3,11.7,7.3,19.7,4.4,8.8,26.9,347.0,1.6,15.0,23.5
+472,/players/josh-jackson-2.html,,0.403,35.0,Kansas,Career,0.559,0.21,1077.0,15.9,0.552,2.2,35.0,2.7,4.9,0.18,18.2,3.5,9.9,4.2,17.5,5.7,8.7,24.2,571.0,3.1,13.3,27.2
+473,/players/justin-jackson-4.html,,0.239,118.0,UNC,Career,0.545,0.37,3430.0,9.8,0.521,4.1,114.0,10.1,14.2,0.165,15.9,1.4,8.4,2.0,9.3,6.4,5.9,19.5,1537.0,1.3,7.6,22.5
+474,/players/marc-jackson-1.html,,0.404,22.0,VCU,,0.468,0.0,277.0,18.4,0.442,,0.0,,,,,,,,,,,,,,,
+475,/players/marc-jackson-1.html,,0.523,63.0,Temple,,0.535,0.013,2318.0,14.0,0.48,6.3,31.0,4.5,10.8,,,,,,,,,,,,,
+476,/players/mark-jackson-1.html,,0.51,131.0,St. John's (NY),Career,0.586,0.128,3980.0,20.9,,,79.0,,,,,,,,,,,,,,,
+477,/players/tony-jackson-6.html,,0.379,76.0,St. John's (NY),Career,0.51,,,,,,,,,,,,,,,,,,,,,
+478,/players/damion-james-1.html,,0.428,142.0,Texas,Career,0.541,0.192,4156.0,12.7,0.514,12.8,140.0,7.8,20.7,0.199,7.5,3.0,,,23.9,,11.0,,564.0,3.0,16.6,23.7
+479,/players/mike-james-1.html,,0.278,111.0,Duquesne,Career,0.515,0.234,3115.0,16.3,0.483,1.9,84.0,4.0,5.9,,,,,,,,,,,,,
+480,/players/antawn-jamison-1.html,,0.466,104.0,UNC,Career,0.593,0.02,3476.0,9.9,0.58,7.5,95.0,11.8,19.3,0.222,,,,,,,,,,,,
+481,/players/richard-jefferson-1.html,,0.436,84.0,Arizona,Career,0.572,0.238,2211.0,21.6,0.534,4.8,77.0,5.0,9.8,0.177,,,,,,,,,,,,
+482,/players/chris-jent-1.html,,0.241,123.0,Ohio State,Career,0.529,0.343,2820.0,16.3,0.5,,67.0,,,,16.0,0.4,,,,,,,,,9.9,19.3
+483,/players/avery-johnson-1.html,,0.285,61.0,Southern,Career,0.545,0.157,2256.0,36.7,0.526,,31.0,,,,,,,,,,,,,,,
+484,/players/charlie-johnson-2.html,,0.184,74.0,California,Career,0.426,,,,,,,,,,,,,,,,,,,,,
+485,/players/clay-johnson-1.html,,0.481,59.0,Missouri,Career,0.54,,1124.0,,,,30.0,,,,,,,,,,,,,,,
+486,/players/dennis-johnson-1.html,,0.296,27.0,Pepperdine,Career,0.493,,930.0,16.9,,,,,,,,,,,,,,,,,,
+487,/players/eddie-johnson-1.html,,0.288,102.0,Auburn,Career,0.492,,,17.5,,,,,,,,,,,,,,,,,,
+488,/players/eddie-johnson-2.html,,0.167,121.0,Illinois,Career,0.473,,3479.0,10.2,,,94.0,,,,,,,,,,,,,,,
+489,/players/gus-johnson-1.html,,0.24,23.0,Idaho,Career,0.449,,,,,,,,,,,,,,,,,,,,,
+490,/players/joe-johnson-1.html,,0.262,53.0,Arkansas,Career,0.545,0.239,1605.0,15.3,0.515,4.0,41.0,3.3,7.3,0.182,,,,,,,,,,,,
+491,/players/john-johnson-1.html,,0.407,49.0,Iowa,Career,0.576,,,,,,,,,,,,,,,,,,,,,
+492,/players/kevin-johnson-1.html,,0.425,118.0,California,Career,0.547,0.098,3814.0,17.3,,,71.0,,,,,,,,,,,,,,,
+493,/players/larry-johnson-1.html,,0.483,75.0,UNLV,Career,0.691,0.09,2372.0,13.8,0.659,,,,,,,,,,,,,,,,,
+494,/players/linton-johnson-1.html,,0.275,107.0,Tulane,Career,0.531,0.251,2073.0,17.4,0.51,3.1,62.0,2.4,5.5,0.106,9.2,2.7,,,,,,,,,15.3,20.7
+495,/players/magic-johnson-1.html,,0.592,62.0,Michigan State,Career,0.55,,1159.0,,,,,,,,,,,,,,,,,,,
+496,/players/marques-johnson-1.html,,0.338,115.0,UCLA,Career,0.59,,2169.0,,,,,,,,,,,,,,,,,,,
+497,/players/reggie-johnson-1.html,,0.345,115.0,Tennessee,Career,0.607,,1904.0,12.4,,,27.0,,,,,,,,,,,,,,,
+498,/players/steve-johnson-2.html,,0.484,116.0,Oregon State,Career,0.677,,2829.0,17.6,,,,,,,,,,,,,,,,,,
+499,/players/stewart-johnson-1.html,,0.228,75.0,Murray State,Career,0.452,,,,,,,,,,,,,,,,,,,,,
+500,/players/vinnie-johnson-1.html,,0.316,51.0,Baylor,Career,0.544,,986.0,15.0,,,26.0,,,,,,,,,,,,,,,
+501,/players/wes-johnson-1.html,,0.274,58.0,Iowa State,,0.524,0.413,1713.0,14.8,0.487,3.4,55.0,2.3,5.7,0.133,13.4,1.1,,,,,,,,,8.4,28.0
+502,/players/wes-johnson-1.html,,0.352,35.0,Syracuse,,0.6,0.299,1224.0,14.4,0.564,2.9,35.0,3.7,6.6,0.215,11.1,5.7,,,18.3,,7.6,,538.0,2.7,13.5,22.1
+503,/players/neil-johnston-1.html,,0.434,27.0,Ohio State,Career,0.371,,,,,,,,,,,,,,,,,,,,,
+504,/players/bobby-jones-1.html,,0.399,92.0,UNC,Career,0.618,,,,,,,,,,,,,,,,,,,,,
+505,/players/dahntay-jones-1.html,,0.422,63.0,Rutgers,,0.511,0.216,1882.0,16.1,0.455,3.0,59.0,2.5,5.5,0.116,,,,,,,,,,,,
+506,/players/dahntay-jones-1.html,,0.399,68.0,Duke,,0.566,0.235,2025.0,12.3,0.526,4.0,62.0,4.5,8.5,0.168,6.0,1.2,,,,,,,,,10.0,26.2
+507,/players/damian-jones-1.html,,0.584,99.0,Vanderbilt,Career,0.573,0.009,2684.0,14.7,0.567,4.9,95.0,5.2,10.1,0.151,6.3,6.4,3.7,2.0,16.7,1.7,9.6,21.7,1185.0,0.9,13.4,26.6
+508,/players/dominique-jones-1.html,,0.459,95.0,South Florida,Career,0.551,0.37,3470.0,13.2,0.502,5.4,94.0,9.1,14.5,0.168,26.5,1.2,,,14.9,,3.6,,669.0,2.8,8.9,29.8
+509,/players/eddie-jones-1.html,,0.263,92.0,Temple,Career,0.53,0.327,3117.0,9.0,0.515,,40.0,,,,,,,,,,,,,,,
+510,/players/herb-jones-3.html,,0.501,129.0,Alabama,Career,0.496,0.153,3076.0,21.8,0.463,5.6,101.0,2.2,7.9,0.102,16.9,3.2,4.1,4.2,14.5,-0.1,7.0,14.4,1073.0,3.0,10.9,18.9
+511,/players/james-jones-1.html,,0.336,122.0,Miami (FL),Career,0.536,0.297,3351.0,12.9,0.483,9.1,88.0,5.2,14.3,0.171,10.3,4.6,,,,,,,,,10.3,22.7
+512,/players/kc-jones-1.html,,0.62,102.0,San Francisco,Career,0.435,,,,,,,,,,,,,,,,,,,,,
+513,/players/larry-jones-10.html,,0.485,63.0,Toledo,Career,0.523,,,,,,,,,,,,,,,,,,,,,
+514,/players/steve-jones-9.html,,0.369,78.0,Oregon,Career,0.463,,,,,,,,,,,,,,,,,,,,,
+515,/players/wally-jones-1.html,,0.256,85.0,Villanova,Career,0.479,,,,,,,,,,,,,,,,,,,,,
+516,/players/deandre-jordan-1.html,,0.65,35.0,Texas A&M,Career,0.58,0.0,703.0,19.2,0.617,2.8,21.0,1.6,4.4,0.249,,,,,,,,,,,,
+517,/players/eddie-jordan-1.html,,0.294,116.0,Rutgers,Career,0.503,,2922.0,,,,89.0,,,,,,,,,,,,,,,
+518,/players/michael-jordan-1.html,,0.315,101.0,UNC,Career,0.583,0.057,3107.0,11.5,,,,,,,,,,,,,,,,,,
+519,/players/cory-joseph-1.html,,0.227,36.0,Texas,Career,0.526,0.391,1166.0,13.1,0.503,2.2,36.0,2.2,4.4,0.152,17.3,0.9,6.5,3.8,9.5,2.7,2.2,15.1,372.0,1.9,6.0,17.3
+520,/players/chris-kaman-1.html,,0.685,83.0,Central Michigan,Career,0.643,0.0,2179.0,20.9,0.608,3.1,45.0,9.2,12.3,0.226,8.1,5.8,,,,,,,,,21.2,28.0
+521,/players/jason-kapono-1.html,,0.307,127.0,UCLA,Career,0.613,0.476,4313.0,14.3,0.575,3.5,126.0,13.7,17.1,0.159,11.8,0.1,,,,,,,,,8.6,22.1
+522,/players/george-karl-1.html,,0.406,94.0,UNC,Career,0.562,,,,,,,,,,,,,,,,,,,,,
+523,/players/sasha-kaun-1.html,,0.563,135.0,Kansas,Career,0.562,0.0,2224.0,12.7,0.568,7.9,65.0,3.9,11.8,0.212,3.8,4.7,,,,,,,,,13.5,18.6
+524,/players/bill-keller-1.html,,0.365,75.0,Purdue,Career,0.538,,,,,,,,,,,,,,,,,,,,,
+525,/players/clark-kellogg-1.html,,0.241,86.0,Ohio State,Career,0.518,,3011.0,17.9,,,84.0,,,,,,,,,,,,,,,
+526,/players/larry-kenon-1.html,,0.192,30.0,Memphis,Career,0.531,,1097.0,,,,,,,,,,,,,,,,,,,
+527,/players/bill-kenville-1.html,,0.674,73.0,St. Bonaventure,Career,0.765,,,,,,,,,,,,,,,,,,,,,
+528,/players/red-kerr-1.html,,0.359,70.0,Illinois,Career,0.433,,,,,,,,,,,,,,,,,,,,,
+529,/players/steve-kerr-1.html,,0.273,129.0,Arizona,Career,0.633,0.197,4136.0,12.8,,,33.0,,,,,,,,,,,,,,,
+530,/players/jason-kidd-1.html,,0.474,59.0,California,Career,0.561,0.352,1975.0,23.5,0.527,,29.0,,,,,,,,,,,,,,,
+531,/players/michael-kidd-gilchrist-1.html,,0.589,40.0,Kentucky,Career,0.57,0.156,1245.0,17.3,0.511,2.6,39.0,3.4,6.0,0.192,10.8,2.8,7.7,3.6,17.3,4.1,10.3,21.2,497.0,1.9,14.0,20.6
+532,/players/bernard-king-1.html,,0.344,76.0,Tennessee,Career,0.614,,,,,,,,,,,,,,,,,,,,,
+533,/players/gerard-king-1.html,,0.53,110.0,Nicholls State,Career,0.561,0.005,3147.0,13.8,0.532,,50.0,,,,,,,,,,,,,,,
+534,/players/james-king-5.html,,0.409,75.0,Tulsa,Career,0.506,,,,,,,,,,,,,,,,,,,,,
+535,/players/stacey-king-1.html,,0.486,114.0,Oklahoma,Career,0.556,0.001,3025.0,10.6,,,24.0,,,,4.5,3.5,,,,,,,,,12.5,21.9
+536,/players/greg-kite-1.html,,0.416,112.0,BYU,Career,0.465,,2942.0,18.8,,,,,,,,,,,,,,,,,,
+537,/players/kerry-kittles-1.html,,0.261,122.0,Villanova,Career,0.58,0.411,4410.0,11.4,0.558,2.4,110.0,3.2,5.6,,,,,,,,,,,,,
+538,/players/joe-kleine-1.html,,0.32,29.0,Notre Dame,,0.66,,291.0,,,,11.0,,,,,,,,,,,,,,,
+539,/players/joe-kleine-1.html,,0.505,97.0,Arkansas,,0.619,,3412.0,15.8,,,67.0,,,,,,,,,,,,,,,
+540,/players/billy-knight-1.html,,0.215,78.0,Pitt,Career,0.547,,,,,,,,,,,,,,,,,,,,,
+541,/players/brandon-knight-1.html,,0.333,38.0,Kentucky,Career,0.553,0.45,1363.0,16.8,0.508,1.8,38.0,3.6,5.3,0.157,23.4,0.6,5.5,0.9,10.2,4.5,2.2,19.3,652.0,1.1,6.3,27.0
+542,/players/brevin-knight-1.html,,0.598,115.0,Stanford,Career,0.539,0.224,3703.0,20.3,0.453,4.9,85.0,4.9,9.8,,,,,,,,,,,,,
+543,/players/travis-knight-1.html,,0.312,124.0,UConn,Career,0.535,0.008,2384.0,20.1,0.518,4.4,41.0,1.4,5.8,,,,,,,,,,,,,
+544,/players/don-kojis-1.html,,0.348,81.0,Marquette,Career,0.461,,,,,,,,,,,,,,,,,,,,,
+545,/players/kyle-korver-1.html,,0.296,128.0,Creighton,Career,0.667,0.692,3540.0,14.6,0.629,7.1,95.0,15.6,22.7,0.256,19.0,1.4,,,,,,,,,11.4,22.6
+546,/players/steve-kuberski-1.html,,0.214,5.0,Illinois,,0.519,,,,,,,,,,,,,,,,,,,,,
+547,/players/steve-kuberski-1.html,,0.386,26.0,Bradley,,0.564,,,,,,,,,,,,,,,,,,,,,
+548,/players/mitch-kupchak-1.html,,0.419,119.0,UNC,Career,0.605,,,,,,,,,,,,,,,,,,,,,
+549,/players/kyle-kuzma-1.html,,0.367,96.0,Utah,Career,0.56,0.23,2013.0,14.9,0.541,3.5,64.0,4.7,8.2,0.163,14.0,1.8,4.1,0.9,20.5,3.3,9.7,21.1,959.0,0.9,15.5,25.9
+550,/players/tom-lagarde-1.html,,0.568,102.0,UNC,Career,0.629,,,,,,,,,,,,,,,,,,,,,
+551,/players/rusty-larue-1.html,,0.147,107.0,Wake Forest,Career,0.621,0.693,2015.0,14.5,0.601,0.9,31.0,3.0,4.0,,,,,,,,,,,,,
+552,/players/rudy-larusso-1.html,,0.414,80.0,Dartmouth,Career,0.48,,,,,,,,,,,,,,,,,,,,,
+553,/players/zach-lavine-1.html,,0.236,37.0,UCLA,Career,0.545,0.444,904.0,11.6,0.524,1.2,1.0,1.4,2.5,0.111,12.6,0.8,2.9,1.2,9.5,1.7,2.4,14.6,324.0,2.1,6.1,20.1
+554,/players/sam-lacey-1.html,,0.301,89.0,New Mexico State,Career,0.485,,,,,,,,,,,,,,,,,,,,,
+555,/players/christian-laettner-1.html,,0.61,148.0,Duke,Career,0.657,0.112,4048.0,17.5,0.602,,128.0,,,,11.9,2.8,,,,,,,,,16.2,24.2
+556,/players/bill-laimbeer-1.html,,0.351,69.0,Notre Dame,Career,0.567,,1458.0,21.1,,,30.0,,,,7.4,3.4,,,,,,,,,16.8,
+557,/players/jeff-lamp-1.html,,0.437,123.0,Virginia,Career,0.561,,4231.0,14.5,,,33.0,,,,12.4,0.2,,,,,,,,,7.8,
+558,/players/carl-landry-1.html,,0.752,64.0,Purdue,Career,0.647,0.064,1915.0,16.9,0.61,4.3,63.0,9.8,14.0,0.293,10.6,2.2,,,,,,,,,14.7,29.4
+559,/players/mark-landsberger-1.html,,0.274,26.0,Minnesota,,0.492,,,,,,,,,,,,,,,,,,,,,
+560,/players/mark-landsberger-1.html,,0.46,25.0,Arizona State,,0.522,,888.0,,,,23.0,,,,,,,,,,,,,,,
+561,/players/bob-lanier-1.html,,0.373,75.0,St. Bonaventure,Career,0.595,,,,,,,,,,,,,,,,,,,,,
+562,/players/butch-lee-1.html,,0.339,115.0,Marquette,Career,0.533,,3154.0,,,,,,,,,,,,,,,,,,,
+563,/players/clyde-lee-1.html,,0.441,79.0,Vanderbilt,Career,0.505,,,,,,,,,,,,,,,,,,,,,
+564,/players/david-lee-1.html,,0.55,127.0,Florida,Career,0.609,0.006,3171.0,18.2,0.581,8.4,95.0,9.6,18.0,0.227,17.3,2.4,,,,,,,,,16.3,23.5
+565,/players/ron-lee-1.html,,0.276,112.0,Oregon,Career,0.459,,4009.0,14.5,,,,,,,,,,,,,,,,,,
+566,/players/kawhi-leonard-1.html,,0.312,70.0,San Diego State,Career,0.513,0.195,2236.0,13.7,0.473,5.7,69.0,6.1,11.8,0.211,14.4,2.2,9.2,3.9,25.0,5.3,12.6,25.0,1014.0,2.7,19.0,26.0
+567,/players/bob-leonard-3.html,,0.267,71.0,Indiana,Career,0.374,,,,,,,,,,,,,,,,,,,,,
+568,/players/ronnie-lester-1.html,,0.422,99.0,Iowa,Career,0.528,,,,,,,,,,,,,,,,,,,,,
+569,/players/fat-lever-1.html,,0.431,113.0,Arizona State,Career,0.508,,3421.0,21.3,,,88.0,,,,,,,,,,,,,,,
+570,/players/cliff-levingston-1.html,,0.402,91.0,Wichita State,Career,0.556,,2924.0,16.0,,,60.0,,,,,,,,,,,,,,,
+571,/players/freddie-lewis-1.html,,0.465,53.0,Arizona State,Career,0.518,,,,,,,,,,,,,,,,,,,,,
+572,/players/mike-lewis-3.html,,0.449,84.0,Duke,Career,0.6,,,,,,,,,,,,,,,,,,,,,
+573,/players/reggie-lewis-1.html,,0.373,122.0,Northeastern,Career,0.548,0.043,4187.0,11.9,,,31.0,,,,,,,,,,,,,,,
+574,/players/damian-lillard-1.html,,0.458,104.0,Weber State,Career,0.606,0.481,3363.0,13.4,0.54,3.4,98.0,14.2,17.6,0.209,24.3,0.6,9.2,0.7,14.2,8.5,1.7,29.3,1498.0,2.3,8.1,28.6
+575,/players/jeremy-lin-1.html,,0.471,115.0,Harvard,Career,0.576,0.308,3354.0,20.5,0.532,3.3,87.0,8.2,11.5,0.137,30.8,2.6,,,12.9,,3.5,,483.0,4.5,9.4,27.7
+576,/players/john-long-1.html,,0.19,110.0,Detroit,Career,0.512,,3215.0,,,,28.0,,,,,,,,,,,,,,,
+577,/players/luc-longley-1.html,,0.432,132.0,New Mexico,Career,0.618,0.002,3649.0,19.3,0.586,,,,,,,,,,,,,,,,,
+578,/players/kevon-looney-1.html,,0.458,36.0,UCLA,Career,0.532,0.165,1113.0,10.3,0.505,2.0,36.0,2.8,4.8,0.172,9.1,3.3,7.0,2.3,21.0,4.7,12.2,21.9,428.0,2.5,16.6,19.7
+579,/players/brook-lopez-1.html,,0.384,53.0,Stanford,Career,0.532,0.031,1485.0,12.3,0.482,5.0,43.0,2.9,7.9,0.213,9.7,4.9,,,,,,,,,14.6,31.4
+580,/players/kevin-love-1.html,,0.635,39.0,UCLA,Career,0.644,0.202,1156.0,12.9,0.595,5.7,38.0,5.6,11.3,0.391,14.1,3.6,,,,,,,,,22.1,27.0
+581,/players/clyde-lovellette-1.html,,0.288,77.0,Kansas,Career,0.485,,,,,,,,,,,,,,,,,,,,,
+582,/players/kyle-lowry-1.html,,0.566,57.0,Villanova,Career,0.531,0.099,1524.0,17.7,0.465,4.4,34.0,2.1,6.5,0.171,25.9,0.6,,,,,,,,,8.3,20.4
+583,/players/jordan-loyd-1.html,,0.413,28.0,Furman,Career,0.46,0.36,588.0,20.4,0.413,0.6,13.0,0.2,0.9,0.058,19.1,0.7,-2.9,0.0,17.9,-3.0,4.0,10.8,176.0,1.6,10.5,20.1
+584,/players/jerry-lucas-1.html,,0.454,82.0,Ohio State,Career,0.659,,,,,,,,,,,,,,,,,,,,,
+585,/players/john-lucas-1.html,,0.228,110.0,Maryland,Career,0.553,,,,,,28.0,,,,,,,,,,,,,,,
+586,/players/maurice-lucas-1.html,,0.238,60.0,Marquette,Career,0.525,,,,,,,,,,,,,,,,,,,,,
+587,/players/tyronn-lue-1.html,,0.316,99.0,Nebraska,Career,0.546,0.324,3332.0,19.7,0.504,3.4,96.0,7.2,10.6,0.128,,,,,,,,,,,,
+588,/players/don-maclean-1.html,,0.466,127.0,UCLA,Career,0.601,0.02,4151.0,11.9,0.534,,127.0,,,,6.2,0.9,,,,,,,,,13.6,25.6
+589,/players/ed-macauley-1.html,,0.521,104.0,Saint Louis,Career,0.948,,,,,,,,,,,,,,,,,,,,,
+590,/players/mark-macon-1.html,,0.223,126.0,Temple,Career,0.509,0.283,4722.0,8.1,0.476,,64.0,,,,,,,,,,,,,,,
+591,/players/mark-madsen-1.html,,0.737,108.0,Stanford,Career,0.598,0.003,2713.0,12.6,0.587,8.5,77.0,7.6,16.1,0.237,,,,,,,,,,,,
+592,/players/jamaal-magloire-1.html,,0.554,145.0,Kentucky,Career,0.537,0.0,2839.0,20.0,0.503,12.8,72.0,4.4,17.2,0.243,,,,,,,,,,,,
+593,/players/randy-mahaffey-1.html,,0.533,73.0,Clemson,Career,0.529,,,,,,25.0,,,,,,,,,,,,,,,
+594,/players/dan-majerle-1.html,,0.449,94.0,Central Michigan,Career,0.572,0.074,3383.0,6.5,,,49.0,,,,,,,,,,,,,,,
+595,/players/jeff-malone-1.html,,0.231,110.0,Mississippi State,Career,0.546,,3851.0,8.5,,,,,,,,,,,,,,,,,,
+596,/players/karl-malone-1.html,,0.563,92.0,Louisiana Tech,Career,0.587,,2831.0,15.5,,,91.0,,,,,,,,,,,,,,,
+597,/players/matt-maloney-1.html,,0.14,30.0,Vanderbilt,,0.572,0.69,557.0,33.2,0.555,,,,,,,,,,,,,,,,,
+598,/players/matt-maloney-1.html,,0.192,83.0,Penn,,0.566,0.598,2758.0,14.6,0.541,,28.0,,,,,,,,,,,,,,,
+599,/players/danny-manning-1.html,,0.336,147.0,Kansas,Career,0.621,0.014,4961.0,14.2,,,146.0,,,,,,,,,,,,,,,
+600,/players/pete-maravich-1.html,,0.364,83.0,LSU,Career,0.494,,,,,,,,,,,,,,,,,,,,,
+601,/players/stephon-marbury-1.html,,0.319,36.0,Georgia Tech,Career,0.574,0.463,1345.0,16.3,0.543,0.8,35.0,3.5,4.3,0.127,,,,,,,,,,,,
+602,/players/jack-marin-1.html,,0.327,86.0,Duke,Career,0.539,,,,,,,,,,,,,,,,,,,,,
+603,/players/shawn-marion-1.html,,0.266,29.0,UNLV,Career,0.577,0.16,954.0,8.0,0.553,3.0,28.0,3.0,6.0,0.253,,,,,,,,,,,,
+604,/players/lauri-markkanen-1.html,,0.436,37.0,Arizona,Career,0.635,0.434,1140.0,8.1,0.584,1.8,37.0,4.8,6.7,0.235,5.6,1.8,9.4,1.5,17.5,7.9,10.0,25.0,534.0,0.8,14.0,22.5
+605,/players/sean-marks-1.html,,0.405,86.0,California,Career,0.532,0.057,1461.0,19.3,0.499,3.7,33.0,1.9,5.6,,,,,,,,,,,,,
+606,/players/donyell-marshall-1.html,,0.398,91.0,UConn,Career,0.565,0.202,2817.0,14.2,0.518,,62.0,,,,,,,,,,,,,,,
+607,/players/kenyon-martin-1.html,,0.494,116.0,Cincinnati,Career,0.592,0.01,2900.0,15.0,0.587,16.4,97.0,8.2,24.7,0.34,,,,,,,,,,,,
+608,/players/slater-martin-1.html,,,90.0,Texas,Career,,,,,,,,,,,,,,,,,,,,,,
+609,/players/jamal-mashburn-1.html,,0.379,98.0,Kentucky,Career,0.598,0.301,2962.0,13.6,0.573,,98.0,,,,9.8,1.8,,,,,,,,,13.7,25.4
+610,/players/anthony-mason-1.html,,0.374,111.0,Tennessee State,Career,0.519,0.077,3729.0,14.2,,,,,,,,,,,,,,,,,,
+611,/players/desmond-mason-1.html,,0.367,129.0,Oklahoma State,Career,0.572,0.275,3868.0,13.0,0.537,9.8,109.0,9.4,19.2,0.198,,,,,,,,,,,,
+612,/players/tony-massenburg-1.html,,0.476,112.0,Maryland,Career,0.552,0.003,2939.0,13.2,,,83.0,,,,,,,,,,,,,,,
+613,/players/wes-matthews-1.html,,0.326,69.0,Wisconsin,Career,0.528,,2349.0,21.8,,,64.0,,,,,,,,,,,,,,,
+614,/players/cedric-maxwell-1.html,,0.563,112.0,Charlotte,Career,0.63,,,,,,,,,,,,,,,,,,,,,
+615,/players/vernon-maxwell-1.html,,0.354,130.0,Florida,Career,0.526,0.138,4194.0,11.8,,,47.0,,,,23.6,0.2,,,,,,,,,6.1,28.5
+616,/players/don-may-2.html,,0.426,90.0,Dayton,Career,0.529,,,,,,,,,,,,,,,,,,,,,
+617,/players/scott-may-1.html,,0.26,90.0,Indiana,Career,0.547,,2530.0,13.2,,,,,,,,,,,,,,,,,,
+618,/players/oj-mayo-1.html,,0.284,33.0,USC,Career,0.562,0.401,1216.0,16.1,0.524,1.8,32.0,3.4,5.2,0.172,21.4,0.7,,,,,,,,,7.4,31.8
+619,/players/travis-mays-1.html,,0.404,124.0,Texas,Career,0.558,0.387,4341.0,15.4,0.514,,26.0,,,,,,,,,,,,,,,
+620,/players/bob-mcadoo-1.html,,0.355,31.0,UNC,Career,0.549,,,,,,,,,,,,,,,,,,,,,
+621,/players/james-michael-mcadoo-1.html,,0.502,108.0,UNC,Career,0.476,0.009,2696.0,11.8,0.447,5.2,73.0,3.5,8.7,0.129,7.8,2.2,3.6,2.5,17.2,1.0,9.0,18.3,1173.0,2.7,12.9,25.5
+622,/players/patrick-mccaw-1.html,,0.26,65.0,UNLV,Career,0.567,0.548,2060.0,15.2,0.539,3.7,48.0,3.9,7.6,0.148,20.7,1.1,5.9,2.8,10.8,3.1,3.3,18.7,791.0,3.6,7.2,20.0
+623,/players/cj-mccollum-1.html,,0.423,111.0,Lehigh,Career,0.563,0.33,3657.0,11.3,0.501,6.6,108.0,13.9,20.5,0.224,20.1,1.5,8.6,1.9,17.0,6.7,5.2,29.1,2202.0,3.6,11.0,32.4
+624,/players/jelani-mccoy-1.html,,0.52,78.0,UCLA,Career,0.653,0.0,2086.0,22.6,0.694,3.5,59.0,6.2,9.7,0.186,,,,,,,,,,,,
+625,/players/rodney-mccray-1.html,,0.473,135.0,Louisville,Career,0.602,,4253.0,21.5,,,69.0,,,,,,,,,,,,,,,
+626,/players/xavier-mcdaniel-1.html,,0.371,117.0,Wichita State,Career,0.578,,3638.0,13.9,,,91.0,,,,,,,,,,,,,,,
+627,/players/antonio-mcdyess-1.html,,0.323,59.0,Alabama,Career,0.549,0.002,1479.0,16.0,0.533,,48.0,,,,,,,,,,,,,,,
+628,/players/javale-mcgee-1.html,,0.405,66.0,Nevada,Career,0.557,0.104,1232.0,16.9,0.56,3.2,31.0,2.4,5.6,0.183,3.9,6.5,,,,,,,,,14.5,25.1
+629,/players/mike-mcgee-1.html,,0.287,114.0,Michigan,Career,0.517,,3936.0,13.0,,,112.0,,,,7.4,0.2,,,,,,,,,9.5,
+630,/players/george-mcginnis-1.html,,0.405,24.0,Indiana,Career,0.49,,830.0,,,,,,,,,,,,,,,,,,,
+631,/players/jon-mcglocklin-2.html,,0.188,69.0,Indiana,Career,0.514,,,,,,,,,,,,,,,,,,,,,
+632,/players/al-mcguire-1.html,,0.827,82.0,St. John's (NY),Career,0.511,,,,,,,,,,,,,,,,,,,,,
+633,/players/dick-mcguire-1.html,,,5.0,Dartmouth,,,,,,,,,,,,,,,,,,,,,,,
+634,/players/dick-mcguire-1.html,,,83.0,St. John's (NY),,,,,,,,,,,,,,,,,,,,,,,
+635,/players/kevin-mchale-1.html,,0.277,112.0,Minnesota,Career,0.584,,1152.0,,,,,,,,,,,,,,,,,,,
+636,/players/kevin-mckenna-1.html,,0.312,113.0,Creighton,Career,0.52,,2385.0,17.1,,,58.0,,,,,,,,,,,,,,,
+637,/players/derrick-mckey-1.html,,0.309,99.0,Alabama,Career,0.624,0.058,3044.0,15.2,,,77.0,,,,,,,,,,,,,,,
+638,/players/aaron-mckie-1.html,,0.328,92.0,Temple,Career,0.534,0.364,3497.0,10.2,0.488,,59.0,,,,,,,,,,,,,,,
+639,/players/jack-mcmahon-1.html,,0.279,90.0,St. John's (NY),Career,0.375,,,,,,,,,,,,,,,,,,,,,
+640,/players/nate-mcmillan-1.html,,0.394,67.0,NC State,Career,0.514,,2181.0,24.8,,,66.0,,,,,,,,,,,,,,,
+641,/players/jim-mcmillian-1.html,,0.407,77.0,Columbia,Career,0.558,,905.0,,,,,,,,,,,,,,,,,,,
+642,/players/mark-mcnamara-1.html,,0.446,54.0,Santa Clara,,0.591,,652.0,,,,,,,,,,,,,,,,,,,
+643,/players/mark-mcnamara-1.html,,0.657,53.0,California,,0.636,,1864.0,16.2,,,,,,,,,,,,,,,,,,
+644,/players/jordan-mcrae-1.html,,0.382,114.0,Tennessee,Career,0.541,0.439,3088.0,13.8,0.492,4.4,74.0,7.6,12.0,0.156,15.7,3.3,6.6,1.8,11.7,4.8,2.9,20.0,1393.0,1.5,7.2,27.8
+645,/players/jodie-meeks-1.html,,0.381,81.0,Kentucky,Career,0.598,0.52,2243.0,12.4,0.536,2.1,42.0,7.8,9.9,0.176,11.9,0.3,,,,,,,,,6.0,29.8
+646,/players/don-meineke-2.html,,0.444,88.0,Dayton,Career,0.527,,,,,,,,,,,,,,,,,,,,,
+647,/players/bill-melchionni-1.html,,0.294,84.0,Villanova,Career,0.502,,,,,,,,,,,,,,,,,,,,,
+648,/players/dean-meminger-1.html,,0.618,87.0,Marquette,Career,0.513,,,,,,,,,,,,,,,,,,,,,
+649,/players/ron-mercer-1.html,,0.203,76.0,Kentucky,Career,0.552,0.25,1976.0,10.2,0.526,4.7,53.0,4.5,9.2,0.187,,,,,,,,,,,,
+650,/players/joe-meriweather-1.html,,0.33,78.0,Southern Illinois,Career,0.599,,,,,,,,,,,,,,,,,,,,,
+651,/players/sam-merrill-1.html,,0.331,131.0,Utah State,Career,0.624,0.499,4360.0,10.6,0.575,6.2,118.0,16.2,22.4,0.206,22.2,0.7,7.0,1.6,11.0,5.4,1.1,22.1,2056.0,1.7,6.2,22.8
+652,/players/tom-meschery-1.html,,0.404,68.0,Saint Mary's,Career,0.493,,,,,,,,,,,,,,,,,,,,,
+653,/players/khris-middleton-1.html,,0.345,87.0,Texas A&M,Career,0.534,0.364,2263.0,15.9,0.489,4.0,72.0,4.8,8.8,0.156,18.7,0.9,7.6,2.2,14.4,5.4,7.0,19.6,956.0,2.4,10.6,25.5
+654,/players/chris-mihm-1.html,,0.581,96.0,Texas,Career,0.548,0.03,2810.0,14.8,0.501,9.3,93.0,6.3,15.6,0.222,,,,,,,,,,,,
+655,/players/george-mikan-1.html,,,98.0,DePaul,Career,,,,,,,,,,,,,,,,,,,,,,
+656,/players/vern-mikkelsen-1.html,,0.96,104.0,Hamline,Career,1.534,,,,,,,,,,,,,,,,,,,,,
+657,/players/eddie-miles-1.html,,0.295,79.0,Seattle,Career,0.52,,,,,,,,,,,,,,,,,,,,,
+658,/players/andre-miller-1.html,,0.496,134.0,Utah,Career,0.571,0.172,4014.0,20.5,0.538,12.5,99.0,10.3,22.8,0.228,,,,,,,,,,,,
+659,/players/brad-miller-1.html,,0.841,128.0,Purdue,Career,0.639,0.032,3178.0,18.7,0.577,7.3,81.0,10.2,17.5,,,,,,,,,,,,,
+660,/players/larry-miller-2.html,,0.441,91.0,UNC,Career,0.547,,,,,,,,,,,,,,,,,,,,,
+661,/players/malcolm-miller-1.html,,0.428,112.0,Holy Cross,Career,0.564,0.381,2917.0,16.3,0.515,4.5,93.0,4.6,9.1,0.125,12.6,5.6,2.5,1.7,19.9,0.8,3.5,18.0,965.0,2.0,11.5,20.1
+662,/players/mike-miller-1.html,,0.473,65.0,Florida,Career,0.586,0.376,1735.0,16.0,0.547,3.4,56.0,5.0,8.4,0.194,,,,,,,,,,,,
+663,/players/reggie-miller-1.html,,0.416,122.0,UCLA,Career,0.623,0.112,3836.0,11.5,,,93.0,,,,,,,,,,,,,,,
+664,/players/patrick-mills-1.html,,0.277,58.0,Saint Mary's,Career,0.538,0.496,1894.0,15.8,0.497,3.8,56.0,3.8,7.6,0.16,23.6,0.4,,,,,,,,,3.8,27.3
+665,/players/paul-millsap-1.html,,0.546,92.0,Louisiana Tech,Career,0.594,0.014,3240.0,13.5,0.579,13.7,91.0,10.9,24.6,0.304,5.6,3.5,,,,,,,,,19.3,23.7
+666,/players/donovan-mitchell-1.html,,0.26,65.0,Louisville,Career,0.532,0.47,1689.0,10.8,0.495,3.7,38.0,4.4,8.2,0.194,15.9,1.3,9.7,5.1,13.2,4.6,4.7,20.5,736.0,3.3,8.9,23.3
+667,/players/mike-mitchell-1.html,,0.217,104.0,Auburn,Career,0.526,,,12.9,,,,,,,,,,,,,,,,,,
+668,/players/steve-mix-1.html,,0.468,73.0,Toledo,Career,0.571,,,,,,,,,,,,,,,,,,,,,
+669,/players/cuttino-mobley-1.html,,0.293,93.0,Rhode Island,Career,0.55,0.387,2761.0,13.4,0.506,3.1,79.0,5.5,8.6,,,,,,,,,,,,,
+670,/players/evan-mobley-1.html,,0.566,33.0,USC,Career,0.624,0.117,1120.0,14.6,0.595,2.6,33.0,4.3,6.9,0.248,14.1,8.8,13.7,5.8,18.9,7.9,9.6,29.1,532.0,1.4,14.5,22.8
+671,/players/doug-moe-1.html,,0.598,60.0,UNC,Career,0.475,,846.0,,,,,,,,,,,,,,,,,,,
+672,/players/nazr-mohammed-1.html,,0.409,94.0,Kentucky,Career,0.562,0.003,1524.0,15.9,0.553,7.9,39.0,3.9,11.8,0.31,,,,,,,,,,,,
+673,/players/sidney-moncrief-1.html,,0.616,122.0,Arkansas,Career,0.655,,3447.0,18.5,,,,,,,,,,,,,,,,,,
+674,/players/greg-monroe-1.html,,0.565,65.0,Georgetown,Career,0.585,0.052,2122.0,19.0,0.55,4.5,65.0,6.0,10.5,0.198,20.7,4.4,,,25.2,,8.6,,574.0,2.2,15.5,24.7
+675,/players/eric-montross-1.html,,0.562,139.0,UNC,Career,0.6,0.0,3501.0,13.5,0.585,,105.0,,,,4.2,4.3,,,,,,,,,14.3,20.3
+676,/players/gene-moore-2.html,,0.208,77.0,Saint Louis,Career,0.429,,845.0,,,,,,,,,,,,,,,,,,,
+677,/players/jackie-moore-2.html,,0.4,57.0,La Salle,Career,0.413,,,,,,,,,,,,,,,,,,,,,
+678,/players/johnny-moore-1.html,,0.266,112.0,Texas,Career,0.491,,,,,,60.0,,,,,,,,,,,,,,,
+679,/players/temetrius-morant-1.html,,0.501,65.0,Murray State,Career,0.597,0.298,2295.0,19.7,0.536,4.3,65.0,9.4,13.7,0.239,43.0,1.8,7.7,1.5,14.0,6.2,5.0,26.7,1416.0,2.2,9.8,27.2
+680,/players/eric-moreland-1.html,,0.661,89.0,Oregon State,Career,0.547,0.054,2227.0,21.6,0.544,4.1,58.0,2.7,6.8,0.122,9.5,8.3,4.3,2.9,29.7,1.4,11.2,19.4,697.0,1.8,20.4,16.6
+681,/players/chris-morris-1.html,,0.291,128.0,Auburn,Career,0.544,0.089,4058.0,14.5,,,64.0,,,,,,,,,,,,,,,
+682,/players/markieff-morris-1.html,,0.504,109.0,Kansas,Career,0.603,0.152,2105.0,18.4,0.583,5.5,43.0,5.5,10.9,0.208,10.9,4.8,10.3,3.6,22.9,6.7,13.0,25.7,733.0,1.7,17.7,21.8
+683,/players/adam-morrison-1.html,,0.397,95.0,Gonzaga,Career,0.591,0.262,2908.0,9.4,0.552,3.6,62.0,10.5,14.1,0.193,17.4,0.9,,,,,,,,,9.4,26.7
+684,/players/rick-mount-1.html,,0.317,72.0,Purdue,Career,0.536,,,,,,,,,,,,,,,,,,,,,
+685,/players/alonzo-mourning-1.html,,0.945,120.0,Georgetown,Career,0.638,0.021,3632.0,15.9,0.568,,65.0,,,,,,,,,,,,,,,
+686,/players/chris-mullin-1.html,,0.503,125.0,St. John's (NY),Career,0.616,,4668.0,16.1,,,90.0,,,,,,,,,,,,,,,
+687,/players/jeff-mullins-1.html,,0.302,86.0,Duke,Career,0.551,,,,,,,,,,,,,,,,,,,,,
+688,/players/calvin-murphy-1.html,,0.356,77.0,Niagara,Career,0.504,,,,,,,,,,,,,,,,,,,,,
+689,/players/dejounte-murray-1.html,,0.342,34.0,Washington,Career,0.485,0.243,1139.0,16.3,0.451,1.6,34.0,1.2,2.8,0.099,25.6,0.8,3.6,1.8,13.7,1.9,4.1,16.8,565.0,2.8,8.8,25.8
+690,/players/jamal-murray-1.html,,0.283,36.0,Kentucky,Career,0.59,0.515,1267.0,12.1,0.559,1.7,36.0,4.4,6.1,0.193,12.1,0.9,9.5,1.4,11.2,8.1,4.9,22.7,649.0,1.6,8.2,27.3
+691,/players/dikembe-mutombo-1.html,,0.693,96.0,Georgetown,Career,0.651,0.0,2261.0,18.5,0.644,,24.0,,,,,,,,,,,,,,,
+692,/players/larry-nance-1.html,,0.361,117.0,Clemson,Career,0.552,,2958.0,15.6,,,92.0,,,,,,,,,,,,,,,
+693,/players/steve-nash-1.html,,0.347,113.0,Santa Clara,Career,0.59,0.534,3402.0,19.7,0.537,1.6,23.0,2.8,4.4,,,,,,,,,,,,,
+694,/players/swen-nater-1.html,,0.288,58.0,UCLA,Career,0.526,,,,,,,,,,,,,,,,,,,,,
+695,/players/calvin-natt-1.html,,0.406,108.0,Louisiana-Monroe,Career,0.611,,,,,,,,,,,,,,,,,,,,,
+696,/players/willie-naulls-1.html,,0.378,79.0,UCLA,Career,0.453,,,,,,,,,,,,,,,,,,,,,
+697,/players/gary-neal-1.html,,0.333,57.0,La Salle,,0.549,0.512,1849.0,12.5,0.497,1.4,46.0,4.6,6.1,0.131,13.3,0.1,,,,,,,,,7.2,29.1
+698,/players/gary-neal-1.html,,0.386,49.0,Towson,,0.583,0.474,1767.0,11.1,0.531,1.2,46.0,7.1,8.3,0.187,24.5,0.3,,,,,,,,,6.8,35.9
+699,/players/ed-nealy-1.html,,0.365,123.0,Kansas State,Career,0.534,,4120.0,,,,118.0,,,,,,,,,,,,,,,
+700,/players/don-nelson-1.html,,0.657,72.0,Iowa,Career,0.555,,,,,,,,,,,,,,,,,,,,,
+701,/players/jameer-nelson-1.html,,0.377,125.0,St. Joseph's,Career,0.573,0.405,4311.0,17.2,0.527,8.2,125.0,11.7,19.9,0.184,,,,,,,,,,,,
+702,/players/bob-netolicky-1.html,,0.333,75.0,Drake,Career,0.523,,,,,,,,,,,,,,,,,,,,,
+703,/players/chuck-nevitt-1.html,,0.559,90.0,NC State,Career,0.559,,,,,,,,,,,,,,,,,,,,,
+704,/players/jack-nichols-2.html,,,34.0,Washington,Career,,,,,,,,,,,,,,,,,,,,,,
+705,/players/norm-nixon-1.html,,0.266,104.0,Duquesne,Career,0.53,,1106.0,,,,,,,,,,,,,,,,,,,
+706,/players/joakim-noah-1.html,,0.679,108.0,Florida,Career,0.642,0.003,2279.0,18.0,0.617,9.0,78.0,8.7,17.7,0.31,16.0,6.4,,,,,,,,,16.5,24.2
+707,/players/nerlens-noel-1.html,,0.627,24.0,Kentucky,Career,0.583,0.0,765.0,17.3,0.59,2.3,24.0,1.6,3.9,0.206,9.5,13.2,12.1,7.8,23.9,4.3,10.4,27.3,257.0,3.9,17.4,17.4
+708,/players/kendrick-nunn-1.html,,0.171,96.0,Illinois,,0.54,0.485,2660.0,11.7,0.515,3.6,61.0,3.6,7.2,0.108,12.3,0.7,4.5,2.2,13.1,2.3,1.3,15.7,919.0,2.3,7.0,21.3
+709,/players/kendrick-nunn-1.html,,0.236,30.0,Oakland,,0.58,0.565,1136.0,11.6,0.547,1.1,26.0,3.4,4.5,0.16,22.9,0.9,5.7,-0.8,11.0,6.5,2.7,23.8,693.0,2.2,7.0,32.5
+710,/players/jordan-nwora-1.html,,0.307,93.0,Louisville,Career,0.573,0.458,2446.0,12.9,0.535,4.7,59.0,6.1,10.8,0.177,8.5,1.1,7.9,2.5,20.0,5.4,5.1,21.3,1151.0,1.7,12.9,27.1
+711,/players/shaquille-oneal-1.html,,0.498,90.0,LSU,Career,0.609,0.0,2741.0,15.6,0.61,,,,,,,,,,,,,,,,,
+712,/players/lamar-odom-1.html,,0.432,32.0,Rhode Island,Career,0.556,0.238,1116.0,17.8,0.521,2.9,32.0,2.9,5.8,0.206,,,,,,,,,,,,
+713,/players/don-ohl-1.html,,0.242,66.0,Illinois,Career,0.427,,,,,,,,,,,,,,,,,,,,,
+714,/players/emeka-okafor-1.html,,0.449,103.0,UConn,Career,0.591,0.0,3274.0,14.6,0.59,14.1,103.0,8.2,22.3,0.272,4.6,8.3,,,,,,,,,17.5,23.5
+715,/players/jahlil-okafor-1.html,,0.462,38.0,Duke,Career,0.641,0.0,1143.0,15.6,0.664,2.2,38.0,4.5,6.7,0.235,9.4,4.5,10.4,2.7,18.2,7.7,14.8,30.7,609.0,1.5,16.6,27.6
+716,/players/isaac-okoro-1.html,,0.551,28.0,Auburn,Career,0.587,0.288,881.0,15.2,0.556,1.1,28.0,2.3,3.4,0.156,13.1,3.1,6.3,2.5,8.8,3.8,6.4,19.1,351.0,1.7,7.6,19.6
+717,/players/victor-oladipo-1.html,,0.476,104.0,Indiana,Career,0.604,0.188,2558.0,18.0,0.57,4.9,75.0,7.8,12.7,0.198,13.9,2.3,9.9,4.2,15.7,5.7,10.4,24.1,1118.0,3.8,13.1,22.7
+718,/players/hakeem-olajuwon-1.html,,0.58,100.0,Houston,Career,0.627,,2721.0,14.6,,,6.0,,,,,,,,,,,,,,,
+719,/players/mark-olberding-1.html,,0.486,26.0,Minnesota,Career,0.569,,,,,,,,,,,,,,,,,,,,,
+720,/players/michael-olowokandi-1.html,,0.437,77.0,Pacific,Career,0.575,0.0,1736.0,14.5,0.592,6.9,14.0,5.9,12.8,0.294,,,,,,,,,,,,
+721,/players/kelly-olynyk-1.html,,0.501,101.0,Gonzaga,Career,0.641,0.132,1735.0,16.6,0.616,3.6,31.0,6.7,10.3,0.237,13.1,3.1,9.9,2.6,20.4,7.3,11.1,27.0,851.0,1.8,16.0,24.9
+722,/players/billy-owens-1.html,,0.396,103.0,Syracuse,Career,0.553,0.11,3618.0,13.9,0.523,,103.0,,,,,,,,,,,,,,,
+723,/players/robert-parish-1.html,,0.222,108.0,Centenary (LA),Career,0.576,,3565.0,15.0,,,52.0,,,,,,,,,,,,,,,
+724,/players/chandler-parsons-1.html,,0.363,142.0,Florida,Career,0.56,0.411,3964.0,15.3,0.546,7.2,81.0,8.4,15.5,0.157,19.1,0.9,8.3,3.2,18.2,5.1,7.7,20.5,861.0,2.0,13.0,19.6
+725,/players/eric-paschall-1.html,,0.299,27.0,Fordham,,0.526,0.399,842.0,15.7,0.482,0.8,27.0,1.1,1.9,0.089,8.2,1.7,0.4,-1.7,14.5,2.1,6.1,17.5,380.0,1.5,10.2,29.5
+726,/players/eric-paschall-1.html,,0.373,110.0,Villanova,,0.593,0.411,3215.0,15.1,0.557,4.7,82.0,7.6,12.3,0.153,10.6,2.1,5.4,2.2,14.2,3.2,6.5,17.8,1239.0,1.5,10.4,20.4
+727,/players/chris-paul-1.html,,0.62,63.0,Wake Forest,Career,0.622,0.311,2110.0,18.3,0.545,3.1,62.0,6.3,9.4,0.178,32.3,0.4,,,,,,,,,6.6,20.6
+728,/players/billy-paultz-1.html,,0.378,57.0,St. John's (NY),Career,0.524,,,,,,,,,,,,,,,,,,,,,
+729,/players/jim-paxson-1.html,,0.263,108.0,Dayton,Career,0.555,,4068.0,15.2,,,,,,,,,,,,,,,,,,
+730,/players/john-paxson-1.html,,0.317,112.0,Notre Dame,Career,0.559,,3658.0,,,,86.0,,,,,,,,,,,,,,,
+731,/players/elfrid-payton-1.html,,0.625,100.0,Louisiana,Career,0.533,0.109,3155.0,20.1,0.5,4.9,78.0,6.1,10.9,0.139,32.0,1.6,4.0,1.6,13.5,2.3,5.2,21.3,1566.0,3.5,9.2,25.6
+732,/players/gary-payton-1.html,,0.287,120.0,Oregon State,Career,0.559,0.282,4528.0,16.9,0.537,,89.0,,,,,,,,,,,,,,,
+733,/players/will-perdue-1.html,,0.458,104.0,Vanderbilt,Career,0.615,0.0,2338.0,13.2,,,0.0,,,,,,,,,,,,,,,
+734,/players/sam-perkins-1.html,,0.517,135.0,UNC,Career,0.631,0.035,4459.0,12.6,,,,,,,,,,,,,,,,,,
+735,/players/chuck-person-1.html,,0.193,126.0,Auburn,Career,0.557,,4149.0,11.5,,,84.0,,,,,,,,,,,,,,,
+736,/players/wesley-person-1.html,,0.227,108.0,Auburn,Career,0.608,0.387,3775.0,13.4,0.589,,53.0,,,,,,,,,,,,,,,
+737,/players/morris-peterson-1.html,,0.367,137.0,Michigan State,Career,0.582,0.333,3075.0,12.9,0.547,8.2,62.0,10.0,18.3,0.238,,,,,,,,,,,,
+738,/players/geoff-petrie-1.html,,0.295,72.0,Princeton,Career,0.494,,,,,,,,,,,,,,,,,,,,,
+739,/players/richard-petruska-1.html,,0.386,28.0,Loyola Marymount,,0.609,0.006,639.0,13.7,0.589,,25.0,,,,,,,,,,,,,,,
+740,/players/richard-petruska-1.html,,0.312,33.0,UCLA,,0.518,0.021,868.0,15.1,0.502,,33.0,,,,,,,,,,,,,,,
+741,/players/bob-pettit-1.html,,0.472,72.0,LSU,Career,0.515,,,,,,,,,,,,,,,,,,,,,
+742,/players/bobby-phills-1.html,,0.24,113.0,Southern,Career,0.541,0.495,3004.0,9.3,0.518,,,,,,,,,,,,,,,,,
+743,/players/walt-piatkowski-1.html,,0.213,73.0,Bowling Green State,Career,0.501,,,,,,,,,,,,,,,,,,,,,
+744,/players/paul-pierce-1.html,,0.396,108.0,Kansas,Career,0.555,0.227,3030.0,15.8,0.521,9.6,103.0,8.0,17.6,0.233,,,,,,,,,,,,
+745,/players/ricky-pierce-1.html,,0.32,82.0,Rice,Career,0.542,,2883.0,11.0,,,,,,,,,,,,,,,,,,
+746,/players/dexter-pittman-1.html,,0.64,134.0,Texas,Career,0.625,0.0,1629.0,16.9,0.623,5.1,59.0,5.8,10.8,0.266,4.9,6.6,,,15.3,,16.6,,333.0,1.0,17.1,25.2
+747,/players/mason-plumlee-1.html,,0.622,141.0,Duke,Career,0.584,0.011,3652.0,19.2,0.575,8.2,99.0,8.3,16.6,0.181,11.1,5.0,8.4,4.0,23.7,4.4,10.8,22.0,1441.0,1.8,17.3,20.2
+748,/players/jim-pollard-1.html,,,23.0,Stanford,Career,,,,,,,,,,,,,,,,,,,,,,
+749,/players/scot-pollard-1.html,,0.691,128.0,Kansas,Career,0.588,0.001,2754.0,15.8,0.55,8.0,62.0,3.7,11.7,,,,,,,,,,,,,
+750,/players/kevin-porter-1.html,,0.321,77.0,Saint Francis (PA),Career,0.499,,,,,,,,,,,,,,,,,,,,,
+751,/players/bobby-portis-1.html,,0.35,70.0,Arkansas,Career,0.574,0.081,1994.0,9.6,0.54,3.8,70.0,6.6,10.5,0.21,9.8,5.3,8.4,2.1,18.6,6.3,12.0,26.7,989.0,2.1,15.3,24.2
+752,/players/james-posey-1.html,,0.63,95.0,Xavier,Career,0.633,0.251,2912.0,17.8,0.568,8.1,41.0,11.0,19.1,0.263,9.5,-0.6,,,,,,,,3.7,17.1,24.7
+753,/players/leon-powe-1.html,,0.731,54.0,California,Career,0.549,0.015,1757.0,12.0,0.495,3.8,53.0,4.4,8.2,0.186,8.2,1.4,,,,,,,,,18.6,29.8
+754,/players/cincinnatus-powell-1.html,,0.509,53.0,Portland,Career,0.534,,,,,,,,,,,,,,,,,,,,,
+755,/players/josh-powell-1.html,,0.444,65.0,NC State,Career,0.601,0.088,1500.0,20.1,0.566,3.2,60.0,4.0,7.1,0.19,9.0,3.6,,,,,,,,,12.1,22.4
+756,/players/norman-powell-1.html,,0.318,141.0,UCLA,Career,0.548,0.325,3555.0,12.5,0.512,5.0,83.0,6.0,11.0,0.123,11.5,1.7,4.5,2.6,11.9,1.8,1.9,16.4,1248.0,2.6,6.9,20.3
+757,/players/paul-pressey-1.html,,0.435,63.0,Tulsa,Career,0.541,,2023.0,24.3,,,62.0,,,,,,,,,,,,,,,
+758,/players/jim-price-1.html,,0.348,87.0,Louisville,Career,0.518,,,19.9,,,,,,,,,,,,,,,,,,
+759,/players/mark-price-1.html,,0.287,126.0,Georgia Tech,Career,0.555,0.095,4604.0,14.6,,,126.0,,,,22.9,0.1,,,,,,,,,3.4,
+760,/players/tayshaun-prince-1.html,,0.261,135.0,Kentucky,Career,0.557,0.438,4018.0,12.3,0.529,9.8,109.0,8.4,18.2,0.181,,,,,,,,,,,,
+761,/players/gabe-pruitt-1.html,,0.326,80.0,USC,Career,0.584,0.558,2590.0,16.7,0.548,3.6,70.0,6.4,10.0,0.154,20.2,0.6,,,,,,,,,7.0,25.7
+762,/players/immanuel-quickley-1.html,,0.459,67.0,Kentucky,Career,0.578,0.484,1672.0,12.2,0.499,2.4,27.0,4.3,6.7,0.16,11.3,0.3,5.8,2.4,11.2,3.5,1.4,16.4,625.0,1.5,6.7,20.3
+763,/players/kurt-rambis-1.html,,0.414,108.0,Santa Clara,Career,0.548,,1623.0,15.8,,,,,,,,,,,,,,,,,,
+764,/players/frank-ramsey-1.html,,0.395,91.0,Kentucky,Career,0.431,,,,,,,,,,,,,,,,,,,,,
+765,/players/julius-randle-1.html,,0.739,40.0,Kentucky,Career,0.567,0.046,1233.0,16.1,0.505,2.4,40.0,3.5,5.9,0.191,10.0,2.6,7.5,2.1,24.7,5.4,13.3,24.5,599.0,1.0,19.2,25.4
+766,/players/zach-randolph-1.html,,0.536,33.0,Michigan State,Career,0.604,0.004,654.0,15.2,0.587,2.8,8.0,2.3,5.1,0.315,,,,,,,,,,,,
+767,/players/kelvin-ransey-1.html,,0.213,112.0,Ohio State,Career,0.52,,3969.0,14.5,,,109.0,,,,23.4,0.3,,,,,,,,,5.3,
+768,/players/theo-ratliff-1.html,,0.64,111.0,Wyoming,Career,0.569,0.009,2926.0,17.1,0.548,,76.0,,,,,,,,,,,,,,,
+769,/players/clifford-ray-1.html,,0.4,75.0,Oklahoma,Career,0.496,,,,,,,,,,,,,,,,,,,,,
+770,/players/michael-redd-1.html,,0.35,96.0,Ohio State,Career,0.516,0.253,3324.0,12.3,0.488,5.4,96.0,6.0,11.4,0.137,,,,,,,,,,,,
+771,/players/bryant-reeves-1.html,,0.637,136.0,Oklahoma State,Career,0.608,0.005,4165.0,14.3,0.585,,133.0,,,,,,,,,,,,,,,
+772,/players/jr-reid-1.html,,0.592,96.0,UNC,Career,0.623,0.0,2788.0,19.0,0.601,,80.0,,,,,,,,,,,,,,,
+773,/players/glen-rice-1.html,,0.216,134.0,Michigan,Career,0.629,0.16,3989.0,11.2,,,101.0,,,,,,,,,,,,,,,
+774,/players/clint-richardson-1.html,,0.266,102.0,Seattle,Career,0.527,,,,,,,,,,,,,,,,,,,,,
+775,/players/jason-richardson-1.html,,0.285,70.0,Michigan State,Career,0.573,0.287,1522.0,12.0,0.558,5.0,35.0,3.7,8.7,0.229,,,,,,,,,,,,
+776,/players/micheal-ray-richardson-1.html,,0.27,107.0,Montana,Career,0.513,,,,,,,,,,,,,,,,,,,,,
+777,/players/pooh-richardson-1.html,,0.286,122.0,UCLA,Career,0.55,0.096,4297.0,21.7,,,115.0,,,,32.6,0.6,,,,,,,,,5.9,18.4
+778,/players/mitch-richmond-1.html,,0.407,64.0,Kansas State,Career,0.573,0.212,2164.0,14.5,0.527,,28.0,,,,,,,,,,,,,,,
+779,/players/isaiah-rider-1.html,,0.334,55.0,UNLV,Career,0.612,0.35,1914.0,14.3,0.574,,53.0,,,,,,,,,,,,,,,
+780,/players/eric-riley-1.html,,0.474,126.0,Michigan,Career,0.563,0.005,2262.0,21.6,0.531,,29.0,,,,,,,,,,,,,,,
+781,/players/pat-riley-1.html,,0.317,80.0,Kentucky,Career,0.506,,2856.0,,,,,,,,,,,,,,,,,,,
+782,/players/michael-riordan-1.html,,0.425,81.0,Providence,Career,0.505,,2863.0,,,,,,,,,,,,,,,,,,,
+783,/players/doc-rivers-1.html,,0.297,89.0,Marquette,Career,0.499,,2920.0,17.5,,,82.0,,,,,,,,,,,,,,,
+784,/players/austin-robbins-1.html,,0.394,48.0,Tennessee,Career,0.518,,,,,,,,,,,,,,,,,,,,,
+785,/players/andre-roberson-1.html,,0.459,105.0,Colorado,Career,0.561,0.193,2970.0,16.9,0.549,7.5,65.0,6.2,13.7,0.185,8.4,5.4,7.8,3.9,29.2,3.9,12.6,23.5,1058.0,3.3,21.0,19.0
+786,/players/marv-roberts-1.html,,0.434,78.0,Utah State,Career,0.514,,,,,,,,,,,,,,,,,,,,,
+787,/players/stanley-roberts-1.html,,0.311,32.0,LSU,Career,0.55,0.003,859.0,12.0,0.56,,,,,,,,,,,,,,,,,
+788,/players/alvin-robertson-1.html,,0.429,88.0,Arkansas,Career,0.55,,2519.0,21.6,,,32.0,,,,,,,,,,,,,,,
+789,/players/oscar-robertson-1.html,,0.566,88.0,Cincinnati,Career,0.595,,3412.0,,,,,,,,,,,,,,,,,,,
+790,/players/rick-robey-1.html,,0.496,105.0,Kentucky,Career,0.616,,2711.0,16.8,,,32.0,,,,,,,,,,,,,,,
+791,/players/clifford-robinson-1.html,,0.456,109.0,UConn,Career,0.495,0.022,3051.0,13.3,,,18.0,,,,,,,,,,,,,,,
+792,/players/david-robinson-1.html,,0.573,127.0,Navy,Career,0.623,0.001,3741.0,10.9,,,67.0,,,,,,,,,,,,,,,
+793,/players/glenn-robinson-1.html,,0.371,62.0,Purdue,Career,0.566,0.225,2176.0,13.8,0.523,,62.0,,,,,,,,,,,,,,,
+794,/players/jackie-robinson-1.html,,0.346,110.0,UNLV,Career,0.532,,2615.0,14.1,,,,,,,,,,,,,,,,,,
+795,/players/larry-robinson-1.html,,0.297,60.0,Centenary (LA),Career,0.556,0.09,2080.0,10.8,0.531,,,,,,,,,,,,,,,,,
+796,/players/john-roche-1.html,,0.479,85.0,South Carolina,Career,0.53,,,,,,,,,,,,,,,,,,,,,
+797,/players/guy-rodgers-1.html,,0.327,90.0,Temple,Career,0.455,,,,,,,,,,,,,,,,,,,,,
+798,/players/rodney-rogers-1.html,,0.368,89.0,Wake Forest,Career,0.621,0.129,2821.0,15.1,0.602,,86.0,,,,,,,,,,,,,,,
+799,/players/tree-rollins-1.html,,0.245,110.0,Clemson,Career,0.55,,1639.0,15.9,,,110.0,,,,,,,,,,,,,,,
+800,/players/rajon-rondo-1.html,,0.44,68.0,Kentucky,Career,0.536,0.196,1908.0,19.5,0.521,5.1,62.0,2.7,7.8,0.163,28.9,0.5,,,,,,,,,9.3,20.1
+801,/players/derrick-rose-1.html,,0.47,40.0,Memphis,Career,0.56,0.239,1168.0,16.7,0.517,3.8,39.0,2.8,6.6,0.226,30.4,0.9,,,,,,,,,8.3,26.0
+802,/players/jalen-rose-1.html,,0.406,102.0,Michigan,Career,0.553,0.272,3510.0,16.2,0.51,,101.0,,,,,,,,,,,,,,,
+803,/players/malik-rose-1.html,,0.644,120.0,Drexel,Career,0.58,0.018,3651.0,16.3,0.552,4.4,,4.7,9.1,,,,,,,,,,,,,
+804,/players/dan-roundfield-1.html,,0.371,79.0,Central Michigan,Career,0.56,,,,,,,,,,,,,,,,,,,,,
+805,/players/curtis-rowe-1.html,,0.522,90.0,UCLA,Career,0.557,,,,,,,,,,,,,,,,,,,,,
+806,/players/brandon-roy-1.html,,0.45,103.0,Washington,Career,0.585,0.148,2837.0,14.7,0.537,5.5,71.0,7.8,13.3,0.188,20.1,1.2,,,,,,,,,10.5,23.8
+807,/players/jeff-ruland-1.html,,0.548,89.0,Iona,Career,0.651,,1870.0,19.0,,,29.0,,,,,,,,,,,,,,,
+808,/players/bob-rule-2.html,,0.368,44.0,Colorado State,Career,0.542,,,,,,,,,,,,,,,,,,,,,
+809,/players/brandon-rush-1.html,,0.229,109.0,Kansas,Career,0.558,0.395,3408.0,14.8,0.535,8.1,101.0,6.8,14.9,0.174,11.3,1.8,,,,,,,,,9.8,21.8
+810,/players/bill-russell-1.html,,0.579,79.0,San Francisco,Career,0.529,,,,,,,,,,,,,,,,,,,,,
+811,/players/campy-russell-1.html,,0.309,51.0,Michigan,Career,0.499,,,,,,51.0,,,,,,,,,,,,,,,
+812,/players/cazzie-russell-1.html,,0.354,80.0,Michigan,Career,0.558,,,,,,80.0,,,,,,,,,,,,,,,
+813,/players/dangelo-russell-1.html,,0.303,35.0,Ohio State,Career,0.573,0.449,1188.0,14.8,0.541,2.4,34.0,4.4,6.8,0.229,30.1,1.1,11.9,3.3,15.4,8.6,3.6,26.6,671.0,2.8,9.8,30.2
+814,/players/domantas-sabonis-1.html,,0.516,74.0,Gonzaga,Career,0.662,0.023,1971.0,16.6,0.636,4.8,32.0,7.5,12.3,0.249,9.7,2.2,7.1,2.3,26.4,4.8,12.4,27.4,971.0,1.2,20.1,23.9
+815,/players/john-salley-1.html,,0.619,125.0,Georgia Tech,Career,0.605,,4197.0,20.7,,,125.0,,,,14.6,4.7,,,,,,,,,12.8,
+816,/players/ralph-sampson-1.html,,0.41,132.0,Virginia,Career,0.588,,4070.0,15.3,,,95.0,,,,,,,,,,,,,,,
+817,/players/tomsatch-sanders-1.html,,0.56,71.0,NYU,Career,0.559,,,,,,,,,,,,,,,,,,,,,
+818,/players/frank-saul-1.html,,0.666,24.0,Seton Hall,Career,0.825,,,,,,,,,,,,,,,,,,,,,
+819,/players/brian-scalabrine-1.html,,0.427,92.0,USC,Career,0.582,0.13,3037.0,20.1,0.535,5.0,91.0,8.0,13.0,0.171,,,,,,,,,,,,
+820,/players/bill-schaeffer-1.html,,0.395,79.0,St. John's (NY),Career,0.604,,1705.0,13.4,,,,,,,,,,,,,,,,,,
+821,/players/fred-schaus-1.html,,,39.0,West Virginia,Career,,,,,,,,,,,,,,,,,,,,,,
+822,/players/dolph-schayes-1.html,,0.342,80.0,NYU,Career,0.774,,,,,,,,,,,,,,,,,,,,,
+823,/players/dick-schnittker-1.html,,0.669,41.0,Ohio State,Career,0.683,,,,,,,,,,,,,,,,,,,,,
+824,/players/detlef-schrempf-1.html,,0.492,122.0,Washington,Career,0.563,,3638.0,19.1,,,31.0,,,,,,,,,,,,,,,
+825,/players/byron-scott-1.html,,0.294,90.0,Arizona State,Career,0.541,,3145.0,14.4,,,88.0,,,,,,,,,,,,,,,
+826,/players/charlie-scott-1.html,,0.326,91.0,UNC,Career,0.518,,,,,,,,,,,,,,,,,,,,,
+827,/players/dennis-scott-1.html,,0.216,99.0,Georgia Tech,Career,0.583,0.505,3686.0,11.1,0.559,,98.0,,,,,,,,,,,,,,,
+828,/players/ken-sears-1.html,,0.482,103.0,Santa Clara,Career,0.502,,,,,,,,,,,,,,,,,,,,,
+829,/players/rony-seikaly-1.html,,0.614,136.0,Syracuse,Career,0.57,0.001,3764.0,15.5,,,133.0,,,,,,,,,,,,,,,
+830,/players/frank-selvy-1.html,,0.423,78.0,Furman,Career,0.493,,,,,,,,,,,,,,,,,,,,,
+831,/players/collin-sexton-1.html,,0.575,33.0,Alabama,Career,0.567,0.299,987.0,14.2,0.498,1.2,32.0,3.2,4.4,0.177,27.8,0.3,6.9,1.1,9.8,5.8,4.1,23.5,622.0,1.6,7.0,32.9
+832,/players/landry-shamet-1.html,,0.326,71.0,Wichita State,Career,0.641,0.59,2029.0,13.2,0.609,3.3,68.0,7.5,10.8,0.213,25.4,0.8,8.9,2.4,9.3,6.5,2.2,21.0,903.0,1.5,5.9,19.8
+833,/players/charlie-share-1.html,,0.509,94.0,Bowling Green State,Career,0.489,,728.0,,,,,,,,,,,,,,,,,,,
+834,/players/bill-sharman-1.html,,,82.0,USC,Career,,,,,,,,,,,,,,,,,,,,,,
+835,/players/brian-shaw-1.html,,0.337,41.0,Saint Mary's,,0.448,,1105.0,24.6,,,26.0,,,,,,,,,,,,,,,
+836,/players/brian-shaw-1.html,,0.265,59.0,UCSB,,0.518,0.19,2086.0,23.1,,,58.0,,,,,,,,,,,,,,,
+837,/players/lonnie-shelton-1.html,,0.32,80.0,Oregon State,Career,0.565,,,14.0,,,,,,,,,,,,,,,,,,
+838,/players/gene-shue-1.html,,0.479,72.0,Maryland,Career,0.522,,,,,,,,,,,,,,,,,,,,,
+839,/players/john-shumate-1.html,,0.425,59.0,Notre Dame,Career,0.629,,1029.0,,,,,,,,,,,,,,,,,,,
+840,/players/iman-shumpert-1.html,,0.39,92.0,Georgia Tech,Career,0.503,0.373,2877.0,19.5,0.453,5.5,91.0,4.1,9.7,0.135,26.5,0.6,9.6,4.2,12.9,5.4,4.6,19.9,854.0,4.3,7.9,23.9
+841,/players/pascal-siakam-1.html,,0.424,68.0,New Mexico State,Career,0.586,0.021,2224.0,12.0,0.553,5.8,61.0,7.9,13.7,0.247,11.1,6.2,6.9,2.3,20.9,4.7,13.5,29.0,1078.0,1.7,17.4,25.4
+842,/players/jerry-sichting-1.html,,0.369,111.0,Purdue,Career,0.578,,3149.0,,,,62.0,,,,23.4,0.0,,,,,,,,,3.2,
+843,/players/larry-siegfried-1.html,,0.417,78.0,Ohio State,Career,0.515,,,,,,,,,,,,,,,,,,,,,
+844,/players/paul-silas-1.html,,0.402,81.0,Creighton,Career,0.44,,,,,,,,,,,,,,,,,,,,,
+845,/players/wayne-simien-1.html,,0.508,106.0,Kansas,Career,0.612,0.024,2817.0,12.5,0.561,7.2,69.0,10.4,17.6,0.249,8.4,1.6,,,,,,,,,16.6,26.2
+846,/players/ben-simmons-1.html,,0.769,33.0,LSU,Career,0.6,0.008,1151.0,17.4,0.561,2.1,32.0,3.9,6.0,0.207,27.4,2.5,10.3,3.3,26.8,7.0,9.6,29.0,674.0,3.1,18.2,26.4
+847,/players/bobby-simmons-1.html,,0.456,93.0,DePaul,Career,0.552,0.389,2939.0,17.1,0.493,5.2,92.0,5.9,11.1,0.151,,,,,,,,,,,,
+848,/players/lionel-simmons-1.html,,0.376,131.0,La Salle,Career,0.55,0.054,5045.0,11.4,0.512,,131.0,,,,,,,,,,,,,,,
+849,/players/dickey-simpkins-1.html,,0.625,125.0,Providence,Career,0.534,0.029,3343.0,18.9,0.491,,29.0,,,,,,,,,,,,,,,
+850,/players/ralph-simpson-1.html,,0.287,23.0,Michigan State,Career,0.499,,,,,,,,,,,,,,,,,,,,,
+851,/players/kyle-singler-1.html,,0.342,148.0,Duke,Career,0.548,0.392,4887.0,12.6,0.504,12.2,147.0,13.5,25.7,0.21,11.9,1.8,6.4,1.8,14.0,4.6,7.5,21.6,1272.0,1.6,11.6,24.7
+852,/players/scott-skiles-1.html,,0.323,118.0,Michigan State,Career,0.573,0.031,4285.0,19.1,,,115.0,,,,26.4,0.0,,,,,,,,,4.0,
+853,/players/al-skinner-1.html,,0.429,79.0,UMass,Career,0.596,,2616.0,,,,,,,,,,,,,,,,,,,
+854,/players/myer-skoog-1.html,,0.312,65.0,Minnesota,Career,0.53,,,,,,,,,,,,,,,,,,,,,
+855,/players/jerry-sloan-1.html,,0.285,58.0,Evansville,Career,0.477,,,,,,,,,,,,,,,,,,,,,
+856,/players/marcus-smart-1.html,,0.612,64.0,Oklahoma State,Career,0.542,0.388,2120.0,16.4,0.47,5.4,63.0,5.6,11.0,0.207,28.4,2.1,11.4,5.9,15.1,5.5,5.2,25.4,1126.0,5.2,10.3,28.2
+857,/players/charles-smith-1.html,,0.59,122.0,Pitt,Career,0.565,0.008,4103.0,12.1,,,122.0,,,,,,,,,,,,,,,
+858,/players/craig-smith-1.html,,0.463,130.0,Boston College,Career,0.583,0.041,4415.0,12.7,0.563,10.2,127.0,13.2,23.4,0.212,11.0,1.4,,,,,,,,,14.5,27.0
+859,/players/dennis-smithjr-1.html,,0.476,32.0,NC State,Career,0.563,0.364,1114.0,17.3,0.52,0.9,32.0,3.1,4.0,0.142,34.2,1.2,6.5,1.1,11.5,5.4,2.7,23.1,621.0,3.1,7.3,27.2
+860,/players/greg-smith-14.html,,0.327,79.0,Western Kentucky,Career,0.496,,,,,,,,,,,,,,,,,,,,,
+861,/players/joe-smith-1.html,,0.624,64.0,Maryland,Career,0.608,0.032,2098.0,11.0,0.557,,64.0,,,,,,,,,,,,,,,
+862,/players/kenny-smith-1.html,,0.29,127.0,UNC,Career,0.586,0.174,4218.0,21.1,,,68.0,,,,,,,,,,,,,,,
+863,/players/larry-smith-1.html,,0.427,77.0,Alcorn State,Career,0.603,,849.0,12.7,,,,,,,,,,,,,,,,,,
+864,/players/phil-smith-1.html,,0.343,84.0,San Francisco,Career,0.528,,,,,,,,,,,,,,,,,,,,,
+865,/players/steve-smith-1.html,,0.362,122.0,Michigan State,Career,0.57,0.208,4195.0,16.2,0.531,,55.0,,,,,,,,,,,,,,,
+866,/players/rik-smits-1.html,,0.504,107.0,Marist,Career,0.632,0.002,3141.0,13.6,,,48.0,,,,,,,,,,,,,,,
+867,/players/mike-smrek-1.html,,0.451,108.0,Canisius,Career,0.588,,2512.0,21.6,,,34.0,,,,,,,,,,,,,,,
+868,/players/eric-snow-1.html,,0.424,113.0,Michigan State,Career,0.531,0.145,2850.0,29.3,0.54,,87.0,,,,,,,,,,,,,,,
+869,/players/dick-snyder-2.html,,0.35,80.0,Davidson,Career,0.598,,,,,,,,,,,,,,,,,,,,,
+870,/players/willie-sojourner-1.html,,0.564,81.0,Weber State,Career,0.568,,,,,,,,,,,,,,,,,,,,,
+871,/players/willie-somerset-1.html,,0.38,76.0,Duquesne,Career,0.514,,,,,,,,,,,,,,,,,,,,,
+872,/players/marreese-speights-1.html,,0.371,69.0,Florida,Career,0.647,0.0,1063.0,13.5,0.633,3.9,36.0,4.9,8.9,0.333,,,,,,,,,,,,
+873,/players/felton-spencer-1.html,,0.796,134.0,Louisville,Career,0.651,0.0,2464.0,18.4,0.628,,40.0,,,,,,,,,,,,,,,
+874,/players/latrell-sprewell-1.html,,0.313,68.0,Alabama,Career,0.582,0.266,2131.0,15.6,0.552,,51.0,,,,,,,,,,,,,,,
+875,/players/larry-spriggs-1.html,,0.32,83.0,Howard,Career,0.539,,,,,,,,,,,,,,,,,,,,,
+876,/players/jerry-stackhouse-1.html,,0.653,69.0,UNC,Career,0.579,0.154,1904.0,17.5,0.523,,34.0,,,,16.0,2.1,,,,,,,,,12.2,28.8
+877,/players/kevin-stacom-1.html,,0.474,26.0,Holy Cross,,0.516,,,,,,,,,,,,,,,,,,,,,
+878,/players/kevin-stacom-1.html,,0.178,63.0,Providence,,0.554,,2251.0,,,,,,,,,,,,,,,,,,,
+879,/players/dave-stallworth-1.html,,0.486,79.0,Wichita State,Career,0.581,,,,,,,,,,,,,,,,,,,,,
+880,/players/john-starks-1.html,,0.439,30.0,Oklahoma State,Career,0.618,0.348,982.0,20.1,0.563,,28.0,,,,,,,,,,,,,,,
+881,/players/larry-steele-1.html,,0.306,75.0,Kentucky,Career,0.524,,2295.0,,,,,,,,,,,,,,,,,,9.0,
+882,/players/matt-steigenga-1.html,,0.378,124.0,Michigan State,Career,0.588,0.084,3332.0,17.6,0.557,,60.0,,,,,,,,,,,,,,,
+883,/players/isaiah-stewart-2.html,,0.591,32.0,Washington,Career,0.629,0.059,1031.0,14.1,0.577,2.0,32.0,3.7,5.7,0.222,6.3,7.0,7.4,2.4,19.5,5.0,10.7,26.9,510.0,0.9,15.5,24.5
+884,/players/larry-stewart-1.html,,0.61,91.0,Coppin State,Career,0.675,0.003,3275.0,15.0,,,63.0,,,,,,,,,,,,,,,
+885,/players/steve-stipanovich-1.html,,0.44,128.0,Missouri,Career,0.576,,4224.0,16.5,,,123.0,,,,8.6,2.5,,,,,,,,,16.6,
+886,/players/john-stockton-1.html,,0.472,107.0,Gonzaga,Career,0.595,,3378.0,20.8,,,27.0,,,,,,,,,,,,,,,
+887,/players/maurice-stokes-1.html,,0.325,54.0,Saint Francis (PA),Career,0.469,,,,,,,,,,,,,,,,,,,,,
+888,/players/george-stone-1.html,,0.236,77.0,Marshall,Career,0.496,,,,,,,,,,,,,,,,,,,,,
+889,/players/damon-stoudamire-1.html,,0.323,123.0,Arizona,Career,0.597,0.504,3666.0,19.6,0.558,,92.0,,,,22.0,0.5,,,,,,,,,6.1,19.7
+890,/players/rod-strickland-1.html,,0.41,87.0,DePaul,Career,0.567,0.065,2880.0,16.4,,,50.0,,,,36.8,0.4,,,,,,,,,6.6,24.8
+891,/players/rodney-stuckey-1.html,,0.474,59.0,Eastern Washington,Career,0.581,0.306,1955.0,14.2,0.52,1.1,59.0,7.2,8.3,0.17,30.7,0.6,,,,,,,,,8.9,36.3
+892,/players/wally-szczerbiak-1.html,,0.284,105.0,Miami (OH),Career,0.621,0.361,3192.0,14.6,0.59,8.2,27.0,14.5,22.7,0.284,,,,,,,,,,,,
+893,/players/roy-tarpley-1.html,,0.368,122.0,Michigan,Career,0.566,,3232.0,15.4,,,84.0,,,,,,,,,,,,,,,
+894,/players/levern-tart-1.html,,0.467,73.0,Bradley,Career,0.538,,,,,,,,,,,,,,,,,,,,,
+895,/players/jaesean-tate-1.html,,0.402,129.0,Ohio State,Career,0.57,0.117,3611.0,15.0,0.568,6.6,110.0,7.2,13.8,0.153,12.2,2.0,5.3,2.8,16.5,2.5,7.5,19.7,1463.0,2.2,12.2,22.1
+896,/players/jayson-tatum-1.html,,0.381,29.0,Duke,Career,0.566,0.321,966.0,15.0,0.507,1.8,27.0,2.3,4.1,0.169,12.4,3.2,7.9,3.2,19.7,4.6,4.8,22.0,467.0,2.3,12.6,26.2
+897,/players/brian-taylor-1.html,,0.296,51.0,Princeton,Career,0.546,,,,,,,,,,,,,,,,,,,,,
+898,/players/rolliefatty-taylor-1.html,,0.441,50.0,La Salle,Career,0.492,,,,,,,,,,,,,,,,,,,,,
+899,/players/maurice-taylor-1.html,,0.294,98.0,Michigan,Career,0.521,0.015,2793.0,14.2,0.499,4.7,94.0,3.5,8.2,,,,,,,,,,,,,
+900,/players/jeff-teague-1.html,,0.529,61.0,Wake Forest,Career,0.586,0.268,1883.0,17.4,0.518,3.5,52.0,5.6,9.1,0.193,16.7,1.2,,,,,,,,,5.0,24.3
+901,/players/jason-terry-1.html,,0.336,129.0,Arizona,Career,0.57,0.465,3244.0,19.2,0.529,5.7,47.0,7.5,13.2,0.163,,,,,,,,,,,,
+902,/players/reggie-theus-1.html,,0.438,91.0,UNLV,Career,0.535,,2300.0,19.4,,,,,,,,,,,,,,,,,,
+903,/players/david-thirdkill-1.html,,0.437,94.0,Bradley,Career,0.534,,3363.0,8.3,,,,,,,,,,,,,,,,,,
+904,/players/isaiah-thomas-1.html,,0.484,105.0,Washington,Career,0.538,0.388,3197.0,14.8,0.489,4.7,104.0,8.5,13.2,0.165,26.2,0.2,8.1,1.9,10.7,6.2,2.3,21.5,1184.0,2.1,6.5,26.6
+905,/players/isiah-thomas-1.html,,0.455,63.0,Indiana,Career,0.581,,2176.0,22.7,,,63.0,,,,,,,,,,,,,,,
+906,/players/tim-thomas-1.html,,0.365,32.0,Villanova,Career,0.555,0.337,1005.0,15.7,0.506,2.0,31.0,2.6,4.6,0.183,,,,,,,,,,,,
+907,/players/tyrus-thomas-1.html,,0.548,32.0,LSU,Career,0.627,0.004,829.0,15.8,0.61,4.3,21.0,2.9,7.3,0.351,10.4,8.1,,,,,,,,,19.7,21.7
+908,/players/billy-thompson-1.html,,0.432,143.0,Louisville,Career,0.567,,4065.0,24.2,,,105.0,,,,,,,,,,,,,,,
+909,/players/david-thompson-1.html,,0.333,86.0,NC State,Career,0.587,,1097.0,,,,,,,,,,,,,,,,,,,
+910,/players/george-thompson-3.html,,0.499,87.0,Marquette,Career,0.531,,,,,,,,,,,,,,,,,,,,,
+911,/players/john-thompson-1.html,,0.496,79.0,Providence,Career,0.559,,2031.0,,,,,,,,,,,,,,,,,,,
+912,/players/klay-thompson-1.html,,0.27,98.0,Washington State,Career,0.55,0.438,3367.0,15.3,0.509,5.5,96.0,7.9,13.4,0.159,20.3,2.7,9.8,3.0,13.8,6.8,3.3,23.6,1250.0,2.6,8.7,31.9
+913,/players/mychal-thompson-1.html,,0.344,96.0,Minnesota,Career,0.59,,,,,,,,,,,,,,,,,,,,,
+914,/players/tristan-thompson-2.html,,0.829,36.0,Texas,Career,0.536,0.0,1104.0,12.7,0.546,2.7,34.0,2.8,5.5,0.2,8.1,7.2,8.9,4.5,13.7,4.4,14.0,24.2,475.0,1.8,13.8,22.4
+915,/players/skip-thoren-1.html,,0.348,74.0,Illinois,Career,0.562,,,,,,,,,,,,,,,,,,,,,
+916,/players/rod-thorn-1.html,,0.364,82.0,West Virginia,Career,0.488,,,,,,,,,,,,,,,,,,,,,
+917,/players/al-thornton-1.html,,0.505,124.0,Florida State,Career,0.593,0.139,2723.0,14.4,0.559,4.6,69.0,8.9,13.6,0.199,7.3,2.0,,,,,,,,,14.6,28.3
+918,/players/marcus-thornton-1.html,,0.306,66.0,LSU,Career,0.572,0.428,2159.0,10.1,0.537,3.8,65.0,7.1,10.9,0.201,12.7,0.8,,,,,,,,,9.3,30.1
+919,/players/otis-thorpe-1.html,,0.531,113.0,Providence,Career,0.597,,3702.0,16.4,,,99.0,,,,,,,,,,,,,,,
+920,/players/nate-thurmond-1.html,,0.351,76.0,Bowling Green State,Career,0.465,,,,,,,,,,,,,,,,,,,,,
+921,/players/matisse-thybulle-1.html,,0.21,135.0,Washington,Career,0.55,0.52,3963.0,18.2,0.522,6.7,134.0,4.4,11.1,0.112,12.8,4.9,7.0,5.3,8.4,1.7,3.4,16.5,1238.0,4.7,5.9,17.0
+922,/players/jamaal-tinsley-1.html,,0.459,68.0,Iowa State,Career,0.477,0.217,2211.0,23.4,0.423,7.3,68.0,1.1,8.4,0.152,,,,,,,,,,,,
+923,/players/rudy-tomjanovich-1.html,,0.257,72.0,Michigan,Career,0.506,,,,,,70.0,,,,,,,,,,,,,,,
+924,/players/andrew-toney-1.html,,0.367,107.0,Louisiana,Career,0.572,,3527.0,17.5,,,50.0,,,,,,,,,,,,,,,
+925,/players/bill-tosheff-1.html,,0.231,66.0,Indiana,Career,0.341,,,,,,,,,,,,,,,,,,,,,
+926,/players/monte-towe-1.html,,0.223,86.0,NC State,Career,0.517,,992.0,,,,,,,,,,,,,,,,,,,
+927,/players/karl-anthony-towns-1.html,,0.523,39.0,Kentucky,Career,0.627,0.031,822.0,14.2,0.57,2.9,39.0,3.5,6.4,0.311,11.6,11.5,14.3,7.6,22.3,6.6,14.2,31.4,391.0,1.4,18.5,23.7
+928,/players/kelly-tripucka-1.html,,0.503,112.0,Notre Dame,Career,0.604,,3060.0,10.5,,,81.0,,,,9.6,0.4,,,,,,,,,9.7,
+929,/players/pj-tucker-1.html,,0.492,87.0,Texas,Career,0.57,0.005,2518.0,15.7,0.528,7.6,69.0,6.1,13.7,0.218,13.8,0.6,,,,,,,,,15.7,23.7
+930,/players/trent-tucker-1.html,,0.188,115.0,Minnesota,Career,0.525,,2990.0,15.4,,,,,,,,,,,,,,,,,,
+931,/players/ronny-turiaf-1.html,,0.866,127.0,Gonzaga,Career,0.588,0.017,3239.0,15.1,0.52,9.0,73.0,9.7,18.7,0.231,7.4,4.2,,,,,,,,,16.4,27.6
+932,/players/myles-turner-1.html,,0.436,34.0,Texas,Career,0.556,0.241,755.0,13.2,0.488,2.1,7.0,1.9,4.0,0.213,6.2,12.3,9.3,6.0,24.9,3.4,7.2,25.5,310.0,0.8,16.7,25.1
+933,/players/jack-twyman-1.html,,0.343,90.0,Cincinnati,Career,0.465,,2590.0,,,,,,,,,,,,,,,,,,,
+934,/players/terry-tyler-1.html,,0.292,110.0,Detroit,Career,0.585,,3246.0,,,,29.0,,,,,,,,,,,,,,,
+935,/players/wes-unseld-1.html,,0.579,82.0,Louisville,Career,0.585,,,,,,,,,,,,,,,,,,,,,
+936,/players/dick-vanarsdale-1.html,,0.535,72.0,Indiana,Career,0.522,,,,,,,,,,,,,,,,,,,,,
+937,/players/tom-vanarsdale-1.html,,0.379,72.0,Indiana,Career,0.484,,,,,,,,,,,,,,,,,,,,,
+938,/players/nick-van-exel-1.html,,0.264,65.0,Cincinnati,Career,0.524,0.492,1883.0,12.4,0.497,,29.0,,,,,,,,,,,,,,,
+939,/players/keith-van-horn-1.html,,0.382,122.0,Utah,Career,0.631,0.301,3732.0,12.3,0.583,5.3,89.0,10.5,15.8,,,,,,,,,,,,,
+940,/players/norman-vanlier-1.html,,0.406,75.0,Saint Francis (PA),Career,0.469,,,,,,,,,,,,,,,,,,,,,
+941,/players/fred-van-vleet-1.html,,0.425,141.0,Wichita State,Career,0.551,0.336,3775.0,13.7,0.491,8.8,102.0,12.0,20.9,0.221,34.4,0.4,9.5,4.6,12.0,4.9,2.8,22.8,1596.0,3.7,7.3,21.1
+942,/players/kiki-vandeweghe-1.html,,0.422,113.0,UCLA,Career,0.611,,2819.0,13.1,,,,,,,,,,,,,,,,,,
+943,/players/jarvis-varnado-1.html,,0.553,141.0,Mississippi State,Career,0.597,0.004,3594.0,14.0,0.59,12.6,119.0,8.7,21.2,0.236,5.3,11.9,,,22.9,,10.6,,477.0,1.2,16.1,18.9
+944,/players/jacque-vaughn-1.html,,0.564,126.0,Kansas,Career,0.569,0.327,3807.0,24.9,0.522,4.1,125.0,3.8,7.9,,,,,,,,,,,,,
+945,/players/bob-verga-1.html,,0.279,80.0,Duke,Career,0.522,,,,,,,,,,,,,,,,,,,,,
+946,/players/charlie-villanueva-1.html,,0.389,63.0,UConn,Career,0.568,0.116,1405.0,14.9,0.541,4.8,35.0,3.5,8.4,0.238,6.9,4.9,,,,,,,,,14.0,22.4
+947,/players/jay-vincent-1.html,,0.309,114.0,Michigan State,Career,0.537,,3659.0,,,,54.0,,,,,,,,,,,,,,,
+948,/players/sam-vincent-1.html,,0.425,110.0,Michigan State,Career,0.551,0.008,3864.0,17.2,,,99.0,,,,19.5,0.3,,,,,,,,,5.4,
+949,/players/danny-vranes-1.html,,0.558,111.0,Utah,Career,0.617,,3455.0,12.5,,,110.0,,,,,,,,,,,,,,,
+950,/players/nikola-vucevic-1.html,,0.355,87.0,USC,Career,0.571,0.169,2409.0,13.3,0.535,5.5,67.0,6.5,12.0,0.199,10.1,4.4,9.4,2.8,24.5,6.7,10.8,24.2,884.0,1.0,17.7,22.7
+951,/players/dwyane-wade-1.html,,0.421,65.0,Marquette,Career,0.557,0.1,1993.0,15.0,0.511,7.3,65.0,6.0,13.3,0.268,27.9,2.9,,,,,,,,,13.6,33.6
+952,/players/franz-wagner-1.html,,0.261,55.0,Michigan,Career,0.577,0.459,1718.0,11.7,0.539,3.4,55.0,4.0,7.5,0.174,11.8,2.5,9.4,5.0,18.3,4.4,3.2,19.5,626.0,2.3,11.2,19.7
+953,/players/milt-wagner-1.html,,0.276,144.0,Louisville,Career,0.542,0.003,4083.0,18.1,,,112.0,,,,,,,,,,,,,,,
+954,/players/dion-waiters-1.html,,0.303,71.0,Syracuse,Career,0.551,0.362,1445.0,11.1,0.516,2.7,0.0,4.4,7.1,0.198,19.7,1.3,8.9,4.6,8.5,4.4,2.5,23.3,642.0,4.4,5.5,25.0
+955,/players/antoine-walker-1.html,,0.282,69.0,Kentucky,Career,0.494,0.143,1450.0,15.4,0.467,3.8,37.0,0.9,4.7,,,,,,,,,,,,,
+956,/players/chet-walker-1.html,,0.53,81.0,Bradley,Career,0.581,,,,,,,,,,,,,,,,,,,,,
+957,/players/darrell-walker-1.html,,0.546,90.0,Arkansas,Career,0.548,,3070.0,22.2,,,,,,,,,,,,,,,,,,
+958,/players/jimmy-walker-2.html,,0.386,81.0,Providence,Career,0.543,,3141.0,,,,,,,,,,,,,,,,,,,
+959,/players/kemba-walker-1.html,,0.474,111.0,UConn,Career,0.539,0.287,3647.0,13.5,0.475,6.4,77.0,11.5,17.9,0.196,26.6,0.7,13.1,3.9,10.6,9.2,3.5,25.7,1450.0,3.2,7.3,26.2
+960,/players/samaki-walker-1.html,,0.572,50.0,Louisville,Career,0.578,0.014,1475.0,13.2,0.572,1.1,,2.1,3.2,,,,,,,,,,,,,
+961,/players/wally-walker-1.html,,0.246,104.0,Virginia,Career,0.551,,3231.0,13.6,,,,,,,,,,,,,,,,,,
+962,/players/john-wall-1.html,,0.53,37.0,Kentucky,Career,0.562,0.26,1288.0,21.4,0.503,2.6,37.0,3.7,6.3,0.196,34.8,1.5,,,10.1,,2.7,,669.0,2.9,6.6,25.7
+963,/players/gerald-wallace-1.html,,0.538,36.0,Alabama,Career,0.485,0.219,824.0,19.2,0.457,3.0,2.0,0.4,3.5,0.168,,,,,,,,,,,,
+964,/players/rasheed-wallace-1.html,,0.391,69.0,UNC,Career,0.638,0.007,1762.0,12.5,0.636,,41.0,,,,4.2,7.9,,,,,,,,,16.2,19.4
+965,/players/paul-walther-1.html,,0.376,51.0,Tennessee,Career,0.422,,,,,,,,,,,,,,,,,,,,,
+966,/players/bill-walton-1.html,,0.371,87.0,UCLA,Career,0.655,,,,,,,,,,,,,,,,,,,,,
+967,/players/luke-walton-1.html,,0.406,129.0,Arizona,Career,0.502,0.232,3514.0,22.2,0.459,7.7,84.0,2.7,10.4,0.118,30.2,0.6,,,,,,,,,10.4,21.4
+968,/players/john-warren-2.html,,0.361,84.0,St. John's (NY),Career,0.561,,,,,,,,,,,,,,,,,,,,,
+969,/players/kermit-washington-1.html,,0.399,73.0,American,Career,0.536,,899.0,,,,,,,,,,,,,,,,,,,
+970,/players/pj-washington-1.html,,0.619,72.0,Kentucky,Career,0.577,0.159,2036.0,14.8,0.551,3.8,63.0,5.3,9.1,0.179,11.8,4.2,8.3,3.6,17.4,4.7,9.0,21.9,908.0,1.6,13.5,23.3
+971,/players/clarence-weatherspoon-1.html,,0.535,117.0,Southern Miss,Career,0.613,0.052,4157.0,14.2,0.587,,58.0,,,,,,,,,,,,,,,
+972,/players/nick-weatherspoon-1.html,,0.291,71.0,Illinois,Career,0.482,,880.0,,,,47.0,,,,,,,,,,,,,,,
+973,/players/chris-webber-1.html,,0.342,70.0,Michigan,Career,0.605,0.155,2231.0,16.6,0.613,,70.0,,,,,,,,,,,,,,,
+974,/players/scott-wedman-1.html,,0.297,75.0,Colorado,Career,0.524,,,,,,,,,,,,,,,,,,,,,
+975,/players/bob-weiss-1.html,,0.301,67.0,Penn State,Career,0.474,,,,,,,,,,,,,,,,,,,,,
+976,/players/bill-wennington-1.html,,0.444,124.0,St. John's (NY),Career,0.614,,2995.0,15.2,,,26.0,,,,,,,,,,,,,,,
+977,/players/david-west-1.html,,0.64,126.0,Xavier,Career,0.598,0.04,4210.0,15.2,0.538,18.0,126.0,13.7,31.7,0.301,10.7,5.0,,,,,,,,,16.3,26.8
+978,/players/jerry-west-1.html,,0.513,93.0,West Virginia,Career,0.559,,3138.0,,,,,,,,,,,,,,,,,,,
+979,/players/russell-westbrook-1.html,,0.365,75.0,UCLA,Career,0.532,0.2,1643.0,17.2,0.499,3.9,35.0,2.3,6.2,0.15,24.4,0.4,,,,,,,,,7.1,21.8
+980,/players/paul-westphal-1.html,,0.431,66.0,USC,Career,0.547,,,,,,,,,,,,,,,,,,,,,
+981,/players/coby-white-1.html,,0.293,35.0,UNC,Career,0.556,0.523,999.0,15.5,0.516,1.7,35.0,2.4,4.1,0.165,24.4,1.3,8.0,2.8,11.3,5.2,1.3,19.2,538.0,2.0,6.4,26.8
+982,/players/james-white-1.html,,0.237,30.0,Florida,,0.484,0.408,615.0,20.3,0.479,1.5,2.0,0.2,1.7,0.111,,,,,,,,,,,,
+983,/players/james-white-1.html,,0.422,93.0,Cincinnati,,0.571,0.363,2721.0,17.3,0.513,6.5,85.0,5.8,12.3,0.181,22.7,1.3,,,,,,,,,8.9,19.0
+984,/players/jo-jo-white-1.html,,0.229,84.0,Kansas,Career,0.455,,,,,,,,,,,,,,,,,,,,,
+985,/players/hassan-whiteside-1.html,,0.586,34.0,Marshall,Career,0.548,0.016,889.0,13.6,0.528,2.5,23.0,2.0,4.5,0.2,2.2,18.8,,,23.8,,11.9,,411.0,1.2,18.3,25.8
+986,/players/sidney-wicks-1.html,,0.477,90.0,UCLA,Career,0.54,,,,,,,,,,,,,,,,,,,,,
+987,/players/andrew-wiggins-1.html,,0.538,35.0,Kansas,Career,0.563,0.299,1148.0,13.1,0.499,1.7,35.0,3.2,4.9,0.17,9.2,3.1,8.3,2.6,12.3,5.7,8.4,21.4,564.0,2.1,10.4,26.3
+988,/players/lenny-wilkens-1.html,,0.388,80.0,Providence,Career,0.472,,,,,,,,,,,,,,,,,,,,,
+989,/players/jamaal-wilkes-1.html,,0.223,90.0,UCLA,Career,0.54,,,,,,,,,,,,,,,,,,,,,
+990,/players/dominique-wilkins-1.html,,0.253,78.0,Georgia,Career,0.552,,2748.0,8.8,,,31.0,,,,,,,,,,,,,,,
+991,/players/mike-wilks-1.html,,0.486,117.0,Rice,Career,0.519,0.304,3480.0,12.4,0.461,5.4,60.0,4.8,10.2,0.117,,,,,,,,,,,,
+992,/players/brandon-williams-1.html,,0.357,112.0,Davidson,Career,0.546,0.314,2486.0,,0.505,2.8,,3.2,6.1,,,,,,,,,,,,,
+993,/players/buck-williams-1.html,,0.578,85.0,Maryland,Career,0.624,,2819.0,16.1,,,84.0,,,,,,,,,,,,,,,
+994,/players/chuck-williams-2.html,,0.439,68.0,Colorado,Career,0.489,,,,,,,,,,,,,,,,,,,,,
+995,/players/corey-williams-1.html,,0.332,128.0,Oklahoma State,Career,0.539,0.322,3493.0,17.8,0.503,,95.0,,,,,,,,,,,,,,,
+996,/players/deron-williams-1.html,,0.228,101.0,Illinois,Career,0.529,0.46,3200.0,18.8,0.508,6.3,98.0,4.4,10.7,0.133,33.5,0.5,,,,,,,,,6.3,21.0
+997,/players/derrick-williams-2.html,,0.85,69.0,Arizona,Career,0.66,0.136,2016.0,14.7,0.621,3.0,68.0,9.2,12.2,0.242,7.7,2.3,12.1,2.5,21.0,9.6,10.9,29.7,1121.0,1.6,16.1,27.9
+998,/players/gus-williams-1.html,,0.252,82.0,USC,Career,0.5,,,,,,,,,,,,,,,,,,,,,
+999,/players/hot-rod-williams-1.html,,0.459,115.0,Tulane,Career,0.588,,3972.0,14.6,,,102.0,,,,,,,,,,,,,,,
+1000,/players/jason-williams-1.html,,0.254,28.0,Marshall,,0.606,0.333,816.0,19.5,0.585,0.6,28.0,2.2,2.8,0.137,,,,,,,,,,,,
+1001,/players/jason-williams-1.html,,0.295,20.0,Florida,,0.589,0.528,635.0,23.1,0.547,0.7,17.0,2.1,2.8,0.177,,,,,,,,,,,,
+1002,/players/jay-williams-1.html,,0.322,108.0,Duke,Career,0.572,0.506,3572.0,18.9,0.552,7.2,108.0,10.3,17.6,0.197,,,,,,,,,,,,
+1003,/players/jayson-williams-1.html,,0.527,72.0,St. John's (NY),Career,0.578,0.005,2075.0,14.8,0.551,,13.0,,,,,,,,,,,,,,,
+1004,/players/marcus-williams-1.html,,0.418,70.0,UConn,Career,0.518,0.285,1954.0,27.0,0.455,4.7,51.0,2.2,6.9,0.141,43.3,0.4,,,,,,,,,5.7,20.1
+1005,/players/marvin-williams-1.html,,0.66,36.0,UNC,Career,0.627,0.178,800.0,14.7,0.545,2.1,0.0,2.6,4.8,0.239,5.4,1.4,,,,,,,,,16.0,21.1
+1006,/players/micheal-williams-1.html,,0.488,115.0,Baylor,Career,0.555,0.112,3161.0,17.1,,,50.0,,,,,,,,,,,,,,,
+1007,/players/mo-williams-1.html,,0.308,64.0,Alabama,Career,0.524,0.438,2159.0,19.1,0.47,4.2,64.0,3.0,7.2,0.133,24.4,0.4,,,,,,,,,6.2,24.8
+1008,/players/patrick-williams-2.html,,0.357,29.0,Florida State,Career,0.553,0.242,653.0,17.1,0.498,1.3,0.0,1.2,2.5,0.154,8.4,5.6,5.5,3.2,14.0,2.3,6.9,19.4,258.0,2.5,10.5,22.2
+1009,/players/robert-williams-3.html,,0.343,61.0,Texas A&M,Career,0.59,0.06,1570.0,15.5,0.593,3.6,40.0,3.5,7.2,0.182,11.4,10.5,9.6,5.0,24.0,4.6,11.9,26.5,647.0,1.7,18.2,21.4
+1010,/players/scott-williams-1.html,,0.459,138.0,UNC,Career,0.573,0.016,3055.0,16.8,0.553,,94.0,,,,,,,,,,,,,,,
+1011,/players/walt-williams-1.html,,0.403,105.0,Maryland,Career,0.572,0.343,3189.0,20.2,0.528,,86.0,,,,,,,,,,,,,,,
+1012,/players/corliss-williamson-1.html,,0.546,91.0,Arkansas,Career,0.609,0.005,2651.0,13.5,0.583,,80.0,,,,,,,,,,,,,,,
+1013,/players/john-williamson-1.html,,0.284,43.0,New Mexico State,Career,0.527,,640.0,,,,,,,,,,,,,,,,,,,
+1014,/players/zion-williamson-1.html,,0.467,33.0,Duke,Career,0.702,0.163,990.0,12.8,0.708,2.8,33.0,5.5,8.3,0.335,14.9,5.8,20.1,6.7,18.0,13.4,12.7,40.8,663.0,3.9,15.5,28.6
+1015,/players/kevin-willis-1.html,,0.239,79.0,Michigan State,Career,0.538,0.002,2121.0,14.9,,,62.0,,,,1.9,2.5,,,,,,,,,16.6,
+1016,/players/justise-winslow-1.html,,0.438,39.0,Duke,Career,0.572,0.309,1135.0,14.2,0.551,2.5,39.0,3.1,5.5,0.196,13.2,2.9,10.0,4.6,19.8,5.3,5.4,22.3,473.0,2.8,13.1,22.9
+1017,/players/brian-winters-1.html,,0.287,82.0,South Carolina,Career,0.54,,2542.0,,,,,,,,12.4,0.4,,,,,,,,,5.5,
+1018,/players/willie-wise-1.html,,0.492,55.0,Drake,Career,0.526,,,,,,,,,,,,,,,,,,,,,
+1019,/players/ron-artest-1.html,,0.327,69.0,St. John's (NY),Career,0.521,0.344,2135.0,18.5,0.506,8.0,49.0,3.1,11.1,0.208,,,,,,,,,,,,
+1020,/players/james-worthy-1.html,,0.426,84.0,UNC,Career,0.566,,2788.0,19.0,,,,,,,,,,,,,,,,,,
+1021,/players/sharone-wright-1.html,,0.513,92.0,Clemson,Career,0.558,0.006,2687.0,16.4,0.531,,84.0,,,,8.2,9.5,,,,,,,,,19.1,25.8
+1022,/players/dennis-wuycik-1.html,,0.588,87.0,UNC,Career,0.653,,,,,,,,,,,,,,,,,,,,,
+1023,/players/george-yardley-1.html,,0.339,71.0,Stanford,Career,0.43,,,,,,,,,,,,,,,,,,,,,
+1024,/players/nick-young-1.html,,0.326,96.0,USC,Career,0.563,0.226,2990.0,13.4,0.525,3.7,90.0,7.3,10.9,0.146,11.7,0.5,,,,,,,,,11.6,27.1
+1025,/players/thaddeus-young-1.html,,0.189,31.0,Georgia Tech,Career,0.552,0.251,917.0,14.2,0.531,1.5,31.0,1.8,3.3,0.145,,,,,,,,,,,,
+1026,/players/trae-young-1.html,,0.443,32.0,Oklahoma,Career,0.585,0.531,1133.0,18.2,0.518,1.1,32.0,4.6,5.7,0.201,48.6,0.7,11.1,1.3,10.0,9.7,1.3,28.3,935.0,2.5,5.8,37.1
+1027,/players/max-zaslofsky-1.html,,,18.0,St. John's (NY),Career,,,,,,,,,,,,,,,,,,,,,,
+1028,/players/cody-zeller-1.html,,0.705,72.0,Indiana,Career,0.643,0.003,2087.0,13.5,0.592,4.2,72.0,9.9,14.1,0.271,9.5,4.4,11.4,3.7,19.4,7.7,11.8,30.6,1097.0,2.5,15.7,25.4
+1029,/players/tyler-zeller-1.html,,0.52,117.0,UNC,Career,0.597,0.002,2696.0,11.6,0.543,5.6,75.0,9.9,15.5,0.231,4.9,4.6,10.2,3.7,18.1,6.4,12.3,27.3,1328.0,1.6,15.1,24.1
