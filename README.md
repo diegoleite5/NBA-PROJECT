@@ -16,7 +16,7 @@ El presente proyecto trata de desarrollar un modelo predictivo para poder clasif
 
 Para ello, se han scrappeado las estadísticas e informaciones de todos los jugadores a partir de 1986 a través de la página web https://www.basketball-reference.com/ y, tras un proceso de data cleaning y feature engineering, se han clusterizado los datos formando 10 grupos diferenciados de jugadores. Esta primera etapa del proyecto ha cubierto todas las fases hasta el clustering, no llegando a desarrollarse todavía el modelo predictivo.
 
-Para poder visualizar las diferentes etapas del proyecto, hemos creado la web https://MCSule.github.io/NBA-CAPSTONE-PROJECT/. Es en esta misma web donde se encuentra la última fase del proyecto realizado: el profiling del clustering generado (https://mcsule.github.io/NBA-CAPSTONE-PROJECT/#cl%C3%BAsters).
+Para poder visualizar las diferentes etapas del proyecto, hemos creado la web https://MCSule.github.io/NBA-CAPSTONE-PROJECT/. Es en esta misma web donde se encuentra la última fase del proyecto realizado: el profiling del clustering generado, en la sección de *DATA MODELLING (CLUSTERING)*, apartado *Descripción de los jugadores por clúster*.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
