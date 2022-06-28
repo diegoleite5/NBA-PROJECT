@@ -30,6 +30,8 @@ El repositorio refleja las cuatro etapas completadas en esta fase del proyecto: 
 
 · *4. Data Modelling* - Notebook con el código para el clustering
 
+· *PostGrado-UB_CapstoneProjectIntro* - Archivo para el seguimiento de las tareas del día a día del proyecto
+
 · *Clean_data* - Archivos limpios que se generan en la limpieza de datos (notebook 2)
 
     · *Golden records* - Datasets generados en el feature engineering (notebook 3) para usarlos en el clustering
@@ -48,8 +50,11 @@ El repositorio refleja las cuatro etapas completadas en esta fase del proyecto: 
 
     · *OLD* - Archivos antiguos relativos al scraping
 
-· *Visualization* - REPASAR
+· *Visualization* - Herramientas de visualizaciones: Power BI, definición de conceptos e imágenes
 
+    · *OLD* - Archivos antiguos relativos a la visualización
+
+· *docs* - Archivos relativos a la página web
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
