@@ -69,6 +69,6 @@ Oriol Canudo Sánchez, Diego Santos Leite, Miquel Casellas Sulé, Pau Garcia San
 
 ## Contacto
 
-Para plantear cualquier duda o cualquier colaboración, contactad con nbacapstoneproject@gmail.com (??)
+Para plantear cualquier duda o cualquier colaboración, contactad con nbacapstoneproject@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
