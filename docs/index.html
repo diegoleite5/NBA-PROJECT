@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>NBA Clustering - Capstone Project</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">NBA Capstone Project</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile mx-auto mb-2" src="assets/img/NBA-Logo.png" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#introducción">Introducción</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#datascrapping">Data Scraping</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#datacleaning">Data Cleaning</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#featureengineering">Feature Engineering</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#visualización">Visualización</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#clústers">Data Modelling (clustering)</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- Introducción-->
+            <section class="resume-section" id="introducción">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        NBA
+                        <span class="text-primary">CAPSTONE PROJECT</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        Oriol Canudo Sánchez,Diego Santos Leite, Miquel Casellas Sulé, Pau Garcia Sanz y Adrià Hernández Capell
+                        
+                    <div class="subheading mb-5">
+                        <a href="https://www.ub.edu/">Universitat de Barcelona</a>
+                    </div>
+                    <p class="lead mb-5">El draft de la NBA (1947) es un procedimiento de selección de jugadores para entrar en la NBA por el cual las franquicias que forman parte de la liga incorporan a sus equipos jugadores menores de
+                    23 años procedentes de las universidades norteamericanas o de las ligas de otros países.</p>
+                    <p class="lead mb-3">En el presente trabajo se realizará un modelo de clasificación de todos los jugadores que han participado en la NBA a partir de los datos históricos recopilados desde el año 1986. Para ello, se han scrappeado las
+                    estadísticas de juego de todos los jugadores desde dicho año a través de la página web <a href="https://www.basketball-reference.com/"> Basketball Reference</a> y tras un proceso de data cleaning y feature engineering se han agrupado en clústers los tipos de jugadores que han sido en su trayectória deportiva.
+                    Esta clasificación podría utilizarse para crear un modelo predictivo para predecir qué tipo de jugador puede llegar a ser cada jugador que se presenta al Draft 2022 a partir de sus estadísticas históricas del college. </p>
+                    <div class="social-icons">
+                        
+                        <a class="social-icon" href="https://github.com"><i class="fab fa-github"></i></a>
+                        
+                        
+                </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Data Scraping-->
+            <section class="resume-section" id="datascrapping">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Data Scraping</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Metodología</h3>
+                            <p>El Data Scraping es una técnica de programación que consiste en la extracción masiva (mediante ingeniería inversa) de datos mediante la descarga de la información subyacente en objetos que almacenan
+                            datos generalmente no estructurados (por ejemplo, en nuestro caso, datos de los archivos HTML fuente de las páginas de Basketball Reference).</p>
+                            <p> En el contexto del proyecto desarrollado "Clusterización de jugadores de la NBA para posterior aproximación/predicción de la tipología de jugadores que participarán en el Draft de 22"
+                        , el apartado de Data Gathering (obtenicón de datos) se ha llevado a cabo mediante el scrapping de datos. Principalmente se han extraído (mediante librerías específicas de Phyton) estadísticas medias
+                            por temporada para cada jugador de la NBA de la página web Basketball Reference.</p>
+                            <p>En referencia a la metodología utilizada, basándonos principalmente en las librerías y frameworks propuestos por Pandas y BeautifulSoup, descargamos la información de los HTML
+                            de las distintas webs y recorremos la estructura de árbol hasta capturar las tablas u objetos con los datos que sean de nuestro interés para el proyecto. A continuación, los almacenamos en DataFrames y acabamos obteniendo objetos tabulares
+                            que aglutinan toda la información que usaremos a posteriori en otros notebooks.
+                            </p>
+                            <p> En las siguientes imágenes se expone el data set original de la página web Basketball Reference juntamente con el output del data scrapping programado para extraer las estadísticas que son de nuestro interes.</p>
+                            <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/DSweb1.png" alt="..." width="925" height="650" title="Datos de la web origen" />
+                            <img class="img-fluid img-profile mx-auto mb-2" src="codigo2.png" alt="..." width="950" height="750" title="Output del Scrapping"/>
+                            <div class="subheading mb-3">Función All-Players</div>
+                            <p> La siguiente función de Data Scrapping localiza en la página web de origen el nombre de todos los jugadores que han jugado en la NBA según el registro de la misma página y retorna un output de un objeto tabular 
+                                con los nombres registrados ordenados alfabéticamente. En esta tabla encontraremos una lista de todos los jugadores que han pasado por la NBA e información básica sobre ellos: peso, altura, años en activo, posición, college y fecha de nacimiento</p>
+                                                 
+                           
+                       
+                        <p> Una vez se han scrapeado los datos con todos los jugadores registrados en la página web original, se procede a extraer la información individual para cada jugador siguiendo la metodología del data scraping. Se han considerado las siguientes funciones:
+                        </p>
+                        <div class="subheading mb-3">Get Player Stats</div>
+                        <p> Función que captura el objeto tabla determinado en los argumentos (según el tipo de estadística que se quiera capturar), presente en la página web del jugador del que se quiere scrapear las estadísticas NBA. 
+                        Se puede decidir si se quiere obtener estadísticas medias por temporada o medias totales de carrera profesional, si son estadístcas de Regular Season o de Playoffs y si se quiere extraer las estadísticas en general o por equipo en el que haya jugado el jugador.</p>
+                        <div class="subheading mb-3">Get Player Extra Information</div>
+                        <p> Función que permite recuperar información extra o específica de cada jugador que no se encuentra presente en objetos tabulares, sinó en objetos rectangulares específicos de HTML. Con esta función se quiere obtener informormación relacionada con títulos y reconocimientos idividuales
+                        (MVP, Hall-of-Fame, ROY, etc.) y colectivos (NBA Champion, Conference Champion, etc.).</p>
+                        <div class="subheading mb-3">Get Player Teams</div>
+                        <p> Función que permite recuperar en qué equipos y en qué intervalos de tiempo los jugadores formaron parte de ciertos equipos. Los objetos con esta información no son objetos tabulares, sinó objetos rectangulares específicos de HTML.
+                        </p>
+                        <div class="subheading mb-3">Get Player College Stats</div>
+                        <p> Función que captura el objeto tabla determinado en los argumentos (según el tipo de estadística que se quiera capturar), presente en la página web del jugador del que se quiere scrapear las estadísticas de COLLEGE. Se puede
+                        decidir si se quiere obtener estadísticas medias por temporada o medias totales de carrera en college, estadísticas medias por temporada o torneo de conferencia (en caso de tenerlas) y si se quiere extraer las estadísticas en general o por equipo en el que haya jugado el jugador.
+                        </p>
+                        <div class="subheading mb-3">Get Player College Extra Information</div>
+                        <p> Función que permite recuperar información extra o específica de los jugadores durante su época de college y que no se encuentra presente en objetos tabulares, sinó en objetos rectangulares específicos de HTML. Con esta función se quiere obtener información
+                        relacionada con títulos y reconocimientos individuales (Big East Tourney MVP, etc.) y colectivos (NCAA Champion, Conference Champion, etc.).</p>
+                        <div class="subheading mb-3">Get Player College Teams</div>
+                        <p> Función que permite recuperar en qué equipos y en qué intervalos de tiempo los jugadores formaron parte de cada equipo durante su época college.</p>
+                        <div class="subheading mb-3">Get All Drafted Players</div>
+                        <p> Función que permite obtener un DataFrame con un registro para cada jugador de la NBA draftedo con información básica sobre el Draft (número de pick, college, etc.).</p>
+                        <div class="subheading mb-3">Get All Teams</div>
+                        <p> Función que permite recuperar todos los equipos que han participado en la liga NBA a lo largo de la historia.</p>
+                            
+                    </div>
+                    
+            </section>
+            <hr class="m-0" />
+            <!-- Data Cleaning-->
+            <section class="resume-section" id="datacleaning">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Data Cleaning</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Metodología</h3>
+                            <p> El Data Cleaning o limpieza de datos engloba varios procesos destinados a mejorar la calidad de los datos anteriormente extarídos mediante Data Scraping. 
+                            Estos procesos se utilizan para corregir o eliminar registros inexactos en una base/conjunto de datos. En general, esto significa identificar y sustituir los datos o registros incompletos, inexactos, corruptos o irrelevantes.</p>
+                            <p> Tras scrapear los datos, se ha llevado a cabo un análisis para detectar las estadísticas incompletas de cada jugador registrado. Se observa una ausencia de datos en los jugadores más antiguos, dado que muchas estadísticas no existían o no se tenían
+                            en cuenta en ese intervalo de tiempo. Por ello, se decide filtrar todos los jugadores scrapeados según su inicio deportivo como profesional y tener en cuenta únicamente los datos de los jugadores activos a partir de 1986, coincidiendo con la implementación
+                            del tiro de triple puntuación.</p>
+                            <p>Para llevar a cabo el proceso de detección de datos incompletos, tras clasificar todos los jugadores y sus respectivas estadísticas en un raw data,
+                            se han localizado los datos incompletos mediante la instrucción ".isnull().sum()". Este comando nos permite detectar las estadísticas vacías de cada jugador registrado en el raw data y calcular qué porcentaje de datos quedan incompletos por cada variable scrapeada.
+                            Obtenemos un dataframe de cada variable donde los datos incompletos quedan visualizados en blanco:</p>
+                            <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/cleaning1.png" alt="..." width="925" height="650" title="Datos incompletos de Get All Players" />
+                            <p>Existen jugadores registrados que, por ejemplo, no tienen datos de Colllege debido a que saltaron directamente a la NBA o que no fueron drafteados, jugadores que no disponen de ciertos datos debido a que tuvieron poca participiación durante una (o varias temporadas) o jugadores que no tiraron ningún triple durante una (o varias) temporadas . Estos son algunos ejemplos
+                            de los motivos que pueden justificar la ausencia de datos.
+                            </p>
+                            <p> Tras filtrar los jugadores a partir del año 1986 y localizar los datos incompletos, se procede a la comprobación del tipo de variable a través de la instrucción ".dtypes()". De esta forma, podemos modificar el tipo de variable según sea conveniente para el análisis individual de cada estadística y
+                             comprobar que el tipo de datos que se usarán posteriormente para el feature engineering y la determinación de los clústers son correctos.</p>
+                             <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/tiposvarCleaning.png" alt="..." width="450" height="175" title="Tipos de variable de los datos extraídos de la función Get All Players" />
+                            <p> Una vez loccalizados los datos incompletos y el tipo de variable de estos, se procede a rellenar los vacíos de forma que pueda llevarse a cabo el posterior estudio de clustering (por ejemplo, se rellenan con "0s" los datos relacionados con lanzamiento de triples vinculados a jugadores que no han tirado desde la línea de 3 o se rellena con "undrafted" los jugadores que no fueron drafteados).
+                        </div>
+                      
+                    
+            </section>
+            <hr class="m-0" />
+            <!-- Feature Engineering-->
+            <section class="resume-section" id="featureengineering">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Feature Engineering</h2>
+                     <h3 class="mb-0">Metodología</h3>
+                    <p> El Feature Engineering o transformación de datos son los pasos de preprocesamiento que transforman los datos sin procesar en características que se pueden usar en algoritmos de 
+                    aprendizaje automático, como por ejemplo modelos predictivos (machine learning). El proceso de Feature Engineering seguido en el presente proyecto ha seguido los 3 pasos siguientes:</p>
+                   <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/featengineri.png" alt="..." width="250" height="75" title="Pasos del Feature Engineering" />
+                    <div class="subheading mb-3">Variables Pre-agragación</div>
+                    <p>En esta primera parte del proceso de transformación de datos se tiene el objetivo de simplificar el número de variables de cada jugador por temporada. Para ello, se ha llevado a cabo combinaciones de columnas (variables originales scrapeadas). 
+                    Un ejemplo de la generación de este tipo de variables podría ser la suma de los puntos de 2 más los puntos de 3 de la temporada X para cada jugador.</p>
+                    <div class="subheading mb-3">Agregación de registro</div>
+                    <p>Tras el data scraping y el data cleaning se obtienen las estadísticas por temporada, por lo que se obtienen varias filas por cada jugador scrapeado. Con el objetivo de llevar a cabo el data modelling (clustering)
+                    se requiere clasificar todas las variables de nuestro interés en una única fila por jugador. Para ello, en esta sección se decide generar variables creadas a partir de medias generales o particulares de las temporadas registradas o contajes de las mismas:</p>
+                    <p>Ejemplos de variables generadas a partir de medias generales o particulares de las temporadas registradas por jugador:
+                    <ol>
+                    <li>Cálculo de la media de la variable "X" a lo largo de la carrera (todas las temporadas)</li>
+                    <li>Cálculo de la media de la variable "X" de las primeras y últimas temporadas del jugador (evolución deportiva).</li>
+                    <li>Cálculo de la media de la variable "X" de las temporadas significativas del jugador.</li>
+                    <li>Cálculo de la media de la variable "X" de las temporadas que el jugador ha jugado Playoffs.</li>
+                    <li>Cálculo de la media de la variable "X" de las temporadas que el jugador ha jugado y ha ganado los Playoffs (NBA Champion).</li> 
+                    <li> ... </li>
+                    </ol></p>
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/preagregacion2.png" alt="..." width="1000" height="650" title="Agregación:medias generales/particulares" />
+                <p>(Se observa una única fila por jugador)</p>
+                    <p>Ejemplos de variables generadas a partir de contajes de las temporadas registradas por jugador:
+                    <ol>
+                        <li> Número de equipos en los que ha jugado el jugador</li>
+                        <li> Número de posiciones en las que ha jugado el jugador</li>
+                        <li> Número de temporadas que ha estado activo el jugador en la NBA</li>
+                        <li> Número de veces que el jugador ha sido campeón de la NBA</li>
+                        <li> ... </li>
+                    </ol>
+                    </p>
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/preagregacion1.png" alt="..." width="1000" height="650" title="Agregación:contajes" />
+                    <p>(Se observa una única fila por jugador)</p>
+                    <p>Por lo tanto, entenderemos la agragación del registro como la implementación de estas variables en los raw data de forma que se obtenga una única fila de datos por jugador.</p>
+                    <div class="subheading mb-3">Varibles Post-agregación</div>
+                    <p>Esta parte del proceso de transformación de datos es análoga a la generación de variables de pre-agregación. En este caso se tiene el objetivo de simplificar el número de variables de cada jugador por temporada tras la agregación del registro, es decir, una vez se han simplificado los datos en una fila por cada jugador. Para ello, se ha llevado a cabo combinaciones de columnas (variables tras la agregación). 
+                    Un ejemplo de la generación de este tipo de variables podría ser la suma de la media de los puntos de 2 más la media de los puntos de 3 a lo largo de la carrera deportiva de cada jugador.</p>
+                    <div class="subheading mb-3">Correlación de columnas</div>
+                    <p>El objetivo de la siguiente sección se resume en simplificar la cantidad de variables (columnas) por jugador registrado, antes y después de la agregación. Para ello se lleva a cabo un estudio de correlación para localizar las variables que se consideran dependientes y se elimina una de ellas.
+                    Se impone una condición de correlación del 95% para determinar que dos variables son dependientes: </p>                       
+                    <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/correlacion1.png" alt="..." width="950" height="600" title="Ejemplo de matriz de correlación de variables (columnas)" />
+                    <p>La simplificación de estadísticas a partir de la correlación de columnas y la creación de las variables de pre-agregación y post-agregación permitirá obtener un raw data más fácil de manejar para llevar a cabo el proceso de Data Modelling (clustering).</p>
+                    <p> </p>
+                    <p> Tras la transformación de datos llevada a cabo en el Feature Engineering y observar los tipos de variables que se obtienen se decide clasificar los jugadores registrados en 3 <i>GOLDEN RECORDS</i>:
+                    <ol> 
+                        <li><b><i>Golden Record Regular Season</i>:</b> Se encuentran los jugadores registrados que han participado en temporada regular pero no han jugados Playoffs.</li>
+                        <li><b><i>Golden Record Playoff</i>:</b> Se encuentran los jugadores que han participado en temporada regular y han accedido a los Playoffs en una o varias temporadas (teniendo participación almenos en una de ellas)</li>
+                        <li><b><i>Golden Record Ring</i>:</b> Se encuentran los jugadores que han participado en temporada regular, han accedido a los Playoffs y los han ganado en una o varias temporadas  (teniendo participación almenos en una de ellas), proclamándose así campeones de la NBA.</li>
+                    </ol>
+                    </p>
+                 <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/intersection.png" alt="..." width="650" height="300" title="Intersección de Golden Records" />
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Visualización-->
+            <section class="resume-section" id="visualización">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Visualización</h2>
+                    <p> En la presente sección se ha realizado una presentación dinámica con la herramiento PowerBI para visualizar graficamente algunos de los dtaos utilizados para el proyecto.
+                    La presentación se divide en las diferentes secciones llevadas a cabo en el proyecto:</p>
+                    <p> En el apartado Data Scraping se visualizan los gráficos de algunas de las estadísticas básicas scrapeadas en el proceso </p>
+                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                <iframe title="Data Visualization - NBA_v.1 (1)" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=968abbb3-1aec-47e5-88ee-f2902b00a93f&autoAuth=true&ctid=34b114a7-0e6f-4163-ba95-04afa6770eee&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Data Modelling (clustering)-->
+            <section class="resume-section" id="clústers">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Data Modelling (clustering)</h2>
+                    <p> El proceso de clustering consiste en la agrupación automática de datos. Es un tipo de aprendizaje automático no-supervisado (unsupervised learning). Para el presente proyecto, una vez determinados los golden records, se lleva a cabo un estudio exhaustivo para determinar qué metodo de clustering es el más adecuado para
+                    el conjunto de datos obtenido.</p>
+                    <p> En la siguiente tabla adaptada de la documentación de sklearn podemos observar los diferentes métodos de clustering estudiados para el proyecto, sus parámetros correspondientes, escalabilidad, su uso y las nociones de similitud que utilizan, así como el formato de datos de entrada necesario:</p>
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/difclustering.png" alt="..." width="800" height="350" title="Ejemplos de métodos de clustering" />
+                    <p> Tras el estudio llevado a cabo en el notebook <i>Data modelling.ipynb v3</i> se decide utilizar el método de clustering K-Means.Es el método de clustering más común, debido a que tiene muy buena escalabilidad. El algoritmo K-Means agrupa los datos tratando de separar las muestras en <i>n</i> grupos de igual varianza. En otras palabras, se divide un conjunto de <i>N</i> muestras <i>X</i> en <i>K</i> grupos distintos <i>C</i>, cada uno descrito por la media de las muestras en el grupo. Las medias se denominan comúnmente <b>centroides</b>.</p>
+                   
+                    <p>Este algoritmo tiene como objetivo elegir los centroides que minimicen un criterio conocido como inercia o suma de cuadrados dentro del clúster, concepto que puede describirse como una medida de la coherencia interna de los grupos. Los pasos que sigue el algoritmo son los siguientes:</p>
+                    <div class="subheading mb-3">Inicialización</div>
+                    <p> Se elige la localización de los centroides de los K grupos aleatoriamente. En la siguiente imagen observamos los datos como círculos y los centroides como cuadrados.</p>
+                    <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/kmeans1.png" alt="..." width="350" height="200" title="Iniciación K-Means" />
+                    <div class="subheading mb-3">Asignación</div>
+                    <p> A continuación, se asigna cada dato al centroide más cercano (distancia). En el ejemplo de la imagen, los cículos cambian de color para indicar a qué centroide han sido asignados.</p>
+                    <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/kmeans2.png" alt="..." width="350" height="200" title="Asignación K-Means" />
+                    <div class="subheading mb-3">Actualización</div>
+                    <p> Seguidamente se actualiza la posición del centroide a la media aritmética de las posiciones de los datos asignados a cada grupo. En la imagen se observa como cambia la posición de los centroides (cuadrados).</p>
+                    <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/kmeans3.png" alt="..." width="350" height="200" title="Actualización K-Means" />
+                    <p> Los procesos de asignación y actualización se repiten iterativamente hasta que los centroides no cambian de posición. En ese momento, se da el proceso como finalizado. </p>
+                    <p> Este proceso a menudo se realiza varias veces, con diferentes inicializaciones aleatórias de los centroides para comprobar la concordanza del resultado final. Un método para ayudar a solucionar este problema es el esquema de inicialización K-Means++, que se implementa en scikit-learn (usando el parámetro <i>init="kmeans++"</i>). Esta instrucción inicializa los centroides de forma que se encuentren (generalmente) distantes entre sí, lo que lleva a resultados probablemente mejores que la inicialización aleatória. Esto es debido a que el modelo utiliza iteraciones según la distancia de los datos con cada centroide.</p>
+                    <h3 class="mb-0">Metodología</h3>
+                    <p> Previamente al proceso de modelling, se lleva a cabo la normalización de los datos que van a ser analizados. En este contexto, "normalizar" se refiere a que los valores de cada atributo estén en escalas similares. El proceso de clustering del método K-Means se ejecuta a partir de las distancias entre los datos, por lo que si existen atributos con escalas muy diferentes
+                    , los atributos de escala mayor dominarán las distancias.</p>
+                    <p>El método escogido para hacer el clustering no es capaz de establecer la relación entre atributos de entrada y los resultados, dado que no hay resultados válidos o resultados inválidos. La responsabilidad 
+                    de identificar qué atributos (variables) son relevantes recae sobre nosotros.</p>
+                   
+                    
+                    <p> El método K-Means también requiere especificar el número de clústers que se quieren obtener. No es obvio, a priori, saber qué número de grupos es mejor. La idea principal del proyecto es obtener entre 8-12 clústers en total, dado que es un número adecuado para poder clasificar las características de los jugadores que compondrán cada conjunto. Un número mayor de clústers supondría una dificultad para poder diferenciar los tipos de jugadores obtenidos en cada uno. Para hacer esta elección del número <i>K</i>, existen varios procesos objetivos. En este caso, el método que se ha utilizado para
+                    esta elección ha sido el comúnmente conocido como el <a href="https://en.wikipedia.org/wiki/Elbow_method_(clustering)">Método del codo</a> (la intuición de este método la podemos ver explicada haciendo click en el enlace relacionado en el nombre).</p>
+                    <p>Finalmente, se obtiene como resultado el siguiente número de clústers adecuado para cada Golden Record:
+                    <ol>
+                        <li><b><i>Golden Record Regular Season:</i></b> K=3 (tres clústers)</li>
+                        <li><b><i>Golden Record Playoff:</i></b> K=4 (cuatro clústers)</li>
+                        <li><b><i>Golden Record Ring:</i></b> K=3 (tres clústers)</li>
+                    </ol>
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/clusters1.png" alt="..." width="350" height="300" title="Clusters Golden Record Regular Season" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/clusters2.png" alt="..." width="350" height="200" title="Clusters Golden Record Playoff" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/clusters3.png" alt="..." width="350" height="200" title="Golden Record Ring" />
+                    </p>
+                <p> Tras determinar el número de clústers por cada Golden Record, se procede al análisis de datos que tiene cada grupo para ser capaces de determinar una descripción particular del conjunto. De esta forma, podemos describir el perfil de jugador que se encuentra en cada clúster obtenido:</p>
+                <h3 class="mb-0">Descripción de los jugadores por clúster</h3>
+                <div class="subheading mb-3"><b>Clúster 0: Jugadores de rol exteriores con poco impacto</b></div>
+                <p> <b>Notas:</b> Sin participación en <i>Playoffs</i> o <i>Ring</i>.</p>
+                <p> <b>Descripción:</b> Jugadores exteriores de rol con poco impacto y participación en la liga NBA. Muchos de ellos no han sido jugadores elegidos en el Draft. Representan el clúster más grande (20%) pero también el clúster con menos jugadores en activo. Todo y tener poco impacto en el juego, el impacto ofensivo es un 60% mayor que el impacto defensivo.
+                Algunos jugadores de este clúster son jugadores que han ido a buscar otra oportunidades en ligas europeas.</p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c0.1.png" alt="..." width="125" height="300" title="Leandro Bolmaro" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c0.2.png" alt="..." width="125" height="200" title="Omar Cook" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c0.3.png" alt="..." width="125" height="200" title="Tyler Dorsey" />
+                <p> <b> Jugadores del clúster:</b> <i> Leandro Bolmaro, Omar Cook, Tyler Dorsey, etc.</i></p>
+                
+                <div class="subheading mb-3"><b>Clúster 1: Jugadores interiores con muy poco impacto</b></div>
+                <p> <b>Notas:</b> Sin participación en <i>Playoffs</i> o <i>Ring</i>.</p>
+                <p> <b>Descripción:</b> Jugadores interiores con muy poco impacto y participación en la liga NBA. Muchos de ellos no han sido jugadores elegidos en el Draft. Representan un clúster significativamente grande pero también el clúster con menos jugadores en activo en porcentaje de grupo (7%). Son jugadores con un balance ofensivo/defensivo y que aumentan su influencia en el juego a lo largo de su carrera.
+                Algunos jugadores de este clúster son jugadores que han ido a buscar otra oportunidades en ligas europeas.</p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c1.1.png" alt="..." width="125" height="300" title="Joe Arlauckas" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c1.2.png" alt="..." width="125" height="200" title="Joe Alexander" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c1.3.png" alt="..." width="125" height="200" title="Anthony Bennett" />
+                <p> <b> Jugadores del clúster:</b> <i> Joe Arlaukas, Joe Alexander, Anthony Bennett, etc.</i></p>
+                
+                
+                <div class="subheading mb-3"><b>Clúster 2: Jóvenes promesas de la NBA, jugando en equipos no aspirantes a <i>Ring</i></b></div>
+                <p> <b>Notas:</b> Sin participación en <i>Playoffs</i> o <i>Ring</i>. Presencia de algún jugador <i>all-star</i></p>
+                <p> <b>Descripción:</b> Jugadores jóvenes interiores y exteriores, promesas de la NBA (algunos sin oportunidades). Muchos de ellos son jugadores elegidos en el Draft. Representan un clúster significativamente pequeño pero con un alto porcentaje de jugadores en activo.
+                Muchos de ellos disminuyen su impacto a lo largo de su carrera, teniendo cada vez menos participación en la liga NBA.</p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c2.1.png" alt="..." width="125" height="300" title="LaMelo Ball" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c2.2.png" alt="..." width="125" height="200" title="Lonzo Ball" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c2.3.png" alt="..." width="125" height="200" title="Zion Williamson" />
+                <p> <b> Jugadores del clúster:</b> <i> Hermanos Ball, Zion Williamson, etc.</i></p>
+                
+                <div class="subheading mb-3"><b>Clúster 3: Jugadores exteriores de rol defensivo</b></div>
+                <p> <b>Notas:</b> Sin impacto significativo en <i>Playoffs</i> o <i>Ring</i>.</p>
+                <p> <b>Descripción:</b> Jugadores exteriores, con un rol defensivo. Se trata de jugadores de rol defensivo con un impacto medio en su equipo. Son jugadores que no tienen mucho tiempo el balón. La estadística con mayor impacto son los rebotes.</p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c3.1.png" alt="..." width="125" height="300" title="Luis Scola" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c3.3.png" alt="..." width="125" height="200" title="Manute Ball" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c3.2.png" alt="..." width="125" height="200" title="Joakim Noah" />
+                <p> <b> Jugadores del clúster:</b> <i> Luis Scola, Manute Bol, Joakim Noah, etc.</i></p>
+                
+                <div class="subheading mb-3"><b>Clúster 4: Jugadores de rol en <i>Playoffs</i> con un impacto bajo</b></div>
+                <p> <b>Notas:</b> Impacto bajo en <i>Playoffs</i> o <i>Ring</i>.</p>
+                <p> <b>Descripción:</b> Jugadores mayoritáriamente exteriores (aunque algunos también interiores), con un rol de rotación en equipos de <i>Playoffs</i>. Representan el clúster más grande. Se trata de jugadores equilibrados que juegan minutos intrascendentes en segundas rotaciones. Generalmente, no generan minutos de calidad y tienen bajos porcentajes ofensivos.</p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c4.1.png" alt="..." width="125" height="300" title="Juancho Hernangómez" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c4.2.png" alt="..." width="125" height="200" title="Seth Curry" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c4.3.png" alt="..." width="125" height="200" title="Brandon Paul" />
+                <p> <b> Jugadores del clúster:</b> <i> Juancho Hernangómez, Seth Curry, Brandon Paul, etc.</i></p>
+                
+                <div class="subheading mb-3"><b>Clúster 5: Jugadores de rol en <i>Playoffs</i> con un impacto medio </b></div>
+                <p> <b>Notas:</b> Impacto medio en <i>Playoffs</i> o <i>Ring</i>. Presencia de algun jugador <i> All-Star.</i></p>
+                <p> <b>Descripción:</b> Jugadores mayoritáriamente exteriores (aunque algunos también interiores), con un rol de rotación, e incluso de sexto hombre, en equipos de <i>Playoffs</i>. Contiene el mayor número de jugadores en activo. Se trata de jugadores ofensivos que aportan minutos de calidad y tienen buenos porcentajes de ataque.</p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c5.1.png" alt="..." width="125" height="300" title="Álex Abrines" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c5.2.png" alt="..." width="125" height="200" title="José Calderón" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c5.3.png" alt="..." width="125" height="200" title="Rudy Gay" />
+                <p> <b> Jugadores del clúster:</b> <i> Álex Abrines, José Calderón, Rudy Gay, etc.</i></p>
+                
+                <div class="subheading mb-3"><b>Clúster 6: Jugadores franquicia sin <i>Ring</i> o con potencial para <i>Ring</i></b> </div>
+                <p> <b>Notas:</b> Líderes en <i>Playoffs</i>. Presencia de jugadores <i> All-Star.</i></p>
+                <p> <b>Descripción:</b> Jugadores franquicia, el 25% únicamente juega en un equipo durante toda su carrera, que no han ganado <i>ring</i>. Tienen puestos altos en el Draft. Buenas estadísticas ofensivas y defensivas, con mucho tiempo de balón en ada jugada. Son jugadores que participan en casi todas las jugadas de su equipo mientras estan en pista.</p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c6.1.png" alt="..." width="125" height="300" title="Luka Doncic" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c6.2.png" alt="..." width="125" height="200" title="Vlade Divac" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c6.3.png" alt="..." width="125" height="200" title="Arvydas Sabonis" />
+                <p> <b> Jugadores del clúster:</b> <i> Luka Doncic, Vlade Divac, Arvydas Sabonis, etc.</i></p>
+                
+                <div class="subheading mb-3"><b>Clúster 7: Estrellas exteriores, líderes en <i>Playoffs</i> y <i>Ring</i></b></div>
+                <p> <b>Notas:</b> Líderes en <i>Playoffs</i> y <i>Ring</i>. Presencia de jugadores <i> All-Star.</i></p>
+                <p> <b>Descripción:</b> </p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c7.1.png" alt="..." width="125" height="300" title="Kobe Bryant" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c7.2.png" alt="..." width="125" height="200" title="LeBron James" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c7.3.png" alt="..." width="125" height="200" title="Michael Jordan" />
+                <p> <b> Jugadores del clúster:</b> <i> Kobe Bryant, LeBron James, Michael Jordan, etc.</i></p>
+                
+                
+                <div class="subheading mb-3"><b>Clúster 8: Jugadores extranjeros con impacto en <i>Playoffs</i> y <i>Ring</i></b></div>
+                <p> <b>Notas:</b> Con impacto en <i>Playoffs</i> y <i>Ring</i>. Presencia media de jugadores <i> All-Star.</i></p>
+                <p> <b>Descripción:</b> </p>
+               
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c8.1.png" alt="..." width="125" height="300" title="Jason Kapono" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c8.2.png" alt="..." width="125" height="200" title="Alexis Ajinça" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c8.3.png" alt="..." width="125" height="200" title="Nando de Colo" />
+                 <p> <b> Jugadores del clúster:</b> <i>Jason Kapono, Alexis Ajinça, Nando de Colo, etc. </i></p>
+                
+                 <div class="subheading mb-3"><b>Clúster 9: Estrellas interiores, líderes en <i>Playoffs</i> y <i>Ring</i></b></div>
+                <p> <b>Notas:</b> Líderes en <i>Playoffs</i> y <i>Ring</i>. Presencia de jugadores <i> All-Star.</i></p>
+                <p> <b>Descripción:</b> </p>
+                
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c9.1.png" alt="..." width="125" height="300" title="Pau Gasol" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c9.2.png" alt="..." width="125" height="200" title="Marc Gasol" />
+                     <img class="img-fluid img-profile mx-auto mb-2" src="assets/img/c9.3.png" alt="..." width="125" height="200" title="David West" />
+                <p> <b> Jugadores del clúster:</b> <i> Hermanos Gasol, David West, etc.</i></p>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
