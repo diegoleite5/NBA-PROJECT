@@ -55,11 +55,9 @@ El repositorio refleja las cuatro etapas completadas en esta fase del proyecto: 
 
 ## Información útil
 
-Las instalaciones necesarias para ejecutar el código de los notebooks son:
-- pip install progressbar
-- ¿cuáles más?
+Es necesario ejecutar las primeras celdas de cada notebook para tener las instalaciones e importaciones para poder ejecutar todo el código.
 
-El notebook referente a la fase de scrapping, en su ejecución incial, gasta mucho tiempo en generar muchos archivos. Para mejorarlo, hemos elaborado los archivos SCRAPPING_CHKPT.xlsx y SCRAPPING_CHKPT_college.xlsx, que hacen que la ejecución del notebook sea más rápida.
+El notebook referente a la fase de scrapping, en su ejecución incial, gasta mucho tiempo en generar muchos archivos. Para mejorarlo, hemos elaborado los archivos SCRAPPING_CHKPT.xlsx y SCRAPPING_CHKPT_college.xlsx, que hacen que la ejecución del notebook sea más rápida. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
