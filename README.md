@@ -20,9 +20,36 @@ Para ello, se han scrappeado las estadísticas e informaciones de todos los juga
 
 ## Sobre el repositorio
 
-El repositorio refleja las cuatro etapas completadas en esta fase del proyecto: scrapping, data cleaning, feature engineering y clustering.
+El repositorio refleja las cuatro etapas completadas en esta fase del proyecto: scrapping, data cleaning, feature engineering y clustering. Y queda de la siguiente manera:
 
-Esperar a ver cómo queda finalmente la estructura del repo.
+· *1. Data Scraping* - Notebook con el código para el scraping de los datos
+
+· *2. Data Cleaning* - Notebook con el código para la limpieza de los datos
+
+· *3. Feature Engineering* - Notebook con el código para el tratamiento de las variables para el clustering
+
+· *4. Data Modelling* - Notebook con el código para el clustering
+
+· *Clean_data* - Archivos limpios que se generan en la limpieza de datos (notebook 2)
+
+    · *Golden records* - Datasets generados en el feature engineering (notebook 3) para usarlos en el clustering
+
+    · *OLD* - Archivos antiguos relativos al cleaning
+
+ · *Models* - Modelos de clustering de generados en el clustering (notebook 4) & apuntes para la descripción de los clusters
+  
+    · *Clustering Board* - Datasets generados en el clustering (notebook 4)
+    
+    · *Statistics* - Datasets generados (notebook 4) para detectar las distinciones entre clusters
+
+· *OLD* - Archivos antiguos de carácter general
+
+· *Scraped data* - Archivos generados en el scraping (notebook 1)
+
+    · *OLD* - Archivos antiguos relativos al scraping
+
+· *Visualization* - REPASAR
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
